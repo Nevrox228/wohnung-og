@@ -65,7 +65,7 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 <div class="wrap"><div class="mapwrap"><div id="map"></div><div id="route"></div></div><aside>
 <div class="nav"><a href="./" class="on">🏠 Квартиры</a><a href="jobs.html">👩‍🏫 Работа</a></div>
 <h1>Квартира: Оффенбург и рядом</h1>
-<div class="sub">Обновлено 03.11 21:32 · цена: <b>холодная → тёплая</b> · 🚆 = дорога до Hochschule к 8:00 в будний день · <span id="syncinfo"></span></div>
+<div class="sub">Обновлено 03.11 21:43 · цена: <b>холодная → тёплая</b> · 🚆 = дорога до Hochschule к 8:00 в будний день · <span id="syncinfo"></span></div>
 <div id="news"></div>
 <div class="df" id="df"></div>
 <div class="f" id="f"></div>
@@ -100,7 +100,17 @@ let showSt=store.get('showSt',{'отказ':0,'не интересно':0}), age
 const today=new Date(nowLocal().slice(0,10));
 const posted=d=>(d.posted||(d.first_seen||'').slice(0,10))||null;
 const days=d=>{const p=posted(d);return p?Math.round((today-new Date(p))/864e5):null};
+// точное время: Kleinanzeigen даёт только дату, поэтому если скрипт нашёл объявление в день публикации —
+// считаем от момента находки (проверка каждые 30 мин, ошибка ≤ полчаса)
+// у immowelt даты нет: точное время только для найденных после первого запуска по этому сайту
+const FIRST={};ADS.forEach(d=>{const f=d.first_seen||'';if(f&&!(FIRST[d.source]<=f))FIRST[d.source]=f});
+const mins=d=>{const f=d.first_seen;if(!f||(d.posted?d.posted<f.slice(0,10):f===FIRST[d.source]))return null;
+  return Math.max(0,Math.round((new Date(nowLocal())-new Date(f))/6e4))};
 const ago=d=>{const n=days(d);if(n==null)return '';const p=posted(d).split('-');const dt=`${p[2]}.${p[1]}`;
+  const m=mins(d),hm=d.first_seen?d.first_seen.slice(11,16):'';
+  if(m!=null&&m<48*60){const h=Math.floor(m/60);
+    const t=m<60?`${m} мин назад`:h<6?`${h} ч ${m%60} мин назад`:`${h} ч назад`;
+    return `${m<180?'🔥':h<24?'🆕':''} выставлено ${t} (${n<=0?'':n===1?'вчера ':dt+' '}в ${hm})`;}
   return n<=0?`🆕 выставлено сегодня`:n===1?`выставлено вчера (${dt})`:n===2?`позавчера (${dt})`:`выставлено ${n} дн. назад (${dt})`};
 const AGES={'все':99999,'сегодня':0,'вчера':1,'позавчера':2,'3 дня':3,'неделя':7};
 const ageOk=d=>{const n=days(d);if(age==='все')return true;if(n==null)return false;
