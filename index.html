@@ -65,7 +65,7 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 <div class="wrap"><div class="mapwrap"><div id="map"></div><div id="route"></div></div><aside>
 <div class="nav"><a href="./" class="on">🏠 Квартиры</a><a href="jobs.html">👩‍🏫 Работа</a></div>
 <h1>Квартира: Оффенбург и рядом</h1>
-<div class="sub">Обновлено 03.11 17:41 · цена: <b>холодная → тёплая</b> · 🚆 = дорога до Hochschule к 8:00 в будний день · <span id="syncinfo"></span></div>
+<div class="sub">Обновлено 03.11 17:44 · цена: <b>холодная → тёплая</b> · 🚆 = дорога до Hochschule к 8:00 в будний день · <span id="syncinfo"></span></div>
 <div id="news"></div>
 <div class="df" id="df"></div>
 <div class="f" id="f"></div>
@@ -209,7 +209,7 @@ function draw(){
         <div class="age${days(d)===0?' fresh':''}">${ago(d)}</div>
         <div class="tr">${trShort(d)}</div>
         <div class="t">${d.title}</div>
-        <div class="n">${d.verdict}${d.eur_m2?` · ${d.eur_m2} €/м²`:''}${d.notes.length?' · '+d.notes.join('; '):''}${d.ab?' · с '+d.ab:''}${d.source==='наш список'?' · ⭐ наш список':''}${d.source==='immowelt'?' · 🔵 с immowelt':''}${approx?' · 📍 адрес примерный':''}</div>
+        <div class="n">${d.verdict}${d.eur_m2?` · ${d.eur_m2} €/м²`:''}${d.notes.length?' · '+d.notes.join('; '):''}${d.ab?' · с '+d.ab:''}${d.source==='наш список'?' · ⭐ наш список':''}${d.source==='immowelt'?' · 🔵 с immowelt':''}${d.source==='ImmoScout'?' · 🟠 с ImmoScout':''}${approx?' · 📍 адрес примерный':''}</div>
         <div class="acts">${gone?'':Object.keys(ST).map(k=>`<button data-m="${k}" class="${mk===k?'on':''}">${ST[k].i} ${mk===k&&HIDE.includes(k)?'вернуть':ST[k].b}</button>`).join('')}${gone?'':'<button data-b="1">✍️ письмо</button>'}<a href="${d.url}" target="_blank" style="font-size:12px">объявление →</a></div></div>`;
       el.onclick=e=>{
         const b=e.target.closest('button');if(b){b.dataset.b?openBrief(d):setMark(d.id,b.dataset.m);return}
