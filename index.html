@@ -65,7 +65,7 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 <div class="wrap"><div class="mapwrap"><div id="map"></div><div id="route"></div></div><aside>
 <div class="nav"><a href="./" class="on">🏠 Квартиры</a><a href="jobs.html">👩‍🏫 Оля</a><a href="werk.html">💻 Никита</a></div>
 <h1>Квартира: Оффенбург и рядом</h1>
-<div class="sub">Обновлено 04.11 13:57 · цена: <b>холодная → тёплая</b> · 🚆 = дорога до Hochschule к 8:00 в будний день · <span id="syncinfo"></span></div>
+<div class="sub">Обновлено 04.11 19:10 · цена: <b>холодная → тёплая</b> · 🚆 = дорога до Hochschule к 8:00 в будний день · <span id="syncinfo"></span></div>
 <div id="news"></div>
 <div class="df" id="df"></div>
 <div class="f" id="f"></div>
@@ -247,20 +247,22 @@ function briefText(){
   const nk=d.nk?'':`
 Außerdem interessiert uns, wie viel die Neben- und Heizkosten betragen würden, da Sie in der Anzeige nur die Kaltmiete angegeben haben.
 `;
+  // срок въезда не пишем (у арендодателя свои сроки); фото просим, только если в объявлении их нет
+  const bilder=d.img?'':`Würde es Ihnen etwas ausmachen, uns Bilder zuzuschicken, damit wir uns einen besseren Einblick in die Wohnung verschaffen können? :)
+`;
   return `Guten Tag,
 
 ich habe Ihre Anzeige für die ${was} gesehen und wir haben Interesse an der Wohnung.
 
 Gerne stelle ich uns kurz vor: Mein Freund und ich führen seit einiger Zeit eine Fernbeziehung und träumen davon, endlich zusammenzuleben. Ich bin staatlich anerkannte Kindheitspädagogin und arbeite seit Oktober 2026 in Vollzeit in Heidelberg, zusätzlich führe ich seit Mai 2025 nebenbei ein Kleingewerbe. Mein Freund hat im Oktober sein Studium an der Hochschule Offenburg begonnen und sucht aktiv nach einem Werkstudentenjob. Wir sind beide Nichtraucher, haben keine Haustiere, sind ein ruhiges Paar und schätzen Sauberkeit.
 
-Uns würde ein Einzug ab Januar 2027 auch gut passen. Würde es Ihnen etwas ausmachen, uns Bilder zuzuschicken, damit wir uns einen besseren Einblick in die Wohnung verschaffen können? :)
-${nk}
+${bilder}${nk}
 SCHUFA-Auskunft und Arbeitsvertrag reiche ich gern ein. Da ich erst seit Oktober angestellt bin, kann ich Gehaltsnachweise nachreichen, sobald sie vorliegen. Zusätzlich kann ich Nachweise über meine Einnahmen aus dem Kleingewerbe vorlegen sowie die Immatrikulationsbescheinigung meines Freundes.
 
 Gerne würden wir uns die Wohnung ansehen. Unter der Woche sind wir ab ca. 18:00 Uhr verfügbar, am Wochenende nach Absprache.
 
 Viele Grüße
-Olga Malachov`}
+Olga Malachov`.replace(/\n{3,}/g,'\n\n')}
 function $b(id){return document.getElementById(id)}
 function openBrief(d){
   briefAd=d;$b('bOk').textContent='';$b('bMark').style.display=marks[d.id]==='написали'?'none':'';
