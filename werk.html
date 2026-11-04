@@ -34,9 +34,8 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 <div class="wrap"><div id="map"></div><aside>
 <div class="nav"><a href="./">🏠 Квартиры</a><a href="jobs.html">👩‍🏫 Оля</a><a href="werk.html" class="on">💻 Никита</a></div>
 <h1>Никита: Werkstudent и практика — KI, сайты, SEO, e-commerce</h1>
-<div class="sub">Обновлено 04.11 18:14 · Jobbörse, LinkedIn, StepStone, Jobware, arbeitnow · рядом = до 75 км от Oberkirch, остальное — remote · <span id="syncinfo"></span></div>
+<div class="sub">Обновлено 04.11 19:07 · Jobbörse, LinkedIn, StepStone, Jobware, arbeitnow · рядом = до 75 км от Oberkirch, остальное — remote · <span id="syncinfo"></span></div>
 <div id="news"></div>
-<div class="df" id="df"></div>
 <div class="f" id="f"></div>
 <div id="list"></div>
 </aside></div>
@@ -54,15 +53,12 @@ const isNewGone=d=>prev&&d.gone_at&&d.gone_at>prev;
 const ST={'написали':{i:'✉️',b:'откликнулся'},'просмотр':{i:'📅',b:'собеседование'},'отказ':{i:'❌',b:'отказ'},'не интересно':{i:'✕',b:'не интересно'}};
 const HIDE=['отказ','не интересно'];
 const KCOL={'Web / Shop / SEO':'#42a5f5','KI / Automatisierung':'#ab47bc','Online-Marketing':'#ffb74d','Другое':'#bdbdbd'};
-let marks={}, on=store.get('kinds',{'Web / Shop / SEO':1,'KI / Automatisierung':1,'Online-Marketing':1,'Другое':0}),
-    opt=store.get('opt',{near:1,remote:1,c1:0,gone:0,'отказ':0,'не интересно':0}), typs=store.get('typs',{Werkstudent:1,Praktikum:1,Abschlussarbeit:1,Junior:0}), kiOnly=store.get('kiOnly',0), minS=store.get('minS',2), age=store.get('age','все'), selId=null;
+let marks={}, selId=null;
 const today=new Date(nowLocal().slice(0,10));
 const posted=d=>d.posted||(d.first_seen||'').slice(0,10);
 const days=d=>Math.round((today-new Date(posted(d)))/864e5);
 const ago=d=>{const n=days(d),p=posted(d).split('-'),dt=`${p[2]}.${p[1]}.${p[0].slice(2)}`;
   return n<=0?'🆕 выставлено сегодня':n===1?`выставлено вчера (${dt})`:`выставлено ${n} дн. назад (${dt})`};
-const AGES={'все':1e5,'сегодня':0,'вчера':1,'3 дня':3,'неделя':7,'месяц':31};
-const ageOk=d=>age==='все'||(age==='вчера'?days(d)===1:days(d)<=AGES[age]);
 const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 const useSync=SYNC&&!SYNC.startsWith('{{');
@@ -89,7 +85,80 @@ function select(id,{scroll=true}={}){
   if(d.lat)map.panTo([d._lat,d._lon]);
 }
 function setMark(id,m){marks[id]=marks[id]===m?undefined:m;if(!marks[id])delete marks[id];push(id);draw()}
-function visible(d){return on[d.kind]&&typs[d.typ||'Werkstudent']&&(!kiOnly||d.ki)&&(R(d)?opt.remote:opt.near)&&(d.de!=='C1+'||opt.c1)&&d.stars>=minS&&(!isGone(d)||opt.gone||isNewGone(d))&&(!HIDE.includes(marks[d.id])||opt[marks[d.id]])&&ageOk(d)}
+/* Фильтры — одинаковые на всех страницах работы (Оля, Никита, родители). Логика как в интернет-магазине:
+   • каждая строка — один вопрос (где? какой тип? немецкий? …);
+   • внутри строки выбранные пункты складываются («рядом» + «remote» = оба), между строками — пересекаются;
+   • в строке ничего не выбрано = строка не мешает, показываем всё («все» подсвечено);
+   • нажал пункт — включил, ещё раз — выключил; «все» — сбросить строку;
+   • число на пункте = сколько вакансий будет на экране, если включить его (уже с учётом остальных строк);
+     0 — пункт серый: с этим сочетанием ничего нет.
+   Вставляется в шаблон вместо FACETS при сборке страницы (render в jobs.py / werk.py / eltern.py). */
+function Facets({el, groups, items, store, onChange}) {
+  if (!document.getElementById('fx-css')) document.head.insertAdjacentHTML('beforeend', `<style id="fx-css">
+.fx-top{font-size:13px;margin:4px 0 8px;color:var(--ink)}.fx-top a{color:var(--sel);cursor:pointer;text-decoration:underline;margin-left:4px;font-size:12px}
+.fx-g{display:flex;flex-wrap:wrap;gap:5px;align-items:center;margin-bottom:6px;font-size:12px}
+.fx-t{min-width:92px;color:var(--mute);font-size:12px}
+.fx{font:inherit;font-size:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:16px;padding:3px 9px;cursor:pointer;display:inline-flex;gap:5px;align-items:center}
+.fx i{font-style:normal;color:var(--mute)}.fx.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.fx.on i{color:var(--bg);opacity:.75}
+.fx.zero:not(.on){opacity:.4}.fx-all{font-size:12px;cursor:pointer;padding:3px 8px;border-radius:16px;border:1px dashed var(--line);color:var(--mute)}
+.fx-all.on{border-style:solid;border-color:var(--ink);color:var(--ink);font-weight:600}</style>`);
+  const e = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+  const saved = store.get('fx', null) || {};
+  const S = {};
+  groups.forEach(g => S[g.id] = new Set((saved[g.id] ?? g.def ?? []).filter(v => g.options.some(o => o.v === v))));
+  const inG = (d, g) => !S[g.id].size || g.options.some(o => S[g.id].has(o.v) && o.test(d));
+  const pass = (d, skip) => groups.every(g => g.id === skip || inG(d, g));
+  const save = () => store.set('fx', Object.fromEntries(groups.map(g => [g.id, [...S[g.id]]])));
+  const isDefault = () => groups.every(g => {const a = [...S[g.id]].sort().join('|'), b = [...(g.def || [])].sort().join('|'); return a === b});
+
+  function render() {
+    const all = items(), vis = all.filter(d => pass(d));
+    let h = `<div class="fx-top">Показано <b>${vis.length}</b> из ${all.length}` +
+      (isDefault() ? '' : ' <a data-reset="1">вернуть как было</a>') + (groups.some(g => S[g.id].size) ? ' <a data-clear="1">показать всё</a>' : '') + '</div>';
+    groups.forEach(g => {
+      const base = all.filter(d => pass(d, g.id));
+      h += `<div class="fx-g"><span class="fx-t">${g.title}</span><a class="fx-all${S[g.id].size ? '' : ' on'}" data-all="${g.id}" title="не фильтровать по этой строке">все ${base.length}</a>`;
+      g.options.forEach(o => {
+        const n = base.filter(o.test).length, on = S[g.id].has(o.v);
+        if (!n && !on && o.hideEmpty !== false && !all.some(o.test)) return;  // такого вообще нет в данных — не показываем
+        h += `<button class="fx${on ? ' on' : ''}${n ? '' : ' zero'}" data-g="${g.id}" data-v="${e(o.v)}"${o.tip ? ` title="${e(o.tip)}"` : ''}>` +
+             `${o.color ? `<span class="dot" style="background:${o.color}"></span>` : ''}${o.label} <i>${n}</i></button>`;
+      });
+      h += '</div>';
+    });
+    el.innerHTML = h;
+  }
+  el.onclick = ev => {
+    const b = ev.target.closest('[data-g],[data-all],[data-reset],[data-clear]');
+    if (!b) return;
+    ev.preventDefault();
+    if (b.dataset.g) {
+      const g = groups.find(x => x.id === b.dataset.g), s = S[g.id], v = b.dataset.v;
+      if (g.single) {const had = s.has(v); s.clear(); if (!had) s.add(v)} else s.has(v) ? s.delete(v) : s.add(v);
+    } else if (b.dataset.all) S[b.dataset.all].clear();
+    else if (b.dataset.reset) groups.forEach(g => S[g.id] = new Set(g.def || []));
+    else groups.forEach(g => S[g.id].clear());
+    save(); onChange();
+  };
+  // пусто на экране → какие строки мешают (если сбросить строку — что-то появится)
+  const why = () => {const all = items(); return groups.filter(g => S[g.id].size && all.some(d => pass(d, g.id))).map(g => g.title.replace(/:$/, ''))};
+  return {pass: d => pass(d), render, why};
+}
+
+const TYPN={Werkstudent:'🎓 Werkstudent',Praktikum:'🧪 практика',Abschlussarbeit:'📝 дипломная',Junior:'🚀 Junior (на потом)'};
+const dir=d=>d.ki?'ki':d.kind==='KI / Automatisierung'?'auto':d.kind==='Web / Shop / SEO'?'web':d.kind==='Online-Marketing'?'mkt':'other';
+const status=d=>isGone(d)?'gone':marks[d.id]||'none';
+const F=Facets({el:document.getElementById('f'),store,items:()=>JOBS,onChange:()=>draw(),groups:[
+  {id:'where',title:'Где:',options:[{v:'near',label:'📍 рядом (до 75 км)',test:d=>!R(d)},{v:'remote',label:'🏠 remote',test:R}]},
+  {id:'dir',title:'Направление:',options:[{v:'ki',label:'🤖 KI / ML',color:'#7e57c2',test:d=>dir(d)==='ki'},{v:'auto',label:'⚙️ автоматизация',color:KCOL['KI / Automatisierung'],test:d=>dir(d)==='auto'},
+    {v:'web',label:'🌐 сайты / shop / SEO',color:KCOL['Web / Shop / SEO'],test:d=>dir(d)==='web'},{v:'mkt',label:'📣 online-marketing',color:KCOL['Online-Marketing'],test:d=>dir(d)==='mkt'},{v:'other',label:'другое',test:d=>dir(d)==='other'}]},
+  {id:'typ',title:'Тип:',def:['Werkstudent','Praktikum','Abschlussarbeit'],options:Object.keys(TYPN).map(k=>({v:k,label:TYPN[k],test:d=>(d.typ||'Werkstudent')===k}))},
+  {id:'de',title:'Немецкий:',def:['ok','sg'],options:[{v:'ok',label:'обычный',test:d=>!d.de},{v:'sg',label:'«sehr gut»',test:d=>d.de==='sehr gut'},{v:'c1',label:'⚠ C1+ / Muttersprache',test:d=>d.de==='C1+'}]},
+  {id:'stars',title:'Оценка:',single:true,def:['2'],options:[5,4,3,2].map(n=>({v:String(n),label:n===5?'★★★★★':'от '+'★'.repeat(n),test:d=>d.stars>=n}))},
+  {id:'age',title:'Выставлено:',single:true,options:[['0','сегодня'],['3','за 3 дня'],['7','за неделю'],['31','за месяц']].map(([n,t])=>({v:n,label:t,test:d=>days(d)<=+n}))},
+  {id:'st',title:'Статус:',def:['none','написали','просмотр'],options:[{v:'none',label:'без отметки',test:d=>status(d)==='none'},
+    ...Object.keys(ST).map(k=>({v:k,label:ST[k].i+' '+ST[k].b,test:d=>status(d)===k})),{v:'gone',label:'закрытые',test:d=>status(d)==='gone'}]}]});
+const visible=d=>F.pass(d);
 function news(){
   const el=document.getElementById('news');
   if(!prev){el.innerHTML='<div class="news">Первый заход: дальше новые вакансии будут в жёлтой рамке.</div>';return}
@@ -101,7 +170,7 @@ function draw(){
   const list=document.getElementById('list');list.innerHTML='';
   const vis=JOBS.filter(visible).sort((a,b)=>(isNew(b)-isNew(a))||(b.stars-a.stars)||(days(a)-days(b)));
   const by={};vis.forEach(d=>{const g=R(d)?'🏠 Remote по Германии':'📍 Рядом (до 75 км)';(by[g]=by[g]||[]).push(d)});
-  if(!vis.length)list.innerHTML='<div class="m" style="padding:20px 0">По этим фильтрам ничего нет.</div>';
+  if(!vis.length){const w=F.why();list.innerHTML=`<div class="m" style="padding:20px 0">По этим фильтрам ничего нет.${w.length?' Мешает строка: <b>'+w.join(', ')+'</b> — нажми там «все».':''}</div>`}
   Object.entries(by).sort((a,b)=>a[0]<b[0]?-1:1).forEach(([city,arr])=>{
     list.insertAdjacentHTML('beforeend',`<div class="city">${esc(city)} · ${arr.length}</div>`);
     arr.forEach(d=>{
@@ -121,25 +190,8 @@ function draw(){
       list.appendChild(el);
     });
   });
-  document.querySelectorAll('#df button').forEach(b=>{b.classList.toggle('on',b.dataset.a===age);
-    const s=age;age=b.dataset.a;b.querySelector('i').textContent=JOBS.filter(visible).length;age=s});
-  HIDE.forEach(k=>{const e=document.getElementById('cnt-'+k.replace(' ',''));if(e)e.textContent=JOBS.filter(d=>marks[d.id]===k).length});
+  F.render();
 }
-const f=document.getElementById('f');
-const TYPN={Werkstudent:'🎓 Werkstudent',Praktikum:'🧪 практика',Abschlussarbeit:'📝 дипломная',Junior:'🚀 Junior (на потом)'};
-f.insertAdjacentHTML('beforeend',`<label style="font-weight:600"><input type="checkbox" id="kiOnly" ${kiOnly?'checked':''}>🤖 только KI ${JOBS.filter(d=>d.ki&&!isGone(d)).length}</label>`);
-Object.keys(TYPN).forEach(k=>f.insertAdjacentHTML('beforeend',`<label><input type="checkbox" data-t="${k}" ${typs[k]?'checked':''}>${TYPN[k]} ${JOBS.filter(d=>(d.typ||'Werkstudent')===k&&!isGone(d)).length}</label>`));
-f.insertAdjacentHTML('beforeend','<br>');
-Object.keys(KCOL).forEach(k=>f.insertAdjacentHTML('beforeend',`<label><input type="checkbox" data-k="${k}" ${on[k]?'checked':''}><span class="dot" style="background:${KCOL[k]}"></span>${k} ${JOBS.filter(d=>d.kind===k&&!isGone(d)).length}</label>`));
-[['near','📍 рядом',JOBS.filter(d=>!R(d)&&!isGone(d)).length],['remote','🏠 remote',JOBS.filter(d=>R(d)&&!isGone(d)).length],['c1','⚠ C1+',JOBS.filter(d=>d.de==='C1+'&&!isGone(d)).length],['gone','закрытые',JOBS.filter(isGone).length]].forEach(([k,t,n])=>
-  f.insertAdjacentHTML('beforeend',`<label><input type="checkbox" data-o="${k}" ${opt[k]?'checked':''}>${t} ${n}</label>`));
-HIDE.forEach(k=>f.insertAdjacentHTML('beforeend',`<label><input type="checkbox" data-o="${k}" ${opt[k]?'checked':''}>${ST[k].i} ${ST[k].b} <span id="cnt-${k.replace(' ','')}">0</span></label>`));
-f.onchange=e=>{const t=e.target;if(t.id==='kiOnly'){kiOnly=t.checked?1:0;store.set('kiOnly',kiOnly)}else if(t.dataset.t){typs[t.dataset.t]=t.checked?1:0;store.set('typs',typs)}else if(t.dataset.k){on[t.dataset.k]=t.checked?1:0;store.set('kinds',on)}else{opt[t.dataset.o]=t.checked?1:0;store.set('opt',opt)}draw()};
-f.insertAdjacentHTML('beforeend',`<label>от <select id="minS">${[1,2,3,4,5].map(n=>`<option ${n==minS?'selected':''}>${n}</option>`).join('')}</select> ★</label>`);
-document.getElementById('minS').onchange=e=>{minS=+e.target.value;store.set('minS',minS);draw()};
-const df=document.getElementById('df');
-df.innerHTML='<span>Выставлено:</span>'+Object.keys(AGES).map(a=>`<button data-a="${a}">${a} <i></i></button>`).join('');
-df.onclick=e=>{const b=e.target.closest('button');if(!b)return;age=b.dataset.a;store.set('age',age);draw()};
 if(!prev)store.set('lastVisit',nowLocal());
 news();draw();pull();if(useSync)setInterval(pull,60000);
 </script></body></html>
