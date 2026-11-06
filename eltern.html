@@ -46,9 +46,9 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 <div class="wrap"><div id="map"></div><aside>
 <div class="nav"><a href="#marina" data-p="marina">👩 Марина</a><a href="#alexey" data-p="alexey">🌳 Алексей</a></div>
 <h1 id="h1"></h1>
-<div class="sub">Обновлено 06.11 10:34 · Jobbörse, Kleinanzeigen, Jobware · до 30 км от дома (Oberkirch) · дорога — к 8:00 в будний день · <span id="syncinfo"></span></div>
+<div class="sub">Обновлено 06.11 11:30 · Jobbörse, Kleinanzeigen, Jobware · до 30 км от дома (Oberkirch) · дорога — к 8:00 в будний день · <span id="syncinfo"></span></div>
 <div class="stats" id="stats"></div>
-<div id="news"></div>
+<div id="news"></div><div id="dl"></div>
 <div class="f" id="f"></div>
 <div id="list"></div>
 </aside></div>
@@ -132,6 +132,23 @@ function Facets({el, groups, items, store, onChange}) {
   return {pass: d => pass(d), render, why};
 }
 
+/* Кнопки «скачать данные» — для другого ИИ (Cowork/ChatGPT): весь файл или только то, что сейчас на экране.
+   Файлы лежат на сайте в data/ и пересобираются каждые 30 минут; описание полей — data/README.md. */
+function DataLinks(el, name, visibleIds) {
+  el.innerHTML = `<div class="m" style="margin:2px 0 8px">⬇ Данные для ИИ: <a href="data/${name}.json" download>всё (JSON)</a> ·
+    <a href="data/${name}.xlsx" download>Excel</a> · <a href="#" id="dl-vis">только показанное (JSON)</a> ·
+    <a href="data/README.md" target="_blank">что в полях</a></div>`;
+  el.querySelector('#dl-vis').onclick = async e => {
+    e.preventDefault();
+    const all = await (await fetch('data/' + name + '.json', {cache: 'no-store'})).json(), ids = new Set(visibleIds());
+    const list = all.items || all.jobs, key = all.items ? 'items' : 'jobs';
+    const out = {...all, [key]: list.filter(x => ids.has(x.id)), filtered: true, count: ids.size};
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([JSON.stringify(out, null, 1)], {type: 'application/json'}));
+    a.download = `${name}_показанное_${new Date().toISOString().slice(0, 10)}.json`; a.click();
+  };
+}
+
 
 const useSync=SYNC&&!SYNC.startsWith('{{');
 async function pull(){if(!useSync)return;try{const r=await fetch(SYNC+'/wohnung/marks.json',{cache:'no-store'});if(r.ok){const all=(await r.json())||{};
@@ -169,6 +186,7 @@ function select(id,{scroll=true}={}){
 }
 function setMark(id,m){const k=key(id);marks[k]=marks[k]===m?undefined:m;if(!marks[k])delete marks[k];push(id);draw()}
 const visible=d=>F.pass(d);
+DataLinks(document.getElementById('dl'),'eltern_jobs',()=>JOBS.filter(visible).map(d=>d.id));
 const status=d=>isGone(d)?'gone':marks[key(d.id)]||'none';
 const bus=d=>{const o=d.route&&d.route.opts.find(o=>o.kind!=='велосипед'&&o.kind!=='пешком');return o?o.min:null};
 function stats(){

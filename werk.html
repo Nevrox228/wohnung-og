@@ -34,8 +34,8 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 <div class="wrap"><div id="map"></div><aside>
 <div class="nav"><a href="./">🏠 Квартиры</a><a href="jobs.html">👩‍🏫 Оля</a><a href="werk.html" class="on">💻 Никита</a></div>
 <h1>Никита: Werkstudent и практика — KI, сайты, SEO, e-commerce</h1>
-<div class="sub">Обновлено 06.11 10:31 · Jobbörse, LinkedIn, StepStone, Jobware, arbeitnow · рядом = до 75 км от Oberkirch, остальное — remote · <span id="syncinfo"></span></div>
-<div id="news"></div>
+<div class="sub">Обновлено 06.11 11:29 · Jobbörse, LinkedIn, StepStone, Jobware, arbeitnow · рядом = до 75 км от Oberkirch, остальное — remote · <span id="syncinfo"></span></div>
+<div id="news"></div><div id="dl"></div>
 <div class="f" id="f"></div>
 <div id="list"></div>
 </aside></div>
@@ -145,6 +145,23 @@ function Facets({el, groups, items, store, onChange}) {
   return {pass: d => pass(d), render, why};
 }
 
+/* Кнопки «скачать данные» — для другого ИИ (Cowork/ChatGPT): весь файл или только то, что сейчас на экране.
+   Файлы лежат на сайте в data/ и пересобираются каждые 30 минут; описание полей — data/README.md. */
+function DataLinks(el, name, visibleIds) {
+  el.innerHTML = `<div class="m" style="margin:2px 0 8px">⬇ Данные для ИИ: <a href="data/${name}.json" download>всё (JSON)</a> ·
+    <a href="data/${name}.xlsx" download>Excel</a> · <a href="#" id="dl-vis">только показанное (JSON)</a> ·
+    <a href="data/README.md" target="_blank">что в полях</a></div>`;
+  el.querySelector('#dl-vis').onclick = async e => {
+    e.preventDefault();
+    const all = await (await fetch('data/' + name + '.json', {cache: 'no-store'})).json(), ids = new Set(visibleIds());
+    const list = all.items || all.jobs, key = all.items ? 'items' : 'jobs';
+    const out = {...all, [key]: list.filter(x => ids.has(x.id)), filtered: true, count: ids.size};
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([JSON.stringify(out, null, 1)], {type: 'application/json'}));
+    a.download = `${name}_показанное_${new Date().toISOString().slice(0, 10)}.json`; a.click();
+  };
+}
+
 const TYPN={Werkstudent:'🎓 Werkstudent',Praktikum:'🧪 практика',Abschlussarbeit:'📝 дипломная',Junior:'🚀 Junior (на потом)'};
 const dir=d=>d.ki?'ki':d.kind==='KI / Automatisierung'?'auto':d.kind==='Web / Shop / SEO'?'web':d.kind==='Online-Marketing'?'mkt':'other';
 const status=d=>isGone(d)?'gone':marks[d.id]||'none';
@@ -159,6 +176,7 @@ const F=Facets({el:document.getElementById('f'),store,items:()=>JOBS,onChange:()
   {id:'st',title:'Статус:',def:['none','написали','просмотр'],options:[{v:'none',label:'без отметки',test:d=>status(d)==='none'},
     ...Object.keys(ST).map(k=>({v:k,label:ST[k].i+' '+ST[k].b,test:d=>status(d)===k})),{v:'gone',label:'закрытые',test:d=>status(d)==='gone'}]}]});
 const visible=d=>F.pass(d);
+DataLinks(document.getElementById('dl'),'werk_jobs',()=>JOBS.filter(visible).map(d=>d.id));
 function news(){
   const el=document.getElementById('news');
   if(!prev){el.innerHTML='<div class="news">Первый заход: дальше новые вакансии будут в жёлтой рамке.</div>';return}
