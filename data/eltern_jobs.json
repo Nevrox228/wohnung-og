@@ -1,9 +1,181 @@
 {
- "generated": "2026-11-06T13:53",
+ "generated": "2026-11-06T14:40",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 419,
+ "count": 421,
  "items": [
+  {
+   "id": "marina:ba_11932-370-1787244-0-S",
+   "src": "Jobbörse",
+   "title": "Kommissionierer (m/w/d) in 2-Schicht",
+   "firma": "erste reserve personalservice GmbH",
+   "ort": "Lahr",
+   "street": "",
+   "lat": 48.339974563,
+   "lon": 7.872253113,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11932-370-1787244-0-S",
+   "posted": "2026-07-28",
+   "desc": "Kommissionierer (m/w/d) in 2-Schicht Deine Benefits - Übertarifliche Bezahlung von 17,76 /h ! - Fahr-, Urlaubs- und Weihnachtsgeld gibt es auch dazu - Arbeitskleidung wird dir kostenfrei für deinen optimalen Schutz zur Verfügung gestellt - Hohe Chance auf Übernahme bei guter Leistung - Angenehmes Arbeiten mit tollem und familiärem Arbeitsklima - Direkt vor Ort gibt es genügend Parkplätze sowie den ÖPNV Deine Aufgaben - Du bist für das Kommissionieren der Ware zuständig - Außerdem übernimmst du die Verpackung, sowie die Ein-und Auslagerung - Du ent- und belädst die Ware mit deinem Stapler mit links Unsere Anforderungen - Gültiger Fahrausweis für Gabelstapler (Flurförderzeuge) mit entsprechender Fahrpraxis - Erfahrung im Hochregal ist von Vorteil, aber kein Muss - Zuverlässige sowie genaue Arbeitsweise Komm in unser Team! Bewirb dich jetzt online oder per Email an bewerbung@erste-reserve.de, gerne auch telefonisch unter 0781 28 42 51-0 oder per WhatsApp-Nachricht an die 0178 6809 185. Bitte gib bei deiner Bewerbung die Stellen-ID 97 an. Wir freuen uns auf deine Bewerbung!",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 26.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-06T14:23",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 66,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 3,
+      "end_stop": "Lahr Lammstraße",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Lammstraße",
+        "dep": "07:27",
+        "arr": "07:35",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Lammstraße",
+        "to": "работа",
+        "dep": "07:35",
+        "arr": "07:38",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 72
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 266,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 240,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:58",
+        "min": 240
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 266
+     },
+     {
+      "kind": "велосипед",
+      "min": 146,
+      "changes": 0,
+      "km": 35.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 146
+       }
+      ],
+      "risky": false,
+      "score": 272
+     }
+    ],
+    "best": "транспорт",
+    "min": 66,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_12438-13919562-S",
    "src": "Jobbörse",
@@ -55693,6 +55865,247 @@
     "best": "транспорт",
     "min": 190,
     "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3400634257",
+   "src": "Kleinanzeigen",
+   "title": "Putzkraft (m/w/d) - Treppenhausreinigung",
+   "firma": "meinestelle.de",
+   "ort": "Rheinau",
+   "plz": "77866",
+   "street": "",
+   "lat": 48.6567433,
+   "lon": 7.9354027,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/putzkraft-m-w-d-treppenhausreinigung/3400634257-109-8667",
+   "posted": "2026-11-01",
+   "posted_time": null,
+   "desc": "Haus & Garten Keller steht für Qualität, Zuverlässigkeit und Leidenschaft rund um die Gestaltung und Pflege von Außenanlagen. Als etabliertes Unternehmen im Bereich Garten- und Landschaftsbau bietet das Team seinen Kundinnen und Kunden ein breites Leistungsspektrum - von der individuellen Gartenplanung über die fachgerechte Umsetzung bis hin zur langfristigen Pflege. Dabei verbindet das Unternehmen handwerkliches Know-how mit einem hohen Anspruch an Ästhetik und Nachhaltigkeit. Als Arbeitgeber legt Haus & Garten Keller großen Wert auf ein respektvolles Miteinander, Teamgeist und eine wertschätzende Unternehmenskultur. Mitarbeitende profitieren von abwechslungsreichen Projekten, einem sicheren Arbeitsumfeld sowie der Möglichkeit, eigene Ideen einzubringen und sich fachlich weiterzuentwickeln. Die Zusammenarbeit ist geprägt von Offenheit, Verlässlichkeit und einem gemeinsamen Ziel: hochwertige Ergebnisse für zufriedene Kundinnen und Kunden zu schaffen. Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt eine Putzkraft (m/w/d) für die Treppenhausreinigung in Voll- und Teilzeit Das bieten wir Ihnen: Einen sicheren Arbeitsplatz in einem etablierten Unternehmen Angenehmes Arbeitsumfeld in einem kollegialen Team Klare Arbeitsstrukturen und feste Einsatzbereiche Moderne Reinigungsmittel und Arbeitsausstattung Flexible Arbeitszeiten nach Absprache Leistungsgerechte Vergütung Wertschätzende Unternehmenskultur und langfristige Perspektive Ihre Aufgaben: Reinigung von Treppenhäusern in Wohn- und Gewerbeobjekten Kehren und Wischen von Treppen, Fluren und Eingangsbereichen Reinigung von Handläufen, Geländern, Türen und Klingelanlagen Pflege von Aufzügen und Gemeinschaftsflächen Entleerung von Mülleimern in den Objekten Sicherstellung von Sauberkeit und Ordnung in den betreuten Objekten Das bringen Sie mit: Erste Erfahrung in der Gebäudereinigung von Vorteil, aber nicht zwingend erforderlich Sorgfältige und zuverlässige Arbeitsweise Selbstständiges Arbeiten und Verantwortungsbewusstsein Freundliches Auftreten Körperliche Belastbarkeit Grundkenntnisse der deutschen Sprache von Vorteil Führerschein der Klasse B von Vorteil Sie möchten Teil eines zuverlässigen Teams werden und mit Ihrer Arbeit zu einem gepflegten und angenehmen Umfeld beitragen? Dann freuen wir uns auf Ihre Bewerbung!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.5,
+   "de": "немного",
+   "de_txt": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt eine Putzkraft (m/w/d) für die Treppenhausreinigung in Voll- und Teilzeit Das bieten wir ",
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 98,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 18,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:04",
+        "min": 18
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 101
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 13,
+      "end_stop": "Freistett Seniorenzentrum",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Freistett Seniorenzentrum",
+        "dep": "07:48",
+        "arr": "07:49",
+        "wait": 2,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Seniorenzentrum",
+        "to": "работа",
+        "dep": "07:49",
+        "arr": "08:01",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 110
+     },
+     {
+      "kind": "велосипед",
+      "min": 90,
+      "changes": 0,
+      "km": 21.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 90
+       }
+      ],
+      "risky": false,
+      "score": 160
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 98,
+    "changes": 1
    },
    "status": "open",
    "also_urls": [],

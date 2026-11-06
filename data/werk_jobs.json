@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T13:53",
+ "generated": "2026-11-06T14:40",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,7 +13,7 @@
   ]
  },
  "counts": {
-  "all": 344,
+  "all": 345,
   "queue": 202,
   "ai_focus": 180
  },
@@ -8289,6 +8289,32 @@
    "description": "Deine Mission Du erstellst und entwickelst Content für verschiedene Kanäle – insbesondere für Social Media, unsere Website, den Blog und die interne Kommunikation. Du konzipierst, produzierst und bearbeitest Bilder, Grafiken, Videos und Audioinhalte. Du unterstützt bei Video-Projekten, Interviews, Podcasts, Event-Begleitungen und Social-Media-Produktionen. Du entwickelst kreative Content-Ideen und setzt diese eigenständig um. Du bereitest Inhalte zielgruppengerecht für unterschiedliche Formate und Kanäle auf. Du unterstützt bei Marketing- und Kommunikationsmaßnahmen und stärkst die Markenpräsenz von CarByte. Du beobachtest aktuelle Trends in den Bereichen Content, Social Media, Design und digitale Kommunikation und bringst neue Impulse in unsere Arbeit ein. Dein Profil Du studierst aktuell Marketing, Kommunikation, Medien, Design oder einen vergleichbaren Studiengang. Du verfügst über praktische Erfahrungen in der Erstellung und Bearbeitung von Bild-, Video- oder Audioinhalten. Du gehst sicher mit gängigen Kreativ-Tools wie z.B. der Adobe Creative Cloud, Canva, CapCut oder vergleichbarer Software um. Du überzeugst mit Kreativität und einem guten Gespür für visuelle Kommunikation. Du hast ein ausgeprägtes Gespür für Details und einen hohen Anspruch an die Qualität deiner Arbeit. Du arbeitest eigenverantwortlich, strukturiert und zuverlässig. Du hast Freude daran, neue Ideen einzubringen und Themen aktiv voranzutreiben. Du bist offen für Feedback und entwickelst gemeinsam im Team die bestmöglichen Lösungen. Du interessierst dich für neue Technologien, digitale Trends und KI-gestützte Arbeitsweisen. Du verfügst über fließende Deutsch- und gute Englischkenntnisse in Wort und Schrift. Du findest dich in diesem Profil wieder? Dann schicke uns zusätzlich zu deinen Bewerbungsunterlagen gerne dein Portfolio oder ein paar Arbeitsproben mit. Deine Vorteile Startup-Flair: Bei uns findest du flache Hierarchien, kurze Entscheidungswege und viel Raum für eigene Ideen gepaart mit der Sicherheit eines etablierten Unternehmens. Innovative Projekte: Übernehme Verantwortung und entfalte dein Potenzial in vielfältigen, zukunftsweisenden Projekten. Attraktive Vergütung: Wir bieten ein ansprechendes Gehaltspaket, welches deine Arbeit und dein Engagement würdigt. Firmenlaptop: Mit unserem modernen Equipment bist du ab deinem ersten Arbeitstag bestens ausgerüstet. Company-Events: Erlebe Teamspirit und Spaß, ob beim Sport, bei Firmenevents oder gemeinsamen Abendessen – Erfolge feiern wir gemeinsam! Über uns Mit einer konsequenten Ende-zu-Ende-Philosophie begleiten wir unsere Kunden über den gesamten Produktlebenszyklus und schaffen einzigartige, ganzheitliche Lösungen. Unser erfahrenes Team aus langjährigen Experten und jungen Talenten arbeitet in agilen Communities mit flachen Hierarchien. Das fördert den Austausch über fachspezifische Grenzen hinweg und ermöglicht es jedem Einzelnen, sein Potenzial frei zu entfalten. Unsere Expertise umfasst Bereiche wie Embedded Softwa"
   },
   {
+   "id": "li_4483441893",
+   "queue": false,
+   "status": "open",
+   "stars": 1,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Praktikum / Werkstudent / Abschlussarbeit Bachelor / Master Thesis (m/w/d) Marketing",
+   "company": "SoftwareStack",
+   "location": "Villingen",
+   "distance_km": 59.0,
+   "remote": false,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4483441893",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-04T18:01",
+   "description": "Wir suchen regelmäßig Studenten im Bereich Marketing für Praktikum, Abschlussarbeiten, Werkstudent oder als studentische Aushilfe. Aufgaben Gestalte den inhaltlichen Auftritt unseres jungen Unternehmens mit und werde Teil unseres Teams in Villingen-Schwenningen. Übernehme Verantwortung und gebe der SoftwareStack GmbH deine persönliche Note mit auf den Weg und helfe uns somit unsere Produkte und Dienstleistungen in Szene zu setzen. Qualifikation Studium im Bereich (Online-)Marketing, Wirtschaftswissenschaften mit Schwerpunkt Marketing, Medienmanagement oder in einem vergleichbaren Studiengang Hohe Bereitschaft zur Verantwortungsübernahme, Kontaktfreudig und überdurchschnittliches Engagement Strukturierte und gewissenhafte Arbeitsweise sowie Kommunikationsstärke und Teamgeist Benefits Einblicke in spannende Projekte gewinnen und in einer positiven, kollegialen Arbeitsatmosphäre daran mitzuwirken Betreuung durch einen persönlichen Ansprechpartner Perspektive, sich nach seinem Studium für eine Vollzeitstelle bei uns zu empfehlen Flache Hierarchien und eine lockere Arbeitsumgebung Wir freuen uns über deine Bewerbung!"
+  },
+  {
    "id": "ba_13649-12724705AB-S",
    "queue": false,
    "status": "open",
@@ -8885,7 +8911,9 @@
    "url": "https://de.linkedin.com/jobs/view/4474447065",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4486248156"
+   ],
    "salary": "",
    "posted": "2026-10-07",
    "first_seen": "2026-11-04T12:29",
