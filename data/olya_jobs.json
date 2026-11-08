@@ -1,9 +1,31 @@
 {
- "generated": "2026-11-06T16:01",
+ "generated": "2026-11-08T14:22",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 52,
+ "count": 53,
  "items": [
+  {
+   "id": "li_4482905567",
+   "src": "LinkedIn",
+   "title": "Sozialarbeiter (m/w/d) / Heilpädagoge (m/w/d) im Fachdienst Eingliederungshilfe beim Jugendamt – mehrere Stellen",
+   "firma": "Landratsamt Ortenaukreis",
+   "ort": "Offenburg",
+   "plz": "",
+   "street": "",
+   "lat": 48.4695984,
+   "lon": 7.9429235,
+   "url": "https://de.linkedin.com/jobs/view/4482905567",
+   "posted": "2026-11-02",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 0.8,
+   "kind": "Jugend / Heim",
+   "ausb": false,
+   "first_seen": "2026-11-08T13:52",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "li_4482372983",
    "src": "LinkedIn",
