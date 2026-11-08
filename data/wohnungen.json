@@ -1,9 +1,55 @@
 {
- "generated": "2026-11-08T15:14",
+ "generated": "2026-11-08T18:48",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 277,
+ "count": 278,
  "items": [
+  {
+   "id": "3565722086",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3565722086",
+   "title": "Dachgeschosswohnung - befristetes Mietverhältnis",
+   "price_txt": "650 €",
+   "plz": "77723",
+   "ort": "Gengenbach",
+   "lat": 48.4283781,
+   "lon": 8.0225624,
+   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6dce0aea-6886-4aa5-bb09-1b615d4bf5ac?rule=$_59.JPG",
+   "tags": [
+    "Balkon",
+    "Einbauküche",
+    "Badewanne"
+   ],
+   "desc": "Hallo, wir vermieten unsere DG-Wohnung in Gengenbach im Ortsteil Reichenbach mit 68qm. Sie verfügt über zwei Schlafzimmer, ein Badezimmer und eine Wohnküche mit Balkon (Südseite). Das Badezimmer ist über eines der Schlafzimmer erreichbar. Zudem hat die Wohnung noch ein kleines Gästebad. Dieses wird aktuell als Abstellkammer genutzt. Die Wohnung wurde 2011 das letzte Mal renoviert. Die EBK hat keine Spülmaschine. Es ist aber Platz für eine kleine Spülmaschine vorhanden und kann vom Mieter selbst mitgebracht werden. Es handelt sich um ein befristetes Mietverhältnis bis maximal Mai 2028. Im EG wohnt die Vermieterfamilie (wir) mit drei Kindern. Die Wohnung ist also nur etwas für Sie, wenn Sie Kinder mögen und Ihnen manch trubelige Stunden nichts ausmachen :-). Gegenüber befindet sich eine Bushaltestelle mit recht guter Anbindung. Ein Stellplatz für ein Auto kann leider nicht angeboten werden. Das Auto muss an der Straße geparkt werden. Das Haus befindet sich in einer 30er-Zone. Spielplatz, Kindergarten und Grundschule sind zu Fuß gut erreichbar. Der Wald ist auch ganz in der Nähe. Wenn Sie Fragen / Interesse haben, melden Sie sich gerne bei mir. Ich freue mich von Ihnen zu hören. Liebe Grüße Lisa",
+   "m2": 68.0,
+   "zimmer": 3.0,
+   "kalt": 650.0,
+   "nk": 225.0,
+   "warm": 875.0,
+   "kaution": 1300.0,
+   "ab": "Februar 2027",
+   "typ": "Dachgeschosswohnung",
+   "posted": "2026-11-08",
+   "street": "Mühlmatt 48,",
+   "loc_prec": "точный адрес",
+   "warm_calc": 875.0,
+   "warm_est": false,
+   "moebl": false,
+   "ebk": true,
+   "km": 6.7,
+   "allowed": 1000,
+   "eur_m2": 12.9,
+   "zone": "можно",
+   "verdict": "отлично",
+   "notes": [
+    "3 комн. — больше, чем нужно",
+    "на грани по дороге (Gengenbach, 6.7 км)"
+   ],
+   "first_seen": "2026-11-08T17:13",
+   "source": "поиск",
+   "route": null,
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "3565495375",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3565495375",
@@ -1585,7 +1631,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -1945,7 +1991,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -2041,7 +2087,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -2129,7 +2175,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -2175,7 +2221,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -2644,7 +2690,7 @@
    "first_seen": "2026-11-03T17:34",
    "source": "immowelt",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -2725,7 +2771,7 @@
    "first_seen": "2026-11-03T17:34",
    "source": "immowelt",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4275,7 +4321,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4323,7 +4369,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4642,7 +4688,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4684,7 +4730,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4827,7 +4873,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4927,7 +4973,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5062,7 +5108,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5107,7 +5153,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5153,7 +5199,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5429,7 +5475,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5611,7 +5657,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6393,7 +6439,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6757,7 +6803,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -7491,7 +7537,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -8221,7 +8267,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -9436,7 +9482,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -9614,7 +9660,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -9893,7 +9939,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10388,7 +10434,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10519,7 +10565,7 @@
    "street": "",
    "loc_prec": "по адресу из текста: Weingartenstr.",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10779,7 +10825,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11243,7 +11289,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11550,7 +11596,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
