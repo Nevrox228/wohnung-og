@@ -1,9 +1,193 @@
 {
- "generated": "2026-11-09T21:25",
+ "generated": "2026-11-09T22:13",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 423,
+ "count": 424,
  "items": [
+  {
+   "id": "marina:ka_3567050513",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeitende Zimmerreinigung (m/w/d)",
+   "firma": "max reach HR",
+   "ort": "Baiersbronn",
+   "plz": "72270",
+   "street": "",
+   "lat": 48.5416972,
+   "lon": 8.3252756,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeitende-zimmerreinigung-m-w-d-/3567050513-109-8719",
+   "posted": "2026-11-09",
+   "posted_time": "21:24",
+   "desc": "☘️ Hotel Bareiss im Schwarzwald sucht zum nächstmöglichen Zeitpunkt in Baiersbronn ein/e Mitarbeitende Zimmerreinigung (m/w/d). Das Hotel Bareiss im Schwarzwald ist das am persönlichsten, privat geführte Ferienhotel der Spitzenklasse in Europa. Es steht für exzellente Gastfreundlichkeit und herausragende Gastronomie. Im Bareiss-Team erwartet Sie eine ganz besondere Atmosphäre. Ein Bareissianer zu sein - das ist jeden Tag Leidenschaft, Freude und Gastfreundschaft auf... (gekürzte Stellenanzeige) ❗️❗️❗️❗️ Wichtiger Hinweis ❗️❗️❗️❗️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Die vollständige Stellenausschreibung, alle Kontaktinformationen sowie die Bewerbungsoption finden Sie unter folgendem Link: ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ▼ jobs4us.de/1brs3bibx46 ▲ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ So funktioniert’s: Klicken Sie auf den Button „Bewerben“ oder Kopieren Sie den Link und fügen Sie ihn in die Adressleiste Ihres Internet-Browsers ein, um den Arbeitgeber zu kontaktieren. ✅",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-09T21:55",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 190,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 59,
+      "end_stop": "Mitteltal Lamm",
+      "dep": "16:36",
+      "arr": "19:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "16:36",
+        "arr": "16:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "16:47",
+        "arr": "16:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "17:07",
+        "arr": "17:15",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "400",
+        "from": "Achern",
+        "to": "Ruhestein",
+        "dep": "17:21",
+        "arr": "18:00",
+        "wait": 6,
+        "min": 39
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "200",
+        "from": "Ruhestein",
+        "to": "Mitteltal Lamm",
+        "dep": "18:32",
+        "arr": "18:48",
+        "wait": 32,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Mitteltal Lamm",
+        "to": "работа",
+        "dep": "18:48",
+        "arr": "19:46",
+        "min": 59
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 199
+     },
+     {
+      "kind": "велосипед",
+      "min": 121,
+      "changes": 0,
+      "km": 29.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 121
+       }
+      ],
+      "risky": false,
+      "score": 222
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 570,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 544,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "14:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "14:52",
+        "min": 544
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 570
+     }
+    ],
+    "best": "транспорт",
+    "min": 190,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3566987800",
    "src": "Kleinanzeigen",
