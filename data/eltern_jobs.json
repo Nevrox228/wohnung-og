@@ -1,9 +1,181 @@
 {
- "generated": "2026-11-09T16:41",
+ "generated": "2026-11-09T17:28",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 419,
+ "count": 420,
  "items": [
+  {
+   "id": "marina:ba_12739-9HVKXVCWYA9K44GG-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter(in) in der Fertigung (m/w/d) in 3 Schicht",
+   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
+   "ort": "Lahr",
+   "street": "",
+   "lat": 48.3399746,
+   "lon": 7.8722531,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-9HVKXVCWYA9K44GG-S",
+   "posted": "2026-11-09",
+   "desc": "Mitarbeiter(in) in der Fertigung (m/w/d) in 3 Schicht Standort: Lahr Anstellungsart(en): Vollzeit Mitarbeiter(in) in der Fertigung (m/w/d) in Lahr Jetzt durchstarten! Unbefristeter Job mit Perspektive Sie möchten mit handwerklichem Geschick und Sorgfalt etwas bewegen? Dann sind Sie bei uns genau richtig! Für ein renommiertes Kundenunternehmen im Raum Lahr suchen wir Mitarbeiter(in) in der Fertigung (m/w/d) in Vollzeit – gerne auch mit ersten Erfahrungen aus Produktion oder Montage. Ihre Aufgaben als Mitarbeiter(in) in der Fertigung (m/w/d) in Lahr: - Einrichten, Bedienen und Überwachen von Produktionsmaschinen - Herstellung und Bearbeitung von Produkten nach vorgegebenen Fertigungsanweisungen - Durchführung von Sicht- und Qualitätskontrollen - Aussortieren fehlerhafter Produkte und Weiterleitung fertiger Waren an die Verpackungsabteilung - Reinigung, Pflege und einfache Instandhaltung der Maschinen und Arbeitsplätze Ihr Profil: - Bereitschaft zur Schichtarbeit von Montag bis Freitag - Gute Deutschkenntnisse in Wort und Schrift - Flexibilität, Zuverlässigkeit und Teamfähigkeit - Selbstständige, sorgfältige und präzise Arbeitsweise - Bereitschaft zur Vollzeitbeschäftigung (37,5 Stunden/Woche) oder Teilzeit nach Absprache Unser Angebot an Sie: - Unbefristeter Arbeitsvertrag - Vergütung ab 17 €/Std nach Tarif, inkl. Weihnachts- & Urlaubsgeld - Zuschläge für Mehrarbeit, Nacht-, Wochenend- und Feiertagsschichten - Bis zu 30 Tage Urlaub/Jahr - Freundliches, kollegiales Arbeitsumfeld Darüber hinaus können Sie sich auf Folgendes freuen: - Gründliche Einarbeitung & Entwicklungsperspektiven - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Klingt gut? Dann bewerben Sie sich jetzt – einfach & unkompliziert! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Lahr Prio Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 26.2,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-09T17:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 66,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 3,
+      "end_stop": "Lahr Lammstraße",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Lammstraße",
+        "dep": "07:27",
+        "arr": "07:35",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Lammstraße",
+        "to": "работа",
+        "dep": "07:35",
+        "arr": "07:38",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 72
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 266,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 240,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:58",
+        "min": 240
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 266
+     },
+     {
+      "kind": "велосипед",
+      "min": 146,
+      "changes": 0,
+      "km": 35.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 146
+       }
+      ],
+      "risky": false,
+      "score": 272
+     }
+    ],
+    "best": "транспорт",
+    "min": 66,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_12951-5cb16d6b-23e2-4358--S",
    "src": "Jobbörse",
@@ -8243,8 +8415,7 @@
    "status": "open",
    "also_urls": [
     "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833250-107-8045",
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833218-107-9032",
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563832617-107-8047"
+    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833218-107-9032"
    ],
    "person": "Марина"
   },
