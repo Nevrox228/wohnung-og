@@ -1,9 +1,355 @@
 {
- "generated": "2026-11-09T17:28",
+ "generated": "2026-11-09T18:17",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 420,
+ "count": 422,
  "items": [
+  {
+   "id": "marina:ka_3508761149",
+   "src": "Kleinanzeigen",
+   "title": "!!! Produktionsmitarbeiter (m/w/d) - Lahr !!!",
+   "firma": "rt Personal GmbH",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-produktionsmitarbeiter-m-w-d-lahr-/3508761149-111-8047",
+   "posted": "2026-11-09",
+   "posted_time": "18:07",
+   "desc": "WIR SUCHEN DICH! Für unseren Auftraggeber in Lahr und Umgebung suchen wir mehrere Produktionsmitarbeiter (m/w/d) in 3-Schicht Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch, Russisch und Türkisch Deine coolen Aufgaben - Maschinenbedienung - einfache Sichtprüfung Dein Profil - Berufserfahrung von Vorteil - Deutschkenntnisse in Wort und Schrift Das erwartet Dich - Persönliche, freundliche und professionelle Betreuung durch unsere geschulten Fachkräfte - Beratung und Unterstützung, wann immer Du sie brauchst - Urlaubs- und Weihnachtsgeld - Betriebliche Gesundheitsvorsorge Interesse geweckt? Dann bewirb dich jetzt direkt über WhatsApp oder ruf uns unter 01514 0474152 an!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "нужен",
+   "de_txt": "Deutschkenntnisse in Wort und Schrift Das erwartet Dich",
+   "help": "Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch,",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-09T17:58",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3482510886",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) ab 18,49 €/Std. - be... (29124521)",
+   "firma": "hokify GmbH",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-ab-18-49-std-be-29124521-/3482510886-111-8047",
+   "posted": "2026-11-09",
+   "posted_time": "18:07",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/NXzwKed ⬅️ - - - - - - - - ️ Du suchst nicht einfach nur einen Job, sondern einen Arbeitsplatz, an dem deine Fähigkeiten geschätzt werden und du wirklich etwas bewegen kannst? Dann herzlich willkommen bei DEKRA Arbeit! Werde Teil unseres Teams und unterstütze unseren Kunden Schaeffler in Lahr im 3-4‑Schichtbetrieb. ------------------------- Deine Aufgaben - Du beschaffst Material und bestückst die Anlagen - Du bedienst Montagemaschinen und -werkzeuge - Du hältst Arbeitsanweisungen sowie Sicherheitsvorschriften zuverlässig ein - Du übernimmst Verpackungstätigkeiten - Du führst Sichtkontrollen durch und achtest auf die Qualität ------------------------- Das zeichnet dich aus - Erfahrung in der Metallbearbeitung und Maschinenbedienung - Kenntnisse im Umgang mit Meßmitteln - Technisches Verständnis und handwerkliches Geschick - Eine zuverlässige, eigenverantwortliche Arbeitsweise - Bereitschaft zur Arbeit im 4‑Schichtsystem ------------------------- Was wir dir bieten - Einen sicheren, unbefristeten Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Übertarifliche Bezahlung: bis zu 26,60 € pro Stunde + Urlaubs‑ und Weihnachtsgeld - Einen abwechslungsreichen Arbeitsplatz mit echter Übernahmeperspektive bei unserem Kunden ------------------------- So bewirbst du dich Sende uns einfach deinen Lebenslauf per E‑Mail oder nutze die Online-Bewerbung. Dort kannst du nach Eingabe deiner Kontaktdaten deinen Lebenslauf direkt hochladen – ganz unkompliziert und in nur einer Minute. Wir stehen für Vielfalt und freuen uns über jede Bewerbung! Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/NXzwKed",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-09T17:58",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_12739-9HVKXVCWYA9K44GG-S",
    "src": "Jobbörse",
@@ -13791,7 +14137,8 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1723-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1744-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-981903908-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-981903908-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982159748-S"
    ],
    "person": "Марина"
   },
