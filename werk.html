@@ -18,7 +18,7 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 .df button i{font-style:normal;color:var(--mute);margin-left:2px}.df button.on{background:var(--ink);color:var(--bg)}.df button.on i{color:var(--bg)}
 .dot{width:10px;height:10px;border-radius:50%;display:inline-block;flex:none}
 .c{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:8px;cursor:pointer;scroll-margin:80px}
-.c:hover{border-color:var(--mute)}.c.isnew{border:2px solid var(--new)}.urls{font-size:10px;color:var(--mute);word-break:break-all;margin-top:4px;opacity:.7}.c.gone{opacity:.5}.c.gone .ti{text-decoration:line-through}.c.gone.mail{opacity:.85}.c.gone.mail .ti{text-decoration:none}.c.done{opacity:.6}
+.c:hover{border-color:var(--mute)}.c.isnew{border:2px solid var(--new)}.hid{font-size:11px;color:var(--mute);padding:5px 0;border-bottom:1px solid var(--line,#3333);word-break:break-all}.hid a{color:var(--mute)}.urls{font-size:10px;color:var(--mute);word-break:break-all;margin-top:4px;opacity:.7}.c.gone{opacity:.5}.c.gone .ti{text-decoration:line-through}.c.gone.mail{opacity:.85}.c.gone.mail .ti{text-decoration:none}.c.done{opacity:.6}
 .c.sel{border:2px solid var(--sel);box-shadow:0 0 0 3px color-mix(in srgb,var(--sel) 25%,transparent)}
 .ti{font-weight:600;font-size:15px}.fi{color:var(--ink)}.m{font-size:12px;color:var(--mute)}.age.fresh{color:#1a9850;font-weight:600}
 .nr{display:inline-block;background:#2b5797;color:#fff;font-weight:700;border-radius:5px;padding:0 6px;margin-right:5px;font-size:13px}.stars{color:#f5a623;letter-spacing:-1px;margin-right:2px}.warn{font-size:12px;color:#c62828;margin-top:2px}.warn i{color:var(--mute)}
@@ -34,7 +34,7 @@ h1{font-size:18px;margin:0 0 2px}.sub{color:var(--mute);font-size:12px;margin-bo
 <div class="wrap"><div id="map"></div><aside>
 <div class="nav"><a href="./">🏠 Квартиры</a><a href="jobs.html">👩‍🏫 Оля</a><a href="werk.html" class="on">💻 Никита</a></div>
 <h1>Никита: Werkstudent и практика — KI, сайты, SEO, e-commerce</h1>
-<div class="sub">Обновлено 09.11 17:25 · Jobbörse, LinkedIn, StepStone, Jobware, arbeitnow · рядом = до 75 км от Oberkirch, остальное — remote · <span id="syncinfo"></span></div>
+<div class="sub">Обновлено 09.11 17:28 · Jobbörse, LinkedIn, StepStone, Jobware, arbeitnow · рядом = до 75 км от Oberkirch, остальное — remote · <span id="syncinfo"></span></div>
 <div id="news"></div><div id="dl"></div>
 <div class="f" id="f"></div>
 <div id="list"></div>
@@ -183,6 +183,13 @@ function news(){
   const n=JOBS.filter(d=>isNew(d)&&d.stars>=3).length,g=JOBS.filter(isNewGone).length;
   el.innerHTML=(n||g)?`<div class="news"><button onclick="store.set('lastVisit',nowLocal());location.reload()">прочитано</button>С прошлого захода: <b>${n} новых</b> (★3+), закрыто ${g}.</div>`:'';
 }
+const U=u=>{u=u.replace(/^https?:\/\/(www\.)?/,'').split('?')[0];return esc(u.endsWith('/')?u:u+'/')};
+function hiddenIndex(vis){
+  const hid=JOBS.filter(d=>!vis.includes(d));if(!hid.length)return;
+  const lab=d=>isGone(d)?'закрыта':marks[d.id]?ST[marks[d.id]].i+' '+ST[marks[d.id]].b:'скрыта фильтром';
+  document.getElementById('list').insertAdjacentHTML('beforeend',`<div class="city">🔎 Скрытые (не интересно / закрытые / фильтр) · ${hid.length} — для Ctrl+F по ссылке</div>`+
+    hid.map(d=>`<div class="hid"><b>${d.nr?'№ '+d.nr:'без №'}</b> · ${esc(d.firma)} — ${esc(d.title)} · <i>${lab(d)}</i><br><a href="${d.url}" target="_blank">${[d.url,d.apply_url,...(d.also||[]).map(x=>x.url)].filter(Boolean).map(U).join(' · ')}</a></div>`).join(''));
+}
 function draw(){
   Object.values(markers).forEach(m=>map.removeLayer(m));
   const list=document.getElementById('list');list.innerHTML='';
@@ -203,11 +210,12 @@ function draw(){
         ${d.de?`<div class="warn">⚠ немецкий: ${d.de==='C1+'?'просят C1+ / Muttersprache':'«sehr gut» — B2 может не хватить'}${d.de_txt?` <i>«${esc(d.de_txt)}»</i>`:''}</div>`:''}${d.video?'<div class="warn">🎬 в тексте есть видео/Reels</div>':''}
         <div class="m">${d.ki?'<b>🤖 KI</b> · ':''}<b>${TYPN[d.typ||'Werkstudent']}</b> · <span class="age${days(d)<=0?' fresh':''}">${ago(d)}</span> · <span class="dot" style="background:${KCOL[d.kind]}"></span> ${d.kind} · ${d.src}${d.also&&d.also.length?` <b title="та же вакансия на других сайтах — показана один раз">+${d.also.length} копии</b>`:''}</div>
         ${d.desc?`<div class="m" style="margin-top:3px">${esc(d.desc.slice(0,200))}…</div>`:''}
-        <div class="acts">${gone&&d.email?`<a href="mailto:${esc(d.email)}" style="font-size:12px">✉ ${esc(d.email)}</a> `:''}${gone?'':Object.keys(ST).map(k=>`<button data-m="${k}" class="${mk===k?'on':''}">${ST[k].i} ${mk===k&&HIDE.includes(k)?'вернуть':ST[k].b}</button>`).join('')}<a href="${d.url}" target="_blank" style="font-size:12px">вакансия →</a>${(d.also||[]).map(x=>` <a href="${x.url}" target="_blank" style="font-size:12px;color:var(--mute)">ещё на ${esc(x.src)}</a>`).join('')}</div><div class="urls" title="для поиска Ctrl+F по ссылке">${[d.url,d.apply_url,...(d.also||[]).map(x=>x.url)].filter(Boolean).map(u=>esc(u.replace(/^https?:\/\/(www\.)?/,'').split('?')[0])).join(' · ')}</div>`;
+        <div class="acts">${gone&&d.email?`<a href="mailto:${esc(d.email)}" style="font-size:12px">✉ ${esc(d.email)}</a> `:''}${gone?'':Object.keys(ST).map(k=>`<button data-m="${k}" class="${mk===k?'on':''}">${ST[k].i} ${mk===k&&HIDE.includes(k)?'вернуть':ST[k].b}</button>`).join('')}<a href="${d.url}" target="_blank" style="font-size:12px">вакансия →</a>${(d.also||[]).map(x=>` <a href="${x.url}" target="_blank" style="font-size:12px;color:var(--mute)">ещё на ${esc(x.src)}</a>`).join('')}</div><div class="urls" title="для поиска Ctrl+F по ссылке">${[d.url,d.apply_url,...(d.also||[]).map(x=>x.url)].filter(Boolean).map(U).join(' · ')}</div>`;
       el.onclick=e=>{const b=e.target.closest('button');if(b){setMark(d.id,b.dataset.m);return}if(e.target.closest('a'))return;select(d.id,{scroll:false})};
       list.appendChild(el);
     });
   });
+  hiddenIndex(vis);
   F.render();
 }
 if(!prev)store.set('lastVisit',nowLocal());
