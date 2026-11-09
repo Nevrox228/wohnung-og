@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T15:13",
+ "generated": "2026-11-09T15:46",
  "files": {
   "wohnungen": {
    "json": "https://nevrox228.github.io/wohnung-og/data/wohnungen.json",
@@ -19,7 +19,7 @@
   "werk_jobs": {
    "json": "https://nevrox228.github.io/wohnung-og/data/werk_jobs.json",
    "xlsx": "https://nevrox228.github.io/wohnung-og/data/werk_jobs.xlsx",
-   "count": 347
+   "count": 416
   }
  },
  "readme": "https://nevrox228.github.io/wohnung-og/data/README.md"
