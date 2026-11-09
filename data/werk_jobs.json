@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T19:04",
+ "generated": "2026-11-09T19:51",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -6040,7 +6040,9 @@
    "url": "https://de.linkedin.com/jobs/view/4489114301",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4489103621"
+   ],
    "salary": "",
    "posted": "2026-11-09",
    "first_seen": "2026-11-09T18:47",
