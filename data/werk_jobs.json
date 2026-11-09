@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T23:01",
+ "generated": "2026-11-09T23:47",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -15,7 +15,7 @@
  "counts": {
   "all": 415,
   "queue": 228,
-  "ai_focus": 215
+  "ai_focus": 214
  },
  "jobs": [
   {
@@ -2341,32 +2341,6 @@
    "posted": "2026-10-27",
    "first_seen": "2026-11-04T18:01",
    "description": "ZEISS ist ein Technologieunternehmen, das sich auf Innovationen in Bildverarbeitung und künstlicher Intelligenz konzentriert. Gesucht wird ein Praktikant (m/w/d) im Bereich AI & Machine Learning zur Entwicklung von KI-basierten Lösungen für Bildverarbeitungsaufgaben über den gesamten ML-Pipeline. Einschreibung in einem Bachelor- oder Masterstudium in Informatik, Mathematik oder verwandten Feldern, sichere Python- und PyTorch-Kenntnisse sowie fundierte Grundlagen in Datenvorverarbeitung für Computer Vision werden vorausgesetzt."
-  },
-  {
-   "id": "ss_14670787",
-   "queue": true,
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Working student AI Research Engineer for SLM Optimization (m/f/d/x)",
-   "company": "Mercedes-Benz Tech Innovation",
-   "location": "Karlsruhe",
-   "distance_km": 58.2,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "StepStone",
-   "url": "https://www.stepstone.de/stellenangebote--Working-student-AI-Research-Engineer-for-SLM-Optimization-m-f-d-x-Karlsruhe-Mercedes-Benz-Tech-Innovation--14670787-inline.html",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-10-20",
-   "first_seen": "2026-11-04T18:01",
-   "description": "Mercedes-Benz Tech Innovation GmbH entwickelt innovative Technologien für die Automobilindustrie. Gesucht wird ein Working Student AI Research Engineer for SLM Optimization (m/w/d/x) zur Entwicklung von Caching-Mechanismen für Small Language Models. Ein laufendes Studium in Informatik oder vergleichbarem Fach, Erfahrung in Python-Softwareentwicklung und Kenntnisse in Deep Learning sowie Transformer-Architekturen werden vorausgesetzt."
   },
   {
    "id": "ss_14692039",
@@ -5761,6 +5735,32 @@
    "description": ""
   },
   {
+   "id": "li_4478154470",
+   "queue": true,
+   "status": "open",
+   "stars": 3,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) im Bereich Laserautomatisierung",
+   "company": "Kloeckner Metals - Germany",
+   "location": "Kaufungen",
+   "distance_km": 326.0,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4478154470",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-13",
+   "first_seen": "2026-11-09T23:31",
+   "description": "Wir sind Kloeckner Metals Germany – ein führender produzentenunabhängiger Verarbeiter von Stahl, Edelstahl und Aluminium in Deutschland. An 17 Standorten und Kompetenzzentren arbeiten bei uns rund 800 Mitarbeiterinnen und Mitarbeiter. Mit modernster Maschinen- und Anlagentechnik sowie KI-gestützten Prozessen realisieren wir individuelle Fertigungslösungen auf höchstem Qualitätsniveau, unter anderem für die Bauindustrie sowie den Maschinen- und Anlagenbau. Als innovativer Technologiepartner unterstützen wir unsere Kunden branchenübergreifend dabei, ihre Wertschöpfung effizienter, flexibler und nachhaltiger zu gestalten Für unseren Standort Kaufungen suchen wir Dich als Werkstudent (m/w/d) im Bereich Laserautomatisierung Deine Aufgaben: Betreuung und Weiterentwicklung einer Roboterautomatisierung für eine Laserschneidmaschine in Zusammenarbeit mit der Betriebsleitung, der Arbeitsvorbereitung und dem Hersteller Weiterentwicklung der Anlage und der dazugehörigen Bearbeitungsprogramme Dokumentation der durchgeführten Maßnahmen Betreuung des Maschinendatenerfassungssystems Mitarbeit bei der Implementierung eines IT-Tools zur Bauteilkalkulation in Zusammenarbeit mit der Arbeitsvorbereitung und dem Softwareanbieter Dein Profil: Eingeschriebene:r Student:in im Bereich Maschinenbau, Produktionstechnik, Automatisierung, Steuerungstechnik oder einer vergleichbaren Fachrichtung Kenntnisse von Produktionsmetoden, Produktionslogistik und Produktionstechnologien Hohe IT-Affinität Kommunikationsstärke und respektvoller Umgang auf verschiedenen Hierarchieebenen Selbständige und ergebnisorientierte Arbeitsweise Sehr gute Deutschkenntnisse und Englischkenntnisse in Wort und Schrift Im Gegenzeug bieten wir Dir: Flexible Arbeitszeiten zur optimalen Vereinbarkeit mit dem Studium Einblick in zukunftsweisende Technologien der Laserautomatisierung Engagiertes Team mit offener Unternehmenskultur Möglichkeit, eigene Ideen einzubringen und aktiv mitzugestalten Neueste technische Ausstattung HR Development & Recruiting Impressum"
+  },
+  {
    "id": "ba_10000-1207312172-S",
    "queue": true,
    "status": "open",
@@ -6828,9 +6828,7 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1645814-1-S",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [
-    "https://www.stepstone.de/stellenangebote--Werkstudent-AI-Research-Engineer-for-SLM-Optimization-m-w-d-x-Karlsruhe-Mercedes-Benz-Tech-Innovation--14670785-inline.html"
-   ],
+   "also_urls": [],
    "salary": "",
    "posted": "2026-10-21",
    "first_seen": "2026-11-04T12:29",
