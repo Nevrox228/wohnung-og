@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T14:10",
+ "generated": "2026-11-10T14:58",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 52,
+ "count": 51,
  "items": [
   {
    "id": "li_4461528816",
@@ -93,28 +93,6 @@
    "also_urls": []
   },
   {
-   "id": "li_4482372983",
-   "src": "LinkedIn",
-   "title": "Praxisintegrierte Ausbildung (PiA) zum Erzieher (m/w/d)",
-   "firma": "Stadtverwaltung Lahr Personalamt",
-   "ort": "Lahr/Schwarzwald",
-   "plz": "",
-   "street": "",
-   "lat": 48.338896,
-   "lon": 7.8710825,
-   "url": "https://de.linkedin.com/jobs/view/4482372983",
-   "posted": "2026-09-29",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 16.3,
-   "kind": "Общее / другое",
-   "ausb": true,
-   "first_seen": "2026-11-10T09:56",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "ba_12412-7208cf14_JB5294448-S",
    "src": "Jobbörse",
    "title": "Erzieher (m/w/d) - Jugend- und Heimerzieher",
@@ -162,7 +140,8 @@
    "status": "open",
    "also_urls": [
     "https://de.linkedin.com/jobs/view/4462611314",
-    "https://de.linkedin.com/jobs/view/4487950738"
+    "https://de.linkedin.com/jobs/view/4487950738",
+    "https://de.linkedin.com/jobs/view/4487134659"
    ]
   },
   {
@@ -411,7 +390,9 @@
    "ausb": false,
    "first_seen": "2026-11-03T21:02",
    "status": "open",
-   "also_urls": []
+   "also_urls": [
+    "https://www.jobware.de/job/erzieher-m-w-d-in-teilzeit-in-und-um-freiburg-065038539"
+   ]
   },
   {
    "id": "ss_14564343",

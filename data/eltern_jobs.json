@@ -1,9 +1,192 @@
 {
- "generated": "2026-11-10T14:10",
+ "generated": "2026-11-10T14:58",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 423,
+ "count": 418,
  "items": [
+  {
+   "id": "marina:ba_15518-T61AVBZUUQMT2QFM-S",
+   "src": "Jobbörse",
+   "title": "Zimmermann - Schreiner Sonderanfertigung (m/w/d)",
+   "firma": "iperdi GmbH",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.691287219,
+   "lon": 8.151568768,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-T61AVBZUUQMT2QFM-S",
+   "posted": "2026-11-10",
+   "desc": "Iperdi GmbH iperdi ist ein mittelständisches Unternehmen für Personaldienstleistungen in Familien- bzw. Privatbesitz. Über 2.500 Firmenkunden aus vielen Branchen vertrauen uns als erfahrenen Spezialisten für Personalleasing, Personalvermittlung und individuelle Personalkonzepte sowie für In-House-Services. Mit über 3.000 externen vielseitig qualifizierten Kolleginnen und Kollegen in Deutschland sind wir jederzeit Ihr zuverlässiger Partner für alle Personalfragen. Zimmermann - Schreiner Sonderanfertigung (m/w/d) Standort: Bühl Anstellungsart(en): Vollzeit Zweck und Ziel der Stelle Bei uns stehst du im Vordergrund, und ein ganzes Team hinter dir: Denn Respekt, gegenseitige Wertschätzung und Unterstützung sind für uns das Wichtigste – egal, in welcher Position du bei uns arbeitest. Du hast Lust auf Veränderungen und abwechslungsreiche Aufgaben? Aufgaben: - eigenständiger Aufbau und Erstellung von Schalungen nach vorgegebenen Bauplänen - Einmessungen und Einbau von Einbauteilen, Transportmaterial, Bewehrung - selbstständige Betonage der Fertigteile und anschließende Verarbeitung zu einem fertigen Produkt unter Einhaltung vorgegebener Liefertermine - Lesen von Plänen und Zeichnungen - durch die verschiedenen Arbeitsabläufe veredelst du die Rohstoffe und Materialien zu einem wertigen Produkt Voraussetzung: - mehrjährige Berufserfahrung im Baugewerbe erwünscht - technisches Verständnis und handwerkliches Geschick - lesen von Bauplänen - räumliches Vorstellungsvermögen - sorgfältige und teamorientierte Arbeitsweise - Verantwortungsbewusstsein und selbständiges Arbeiten Benefits: - Mitarbeiterrabatte durch Corporate Benefits bei 1500 Shops (z.B. About You, Apple, Boss, HP, Samsung u.v.m) - Sicherheit durch einen unbefristeten Arbeitsvertrag bei einem der TOP-Personaldienstleister in Deutschland (FOCUS SPEZIAL und LÜNENDONK®-LISTE) - Abschlagzahlungen (wenn gewünscht) - Langfristiger Einsatz bei renommierten Kunden - Viele Zusatzleistungen wie Urlaubs- und Weihnachtsgeld, Leistungszulagen und Prämien durch JOB'N CASH-Programm - Zukunftssicherheit durch mögliche Übernahme in den Kundenbetrieb Ständig vergeben wir Jobs in Vollzeit, auch für Berufs- und Quereinsteiger: Staplerfahrer, Helfer oder Fachhelfer in Produktion – Lager – Metall - Elektro - Montage - Verpackung - Logistik. Sicher Dir unsere Prämie, wenn Du aus Freundes- oder Bekanntenkreis eine Jobempfehlung gibst. Kontaktdaten für Stellenanzeige: Dein Ansprechpartner Herr Patrick Kiefer freut sich - auf Deinen Anruf unter der 07222 - 9311260 - auf eine Whatsapp Nachricht an +49159 0409 5809 - auf Deine E-Mail an kuppenheim@iperdi.de - oder auf Deinen spontanen Besuch in der Neufeldstr. 6, 76456 Kuppenheim Wir reagieren innerhalb 24 Stunden nach Eingang Deiner Bewerbung!",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 18.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-10T14:41",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 27,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:43",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:43",
+        "min": 27
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 74
+     },
+     {
+      "kind": "как в приложении",
+      "min": 72,
+      "changes": 2,
+      "min_wait": 9,
+      "walk_end": 11,
+      "end_stop": "Kappelwindeck Bachschlossschule",
+      "dep": "06:32",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "268",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Bachschlossschule",
+        "dep": "07:26",
+        "arr": "07:34",
+        "wait": 9,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Bachschlossschule",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:45",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "велосипед",
+      "min": 93,
+      "changes": 0,
+      "km": 22.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 93
+       }
+      ],
+      "risky": false,
+      "score": 166
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_12122-982343460-S",
    "src": "Jobbörse",
@@ -160,6 +343,178 @@
     "best": "транспорт",
     "min": 98,
     "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_11081-JZ1AT7IPK4KY6WGS-S",
+   "src": "Jobbörse",
+   "title": "Kommissionierer (gn)",
+   "firma": "Manpowergroup Deutschland GmbH & Co. KG",
+   "ort": "Lahr",
+   "street": "",
+   "lat": 48.339974563,
+   "lon": 7.872253113,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11081-JZ1AT7IPK4KY6WGS-S",
+   "posted": "2026-11-10",
+   "desc": "Kommissionierer (gn) Stellen-ID: 4588 Standort: Lahr, Schwarzwald Anstellungsart(en): Vollzeit Arbeitszeit: 35 Stunden pro Woche Beschäftigungsbeginn: 15.02.2026 Zweck und Ziel der Stelle Wir suchen für unseren Kunden, ein erfolgreiches Unternehmen in Lahr, zuverlässige und freundliche Kommissionierer in Vollzeit, für verschiedene Aufgaben im Lager ! Sie sind auf der Suche nach einer spannenden neuen Herausforderung im Bereich Lager und Logistik und möchten Ihre Fähigkeiten als Kommissionierer in einem dynamischen Unternehmen einbringen? Dann sollten wir uns kennenlernen! Manpower ist eines der weltweit größten Unternehmen für Personaldienstleistungen. Wir bieten eine Vielzahl von Dienstleistungen im Bereich der Arbeitsvermittlung und -verwaltung an, darunter Zeitarbeit, Personalvermittlung, Outsourcing und Talententwicklung. Bewerben Sie sich für Ihren neuen Job jetzt online: Wenn Sie einen aktuellen Lebenslauf haben, können Sie sogar auf ein Anschreiben verzichten. Somit geht der Bewerbungsprozess noch einfacher und schneller von der Hand. Berufseinsteiger willkommen!!! Die Aufgaben als Kommissionierer : - Überprüfung von Beständen und Inventuren - Verpackung und Versandvorbereitung von Lieferungen - Einhaltung von Qualitätsstandards und Sicherheitsrichtlinien - Zusammenstellung von Aufträgen und Kommissionierung von Waren Ihr Profil : - Erfahrung im Bereich Kommissionierung wünschenswert, nicht zwingend erforderlich - Zuverlässige und gewissenhafte Arbeitsweise - Bereitschaft zur 2-3 Schichtarbeit - Teamfähigkeit und Flexibilität Unser Angebot an Sie als Kommissionierer : - Urlaubs- und Weihnachtsgeld - Unbefristeter Arbeitsvertrag in Vollzeit - Gute Übernahmeoption beim Kundenunternehmen - Angenehmes Arbeitsumfeld und moderner Arbeitsplatz - Attraktive Vergütung ab 17,00€ und Schichtzuschläge - Möglichkeiten zur persönlichen und beruflichen Weiterentwicklung - Viele Mitarbeiterrabatte bis zu 30% bei Unternehmen wie Adidas, WMF, Apollo Interesse? Wir warten schon auf Ihre Bewerbung! Der schnellste Weg zu uns führt über den Bewerben-Button! Oder Sie senden einfach Ihren Lebenslauf (gerne auch ohne Anschreiben) an folgende E-Mail: Bewerbung-Lahr@manpower.de Wir leben Vielfalt und Chancengleichheit und freuen uns deshalb natürlich über Bewerbungen von Menschen mit Behinderung. Alle personenbezogenen Formulierungen in der Stellenanzeige sind geschlechtsneutral zu betrachten. Abteilung(en): Transport und Logistik Art(en) des Personalbedarfs: Arbeitnehmerüberlassung Tarifvertrag: BAP/DGB ggf. anhängende Branchentarifverträge",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 26.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-10T12:59",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 66,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 3,
+      "end_stop": "Lahr Lammstraße",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Lammstraße",
+        "dep": "07:27",
+        "arr": "07:35",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Lammstraße",
+        "to": "работа",
+        "dep": "07:35",
+        "arr": "07:38",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 72
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 266,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 240,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:58",
+        "min": 240
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 266
+     },
+     {
+      "kind": "велосипед",
+      "min": 146,
+      "changes": 0,
+      "km": 35.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 146
+       }
+      ],
+      "risky": false,
+      "score": 272
+     }
+    ],
+    "best": "транспорт",
+    "min": 66,
+    "changes": 2
    },
    "status": "open",
    "also_urls": [],
@@ -9694,319 +10049,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ka_3563833255",
-   "src": "Kleinanzeigen",
-   "title": "Aushilfe (m/w/d) Minijob im Supermarkt Getränkehersteller",
-   "firma": "TMS Trademarketing Service GmbH",
-   "ort": "Schwanau",
-   "plz": "77963",
-   "street": "",
-   "lat": 48.3649357,
-   "lon": 7.7639382,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833255-107-8038",
-   "posted": "2026-11-07",
-   "posted_time": "09:26",
-   "desc": "Coca-Cola Warenverräumer (m/w/d) Minijob / Nebenjob - Schwanau Dein Job bei TMS ⏰ Arbeitsort: 77963 Schwanau ⏰ Arbeitstage: Mi - 1,5 Std. ⏰ Arbeitszeiten: wöchentlich 3-4 Stunden während der Marktöffnungszeiten ✍️ Eigenständige Pflege der Coca-Cola-Markenwelt im Supermarkt ✍️ Bestücken der Getränkekühlschränke im Kassenbereich des Supermarktes ✍️ Kontrolle von Qualität und Haltbarkeit ✍️ Dokumentation der Tätigkeiten per App Was wir bieten: ✅ Einen unbefristeten Arbeitsvertrag für langfristige Sicherheit ✅ Einen sicheren Arbeitsplatz mit Zukunftsperspektive ✅ Flexible Arbeitszeiten für eine ideale Vereinbarkeit von Beruf und Privatleben ✅ Pünktliche und verlässliche Bezahlung Anforderungsprofil: ✅ Keine Vorkenntnisse nötig - Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freundlich",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 29.8,
-   "de": "нужен",
-   "de_txt": "Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freun",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 102,
-      "changes": 2,
-      "min_wait": 3,
-      "walk_end": 11,
-      "end_stop": "Allmannsweier Oberdorf",
-      "dep": "17:36",
-      "arr": "19:19",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "17:36",
-        "arr": "17:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "17:47",
-        "arr": "18:03",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB26",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "18:06",
-        "arr": "18:16",
-        "wait": 3,
-        "min": 10
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "106",
-        "from": "Lahr (Schwarzw)",
-        "to": "Ottenheim Schule",
-        "dep": "18:44",
-        "arr": "18:57",
-        "wait": 28,
-        "min": 13
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "106",
-        "from": "Ottenheim Schule",
-        "to": "Allmannsweier Oberdorf",
-        "dep": "18:59",
-        "arr": "19:08",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Allmannsweier Oberdorf",
-        "to": "работа",
-        "dep": "19:08",
-        "arr": "19:19",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 120
-     },
-     {
-      "kind": "велосипед",
-      "min": 172,
-      "changes": 0,
-      "km": 42.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 172
-       }
-      ],
-      "risky": false,
-      "score": 324
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 324,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 298,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "14:36",
-      "arr": "20:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "14:36",
-        "arr": "14:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "14:47",
-        "arr": "15:03",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "15:03",
-        "arr": "20:01",
-        "min": 298
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 324
-     }
-    ],
-    "best": "транспорт",
-    "min": 102,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833250-107-8045"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3563833233",
-   "src": "Kleinanzeigen",
-   "title": "Aushilfe (m/w/d) Minijob im Supermarkt Getränkehersteller",
-   "firma": "TMS Trademarketing Service GmbH",
-   "ort": "Ottersweier",
-   "plz": "77833",
-   "street": "",
-   "lat": 48.679928,
-   "lon": 8.0864689,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833233-107-8749",
-   "posted": "2026-11-07",
-   "posted_time": "09:26",
-   "desc": "Coca-Cola Warenverräumer (m/w/d) Minijob / Nebenjob - Ottersweier Dein Job bei TMS ⏰ Arbeitsort: 77833 Ottersweier ⏰ Arbeitstage: Fr - 1 Std. ⏰ Arbeitszeiten: wöchentlich 3-4 Stunden während der Marktöffnungszeiten ✍️ Eigenständige Pflege der Coca-Cola-Markenwelt im Supermarkt ✍️ Bestücken der Getränkekühlschränke im Kassenbereich des Supermarktes ✍️ Kontrolle von Qualität und Haltbarkeit ✍️ Dokumentation der Tätigkeiten per App Was wir bieten: ✅ Einen unbefristeten Arbeitsvertrag für langfristige Sicherheit ✅ Einen sicheren Arbeitsplatz mit Zukunftsperspektive ✅ Flexible Arbeitszeiten für eine ideale Vereinbarkeit von Beruf und Privatleben ✅ Pünktliche und verlässliche Bezahlung Anforderungsprofil: ✅ Keine Vorkenntnisse nötig - Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freundlich",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 16.5,
-   "de": "нужен",
-   "de_txt": "Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freun",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 101,
-      "changes": 2,
-      "min_wait": 11,
-      "walk_end": 12,
-      "end_stop": "Breithurst Abzw. Breithurst",
-      "dep": "06:32",
-      "arr": "08:13",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "266",
-        "from": "Bühl (Baden)",
-        "to": "Breithurst Abzw. Breithurst",
-        "dep": "07:46",
-        "arr": "08:02",
-        "wait": 29,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Breithurst Abzw. Breithurst",
-        "to": "работа",
-        "dep": "08:02",
-        "arr": "08:13",
-        "min": 12
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 107
-     },
-     {
-      "kind": "велосипед",
-      "min": 93,
-      "changes": 0,
-      "km": 22.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 93
-       }
-      ],
-      "risky": false,
-      "score": 166
-     }
-    ],
-    "best": "транспорт",
-    "min": 101,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_11932-370-1787244-0-S",
    "src": "Jobbörse",
    "title": "Kommissionierer (m/w/d) in 2-Schicht",
@@ -16558,34 +16600,84 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1003383232-S",
+   "id": "marina:ba_16334-n3kqc8eho68nwvq8ne-S",
    "src": "Jobbörse",
    "title": "Reinigungskraft (m/w/d)",
-   "firma": "Hotel Ritter Durbach GmbH & Co.KG",
-   "ort": "Durbach",
-   "street": "Tal 1",
-   "lat": 48.4942317,
-   "lon": 8.0169031,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003383232-S",
-   "posted": "2026-07-14",
-   "desc": "Wolltest Du schon immer im wunderschönen Schwarzwald arbeiten und legst Du großen Wert auf makellose Sauberkeit? Dann ist unser Hotel Ritter genau der richtige Ort für Dich. Werde Teil unseres Teams und schaffe gemeinsam mit uns ein einladendes Umfeld für unsere Gäste als: **Gastgeber:in & Reinigungsprofi** Als Reinigungskraft sorgst Du für strahlende Sauberkeit und trägst maßgeblich dazu bei, dass unsere Gäste pure Erholung in einer makellosen Umgebung erleben können. Egal, ob Du bereits Erfahrung in diesem Bereich mitbringst oder einfach Lust auf etwas Neues hast – in unserem Hotel erhältst Du die Möglichkeit, in einem großartigen Team zu arbeiten und Deinen eigenen Beitrag zum perfekten Aufenthalt unserer Gäste zu leisten. ### Deine Aufgaben: - Reinigung aller zugeordneten Bereiche und Zimmer gemäß der hausinternen Standards - Achten auf Sauberkeit und Vorhandensein aller Gästeartikel - Verantwortung für die ordnungsgemäße Ausstattung der VIP Zimmer - Kostenbewusste Anwendung und Verwaltung aller Materialien sowie rechtzeitige Nachbestellung dieser - Unterstützung bei der Durchführung von Bestandsaufnahmen in den Lagerräumen ### Das bringst Du idealerweise mit: - Auge für Details, Sauberkeit und Ordnung auch in stressigen Situationen - Kenntnisse über die unterschiedlichen Materialien und richtige Anwendung der Reinigungs- und Pflegemittel - Sorgsamer Umgang mit der Einrichtung und fremdem Eigentum - Ein freundliches und herzliches Wesen - Loyalität, Zuverlässigkeit und Flexibilität - Grundkenntnisse Deutsch oder Englisch ### Das kannst du von uns erwarten: - Ein modernen Arbeitsplatz im Herzen des Schwarzwalds - Eine faire Vergütung und attraktive Benefits - Eine abwechselungsreiche Tätigkeit in einem inspirierenden und innovativen Umfeld - Unterstützung durch unser erfahrenes und motiviertes Team - Aus- und Weiterbildungsmöglichkeiten sowie jährliche Mitarbeitergespräche mit dem Blick auf dein Wohl und deine Entwicklung - Personalzimmer oder Hilfe bei der Wohnungssuche - Mitglied bei Fair Job Hotels ### Lust Glücksritter zu sein? Dann lerne uns ganz unkompliziert kennen: Schick uns einfach Terminvorschläge für ein kurzes digitales Kennenlernen – ganz ohne Anschreiben oder Lebenslauf. **Per WhatsApp: +49 157 356 189 46** oder klassisch unter **bewerbung@ritter-durbach.de** Du erfüllst noch nicht alle Anforderungen? Sofern Du motiviert bist und Dich weiterentwickeln möchtest, unterstützen wir Dich gerne auf Deinem Weg.",
-   "zeit": " / Teilzeit",
+   "firma": "Hotel Adlerbad OHG",
+   "ort": "Bad Peterstal-Griesbach",
+   "street": "",
+   "lat": 48.4381434,
+   "lon": 8.2196769,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16334-n3kqc8eho68nwvq8ne-S",
+   "posted": "2026-10-27",
+   "desc": "Über uns Herzlich Willkommen im Häfners FlairHotel Adlerbad in der Nationalparkregion Schwarzwlad Das Häfners FlairHotel Adlerbad im Schwarzwald ist ein familiengeführtes Ferienhotel mit 44 Betten und 3 Restaurants. Ein Lächeln, ein paar nette Worte und das Gefühl bei uns im Adlerbad angekommen zu sein .... Ganz nach dem Motto unserer Küche: \"Schmeck den Schwarzwald\" kochen wir mit frischen, saisonalen, regionalen Produkten. Die Gäste schätzen das umfangreiche Frühstücksbüffet, das abwechslungsreiche 5 GAng Abend Menu und unser à la carte Angebot. Für Gruppen bis 40 Personen bieten wir Bankettservice an. Als familiengeführtes Hotel wissen wir, wie wichtig es motiviertes Team ist. Wir sind stolz auf unsere Mitarbeiter, die mit Herz und Leidenschaft täglich für das Wohl der Gäste sorgen. Werde Teil unseres Teams und leiste deinen Anteil daran, dass unsere Gäste sich bei uns wie zu Hause fühlen. Wir freuen uns auf dich! Das bieten wir dir: Deine Vorteile bei uns: * ein familiäres Miteinander – geprägt durch Respekt und Anerkennung * 4 / 5 oder 6 Tage Woche – Vollzeit / Teilzeit oder Mini-Job ist möglich * familienfreundliche Teilzeitmodelle – an deine Lebenssituation angepasst * rotierendes Frei an Sonn- und Feiertagen * übertarifliche, leistungsgerechte Bezahlung * Sonntags- und Feiertagszuschläge, Weihnachtsgeld * Fahrtkostenzuschuss oder Tankgutschein * plus und minus Stunden werden in einem Stundenkonto dokumentiert – in Freizeit vergütet oder ausbezahlt * Verpflegung zu vergünstigten Mitarbeiterkonditionen * vergünstigte Übernachtungen zu preiswerten Mitarbeiterkonditionen in allen 40 Flair Hotels Das könnten bald deine Aufgaben sein: Deine Aufgaben: * du liebst es die Gästezimmer herzurichten * du achtest auf Kleinigkeiten * du pflegst die Restauant- und Nebenräume * mit Liebe versorgst du die Balkonblumen Das solltest du mitbringen: Was dich ausmacht: * Erfahrung im Bereich Housekeeping oder auch Quereinsteiger * du hast Spaß an der Arbeit – mit Herz und Leidenschaft * du bist freundlich und zuvorkommend * für dich ist rotierendes Frei am Wochenende und an Feiertagen kein Problem * Einsatzbereitschaft gehört zu deinen Eigenschaften * einfache Deutschkenntnisse sind von Vorteil",
+   "zeit": "",
    "schicht": false,
    "quer": false,
    "who": "marina",
-   "km": 6.3,
-   "de": "?",
-   "de_txt": "",
+   "km": 14.5,
+   "de": "немного",
+   "de_txt": "einfache Deutschkenntnisse sind von Vorteil",
    "agency": false,
    "kind": "Уборка",
    "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
    "route": {
     "opts": [
      {
-      "kind": "велосипед",
-      "min": 34,
+      "kind": "транспорт",
+      "min": 40,
       "changes": 0,
-      "km": 8.0,
+      "min_wait": null,
+      "walk_end": 6,
+      "end_stop": "Bad Peterstal Mülben",
+      "dep": "12:12",
+      "arr": "12:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "12:12",
+        "arr": "12:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Bad Peterstal Mülben",
+        "dep": "12:19",
+        "arr": "12:46",
+        "wait": null,
+        "min": 27
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bad Peterstal Mülben",
+        "to": "работа",
+        "dep": "12:46",
+        "arr": "12:52",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 40
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
       "legs": [
        {
         "walk": false,
@@ -16596,128 +16688,19 @@
         "to": "работа",
         "dep": "",
         "arr": "",
-        "min": 34
+        "min": 83
        }
       ],
       "risky": false,
-      "score": 48
-     },
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 1,
-      "min_wait": 26,
-      "walk_end": 1,
-      "end_stop": "Durbach Rathaus",
-      "dep": "06:32",
-      "arr": "07:44",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7142",
-        "from": "Offenburg Bahnhof Ost",
-        "to": "Durbach Rathaus",
-        "dep": "07:25",
-        "arr": "07:43",
-        "wait": 26,
-        "min": 18
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Durbach Rathaus",
-        "to": "работа",
-        "dep": "07:43",
-        "arr": "07:44",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 74
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 112,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 86,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "15:36",
-      "arr": "17:29",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "15:36",
-        "arr": "15:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "15:47",
-        "arr": "16:03",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "16:03",
-        "arr": "17:29",
-        "min": 86
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 112
+      "score": 146
      }
     ],
-    "best": "велосипед",
-    "min": 34,
+    "best": "транспорт",
+    "min": 40,
     "changes": 0
    },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
    "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16334-n3kqc8eho68nwvq8ne-S"
-   ],
+   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -19561,246 +19544,6 @@
    "prof_txt": "",
    "help": "",
    "ru": "",
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1003014532-S",
-   "src": "Jobbörse",
-   "title": "Feriengäste glücklich machen – Reinigungskraft (m/w/d)",
-   "firma": "Sandra Roth",
-   "ort": "Freudenstadt",
-   "street": "Alter Weg 29",
-   "lat": 48.473451,
-   "lon": 8.3057805,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003014532-S",
-   "posted": "2026-05-04",
-   "desc": "## Feriengäste glücklich machen – Reinigungskraft (m/w/d) Du wohnst im Schwarzwald und weißt, wie man wirklich gründlich reinigt? Du arbeitest zuverlässig, sorgfältig und hast ein gutes Auge fürs Detail? Dann freuen wir uns, Dich kennenzulernen. Auch wenn Du bereits im Ruhestand bist und Lust hast, aktiv zu bleiben: Melde Dich gern bei uns! ### Kurz zu uns Wir sind eine lebhafte Familie aus dem Schwarzwald mit vier Kindern, einem Hund und zwei Katzen. Mit viel Engagement vermieten wir mehrere familienfreundliche Ferienhäuser. Unser Ziel: Unterkünfte zu schaffen, in denen sich unsere Gäste vom ersten Moment an wohlfühlen – fast wie zu Hause. Dabei spielt die Reinigung eine zentrale Rolle. Sauberkeit ist für uns der wichtigste Qualitätsfaktor – und genau hier kommst Du ins Spiel. ### Deine Aufgaben - Gründliche Reinigung unserer Ferienhäuser - Pflege von Bädern, Wohnräumen und Schlafzimmern - Vorbereitung der Häuser für anreisende Gäste - Arbeiten mit Blick fürs Detail – gern mit Musik oder Hörspiel im Ohr ### Das bringst Du mit - Freude an der Reinigung von Ferienhäusern - Zuverlässige, sorgfältige und selbstständige Arbeitsweise - Führerschein und eigenes Auto (**notwendig**) - Flexibilität und Teamgeist - Sinn für Ordnung und Sauberkeit ### Was wir Dir bieten **Arbeitsmodell** - **Teilzeit: 60–100 Stunden pro Monat** **Häufige Arbeitstage sind** - **Freitag, Samstag, Montag** **Arbeitszeiten** - **Montag:** ab **8 Uhr – 16 Uhr** - **Andere Tage:** ab **10 Uhr – 16 Uhr** **Vergütung** - Stundenlohn: **15,50 €** **Arbeitsumfeld** - Familiäres, wertschätzendes Arbeitsumfeld - Verständnis für Deine persönliche Lebenssituation und flexible Lösungen - Abwechslungsreiche Einsätze statt starrer Routine ### Einsatzorte Unsere Ferienhäuser befinden sich in: - **Alpirsbach – Kernstadt** - **Alpirsbach – Reinerzau** - **Freudenstadt-Kniebis** - **Seewald** - **Enzklösterle**",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 17.6,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 157,
-      "changes": 2,
-      "min_wait": 6,
-      "walk_end": 4,
-      "end_stop": "Kniebis Klosterhof",
-      "dep": "05:21",
-      "arr": "07:59",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS1",
-        "from": "Offenburg Bahnhof",
-        "to": "Wolfach",
-        "dep": "05:54",
-        "arr": "06:26",
-        "wait": 6,
-        "min": 32
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7266",
-        "from": "Wolfach",
-        "to": "Kniebis Klosterhof",
-        "dep": "07:10",
-        "arr": "07:55",
-        "wait": 44,
-        "min": 45
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kniebis Klosterhof",
-        "to": "работа",
-        "dep": "07:55",
-        "arr": "07:59",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 163
-     },
-     {
-      "kind": "как в приложении",
-      "min": 153,
-      "changes": 2,
-      "min_wait": 4,
-      "walk_end": 4,
-      "end_stop": "Kniebis Klosterhof",
-      "dep": "17:36",
-      "arr": "20:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "17:36",
-        "arr": "17:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "17:47",
-        "arr": "18:03",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS1",
-        "from": "Offenburg Bahnhof",
-        "to": "Wolfach",
-        "dep": "18:41",
-        "arr": "19:14",
-        "wait": 38,
-        "min": 33
-       },
-       {
-        "walk": false,
-        "mode": "Freizeitbus",
-        "line": "F 13",
-        "from": "Wolfach",
-        "to": "Kniebis Klosterhof",
-        "dep": "19:18",
-        "arr": "20:06",
-        "wait": 4,
-        "min": 48
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kniebis Klosterhof",
-        "to": "работа",
-        "dep": "20:06",
-        "arr": "20:10",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 171
-     },
-     {
-      "kind": "велосипед",
-      "min": 102,
-      "changes": 0,
-      "km": 25.1,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 102
-       }
-      ],
-      "risky": false,
-      "score": 184
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 528,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 502,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "17:36",
-      "arr": "02:25",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "17:36",
-        "arr": "17:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "17:47",
-        "arr": "18:03",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "18:03",
-        "arr": "02:25",
-        "min": 502
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 528
-     }
-    ],
-    "best": "транспорт",
-    "min": 157,
-    "changes": 2
-   },
    "status": "open",
    "also_urls": [],
    "person": "Марина"
@@ -40586,130 +40329,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_12384-13134388-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter (m/w/d) Maschinenbedienung",
-   "firma": "Actief Personalmanagment GmbH Achern",
-   "ort": "Oberkirch",
-   "street": "",
-   "lat": 48.5203692,
-   "lon": 8.0682693,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-13134388-S",
-   "posted": "2025-03-27",
-   "desc": "Kunststoff ist dein Ding? Dann haben wir den perfekten Job für dich! Wir bieten eine Stelle in der Produktion im 3-Schichtsystem in einem tollen Betrieb, bewirb dich gleich! Das dürfen Sie von uns erwarten: - Langfristiger und fester Einsatz - Sehr gute und schnelle Übernahmechance! - Attraktive Vergütung nach BAP Tarif inkl. Zulagen und Zuschläge - Jahressonderzahlungen - Interne Aus- und Weiterbildungsmöglichkeiten - Kostenlose Arbeitskleidung Ihre Aufgaben: - Bedienen der Anlagen - Prüfen und Messen der fertigen Teile nach Vorgabe - Dokumentation der Prüfergebnisse und eventuelle Mengel - Aussortieren des Ausschusses und Meldung geben an die zuständigen Fachkräfte - Bei Bedarf Mithilfe in der Verpackung Ihr Profil: - Erste Berufserfahrung in der Maschinenbedienung von Vorteil - 3-Schichtbereitschaft - Bereitschaft zur Wochenendarbeit (jede 3. Woche) - Deutsch lesen, schreiben und verstehen - Bestenfalls Führerschein und Fahrzeug - Zuverlässigkeit hat äußerste Priorität Bei uns zählen Ihre Erfahrungen und Stärken. Wir freuen uns über jede Bewerbung, weil wir bestimmt auch für Sie eine passende Stelle finden. ACTIEF Personalmanagement - PEOPLE IN ACTION - damit auch Sie einer von 5.000 zufriedenen Mitarbeitern in einem expandierenden Unternehmen werden. Wir zahlen mindestens Tarif (BAP) und Sonderleistungen wie Urlaubs- und Weihnachtsgeld. Ihr ACTIEF Berater begleitet Ihre persönliche Weiterentwicklung, sei es durch verschiedene Einsätze bei unseren namhaften Kundenunternehmen oder durch gezielte Maßnahmen - bei ACTIEF erweitern Sie täglich Ihr Wissen und Ihre Fähigkeiten.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 1.6,
-   "de": "нужен",
-   "de_txt": "Deutsch lesen, schreiben und verstehen",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 11,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 11
-       }
-      ],
-      "risky": false,
-      "score": 11
-     },
-     {
-      "kind": "транспорт",
-      "min": 28,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 15,
-      "end_stop": "Oberkirch H.-Furler-Gymnasium",
-      "dep": "07:26",
-      "arr": "07:54",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:26",
-        "arr": "07:34",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Oberkirch H.-Furler-Gymnasium",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": null,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oberkirch H.-Furler-Gymnasium",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:54",
-        "min": 15
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 28
-     },
-     {
-      "kind": "пешком",
-      "min": 31,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 31
-       }
-      ],
-      "risky": false,
-      "score": 32
-     }
-    ],
-    "best": "велосипед",
-    "min": 11,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_13356-105555A35646C49-S",
    "src": "Jobbörse",
    "title": "Produktionsmitarbeiter (m/w/d), gerne Quereinsteiger (m/w/d)",
@@ -48957,180 +48576,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_11081-KXAY2JGLR7VMIZWF-S",
-   "src": "Jobbörse",
-   "title": "Kommissionierer (gn)",
-   "firma": "Manpowergroup Deutschland GmbH & Co. KG",
-   "ort": "Lahr",
-   "street": "",
-   "lat": 48.339974563,
-   "lon": 7.872253113,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11081-KXAY2JGLR7VMIZWF-S",
-   "posted": "2026-10-11",
-   "desc": "Kommissionierer (gn) Stellen-ID: 4588 Standort: Lahr, Schwarzwald Anstellungsart(en): Vollzeit Arbeitszeit: 35 Stunden pro Woche Beschäftigungsbeginn: 15.02.2026 Zweck und Ziel der Stelle Wir suchen für unseren Kunden, ein erfolgreiches Unternehmen in Lahr, zuverlässige und freundliche Kommissionierer in Vollzeit, für verschiedene Aufgaben im Lager ! Sie sind auf der Suche nach einer spannenden neuen Herausforderung im Bereich Lager und Logistik und möchten Ihre Fähigkeiten als Kommissionierer in einem dynamischen Unternehmen einbringen? Dann sollten wir uns kennenlernen! Manpower ist eines der weltweit größten Unternehmen für Personaldienstleistungen. Wir bieten eine Vielzahl von Dienstleistungen im Bereich der Arbeitsvermittlung und -verwaltung an, darunter Zeitarbeit, Personalvermittlung, Outsourcing und Talententwicklung. Bewerben Sie sich für Ihren neuen Job jetzt online: Wenn Sie einen aktuellen Lebenslauf haben, können Sie sogar auf ein Anschreiben verzichten. Somit geht der Bewerbungsprozess noch einfacher und schneller von der Hand. Berufseinsteiger willkommen!!! Die Aufgaben als Kommissionierer : - Überprüfung von Beständen und Inventuren - Verpackung und Versandvorbereitung von Lieferungen - Einhaltung von Qualitätsstandards und Sicherheitsrichtlinien - Zusammenstellung von Aufträgen und Kommissionierung von Waren Ihr Profil : - Erfahrung im Bereich Kommissionierung wünschenswert, nicht zwingend erforderlich - Zuverlässige und gewissenhafte Arbeitsweise - Bereitschaft zur 2-3 Schichtarbeit - Teamfähigkeit und Flexibilität Unser Angebot an Sie als Kommissionierer : - Urlaubs- und Weihnachtsgeld - Unbefristeter Arbeitsvertrag in Vollzeit - Gute Übernahmeoption beim Kundenunternehmen - Angenehmes Arbeitsumfeld und moderner Arbeitsplatz - Attraktive Vergütung ab 17,00€ und Schichtzuschläge - Möglichkeiten zur persönlichen und beruflichen Weiterentwicklung - Viele Mitarbeiterrabatte bis zu 30% bei Unternehmen wie Adidas, WMF, Apollo Interesse? Wir warten schon auf Ihre Bewerbung! Der schnellste Weg zu uns führt über den Bewerben-Button! Oder Sie senden einfach Ihren Lebenslauf (gerne auch ohne Anschreiben) an folgende E-Mail: Bewerbung-Lahr@manpower.de Wir leben Vielfalt und Chancengleichheit und freuen uns deshalb natürlich über Bewerbungen von Menschen mit Behinderung. Alle personenbezogenen Formulierungen in der Stellenanzeige sind geschlechtsneutral zu betrachten. Abteilung(en): Transport und Logistik Art(en) des Personalbedarfs: Arbeitnehmerüberlassung Tarifvertrag: BAP/DGB ggf. anhängende Branchentarifverträge",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 26.2,
-   "de": "?",
-   "de_txt": "",
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 66,
-      "changes": 2,
-      "min_wait": 7,
-      "walk_end": 3,
-      "end_stop": "Lahr Lammstraße",
-      "dep": "06:32",
-      "arr": "07:38",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB26",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "07:06",
-        "arr": "07:16",
-        "wait": 7,
-        "min": 10
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Lahr",
-        "line": "105",
-        "from": "Lahr (Schwarzw)",
-        "to": "Lahr Lammstraße",
-        "dep": "07:27",
-        "arr": "07:35",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Lahr Lammstraße",
-        "to": "работа",
-        "dep": "07:35",
-        "arr": "07:38",
-        "min": 3
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 72
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 266,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 240,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "10:58",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "10:58",
-        "min": 240
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 266
-     },
-     {
-      "kind": "велосипед",
-      "min": 146,
-      "changes": 0,
-      "km": 35.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 146
-       }
-      ],
-      "risky": false,
-      "score": 272
-     }
-    ],
-    "best": "транспорт",
-    "min": 66,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11081-JZ1AT7IPK4KY6WGS-S"
-   ],
    "person": "Марина"
   },
   {
@@ -57886,167 +57331,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10000-1208010895-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter für das Qualitätsmanagement (m/w/d) in Teilzeit",
-   "firma": "Klocke Pharma Service GmbH",
-   "ort": "Appenweier",
-   "street": "Straßburger Str. 77",
-   "lat": 48.55779,
-   "lon": 7.977969,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208010895-S",
-   "posted": "2026-09-24",
-   "desc": "Die KLOCKE-GRUPPE bietet ihren Kunden seit über 40 Jahren die komplette Dienstleistungspalette der Auftragsherstellung und Verpackung von Arzneimitteln, Medizinprodukten und Nahrungsergänzungsmitteln. Für unser Unternehmen KLOCKE Pharma-Service GmbH in Appenweier suchen wir zum nächstmöglichen Zeitpunkt eine/n **Mitarbeiter für das Qualitätsmanagement (m/w/d) in Teilzeit zunächst für 1 Jahr befristet** **Ihre Aufgaben:** - Pflege des Dokumentenmanagementsystems, insbesondere Verwaltung und Status - Verfolgung von SOP´s, Schulungen, Abweichungen, CAPAs und Change Control Vorgängen. - Kommunikation und Einholen von Genehmigungen von Change Control Vorgängen bei Kunden. - Einholen von Beglaubigungen der Herstellerlaubnis, GMP-Zertifikat bei Behörden und Botschaften - Organisation von Notargängen - Anfragen bei Lieferanten / Dienstleistern zu Bestätigungen / Zertifikaten - Auditvorbereitung und Beihilfe bei Erstellung der entsprechenden Aktionspläne - Unterstützung bei der Erstellung des Management Reviews - Auslesen von Datenloggern und Weiterleiten der Daten an interne / externe Ansprechpartner. - Archivierung von QM-Dokumenten **Unsere Anforderungen:** - Abgeschlossene kaufmännische oder technische Ausbildung, gerne mit Zusatzqualifikationen im Bereich QM - Idealerweise bereits Berufserfahrung in der Pharmaindustrie / GMP Umfeld - Sicherer Umgang mit PC-Anwendersoftware - Sehr gute Deutsch- und gute Englischkenntnisse - Gewissenhafte und strukturierende Fähigkeiten gepaart mit verbindlichem Auftreten und Durchsetzungsvermögen **Wir bieten:** - umfangreiche Einarbeitung in ein interessantes und verantwortungsvolles Aufgabengebiet - ein engagiertes und kollegiales Team in einem guten Betriebsklima - eine leistungsgerechte Vergütung - mobiles Arbeiten möglich - moderne Arbeitsplätze Weitere Informationen zu unseren Produkten und Dienstleistungen finden Sie auf unserer Webseite www. klocke.com Wenn Sie sich von diesen Aufgaben angesprochen fühlen, senden Sie uns bitte Ihre Bewerbungsunterlagen mit Angabe Ihres frühesten Eintrittstermins sowie Ihrer Gehaltsvorstellung an: **KLOCKE Pharma-Service GmbH** Personalabteilung Straßburger Straße 77 – 77767 Appenweier E-Mail: [personal@klocke-pharma.de](mailto:personal@klocke-pharma.de)",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 8.2,
-   "de": "нужен",
-   "de_txt": "Sehr gute Deutsch- und gute Englischkenntnisse",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 44,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 25,
-      "end_stop": "Appenweier",
-      "dep": "05:21",
-      "arr": "06:05",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "05:32",
-        "arr": "05:41",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier",
-        "to": "работа",
-        "dep": "05:41",
-        "arr": "06:05",
-        "min": 25
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 44
-     },
-     {
-      "kind": "как в приложении",
-      "min": 45,
-      "changes": 1,
-      "min_wait": 17,
-      "walk_end": 5,
-      "end_stop": "Urloffen Zimmern",
-      "dep": "06:59",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "07:10",
-        "arr": "07:19",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7135",
-        "from": "Appenweier",
-        "to": "Urloffen Zimmern",
-        "dep": "07:36",
-        "arr": "07:40",
-        "wait": 17,
-        "min": 4
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Urloffen Zimmern",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:45",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 48
-     },
-     {
-      "kind": "велосипед",
-      "min": 51,
-      "changes": 0,
-      "km": 12.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 51
-       }
-      ],
-      "risky": false,
-      "score": 82
-     }
-    ],
-    "best": "транспорт",
-    "min": 44,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10001-1003914513-S",
    "src": "Jobbörse",
    "title": "Mitarbeiter (m/w/d) für unsere Brillenmanufaktur",
@@ -59859,190 +59143,6 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44405346-827-S"
    ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3561432200",
-   "src": "Kleinanzeigen",
-   "title": "Reinigungskraft in der Filiale Minijob (m/w/d) (Baiersbronn)",
-   "firma": "my-perfect-job.de",
-   "ort": "Baiersbronn",
-   "plz": "72270",
-   "street": "",
-   "lat": 48.5416972,
-   "lon": 8.3252756,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-in-der-filiale-minijob-m-w-d-baiersbronn-/3561432200-107-8719",
-   "posted": "2026-11-04",
-   "posted_time": "13:04",
-   "desc": "Lidl Freiburg Süd sucht: Reinigungskraft in der Filiale Minijob (m/w/d) JETZT BEWERBEN unter https://www.stepstone.de/job/14440964/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________ Wir wollen für unsere Kunden nur das Beste. Dich zum Beispiel. Egal, was du bei Lidl machst ? du machst es mit vollem Einsatz. Zusammen zeigen wir, dass im Einzelhandel zu arbeiten bedeutet, jeden Tag als Team zu arbeiten – und dafür Wertschätzung und ein faires Gehalt zu bekommen. Als Teil eines engagierten Teams kümmerst du dich um alle anfallenden Reinigungsarbeiten in der Filiale Du packst an und bist mit vollem Einsatz dabei, wenn es um Ordnung und Sauberkeit geht Mit deinem Auge fürs Detail sorgst du für ein gepflegtes Filialbild und ein gelungenes Einkaufserlebnis für unsere Kunden Ausgeprägter Sinn für Ordnung und Sauberkeit Schnelle und effiziente Arbeitsweise Teamgeist und Zuverlässigkeit Zeitliche Flexibilität Übertariflicher Mindesteinstiegslohn inklusive Urlaubs- und Weihnachtsgeld Exklusiver 5 % Einkaufsrabatt in unseren Filialen Bezahlte Überstunden bei minutengenauer Zeiterfassung Unbefristeter Arbeitsvertrag und 6 Wochen Urlaub/Jahr Weitere Leistungen gemäß Tarifvertrag (Zuschläge, Sonderurlaub, u.v.m.) Intensive Einarbeitung mit Begleitung durch einen persönlichen Paten Vielfältige betriebliche Gesundheitsangebote und exklusive Sonderkonditionen bei ausgewählten Fitnessanbietern deutschlandweit Vergünstigtes Deutschlandticket Wir legen Wert darauf, dass sich dein Einstieg bei uns lohnt! Mit attraktiven Benefits und einer Unternehmenskultur, die auf Zutrauen, Vielfalt und ein transparentes Gehaltssystem unabhängig vom Geschlecht setzt. ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: https://www.stepstone.de/job/14440964/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 17.9,
-   "de": "?",
-   "de_txt": "",
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 190,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 59,
-      "end_stop": "Mitteltal Lamm",
-      "dep": "16:36",
-      "arr": "19:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "16:36",
-        "arr": "16:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "16:47",
-        "arr": "16:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "17:07",
-        "arr": "17:15",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "400",
-        "from": "Achern",
-        "to": "Ruhestein",
-        "dep": "17:21",
-        "arr": "18:00",
-        "wait": 6,
-        "min": 39
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "200",
-        "from": "Ruhestein",
-        "to": "Mitteltal Lamm",
-        "dep": "18:32",
-        "arr": "18:48",
-        "wait": 32,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Mitteltal Lamm",
-        "to": "работа",
-        "dep": "18:48",
-        "arr": "19:46",
-        "min": 59
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 199
-     },
-     {
-      "kind": "велосипед",
-      "min": 121,
-      "changes": 0,
-      "km": 29.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 121
-       }
-      ],
-      "risky": false,
-      "score": 222
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 570,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 544,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "14:52",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "14:52",
-        "min": 544
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 570
-     }
-    ],
-    "best": "транспорт",
-    "min": 190,
-    "changes": 3
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "Марина"
   },
   {

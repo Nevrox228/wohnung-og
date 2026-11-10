@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T14:10",
+ "generated": "2026-11-10T14:58",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 420,
-  "queue": 231,
-  "ai_focus": 217
+  "all": 423,
+  "queue": 233,
+  "ai_focus": 219
  },
  "jobs": [
   {
@@ -2071,6 +2071,32 @@
    "description": "📍 Dorsten, NRW 🕒 Werkstudent (bis zu 20 Std./Woche) ⏰ Arbeitszeit schwerpunktmäßig vormittags unter der Woche 🏁 Start: ab sofort 🏢 Zunächst überwiegend vor Ort in Dorsten, später teilweise Homeoffice denkbar Gestalte mit, wie KI einen Mittelständler verändert – mit Code, Daten und KI. Du baust mit KI lieber echte Lösungen, als nur darüber zu lesen? Dann tu es nicht länger nur für Uni-Projekte. Bei uns entwickelst Du Tools, Automatisierungen und Reportings für ein echtes Unternehmen – mit eigenem Lager, echten Kunden und Daten aus dem Tagesgeschäft. Dafür bekommst Du einen Claude-Zugang im höchsten Tarif, den Du ausreizen darfst. Ob Informatik, Wirtschaftsinformatik oder Data Science: Unser Geschäft erklären wir Dir. Bauen musst Du wollen. Wer wir sind E-M-C-direct ist ein inhabergeführter technischer Großhandel in Dorsten. Wir liefern Kabelschutz, Kabelbinder, Befestigungstechnik und Werkzeuge an Firmenkunden aus Fahrzeugbau, Industrie und Solarbranche, direkt ab unserem eigenen Lager – im DACH-Raum und zunehmend international. KI ist bei uns Chefsache: Die Geschäftsführung treibt das Thema selbst voran, und Du baust direkt mit. Dein Job Du findest gemeinsam mit Vertrieb, Einkauf, Lager und Marketing heraus, wo KI echte Arbeit abnimmt – und setzt es um. Du entwickelst interne Tools, kleine Web-Anwendungen, Skripte und KI-Agenten für EMC. Du verbindest unsere Systeme und ersetzt manuelle Routinen durch stabile, automatisierte Abläufe. Du ziehst Daten aus unserer Warenwirtschaft und weiteren Quellen und baust daraus Dashboards und Kennzahlen, mit denen wir entscheiden. Du hilfst beim Aufbau unserer KI- und Dateninfrastruktur: Schnittstellen, Datenmodelle, Berechtigungen, Dokumentation – sicher und datenschutzkonform. Du zeigst Deinen Kollegen, wie sie KI-Tools gut nutzen, damit Deine Lösungen im Alltag auch ankommen. Was Du mitbringst Du bist als Student eingeschrieben, idealerweise in Informatik, Wirtschaftsinformatik, Data Science oder einem ähnlichen Fach. Du programmierst sicher, am liebsten in Python, und kommst mit SQL, Datenbanken und Excel klar. Du arbeitest täglich mit KI-Tools wie Claude oder ChatGPT und hast schon eigene Projekte damit gebaut. Du packst an, lieferst Ergebnisse und arbeitest Dich selbstständig in neue Systeme ein, auch wenn nicht alles vorgegeben ist. Dich interessiert, wie ein Unternehmen tickt. Erfahrung mit Warenwirtschaft, E-Commerce oder Reporting ist ein Plus. Du gehst verantwortungsvoll mit Daten um und hast ein Gespür für Datenschutz und IT-Sicherheit. Du sprichst gut Deutsch, Englisch ist ein Plus. Du wohnst in Dorsten oder Umgebung und kannst uns gut erreichen. Was Dich hier erwartet Kein Einzelkämpfer-Job: Du arbeitest mit anderen Werkstudenten und Kollegen zusammen, die ebenfalls mit KI bauen. Ihr entwickelt gemeinsam Anwendungen, teilt Prompts und Kniffe und lernt voneinander. Echte Wirkung: Was Du baust, läuft im Tagesgeschäft. Du siehst sofort, ob es hilft. Top-Werkzeuge: Claude im höchsten Tarif und modern"
   },
   {
+   "id": "ss_14738334",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent:in Software Engineering & Künstliche Intelligenz (KI) (m/w/d)",
+   "company": "anacision GmbH",
+   "location": "Karlsruhe",
+   "distance_km": 58.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-in-Software-Engineering-Kuenstliche-Intelligenz-KI-m-w-d-Karlsruhe-anacision-GmbH--14738334-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10T14:41",
+   "description": "anacision ist ein Beratungsunternehmen, das Kunden aus der öffentlichen Verwaltung bei der Konzeption und Implementierung von KI-Lösungen begleitet. Gesucht wird ein Werkstudent (m/w/d) Software Engineering & Künstliche Intelligenz, um KI-Projektteams bei Implementierungsaufgaben und der Operationalisierung von Softwarekomponenten zu unterstützen. Ein laufendes MINT-Studium, Python-Kenntnisse, Interesse an Data Science sowie gute Deutsch- und Englischkenntnisse werden vorausgesetzt."
+  },
+  {
    "id": "ss_14677363",
    "queue": true,
    "status": "open",
@@ -2633,6 +2659,32 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4207382331",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikum / Abschlussarbeit in der Technologieentwicklung - Software Programmierung Computer Vision, Machine Learning",
+   "company": "Dräger",
+   "location": "Lübeck",
+   "distance_km": 622.6,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4207382331",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2025-03-21",
+   "first_seen": "2026-11-10T14:41",
+   "description": "Dafür suchen wir Dich Studieren macht Spaß – noch mehr, wenn du die Theorie auch in der Praxis erleben kannst. Bei Dräger bringst du vom ersten Tag an deine Ideen ein und übernimmst Verantwortung für ›Technik für das Leben‹. In der Technologieentwicklung unterstützt du uns für drei bis sechs Monate tatkräftig bei der Entwicklung neuartiger Algorithmen und Methoden für den Einsatz in datengetriebenen Anwendungen der Medizin- oder Sicherheitstechnik. In einem interdisziplinären Team aus Entwicklern, Marktexperten und potentiellen Kunden entwickelst du beispielsweise intelligente Sensorsysteme für die Steuerung von Anästhesie- und Ventilationsgeräten oder treibst die Weiterentwicklung mobiler und stationärer Gasmessgeräteflotten sowie kamerabasierter Überwachungssysteme voran. Leben schützen, unterstützen und retten sind die Ziele, die uns alle bei Dräger miteinander verbinden. Finde heraus, wie gut das zu deinen persönlichen Zielen passt. Deine Aufgabenstellung orientiert sich an einem der folgenden Schwerpunkte in Abhängigkeit deiner Interessen sowie persönlicher Stärken: Computer Vision: 2D-/ 3D-Bildverarbeitung und Deep Neural Networks Predictive Analytics: Einsatz von Methoden aus Machine Learning und Statistik Data Engineering: Modellierung und Implementierung skalierbarer Datenbank- und Datenflussarchitekturen und ETL-Prozessen Die von dir erzielten Ergebnisse sollen nicht nur theoretisch überzeugen, sondern einen starken Bezug zu den klinischen Anwendern und zum Endprodukt zeigen. In Abhängigkeit der Erfordernisse des Fachbereiches und der Praktikumsaufgaben bieten wir die Möglichkeit an, teilweise mobil zu arbeiten. Zu den Details tauschen wir uns im persönlichen Bewerbungsgespräch aus. Das bringst Du mit Studium der Elektrotechnik, Physik, Informatik oder Mathematik im mindestens 4. Fachsemester oder vergleichbarer Studiengang mit dem Studienschwerpunkt Data Science oder Computer Vision: idealerweise erste Erfahrungen mit Werkzeugen wie Tensorflow, Scikit-learn, OpenCV oder Point Cloud Library mit dem Studienschwerpunkt Data Engineering: idealerweise erste Erfahrungen mit aktuellen (NoSQL-) Datenbanksystemen, verteilten Speichersystemen und Stream-Prozessoren wie Apache Spark oder Flink sowie Cloud Plattformen erste Programmiererfahrung in der Softwareentwicklung (C/ C++, Python und idealerweise C#, Java) Interesse daran, deine theoretisch fundierte Arbeitsweise sowie Kreativität in der Praxis in innovative Lösungsideen umzusetzen und dich dabei in unsere Anwendungsdomänen und Nutzer hineinzudenken Dein neuer Arbeitsplatz Bei uns musst du dich nicht entscheiden. Zwischen einer Aufgabe, die deine eigenen Ziele erfüllt und einer, die die Gesellschaft voranbringt. Wir arbeiten hier alle an einem gemeinsamen Ziel: Leben retten und schützen. Und dich wollen wir fit für den Berufseinstieg machen. Selbstverständlich betreuen wir dich fachlich individuell und übertragen dir Verantwortung. Denn du sollst bei uns möglichst viel lernen. Im Bachelor v"
   },
   {
    "id": "li_4487462543",
@@ -8203,6 +8255,32 @@
    "posted": "2026-10-27",
    "first_seen": "2026-11-04T12:29",
    "description": "Du studierst Marketing, Kommunikation oder etwas Vergleichbares und möchtest dein Wissen praktisch anwenden? Dann bist du bei uns genau richtig! Zur Unterstützung unseres Marketingteams suchen wir einen engagierten Werkstudenten (m/w/d), der uns insbesondere im Bereich Website betreut. Bewirb dich noch heute über unser Online-Portal - Wir freuen uns auf dich! Bei TEDi sind Diversity und Inklusion gelebte Werte – Bewerbungen von Menschen mit Schwerbehinderung sind herzlich willkommen. Unterstützung bei der Pflege und Aktualisierung unserer Website Aufbereitung und Einpflege von Inhalten (Text, Bild, Video) Mitwirkung an der Weiterentwicklung der Website-Usability und -Struktur Unterstützung bei kleineren SEO-Optimierungen Zusammenarbeit mit internen Fachabteilungen und externen Dienstleistern Laufendes Studium im Bereich Marketing, Medien, Kommunikation oder vergleichbar Erste Erfahrungen im Umgang mit Content-Management-Systemen (z. B. WordPress, Typo3 oder ähnliches) wünschenswert Kenntnisse der Adobe Creative Suite sowie sehr gute Excel-Kenntnisse Affinität für digitale Medien und ein gutes Gespür für Sprache und Gestaltung Selbstständige, strukturierte und zuverlässige Arbeitsweise Teamgeist und Motivation, Dinge aktiv mitzugestalten Individuelle Karrierebegleitung mit verschiedenen Weiterbildungsangeboten Mit unserem Kooperationspartner unterstützen wir alle Mitarbeitenden mit dem Angebot einer betrieblichen Altersvorsorge Monatlich wechselnde Rabattangebote verschiedener Anbieter, z. B. für Mode, Technik, Autos usw. Flexible Arbeitszeiten Betriebsrestaurant, Großtagespflegestelle sowie Parkmöglichkeiten mit einer guten verkehrstechnischen Anbindung am Standort Bitte beachte, dass wir Bewerbungsunterlagen, die uns per Post oder E-Mail erreichen, nicht bearbeiten können."
+  },
+  {
+   "id": "ss_13996814",
+   "queue": false,
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Web / Shop / SEO",
+   "title": "Werkstudent (m/w/d) Marketingkommunikation",
+   "company": "Nanoscribe GmbH & Co. KG",
+   "location": "Eggenstein-Leopoldshafen",
+   "distance_km": 66.5,
+   "remote": false,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Marketingkommunikation-Eggenstein-Leopoldshafen-Nanoscribe-GmbH-Co-KG--13996814-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10T14:41",
+   "description": "Nanoscribe ist ein Technologie- und Weltmarktführer in hochpräziser additiver Fertigung für die Mikrofabrikation mit weltweitem Vertrieb. Gesucht wird ein Werkstudent (m/w/d) in Marketingkommunikation für abwechslungsreiche Aufgaben wie Webredaktion, CRM-Datenpflege und Presseclipping. Fit in mindestens einem Bereich wie MS Office, englische Online-Texte, Content Management, Bild-/Videobearbeitung oder Infografik-Gestaltung werden vorausgesetzt."
   },
   {
    "id": "li_4429847434",
