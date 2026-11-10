@@ -1,9 +1,667 @@
 {
- "generated": "2026-11-10T11:19",
+ "generated": "2026-11-10T14:10",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
  "count": 423,
  "items": [
+  {
+   "id": "marina:ba_12122-982343460-S",
+   "src": "Jobbörse",
+   "title": "Versandmitarbeiter (m/w/d)",
+   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
+   "ort": "Friesenheim",
+   "street": "",
+   "lat": 48.381191850001,
+   "lon": 7.877854369,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982343460-S",
+   "posted": "2026-11-10",
+   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 22.4,
+   "de": "нужен",
+   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-10T12:59",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 98,
+      "changes": 1,
+      "min_wait": 29,
+      "walk_end": 13,
+      "end_stop": "Friesenheim Schule",
+      "dep": "05:21",
+      "arr": "06:59",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7141",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Friesenheim Schule",
+        "dep": "06:17",
+        "arr": "06:47",
+        "wait": 29,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Friesenheim Schule",
+        "to": "работа",
+        "dep": "06:47",
+        "arr": "06:59",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 101
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 211,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 185,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "08:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "08:52",
+        "min": 185
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 211
+     },
+     {
+      "kind": "велосипед",
+      "min": 129,
+      "changes": 0,
+      "km": 31.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 129
+       }
+      ],
+      "risky": false,
+      "score": 238
+     }
+    ],
+    "best": "транспорт",
+    "min": 98,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3567425838",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft (m/w/d) Minijob in Hausach",
+   "firma": "Stuttgarter Gebäudereinigung Venter GmbH & Co.KG",
+   "ort": "Hausach",
+   "plz": "77756",
+   "street": "",
+   "lat": 48.2945442,
+   "lon": 8.1661014,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-minijob-in-hausach/3567425838-107-8533",
+   "posted": "2026-11-10",
+   "posted_time": "12:42",
+   "desc": "Für ein Objekt in Hausach (Nähe Bahnhof Hausach) suchen wir ab sofort eine zuverlässige Reinigungskraft (m/w/d) für die Unterhaltsreinigung. Arbeitszeiten: Montag - Freitag / jeweils 1,75 Stunden Variante A: von 16:00 Uhr - 17:45 Uhr oder Variante B: 17:00 Uhr - 18:45 8,75 Stunden in der Woche Wir bieten: - eine faire Vergütung nach Tarif - eine ordentliche Einarbeitung - kompetente Ansprechpartner vor Ort Grundkenntnisse in Deutsch erwünscht. Wir freuen uns auf Ihre Bewerbung unter Telefon: 0711/13578267 Noch nicht überzeugt? Besuch uns im Internet unter www.sgr.de auf Instagram www.instagram.com/stuttgartergebaeudereinigung/ oder Facebook www.facebook.com/SGRStuttgarterGebaeudereinigung",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-10T12:59",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 86,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 27,
+      "end_stop": "Hausach",
+      "dep": "05:21",
+      "arr": "06:48",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Hausach",
+        "dep": "05:54",
+        "arr": "06:21",
+        "wait": 6,
+        "min": 27
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Hausach",
+        "to": "работа",
+        "dep": "06:21",
+        "arr": "06:48",
+        "min": 27
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 89
+     },
+     {
+      "kind": "велосипед",
+      "min": 184,
+      "changes": 0,
+      "km": 45.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 184
+       }
+      ],
+      "risky": false,
+      "score": 348
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 485,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 459,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "13:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "13:26",
+        "min": 459
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 485
+     }
+    ],
+    "best": "транспорт",
+    "min": 86,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3537311120",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Sichtkontrolle (m/w/d) (29117886)",
+   "firma": "hokify GmbH",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-sichtkontrolle-m-w-d-29117886-/3537311120-111-9039",
+   "posted": "2026-11-10",
+   "posted_time": "13:08",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/eLG1YYF ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Mitarbeiter Sichtkontrolle (m/w/d) für unseren Kunden in der Metallerzeugung und -verarbeitung in Offenburg. In dieser Position sind Sie verantwortlich für die Qualitätssicherung der Produkte und tragen dazu bei, höchste Standards in der Produktion zu gewährleisten. Wenn Sie eine Leidenschaft für Präzision haben und Teil eines dynamischen Unternehmens sein möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Durchführung der Qualitätsprüfungen an Präzisionsbauteilen mithilfe moderner Mikroskope - Metallteile vergleichen mit Fehlerbildern zur Identifikation von Abweichungen - Entgraten und Nacharbeiten der Produkte - Polieren der Bauteile mittels Turboschleifer - Reinigung der Bauteile mit anschließender Überprüfung der Arbeitsergebnisse - Dokumentation der Prüfergebnisse im ERP-System - Zusammenarbeit mit dem Produktionsteam zur Sicherstellung der Produktqualität Anforderungen: - Erfahrung in der Qualitätskontrolle ist wünschenswert - Gute Kenntnisse im Umgang mit Metallteilen - Kenntnisse im Umgang mit Mikroskopen - Hohe Fingerfertigkeit und Geschicklichkeit (filigrane Bauteile) - Präzise, sorgfältige und flexible Arbeitsweise - Kenntnisse im Lesen von technischen Zeichnungen sind von Vorteil - Teamfähigkeit sowie gute Kommunikationsfähigkeiten Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/eLG1YYF",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-10T12:59",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3567295533",
+   "src": "Kleinanzeigen",
+   "title": "Aushilfe Warenverräumung Minijob (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/aushilfe-warenverraeumung-minijob-m-w-d-/3567295533-107-8088",
+   "posted": "2026-11-10",
+   "posted_time": "10:37",
+   "desc": "Aushilfe Warenverräumung Minijob (m/w/d) bei Lidl Freiburg Nord HIER BEWERBEN: https://www.stepstone.de/job/14298868/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Wir finden, unsere Kunden verdienen nur das Beste. Dich zum Beispiel. Du erfüllst Kundenwünsche am laufenden Band und behältst als echtes Verkaufstalent immer den Überblick. Wir sind froh, dass du da bist, und zeigen dir das nicht nur über ein faires Gehalt, sondern auch durch ein faires Miteinander im Alltag Aufgaben ● Stundenweise unterstützt du die Kollegen in deiner Filiale bei der täglichen Warenverräumung ● Du packst an und kümmerst dich mit vollem Einsatz um das Befüllen unserer Regale und Theken ● Mit einer ansprechenden Warenpräsentation sorgst du für ein gepflegtes Filialbild und ein gelungenes Einkaufserlebnis für unsere Kunden Profil ● Lust auf die dynamische Welt des Handels, gerne auch als Quereinsteiger ● Schnelle und effiziente Arbeitsweise ● Teamgeist und Spaß am Anpacken ● Zuverlässigkeit und zeitliche Flexibilität zur punktuellen Unterstützung v. a. in den Morgen- oder Abendstunden Wir bieten ● Übertariflicher Mindesteinstiegslohn inklusive Urlaubs- und Weihnachtsgeld ● Exklusiver 5 % Einkaufsrabatt in unseren Filialen ● Bezahlte Überstunden bei minutengenauer Zeiterfassung ● Unbefristeter Arbeitsvertrag und 6 Wochen Urlaub/Jahr ● Weitere Leistungen gemäß Tarifvertrag (Zuschläge, Sonderurlaub, u.v.m.) ● Intensive Einarbeitung mit Begleitung durch einen persönlichen Paten ● Vielfältige betriebliche Gesundheitsangebote und exklusive Sonderkonditionen bei ausgewählten Fitnessanbietern deutschlandweit ● Vergünstigtes Deutschlandticket Wir legen Wert darauf, dass sich dein Einstieg bei uns lohnt! Mit attraktiven Benefits und einer Unternehmenskultur, die auf Zutrauen, Vielfalt und ein transparentes Gehaltssystem unabhängig vom Geschlecht setzt. KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-10T12:59",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_12122-982163839-S",
    "src": "Jobbörse",
@@ -3533,168 +4191,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ka_3298196360",
-   "src": "Kleinanzeigen",
-   "title": "Produktionsmitarbeiter (m/w/d) in 3-4 Schicht (29114555)",
-   "firma": "hokify GmbH",
-   "ort": "Sasbach",
-   "plz": "77880",
-   "street": "",
-   "lat": 48.6390536,
-   "lon": 8.0996858,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-in-3-4-schicht-29114555-/3298196360-111-8670",
-   "posted": "2026-11-09",
-   "posted_time": "12:04",
-   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/sG8igzs ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Produktionsmitarbeiter (m/w/d) für unseren Kunden in Sasbach. In der spannenden Branche der Textilverarbeitung bieten wir Ihnen die Möglichkeit, Ihre Fähigkeiten in einem dynamischen Umfeld einzubringen und weiterzuentwickeln. Aufgaben: - Gefertigte Rollenware abnehmen und verpacken - Bedienung und Überwachung von Maschinen - Sichtkontrolle der produzierten Waren - Bereitstellen und Öffnen von Faser- und Kaschiermateralien - Scannen von Rohstoffen und gefertigten Materialien - Verbuchen der Rohstoffe und Materialien Anforderungen: - Abgeschlossene Ausbildung oder Erfahrung im Bereich Produktion - Handwerkliches Geschick und technisches Verständnis - Kenntnisse im Umgang mit Computern und Scannern - Bereitschaft zur Schichtarbeit im 3-4-Schichtbetrieb - Sie arbeiten selbstständig, sind flexibel und teamfähig - Sie verfügen über Englischkenntnisse Wir bieten - Festanstellung bei der DEKRA Arbeit Gruppe nach DGB/GVP-Tarifvertrag - Attraktive Vergütung nach Tarif mit sämtlichen Sozialleistungen - Entwicklungsmöglichkeiten und Weiterbildungsoptionen - Berufliche Orientierungshilfe und Karriere-/Talentförderung Sie haben Interesse? Dann nutzen Sie Ihre Chance und senden Sie uns Ihre aussagekräftigen Bewerbungs- unterlagen noch heute zu oder rufen Sie uns an! Wir freuen uns darauf, Sie kennen zu lernen! Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/sG8igzs",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 12.0,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "Abgeschlossene Ausbildung oder Erfahrung im Bereich Produktion",
-   "prof": true,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-09T13:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 44,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 14,
-      "end_stop": "Sasbach Heimschule Lender",
-      "dep": "07:42",
-      "arr": "08:26",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Sasbach Heimschule Lender",
-        "to": "работа",
-        "dep": "08:13",
-        "arr": "08:26",
-        "min": 14
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 44
-     },
-     {
-      "kind": "как в приложении",
-      "min": 47,
-      "changes": 1,
-      "min_wait": 10,
-      "walk_end": 5,
-      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
-      "dep": "07:42",
-      "arr": "08:29",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "423",
-        "from": "Sasbach Heimschule Lender",
-        "to": "Obersasbach Erlenb/Oberdorfstr",
-        "dep": "08:23",
-        "arr": "08:25",
-        "wait": 10,
-        "min": 2
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Obersasbach Erlenb/Oberdorfstr",
-        "to": "работа",
-        "dep": "08:25",
-        "arr": "08:29",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 50
-     },
-     {
-      "kind": "велосипед",
-      "min": 63,
-      "changes": 0,
-      "km": 15.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 63
-       }
-      ],
-      "risky": false,
-      "score": 106
-     }
-    ],
-    "best": "транспорт",
-    "min": 44,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ka_3215452338",
    "src": "Kleinanzeigen",
    "title": "Minijob/Teilzeit : Logistik Lager / eCommerce / Lebensmittel",
@@ -4881,168 +5377,6 @@
     "best": "транспорт",
     "min": 44,
     "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3481029811",
-   "src": "Kleinanzeigen",
-   "title": "Produktionshelfer Zerspanung (m/w/d) (29114556)",
-   "firma": "hokify GmbH",
-   "ort": "Offenburg",
-   "plz": "77654",
-   "street": "",
-   "lat": 48.4755964,
-   "lon": 7.9828459,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-zerspanung-m-w-d-29114556-/3481029811-111-9038",
-   "posted": "2026-11-08",
-   "posted_time": "20:06",
-   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/xbaU8yH ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Produktionshelfer Zerspanung (m/w/d) für unseren Kunden in Offenburg. In dieser Position unterstützen Sie aktiv die Produktion und tragen zur Effizienz unserer Abläufe bei. Aufgaben: - Bedienung der CNC-Drehmaschinen - Qualitätskontrolle mit entsprechenden Mess- und Prüfmitteln - Überwachung des Fertigungsprozesses auf Qualität und Einhaltung der Vorgaben - Durchführung kleinerer Programmänderungen an Maschinen - Prozessüberwachung und Steuerung der Serienfertigung Anforderungen: - Abgeschlossene Berufsausbildung ist von Vorteil - Technisches Verständnis sowie handwerkliches Geschick - Lesen von technischen Zeichnungen - Berufserfahrung im Bereich Zerspanung ist von Vorteil - Teamfähigkeit und Zuverlässigkeit - Bereitschaft zur 3-Schichtarbeit - Gute Deutschkenntnisse in Wort und Schrift Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/xbaU8yH",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 9.6,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Was wir Ihnen bieten:",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-08T22:18",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 59,
-      "changes": 1,
-      "min_wait": 16,
-      "walk_end": 4,
-      "end_stop": "Zell-Weierbach Abtsberghalle",
-      "dep": "06:32",
-      "arr": "07:31",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Offenburg",
-        "line": "S1",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Zell-Weierbach Abtsberghalle",
-        "dep": "07:15",
-        "arr": "07:28",
-        "wait": 16,
-        "min": 13
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Zell-Weierbach Abtsberghalle",
-        "to": "работа",
-        "dep": "07:28",
-        "arr": "07:31",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 68,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 42,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:29",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:29",
-        "min": 42
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 68
-     },
-     {
-      "kind": "велосипед",
-      "min": 66,
-      "changes": 0,
-      "km": 16.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 66
-       }
-      ],
-      "risky": false,
-      "score": 112
-     }
-    ],
-    "best": "транспорт",
-    "min": 59,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -9541,8 +9875,7 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833250-107-8045",
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833218-107-9032"
+    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3563833250-107-8045"
    ],
    "person": "Марина"
   },
@@ -14814,170 +15147,8 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1744-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-981903908-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982159748-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982162706-S"
    ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_12122-979321566-S",
-   "src": "Jobbörse",
-   "title": "Versandmitarbeiter (m/w/d)",
-   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
-   "ort": "Friesenheim",
-   "street": "",
-   "lat": 48.381191850001,
-   "lon": 7.877854369,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-979321566-S",
-   "posted": "2026-10-27",
-   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 22.4,
-   "de": "нужен",
-   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 98,
-      "changes": 1,
-      "min_wait": 29,
-      "walk_end": 13,
-      "end_stop": "Friesenheim Schule",
-      "dep": "05:21",
-      "arr": "06:59",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Schule",
-        "dep": "06:17",
-        "arr": "06:47",
-        "wait": 29,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Schule",
-        "to": "работа",
-        "dep": "06:47",
-        "arr": "06:59",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 101
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 211,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 185,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "08:52",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "08:52",
-        "min": 185
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 211
-     },
-     {
-      "kind": "велосипед",
-      "min": 129,
-      "changes": 0,
-      "km": 31.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 129
-       }
-      ],
-      "risky": false,
-      "score": 238
-     }
-    ],
-    "best": "транспорт",
-    "min": 98,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -16380,121 +16551,6 @@
     ],
     "best": "транспорт",
     "min": 60,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1003873496-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d)",
-   "firma": "kontrast GmbH Haus- u. Grundbesitz",
-   "ort": "Bühl",
-   "street": "Johannesstr. 2",
-   "lat": 48.695724,
-   "lon": 8.1389655,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003873496-S",
-   "posted": "2026-10-18",
-   "desc": "Wir suchen zur kurzfristen Einstellung, spätestens jedoch zum 01.12.2026, eine zuverlässige Reinigungskraft für eine tägliche Unterhaltsreinigung in 77815 Bühl in der Zeit von 8-11 Uhr und 16:30-ca. 20:00 Uhr.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 18.7,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 55,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 11,
-      "end_stop": "Bühl (Baden)",
-      "dep": "06:32",
-      "arr": "07:28",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "07:17",
-        "arr": "07:28",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 58
-     },
-     {
-      "kind": "велосипед",
-      "min": 119,
-      "changes": 0,
-      "km": 29.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 119
-       }
-      ],
-      "risky": false,
-      "score": 218
-     }
-    ],
-    "best": "транспорт",
-    "min": 55,
     "changes": 1
    },
    "status": "open",
@@ -18873,169 +18929,6 @@
    "status": "open",
    "also_urls": [
     "https://www.jobware.de/job/reinigungskraft-m-w-d-kehl-060704788"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1003914369-S",
-   "src": "Jobbörse",
-   "title": "Minijob Reinigungskraft (m/w/d) in WILLSTÄTT",
-   "firma": "Helmut Schoch GmbH Betriebsstätte Rastatt",
-   "ort": "Willstätt",
-   "street": "",
-   "lat": 48.5449571,
-   "lon": 7.8911489,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003914369-S",
-   "posted": "2026-10-26",
-   "desc": "🧹 Wir suchen Verstärkung! ✨ MINIJOB - Reinigungskraft (m/w/d) in Willstätt. Du bist zuverlässig, gründlich und hast Freude an Sauberkeit? Dann suchen wir genau dich! 😊 🕒 Arbeitszeit: Dienstags 2,45 Std. / Donnerstags 3,45 Std. Spätnachmittags/Abends 🧽 Deine Aufgaben: - Reinigung und Pflege unserer Räumlichkeiten - Sicherstellung von Sauberkeit und Ordnung - Allgemeine Reinigungsarbeiten 🌸 Das bringst du mit: - Zuverlässigkeit und Sorgfalt - Selbstständige und gründliche Arbeitsweise - Motivation und Freude an der Arbeit 🤝 Das bieten wir dir: - Ein freundliches und angenehmes Arbeitsumfeld - Ein nettes Team - Eine langfristige Beschäftigung 💌 Haben wir dein Interesse geweckt? Dann freuen wir uns auf deine Bewerbung! 📞 Melde dich gerne bei uns – wir freuen uns darauf, dich kennenzulernen! 😊",
-   "zeit": " / Teilzeit / Minijob",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 14.1,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 64,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 8,
-      "end_stop": "Willstätt Kinzigbrücke",
-      "dep": "06:59",
-      "arr": "08:03",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Kinzigbrücke",
-        "dep": "07:34",
-        "arr": "07:56",
-        "wait": 8,
-        "min": 22
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Willstätt Kinzigbrücke",
-        "to": "работа",
-        "dep": "07:56",
-        "arr": "08:03",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 67
-     },
-     {
-      "kind": "велосипед",
-      "min": 69,
-      "changes": 0,
-      "km": 16.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 69
-       }
-      ],
-      "risky": false,
-      "score": 118
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 156,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 130,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:58",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:58",
-        "min": 130
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 156
-     }
-    ],
-    "best": "транспорт",
-    "min": 64,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/minijob-reinigungskraft-m-w-d-in-willst-ae-tt-064813859"
    ],
    "person": "Марина"
   },
@@ -24329,9 +24222,7 @@
     "changes": 3
    },
    "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/mitarbeiter-m-w-d-in-der-morgenreinigung-vollzeit-teilzeit-aushilfe-063560812"
-   ],
+   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -28945,7 +28836,8 @@
    "ru": "",
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-971250516-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-971250516-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-982324868-S"
    ],
    "person": "Марина"
   },
@@ -45609,7 +45501,6 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f1008j0453226-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14340-478395511-S",
-    "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-lagerhelfer-spaetschicht-lahr-m-w-d-/3563862861-247-8047",
     "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-lagerhelfer-spaetschicht-in-lahr-m-w-d-/3536215736-247-8047"
    ],
    "person": "Марина"
@@ -49237,7 +49128,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11081-JZ1AT7IPK4KY6WGS-S"
+   ],
    "person": "Марина"
   },
   {
@@ -62630,6 +62523,166 @@
     "best": "транспорт",
     "min": 70,
     "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:jw_064813859",
+   "src": "Jobware",
+   "title": "Minijob Reinigungskraft (m/w/d) in WILLSTÄTT",
+   "firma": "Helmut Schoch GmbH Betriebsstätte Rastatt",
+   "street": "",
+   "lat": 48.5415314,
+   "lon": 7.8934991,
+   "ort": "Willstätt",
+   "url": "https://www.jobware.de/job/minijob-reinigungskraft-m-w-d-in-willst-ae-tt-064813859",
+   "posted": "2026-10-27",
+   "desc": "",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 13.8,
+   "de": "?",
+   "de_txt": "",
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 57,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 1,
+      "end_stop": "Willstätt Kinzigbrücke",
+      "dep": "06:59",
+      "arr": "07:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Kinzigbrücke",
+        "dep": "07:34",
+        "arr": "07:56",
+        "wait": 8,
+        "min": 22
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Willstätt Kinzigbrücke",
+        "to": "работа",
+        "dep": "07:56",
+        "arr": "07:56",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 60
+     },
+     {
+      "kind": "велосипед",
+      "min": 67,
+      "changes": 0,
+      "km": 16.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 67
+       }
+      ],
+      "risky": false,
+      "score": 114
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 150,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 124,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:59",
+      "arr": "09:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "07:26",
+        "arr": "09:29",
+        "min": 124
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 150
+     }
+    ],
+    "best": "транспорт",
+    "min": 57,
+    "changes": 1
    },
    "status": "open",
    "also_urls": [],

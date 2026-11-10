@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T11:19",
+ "generated": "2026-11-10T14:10",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 417,
-  "queue": 230,
-  "ai_focus": 215
+  "all": 420,
+  "queue": 231,
+  "ai_focus": 217
  },
  "jobs": [
   {
@@ -253,6 +253,32 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "li_4479090230",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Operations & AI Automation (m/w/d)",
+   "company": "MYNE",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4479090230",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-10T12:59",
+   "description": "About MYNE Wir sind MYNE Homes - der cleverste Weg in die eigenen Traum-Ferienimmobilie. Mit unserem innovativen Co-Ownership Angebot geben wir mehr Menschen die Möglichkeit, sich ihren Traum vom eigenen Ferienhaus zu erfüllen. Gegründet von Serial Entrepreneurs und unterstützt von einigen der renommiertesten Business Angels in Europa (Gründer von Auto1, Smava und Numa) wachsen wir schnell und suchen dich um uns zu unterstützen das nächste Proptech Unicorn aufzubauen! In deiner Rolle als Werkstudent Operations & AI Automation (m/w/d) bringst Du Dich aktiv in die Verwaltung unseres Co-Ownership-Konzepts ein und unterstützt unsere Teams bei laufenden Projekten und täglichen Operations Themen. Deine Aufgaben KI & Automatisierung Betreuung und Weiterentwicklung unserer KI-gestützten Workflows (n8n, Claude) für Rechnungseingang, Vorkontierung und Ablage in Odoo. Monitoring und Fehleranalyse der Automatisierungen im Live-Betrieb. Manuelle Prozesse erkennen, die sich automatisieren lassen, und Lösungen mitentwickeln. ERP & Finance Operations: Mitgestaltung von Odoo als zentralem ERP-System: Pflege der Produkte, Weiterentwicklung der Freigabe-Workflows, Onboarding von Kolleg:innen. Kontierung von Rechnungen und Kreditkartenbelegen; Klärung offener Fragen mit dem Accounting. Erstellung von Kontierungsleitfäden für unser Regional-Management-Team. Billing & Co-Owner: Monatliches Self-Billing über unser internes Tool sowie Ausgangs- und Aufenthaltsrechnungen an Co-Owner (inklusive Stripe). Erstellung und Aktualisierung von Wirtschaftsplänen für unsere Immobilien. Ansprechpartner:in für den Eigentümerservice bei Fragen zu Rechnungen, Zahlungen und App-Zugängen. Anlage neuer Immobilien und Co-Owner-Zugänge im Admin-System; Betreuung des Operations- und Accounting-Postfachs. Dein Profil Eingeschriebenes Studium in BWL, Wirtschaftsinformatik, Wirtschaftsingenieurwesen, Immobilienwirtschaft, Finance oder einem ähnlichen Fach. Du hast Lust auf KI und Automatisierung: Du hast schon mit Claude, ChatGPT, n8n, Make oder Zapier experimentiert oder willst genau das lernen. Du bist zahlenaffin und sorgfältig: Rechnungen, Kontierung und Excel schrecken dich nicht ab. Erste Erfahrung in Buchhaltung, Finance oder mit einem ERP-System ist ein Plus. Du denkst in Prozessen: Wenn du einen manuellen Schritt siehst, fragst du dich, ob das nicht automatisch geht. Du arbeitest selbstständig, übernimmst Verantwortung und hältst Deadlines ein. Fließendes Deutsch und sehr gutes Englisch. Warum wir? Die Chance eines der führenden Proptech-Startups aktiv mit aufzubauen und zu gestalten. Du arbeitest direkt mit erfahrenen Gründern und hochkarätigen Investoren aus der Technologie- und Immobilienwelt zusammen. Verantwortungsvolle und abwechslungsreiche Aufgaben mit Freiraum für eigene Ideen. Motiviertes und ergebnisorientiertes Team, flache Hierarchien und kurze Entscheidungswege. Kompetitives Gehalt und die üblichen Startup Benefits. Und natürlich: Aufenthalte in unseren Traum-Ferienimmob"
   },
   {
    "id": "li_4487178374",
@@ -4662,7 +4688,9 @@
    "url": "https://de.linkedin.com/jobs/view/4489419696",
    "apply_url": "",
    "apply_email": "recruiting@weidmueller.com",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4488319630"
+   ],
    "salary": "",
    "posted": "2026-11-10",
    "first_seen": "2026-11-10T11:04",
@@ -6517,6 +6545,32 @@
    "posted": "2026-10-27",
    "first_seen": "2026-11-04T12:29",
    "description": "EIN GUTES PRAKTIKUM IST PRAKTISCH NIE THEORETISCH. TEILE DEINE LEIDENSCHAFT. Erfolg ist Teamarbeit. Nur wenn Expert:innen ihr Fachwissen und ihre Begeisterung teilen, entsteht ein Workflow, in dem Ideen fließen. Das nennen wir Innovationskultur. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern vor allem auch zum Mitreden und Weiterdenken. Unser Team bei BMW Motorrad ConnectedRide treibt die kontinuierliche Verbesserung der Prozesse rund um unsere ConnectedRide Produkte voran. Ein zentraler Hebel ist dabei die Agentisierung und Automatisierung von End-to-End-Prozessen mit modernen Tools und KI – wir entwickeln uns zunehmend in Richtung AI Native, mit konkreten AI-Native-Setups, Ingest-Flows und dem Betrieb lokaler LLMs. Im Rahmen deines Werkstudiums unterstützt du als aktive Schnittstelle zwischen Fachbereichen und IT und trägst zur engen Zusammenarbeit mit Product Ownern sowie Business- und Operations-Teams bei. Was erwartet dich? Du unterstützt bei der Analyse und Optimierung bestehender Prozesse im ConnectedRide-Umfeld. Außerdem wirkst du mit bei der Konzeption und Umsetzung von Agentisierungslösungen (z. B. n8n oder Power Automate) sowie bei konkreten AI-Native-Setups und Ingest-Flows. Darüber hinaus unterstützt du beim Aufsetzen und Betrieb lokaler LLMs im Linux-Umfeld (Self-Hosting). Zudem trägst du zum AI-Native-Resetup von Workflows bei, zum Beispiel bei Genehmigungsprozessen, Reporting und Datenflüssen. Außerdem wirkst du mit bei der Schnittstellenarbeit zwischen Business Development, Operations und Product Ownern. Ergänzend hilfst du bei der Identifikation von Effizienzpotenzialen durch den Einsatz von KI und Automatisierung. Zudem unterstützt du bei der Strukturierung und Dokumentation von Prozessen. Was bringst du mit? Studium der (Wirtschafts-)Informatik, BWL mit IT-Bezug oder vergleichbar. Interesse an Digitalisierung, Prozessmanagement und Automatisierung, insbesondere an AI-Native-Ansätzen und Agentisierung statt klassischer Digitalisierung. Erste Erfahrungen mit Tools wie n8n oder Power Automate sowie mit AI-Native-Setups, Ingest-Flows oder lokalen LLMs im Linux-Umfeld von Vorteil. Strukturierte und analytische Vorgehensweise. Verständnis für organisatorische Abläufe und Schnittstellenarbeit. Teamfähigkeit, Eigeninitiative und Anwesenheit vor Ort in München. Sehr gute Deutsch- und Englischkenntnisse. Du bringst Begeisterung für neue Technologien und ein innovatives Umfeld mit? Dann bewirb dich jetzt! Was bieten wir dir? Umfassendes Mentoring & Onboarding. Persönliche & fachliche Weiterentwicklung. Flexible Arbeitszeiten. Mobilarbeit. Attraktive & faire Vergütung. Apartments für Studierende (nach Verfügbarkeit & nur am Standort München). Und vieles mehr siehe bmw.jobs/waswirbieten. Startdatum: ab frühestens 01.12.2026 Dauer: 12 Monate Arbeitszeit: Teilzeit Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier. Wir bei der BMW Group legen großen Wert auf Gleichbehandlung "
+  },
+  {
+   "id": "li_4473296045",
+   "queue": false,
+   "status": "open",
+   "stars": 3,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Applied AI Engineer Intern (all genders)",
+   "company": "revel8",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "even if you are not a software engineer by training. An AI-native builder: AI coding tools are part of ho",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4473296045",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-21",
+   "first_seen": "2026-11-10T12:59",
+   "description": "Our mission We’re on a mission to create 10 million human firewalls! At revel8, we redefine cybersecurity training with hyper-realistic simulations that reflect today’s evolving attack landscape. Our innovative platform combines AI-driven multi-channel attacks with gamified, real-time learning to build resilience where it matters most: the people. Your mission As an Applied AI Intern at revel8 you sit between our customers and our product: you understand what security teams at enterprises like Allianz or Beiersdorf actually struggle with, and you turn that into working AI prototypes and simulations, fast. You will leverage AI to solve real customer problems and shape what we build next. How Your Day-to-day Will Look Like Engineer AI Workflows: Design, test and implement AI-driven features using prompt engineering and AI coding tools. Prototype with AI: Build working prototypes fast with AI coding tools (Claude Code, Cursor and the like) to validate new product ideas within days, not months. Create Intelligent Content: Develop adaptive, AI-enhanced simulations and content that reflect real-world cyber threats. Collaborate Cross-functionally: Work closely with product and engineering teams to ensure seamless product development and delivery. Talk to customers: Join customer calls and innovation projects, understand the problems behind the requests, and feed what you learn into what we prototype next. Think like a product owner: Assess whether an idea is worth building, what it costs, and how it would create value for revel8 and its customers. Shape the Future: Contribute directly to building products that will help create 10 million human firewalls and revolutionize cybersecurity training. Is it you we are looking for? You are... A curious generalist with business acumen: you can sit in front of a customer, ask the right questions, and understand their problem before you build anything. Comfortable building things with AI tools, even if you are not a software engineer by training. An AI-native builder: AI coding tools are part of how you work, and you have already built something real with them, a prototype, an agent, an automation, anything you can show. From an engineering, data science, business informatics or similar background. What matters is that you can build with AI tools, not which degree says so. Interested in cybersecurity, AI and product innovation. A resilient builder who thrives in a fast-paced startup environment and likes owning projects end-to-end. Detail-oriented and creative, you are not afraid to prototype fast and iterate until you find the right solution. A strong communicator with the skills to collaborate effectively across technical and non-technical teams, and with customers. Why revel8? Our revelutionary Energy: A team that's ambitious, kind, and genuinely excited about what we're building. We move fast, we have fun, and we treat each other well. Timing: Product-market fit is proven. The work now is to scale through rigo"
   },
   {
    "id": "ba_12951-9ae6af22-7ccc-45fb--S",
@@ -8597,6 +8651,32 @@
    "description": "SMIGHT GmbH Werkstudent:in Marketing (m/w/d) Karlsruhe Branche Wirtschaft; Kommunikation, Medien; BWL; Marketing Art Des Angebots Werkstudent / Job Fachrichtungen Marketing; Betriebswirtschaftslehre Die vollständige Anzeige finden Sie beim Klick auf den Onlinebewerbungs-Button oder unter folgendem Link: https://jobs.jobware.net/Studentenjob/064451236?jw_chl_seg=NLINKEDIN"
   },
   {
+   "id": "li_4489442766",
+   "queue": false,
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent (m/w/d) im Bereich Online/Digital",
+   "company": "Südwestdeutsche Medienholding GmbH",
+   "location": "Wiesbaden",
+   "distance_km": 172.9,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4489442766",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-10",
+   "first_seen": "2026-11-10T12:59",
+   "description": "Wer wir sind Die MedTriX GmbH ist einer der führenden medizinischen Fachverlage in Deutschland mit Standorten in Landsberg, Regensburg und Wiesbaden. Wir publizieren in den drei Dimensionen Digital, Live und Print schwerpunktmäßig zu den Themenbereichen Allgemeinmedizin und Innere Medizin, Onkologie und Praxisführung/ Wirtschaft. „We care for media solutions“ - dieser unbedingte Lösungsanspruch ist der Antrieb für unseren Wandel vom klassischen Verleger hin zum führenden Kommunikationsdienstleister im Gesundheitsmarkt. Gestalten Sie die digitale Zukunft der medizinischen Fachinformationen in der MedTriX Group aktiv mit. Mehr Informationen: http://medtrix.group/ Wie wir arbeiten Als Werkstudent (m/w/d) im Bereich Online/Digital bist Du – wie alle unsere Teammitglieder – eingeladen, Dich mit Deinen Gedanken einzubringen. Als modernes Medienhaus arbeiten wir in einem offenen Arbeitsumfeld. Gemeinsam arbeiten wir daran, unsere Produkte und Prozesse nachhaltig und digital weiterzuentwickeln. Worin Du Dich verwirklichen kannst Im Bereich des Content Managements übernimmst Du das Bearbeiten und Einpflegen von redaktionellen sowie Kunden-Beiträgen in ein CMS Du optimierst bestehende Beiträge für Suchmaschinen (SEO) Du unterstützt beim Aufbau unserer Websites wie zum Beispiel www.arzt-wirtschaft.de oder www.medical-tribune.de Bei Kampagnen-Reportings an Kunden oder Agenturen wirkst Du aktiv mit Selbstverständlich arbeitest Du eng mit den einzelnen Fachbereichen und insbesondere dem Digital-Team zusammen Was wir uns von Dir wünschen Du bist eingeschriebene:r Student:in und hast Interesse für medizinische Themen Du zeichnest Dich durch eine engagierte, sorgfältige und zuverlässige Arbeitsweise aus Du bringst ein Verständnis für digitale Medien mit Du verfügst über einen souveränen Umgang mit Produkten von Microsoft (Office 365, Teams, PowerBI, Fabric) Erste Erfahrungen mit SEO, Bildbearbeitung und/oder Content-Management-Systemen sind hilfreich, aber nicht notwendig Du bringst nicht alle Punkte mit? Bitte bewirb Dich trotzdem! Wir können sicher vieles voneinander lernen. Was wir Dir bieten Starte mit einem strukturierten Onboarding: Lerne unser Medienhaus kennen und komme bei unseren Networking-Events mit neuen und erfahrenen Kolleg:innen in Kontakt Erhalte das volle Paket: Arbeite hybrid, spare mit unserer betrieblichen Altersvorsorge für später und genieße 30 Urlaubstage sowie attraktive Rabatte für Mitarbeitende Gestalte Deinen Entwicklungsweg individuell: Unsere Personalentwicklung hat einiges im Angebot wie zum Beispiel Trainings Bleibe geistig und körperlich fit: Deine Gesundheit liegt uns am Herzen. Deshalb bieten wir Dir eine ganzheitliche Gesundheitsförderung an, welche unter anderem Vorsorgeuntersuchungen sowie verschiedene Impulse zum Thema Gesundheit beinhalten Bringe Dich ein: Wir geben Themen rund um Diversity und Inklusion Raum und bieten unseren Mitarbeitenden Fokus- und Netzwerkgruppen an, um sich einzubringen"
+  },
+  {
    "id": "li_4489431687",
    "queue": false,
    "status": "open",
@@ -10290,7 +10370,6 @@
    "apply_url": "https://gute-jobs.de/viewjob-7t6f4?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=werkstudent-im-marketing-d-m-w",
    "apply_email": "",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16963-REF528M-1851570389-S",
     "https://www.jobware.de/job/werkstudent-in-im-marketing-d-m-w-064653720"
    ],
    "salary": "",
@@ -10396,7 +10475,9 @@
    "url": "https://de.linkedin.com/jobs/view/4475655544",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4487479719"
+   ],
    "salary": "",
    "posted": "2026-10-11",
    "first_seen": "2026-11-04T12:29",
