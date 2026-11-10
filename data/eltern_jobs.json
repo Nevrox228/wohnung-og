@@ -1,9 +1,354 @@
 {
- "generated": "2026-11-10T14:58",
+ "generated": "2026-11-10T21:29",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 418,
+ "count": 420,
  "items": [
+  {
+   "id": "marina:ba_15518-OTF1JUL0JX7ON20M-S",
+   "src": "Jobbörse",
+   "title": "Stellvertretender Vorarbeiter Produktionsanlage (m/w/d)",
+   "firma": "iperdi GmbH",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.691287219,
+   "lon": 8.151568768,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-OTF1JUL0JX7ON20M-S",
+   "posted": "2026-11-10",
+   "desc": "Iperdi GmbH iperdi ist ein mittelständisches Unternehmen für Personaldienstleistungen in Familien- bzw. Privatbesitz. Über 2.500 Firmenkunden aus vielen Branchen vertrauen uns als erfahrenen Spezialisten für Personalleasing, Personalvermittlung und individuelle Personalkonzepte sowie für In-House-Services. Mit über 3.000 externen vielseitig qualifizierten Kolleginnen und Kollegen in Deutschland sind wir jederzeit Ihr zuverlässiger Partner für alle Personalfragen. Stellvertretender Vorarbeiter Produktionsanlage (m/w/d) Standort: Bühl Anstellungsart(en): Vollzeit Zweck und Ziel der Stelle Bei uns stehst du im Vordergrund, und ein ganzes Team hinter dir: Denn Respekt, gegenseitige Wertschätzung und Unterstützung sind für uns das Wichtigste – egal, in welcher Position du bei uns arbeitest. Du hast Lust auf Veränderungen und abwechslungsreiche Aufgaben? Aufgaben: - Stv. Führung von Mitarbeiter und Organisation des täglichen Betriebsablauf - Bedienen von computergesteuerten Produktionsmaschinen - Überwachung und Pflege der eingesetzten Maschinen und Werkzeuge - abwechslungsreiche Aufgaben in unserer Plattendecken- und Doppelwandproduktion - Herstellung und Bearbeitung von Einbauteilen, Bewehrungen, sowie Beton - Qualitätskontrolle - Mitwirkung bei der Verbesserung und Optimierung unserer Schnittstellen und Prozessen Voraussetzung: - eine abgeschlossene Berufsausbildung im Baugewerbe oder eine vergleichbare Qualifikation - Erfahrungen im Umgang mit Mitarbeitern - technisches Verständnis und handwerkliches Geschick - mehrjährige Berufserfahrung im Baugewerbe erwünscht - Spaß an abwechslungsreicher Arbeit - sorgfältige und teamorientierte Arbeitsweise - Verantwortungsbewusstsein und selbständige Arbeiten Benefits: - Mitarbeiterrabatte durch Corporate Benefits bei 1500 Shops (z.B. About You, Apple, Boss, HP, Samsung u.v.m) - Sicherheit durch einen unbefristeten Arbeitsvertrag bei einem der TOP-Personaldienstleister in Deutschland (FOCUS SPEZIAL und LÜNENDONK®-LISTE) - Abschlagzahlungen (wenn gewünscht) - Langfristiger Einsatz bei renommierten Kunden - Viele Zusatzleistungen wie Urlaubs- und Weihnachtsgeld, Leistungszulagen und Prämien durch JOB'N CASH-Programm - Zukunftssicherheit durch mögliche Übernahme in den Kundenbetrieb Ständig vergeben wir Jobs in Vollzeit, auch für Berufs- und Quereinsteiger: Staplerfahrer, Helfer oder Fachhelfer in Produktion – Lager – Metall - Elektro - Montage - Verpackung - Logistik. Sicher Dir unsere Prämie, wenn Du aus Freundes- oder Bekanntenkreis eine Jobempfehlung gibst. Kontaktdaten für Stellenanzeige: Dein Ansprechpartner Herr Patrick Kiefer freut sich - auf Deinen Anruf unter der 07222 - 9311260 - auf eine Whatsapp Nachricht an +49159 0409 5809 - auf Deine E-Mail an kuppenheim@iperdi.de - oder auf Deinen spontanen Besuch in der Neufeldstr. 6, 76456 Kuppenheim Wir reagieren innerhalb 24 Stunden nach Eingang Deiner Bewerbung!",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 18.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "eine abgeschlossene Berufsausbildung im Baugewerbe oder eine vergleichbare Qualifikation",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-10T16:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 27,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:43",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:43",
+        "min": 27
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 74
+     },
+     {
+      "kind": "как в приложении",
+      "min": 72,
+      "changes": 2,
+      "min_wait": 9,
+      "walk_end": 11,
+      "end_stop": "Kappelwindeck Bachschlossschule",
+      "dep": "06:32",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "268",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Bachschlossschule",
+        "dep": "07:26",
+        "arr": "07:34",
+        "wait": 9,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Bachschlossschule",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:45",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "велосипед",
+      "min": 93,
+      "changes": 0,
+      "km": 22.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 93
+       }
+      ],
+      "risky": false,
+      "score": 166
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3537310667",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) (29118669)",
+   "firma": "hokify GmbH",
+   "ort": "Offenburg",
+   "plz": "77654",
+   "street": "",
+   "lat": 48.4755964,
+   "lon": 7.9828459,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-29118669-/3537310667-111-9038",
+   "posted": "2026-11-10",
+   "posted_time": "15:08",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/7SE6Dod ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Produktionsmitarbeiter (m/w/d) für unseren Kunden in Offenburg. In dieser Position sind Sie ein wichtiger Teil für die Produktion. Wenn Sie eine Leidenschaft für effiziente Abläufe haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Einrichtung und Bedienung verschiedener Schleif- und Produktionsanlagen - Durchführung von Wärmebehandlungen an Bauteilen - Vorbereitung und Bearbeitung von Werkstücken nach Vorgabe - Qualitätsprüfung der Bauteile mittels Mikroskop - Überwachung und Dokumentation von Chargen und Prozessen - Erfassung und Auswertung von Prozessdaten mit moderner Software Anforderungen: - Praxiserfahrung in der Metallverarbeitung und Fertigung - Erfahrung bei der Kontrolle kleiner und präziser Bauteile - Technisches Verständnis und sicherer Umgang mit Vorgaben - Sehr gutes Feingefühl und handwerkliches Geschick - Zuverlässige und genaue Arbeitsweise - Anpassungsfähig und sorgfältig im Arbeitsalltag Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/7SE6Dod",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 9.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-10T16:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 1,
+      "min_wait": 16,
+      "walk_end": 4,
+      "end_stop": "Zell-Weierbach Abtsberghalle",
+      "dep": "06:32",
+      "arr": "07:31",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Offenburg",
+        "line": "S1",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Zell-Weierbach Abtsberghalle",
+        "dep": "07:15",
+        "arr": "07:28",
+        "wait": 16,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Zell-Weierbach Abtsberghalle",
+        "to": "работа",
+        "dep": "07:28",
+        "arr": "07:31",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 68,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 42,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:29",
+        "min": 42
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 68
+     },
+     {
+      "kind": "велосипед",
+      "min": 66,
+      "changes": 0,
+      "km": 16.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 66
+       }
+      ],
+      "risky": false,
+      "score": 112
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_15518-T61AVBZUUQMT2QFM-S",
    "src": "Jobbörse",
@@ -2783,7 +3128,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14641-k31595.2061-S"
+   ],
    "person": "Марина"
   },
   {
@@ -5051,7 +5398,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-briefzusteller-in-postbote-botin/3566732073-247-8047"
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-briefzusteller-in-postbote-botin/3566732073-247-8047",
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-postbote-botin-briefzusteller-in/3567777619-247-8043"
    ],
    "person": "Марина"
   },
