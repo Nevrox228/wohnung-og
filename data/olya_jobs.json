@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T00:34",
+ "generated": "2026-11-10T07:43",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 50,
+ "count": 49,
  "items": [
   {
    "id": "li_4461528816",
@@ -319,28 +319,6 @@
    "km": 14.6,
    "kind": "Общее / другое",
    "ausb": true,
-   "first_seen": "2026-11-03T21:02",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4483151894",
-   "src": "LinkedIn",
-   "title": "Seminarleiter / Sozialpädagoge (m/w/d)",
-   "firma": "Bildungswerk der Bayerischen Wirtschaft (bbw-Gruppe)",
-   "ort": "Lauf",
-   "plz": "",
-   "street": "",
-   "lat": 48.6485831,
-   "lon": 8.1292199,
-   "url": "https://de.linkedin.com/jobs/view/4483151894",
-   "posted": "2026-10-23",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 23.3,
-   "kind": "Общее / другое",
-   "ausb": false,
    "first_seen": "2026-11-03T21:02",
    "status": "open",
    "also_urls": []
