@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T22:15",
+ "generated": "2026-11-10T23:04",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 306,
+ "count": 305,
  "items": [
   {
    "id": "3567899512",
@@ -3905,47 +3905,6 @@
    "notes": [
     "тёплая ≈ (холодная + NK на глаз)",
     "WG/WBS/монтёр/пендлер — не наш формат"
-   ],
-   "first_seen": "2026-11-03T17:34",
-   "source": "immowelt",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "iw_265CQ6TYJ2A1",
-   "url": "https://www.immowelt.de/expose/265cq6tyj2a1",
-   "title": "Wohnung zur Miete · Geroldsecker Straße 107, Zunsweier, Offenburg (77656)",
-   "price_txt": "960 € Kaltmiete",
-   "plz": "77656",
-   "ort": "Offenburg",
-   "street": "Geroldsecker Straße 107",
-   "img": "https://mms.immowelt.de/f/c/1/a/fc1afd9f-f4f3-48cb-8dfc-cd8712cc4bce.jpg?w=525&h=394",
-   "tags": [],
-   "desc": "",
-   "m2": 80.0,
-   "zimmer": 3.0,
-   "kalt": 960.0,
-   "warm": null,
-   "nk": null,
-   "kaution": null,
-   "ab": "",
-   "posted": null,
-   "loc_prec": "точный адрес",
-   "lat": 48.4190083,
-   "lon": 7.943065,
-   "warm_calc": 1184.0,
-   "warm_est": true,
-   "moebl": false,
-   "ebk": false,
-   "km": 4.4,
-   "allowed": 1000,
-   "eur_m2": 14.8,
-   "zone": "близко",
-   "verdict": "нет",
-   "notes": [
-    "тёплая ≈ (холодная + NK на глаз)",
-    "тёплая 1184 > 1000",
-    "3 комн. — больше, чем нужно"
    ],
    "first_seen": "2026-11-03T17:34",
    "source": "immowelt",
