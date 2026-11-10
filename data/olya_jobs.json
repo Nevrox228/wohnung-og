@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T21:29",
+ "generated": "2026-11-10T22:15",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 51,
+ "count": 49,
  "items": [
   {
    "id": "li_4482372983",
@@ -23,50 +23,6 @@
    "kind": "Общее / другое",
    "ausb": true,
    "first_seen": "2026-11-10T16:38",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4461528816",
-   "src": "LinkedIn",
-   "title": "Praktikanten (w/m/d) im Anerkennungsjahr im Rahmen der Ausbildung zum/zur Erzieher/-in 2027",
-   "firma": "Stadt Achern",
-   "ort": "Achern",
-   "plz": "",
-   "street": "",
-   "lat": 48.6300161,
-   "lon": 8.0735581,
-   "url": "https://de.linkedin.com/jobs/view/4461528816",
-   "posted": "2026-09-01",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 19.4,
-   "kind": "Общее / другое",
-   "ausb": true,
-   "first_seen": "2026-11-10T11:04",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4461536152",
-   "src": "LinkedIn",
-   "title": "Auszubildende für die praxisintegrierte Ausbildung zum/zur Erzieher/-in (PiA) (w/m/d) 2027",
-   "firma": "Stadt Achern",
-   "ort": "Achern",
-   "plz": "",
-   "street": "",
-   "lat": 48.6300161,
-   "lon": 8.0735581,
-   "url": "https://de.linkedin.com/jobs/view/4461536152",
-   "posted": "2026-09-01",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 19.4,
-   "kind": "Общее / другое",
-   "ausb": true,
-   "first_seen": "2026-11-10T11:04",
    "status": "open",
    "also_urls": []
   },
@@ -140,8 +96,7 @@
    "status": "open",
    "also_urls": [
     "https://de.linkedin.com/jobs/view/4462611314",
-    "https://de.linkedin.com/jobs/view/4487950738",
-    "https://de.linkedin.com/jobs/view/4487134659"
+    "https://de.linkedin.com/jobs/view/4487950738"
    ]
   },
   {
