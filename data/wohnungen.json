@@ -1,9 +1,99 @@
 {
- "generated": "2026-11-11T08:57",
+ "generated": "2026-11-11T10:44",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 304,
+ "count": 305,
  "items": [
+  {
+   "id": "3568144658",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3568144658",
+   "title": "Schöne Einliegerwohnung mit 42 m² zu vermieten",
+   "price_txt": "900 €",
+   "plz": "77933",
+   "ort": "Lahr",
+   "lat": 48.32986904032573,
+   "lon": 7.837664400067979,
+   "img": null,
+   "tags": [],
+   "desc": "Schöne Einliegerwohnung mit 42 m² zu vermieten Wir vermieten eine gepflegte Einliegerwohnung mit einer Gesamtfläche von ca. 42 m² in unserem Haus. Die Wohnung verfügt über: - 2 Zimmer - Küche - Badezimmer mit WC - Flur Die Wohnung eignet sich ideal für eine Einzelperson oder ein Paar. Wir suchen zuverlässige, ruhige und ordentliche Mieter, die Wert auf ein angenehmes Wohnumfeld legen. Mietkosten: - Kaltmiete: 700 - Nebenkosten: 200 - Warmmiete: 900 - Kaution: 1400 Bei Interesse freuen wir uns über Ihre Nachricht. Mit freundlichen Grüßen",
+   "m2": 42.0,
+   "zimmer": 2.0,
+   "kalt": 900.0,
+   "nk": null,
+   "warm": null,
+   "kaution": null,
+   "ab": "",
+   "typ": "",
+   "posted": "2026-11-11",
+   "street": "",
+   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
+   "warm_calc": 1018.0,
+   "warm_est": true,
+   "moebl": false,
+   "ebk": false,
+   "km": 16.3,
+   "allowed": 852,
+   "eur_m2": 24.2,
+   "zone": "далеко",
+   "verdict": "нет",
+   "notes": [
+    "тёплая ≈ (холодная + NK на глаз)",
+    "тёплая 1018 > 1000",
+    "далеко: Lahr, 16.3 км по прямой"
+   ],
+   "first_seen": "2026-11-11T10:11",
+   "source": "поиск",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "3517629779",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3517629779",
+   "title": "TAUSCHWOHNUNG Tausche 1-Zimmer-Wohnung in Kehl",
+   "price_txt": "550 €",
+   "plz": "77694",
+   "ort": "Kehl",
+   "lat": 48.57495151702854,
+   "lon": 7.841902524492639,
+   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f18df8ca-049e-45b5-a010-8ac6ebb50cbc?rule=$_59.JPG",
+   "tags": [
+    "Balkon",
+    "Terrasse",
+    "Einbauküche",
+    "Badewanne",
+    "Keller"
+   ],
+   "desc": "Es handelt sich hierbei um ein Tauschangebot. (Anbieter-ID: 486741) Wohnungstausch Kehl → Freiburg oder Emmendingen Ich biete meine schöne 1-Zimmer-Wohnung mit ca. 45 m² in Kehl zum Wohnungstausch an und suche dafür eine mindestens 2-Zimmer-Wohnung in Freiburg oder Emmendingen. Die Wohnung kostet 550 € Kaltmiete. Die Warmmiete beträgt 700 € inklusive 50 € für den Stellplatz. Die Wohnung verfügt über: • einen großen Balkon • eine Einbauküche • einen sehr großen Kellerraum • einen eigenen Stellplatz • eine freundliche und angenehme Nachbarschaft Die Lage ist ebenfalls sehr praktisch: Die Wohnung befindet sich direkt an der Grenze zu Straßburg. Straßburg ist sogar zu Fuß erreichbar. Eine Tram-Haltestelle ist ca. 10 Minuten entfernt, sodass man bequem mit der Tram nach Straßburg fahren kann. Für den täglichen Einkauf befinden sich REWE und Action in der Nähe. Auch eine Bushaltestelle ist schnell erreichbar. Da ich mich wohnlich vergrößern möchte, suche ich eine 2- bis 3-Zimmer-Wohnung in Freiburg oder Emmendingen. Ein Balkon oder eine Terrasse wäre schön. Kein Dachgeschoss bevorzugt. Ich suche: • mindestens 2 Zimmer • Freiburg oder Emmendingen • möglichst bis ca. 750–780 € warm • gerne Balkon oder Terrasse • möglichst kein Dachgeschoss Bei Interesse an einem Tausch freue ich mich über eine Nachricht. Diese Anzeige wurde von einem Nutzer eingestellt. Tauschwohnung.com stellt nur die Plattform bereit und ist nicht Anbieter der Wohnung. Hinweise auf mögliche Rechtsverletzungen (z. B. bei Fotos) bitte hier melden: https://www.tauschwohnung.com/reporting-process-for-illegal-content # Weitere Angaben - Bodenbelag: Laminat Anbieter-Objekt-ID: 486741",
+   "m2": 45.0,
+   "zimmer": 1.0,
+   "kalt": 550.0,
+   "nk": 100.0,
+   "warm": null,
+   "kaution": null,
+   "ab": "",
+   "typ": "Andere Wohnungstypen",
+   "posted": "2026-10-20",
+   "street": "",
+   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
+   "warm_calc": 650.0,
+   "warm_est": true,
+   "moebl": false,
+   "ebk": true,
+   "km": 14.9,
+   "allowed": 930,
+   "eur_m2": 14.4,
+   "zone": "далеко",
+   "verdict": "нет",
+   "notes": [
+    "тёплая ≈ (холодная + NK)",
+    "WG/WBS/монтёр/пендлер — не наш формат",
+    "далеко: Kehl, 14.9 км по прямой"
+   ],
+   "first_seen": "2026-11-11T10:11",
+   "source": "поиск",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "3567899512",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3567899512",
@@ -279,54 +369,6 @@
    "also_urls": []
   },
   {
-   "id": "3567490848",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3567490848",
-   "title": "Großzügige Zwei-Zimmer-Wohnung mit eigenem Ankleidezimmer und großem Balkon zu verkaufen",
-   "price_txt": "830 €",
-   "plz": "77933",
-   "ort": "Lahr",
-   "lat": 48.33862929792118,
-   "lon": 7.8998892207637255,
-   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01002bb8-7d0d-402e-a588-21a280cf224b?rule=$_59.JPG",
-   "tags": [
-    "Einbauküche",
-    "Fußbodenheizung",
-    "Aufzug",
-    "Keller",
-    "Garage/Stellplatz"
-   ],
-   "desc": "Diese hochwertige 2-Zimmer-Wohnung überzeugt durch ihre moderne Ausstattung, eine durchdachte Raumaufteilung sowie eine ruhige, dennoch zentral angebundene Wohnlage in Lahr. Große bodentiefe Fenster schaffen ein helles, freundliches Wohnambiente und lassen viel Tageslicht in die Räume. Die Fußbodenheizung sorgt in der gesamten Wohnung für eine angenehme und gleichmäßige Wärme. Das Schlafzimmer verfügt über ein direkt angrenzendes Ankleidezimmer und bietet damit optimalen Komfort sowie großzügigen Stauraum. Der edle Parkettboden verleiht der gesamten Wohnung eine warme, stilvolle Atmosphäre. Ein besonderes Highlight ist der großzügige Balkon, der viel Platz für Erholung im Freien bietet. Die moderne Einbauküche ist vollständig ausgestattet und sofort nutzbar. Das elegant gestaltete Badezimmer verfügt über eine Dusche, eine Badewanne sowie zwei Waschbecken – perfekt für ein komfortables Wohngefühl. Ergänzt wird das Angebot durch einen großen Kellerabteil sowie einen Stellplatz im Freien. Das niedrige Hausgeld macht die Wohnung auch wirtschaftlich attraktiv. # Ausstattung - 2-Zimmer-Wohnung mit idealem Grundriss - Fußbodenheizung für angenehme Wärme - Bodentiefe Fenster für helle, moderne Wohnräume - Schlafzimmer mit Ankleidezimmer für optimalen Stauraum - Hochwertiger Parkettboden in allen Wohnbereichen - Moderne Einbauküche vollständig ausgestattet Großer Balkon für Entspannung im Freien - Badezimmer mit Dusche, Badewanne und zwei Waschbecken - Großer Kellerabteil für zusätzlichen Stauraum - Stellplatz im Freien direkt am Haus - Niedriges Hausgeld - Barrierefreier Zugang zur Wohnung - Gepflegte Wohnanlage in angenehmer Nachbarschaft # Weitere Angaben - Garagen/Stellplätze: 1 - Objektzustand: saniert - Garagen/Stellplatzmiete: 50,00 € - Vermietbare Fläche: ca. 71 m² # Lagebeschreibung Die Wohnung befindet sich in der Bertha-von-Suttner-Allee, einer attraktiven, ruhigen und gepflegten Wohnlage von Lahr. Das Umfeld zeichnet sich durch moderne Wohnhäuser, viel Grün und eine harmonische Nachbarschaft aus. Einkaufsmöglichkeiten, Schulen, Kindergärten sowie medizinische Einrichtungen liegen in kurzer Entfernung und sorgen für eine hervorragende Alltagsversorgung. Durch die gute Anbindung an den öffentlichen Nahverkehr und die schnelle Erreichbarkeit der Lahrer Innenstadt bietet die Lage eine ideale Kombination aus Ruhe und urbaner Nähe. Grünflächen und Freizeitmöglichkeiten in der Umgebung runden das Gesamtbild ab und bieten hohe Lebensqualität. # Sonstiges Da wir uns bei allen Angaben auf die Informationen Dritter stützen müssen, können wir keine Gewähr für deren Richtigkeit und Vollständigkeit übernehmen. Bitte haben Sie Verständnis dafür, dass wir nur Anfragen mit vollständiger Adressangabe und erreichbarer Handynummer bearbeiten können. Nachdem Ihre Anfrage per E-Mail bei uns eingegangen ist, werden wir uns mit Ihnen zur Abstimmung eines Besichtigungstermins in Verbindung setzen. Bitte nennen Sie deshalb in Ihrer E-Mail eine Tel.-Nr., unter der wir Sie sicher erreichen können. Widerrufsbelehrung für Verbraucher: Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (Königskinder Immobilien GmbH, Königstraße 62, 70173 Stuttgart, Tel: 0711 4005440, Fax: 0711 40054433, info@koenigskinder.de) mittels einer eindeutigen Erklärung (z. B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden. Folgen des Widerrufs: Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht. # Energie - Energieausweis: Energieverbrauchsausweis - Wesentliche Energieträger: GAS - Energieverbrauch: 91.5 kWh/(m²*a) - Energieeffizienzklasse: C - Gültig bis: 2031-08-26 - Baujahr (gemäß Energieausweis): 2010 - Heizungsart: Fußbodenheizung Anbieter-Objekt-ID: LDW1.LM.12680",
-   "m2": 71.0,
-   "zimmer": 2.0,
-   "kalt": 830.0,
-   "nk": 200.0,
-   "warm": null,
-   "kaution": null,
-   "ab": "",
-   "typ": "Etagenwohnung",
-   "posted": "2026-11-10",
-   "street": "",
-   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "warm_calc": 1030.0,
-   "warm_est": true,
-   "moebl": false,
-   "ebk": true,
-   "km": 13.8,
-   "allowed": 1000,
-   "eur_m2": 14.5,
-   "zone": "далеко",
-   "verdict": "нет",
-   "notes": [
-    "тёплая ≈ (холодная + NK)",
-    "тёплая 1030 > 1000",
-    "далеко: Lahr, 13.8 км по прямой"
-   ],
-   "first_seen": "2026-11-10T14:41",
-   "source": "поиск",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "3567408593",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3567408593",
    "title": "3 Zimmer Wohnung Stadtnah, Tram fussläufig erreichbar, ruhig!",
@@ -462,7 +504,7 @@
    "first_seen": "2026-11-10T12:59",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -3056,7 +3098,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -3416,7 +3458,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -3512,7 +3554,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -3600,7 +3642,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -3646,7 +3688,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -4074,7 +4116,7 @@
    "first_seen": "2026-11-03T17:34",
    "source": "immowelt",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -4155,7 +4197,7 @@
    "first_seen": "2026-11-03T17:34",
    "source": "immowelt",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -5578,7 +5620,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -5626,7 +5668,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -5945,7 +5987,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -5987,7 +6029,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -6130,7 +6172,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -6230,7 +6272,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -6365,7 +6407,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -6410,7 +6452,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -6456,7 +6498,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -6732,7 +6774,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -6914,7 +6956,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -7650,7 +7692,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -8014,7 +8056,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -8748,7 +8790,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -9478,7 +9520,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10693,7 +10735,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10871,7 +10913,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11150,7 +11192,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11645,7 +11687,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11776,7 +11818,7 @@
    "street": "",
    "loc_prec": "по адресу из текста: Weingartenstr.",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -12036,7 +12078,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -12500,7 +12542,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -12807,7 +12849,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {

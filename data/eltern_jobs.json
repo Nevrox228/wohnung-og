@@ -1,9 +1,915 @@
 {
- "generated": "2026-11-11T08:57",
+ "generated": "2026-11-11T10:44",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 419,
+ "count": 424,
  "items": [
+  {
+   "id": "marina:ba_10001-1003995449-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft (m/w/d)",
+   "firma": "Alten- und Pflegeheim Miksch & Partner GmbH",
+   "ort": "Bad Rippoldsau-Schapbach",
+   "street": "Fürstenbergstr. 4",
+   "lat": 48.4281256,
+   "lon": 8.3286514,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003995449-S",
+   "posted": "2026-11-11",
+   "desc": "Wir freuen uns sehr, dass Sie sich für einen Arbeitsplatz als **Reinigungskraft (m/w/d)** in Teilzeit mit einem Beschäftigungsumfang von 50% in unserem Pflegeheim Haus St. Vinzenz in Bad Rippoldsau der Miksch & Partner Gruppe interessieren! Seit über 30 Jahren schaffen wir Möglichkeiten für pflegebedürftige, suchterkrankte und psychisch erkrankte Menschen. Diese Leistungen erbringen wir in jeweils spezifischen voll-, teilstationären und ambulanten Einrichtungen. Mittlerweile sind wir einer der größten privaten Anbieter im Landkreis Freudenstadt im Rahmen der vollstationären und ambulanten Pflege in Verbindung mit Eingliederungshilfe. Der schöne Kurort Bad Rippoldsau-Schapbach liegt im Wolftal zwischen Freudenstadt und Wolfach, eingebettet zwischen den bewaldeten Hängen des Schwarzwaldes. Das Haus St. Vinzenz bietet zentral im Ort für 63 Menschen ein Zuhause in familiärer Atmosphäre. **Wir bieten Ihnen** - Vergütung auf Niveau des TVÖD-Pflege inkl. Jahressonderzahlung - Bis zu 30 Tage Urlaubsanspruch - Betriebliche Altersvorsorge - Vereinbarkeit von Beruf und Familie durch Unterstützung bei Kinderbetreuungskosten - Flexible Arbeitszeitmodelle (Mütter- und Väterschichten, Wunschdienste) - Gesundheitszuschuss (z.B. Job-Rad, Fitnessstudio, Volkshochschulkurse, etc.) bis zu 360 EUR / Jahr - Betriebliches Gesundheitsmanagement - Teilnahme an internen und externen Fortbildungen (Supervision bei Bedarf) - Umfassende Einarbeitung in einem engagierten interdisziplinären Team - Kostenlose Getränke und ein frischer Obstkorb - Digitale Mitarbeiter-App für interne Kommunikation - Mitarbeiterrabatte über Corporate Benefits - Einen sicheren Arbeitsplatz in einem etablierten Unternehmen **Ihre Aufgaben** - Reinigung der Bewohnerzimmer, Gemeinschaftsräume, Sanitärräume, Verkehrsflächen und Verwaltungsbereiche - Fachgerechte Pflege und Desinfektion von Räumen, Oberflächen und Mobiliar - Arbeiten nach dem Farb-Code-System - Einsatz von verschiedenen Reinigungstechniken und Geräten - Aufbereitung der hauseigenen Wäsche - Entsorgung der anfallenden Abfälle - Dokumentation der ausgeführten Arbeiten - Einhaltung der Sicherheits- und Hygienevorschriften Bei uns erwarten Sie spannende Aufgaben, die auf Ihr Profil zugeschnitten sind und sich an den persönlichen Zielen unserer Bewohner/innen orientieren. **Wenn Sie ...** … Ihre Kompetenz und Ihre Ideen in unser Team einbringen möchten und das Herz am rechten Fleck haben, **... dann sind Sie bei uns genau richtig.** Werden Sie Teil der Miksch & Partner Gruppe und bewerben Sie sich jetzt! Wir freuen uns auf Ihre Bewerbung!",
+   "zeit": " / Teilzeit",
+   "schicht": true,
+   "quer": true,
+   "who": "marina",
+   "km": 21.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-11T10:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 140,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 2,
+      "end_stop": "Bad Rippoldsau Kirche",
+      "dep": "05:21",
+      "arr": "07:41",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Wolfach",
+        "dep": "05:54",
+        "arr": "06:26",
+        "wait": 6,
+        "min": 32
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7266",
+        "from": "Wolfach",
+        "to": "Bad Rippoldsau Kirche",
+        "dep": "07:10",
+        "arr": "07:40",
+        "wait": 44,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bad Rippoldsau Kirche",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:41",
+        "min": 2
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 146
+     },
+     {
+      "kind": "как в приложении",
+      "min": 133,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 2,
+      "end_stop": "Bad Rippoldsau Kirche",
+      "dep": "17:36",
+      "arr": "19:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "17:36",
+        "arr": "17:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "17:47",
+        "arr": "18:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Wolfach",
+        "dep": "18:41",
+        "arr": "19:14",
+        "wait": 38,
+        "min": 33
+       },
+       {
+        "walk": false,
+        "mode": "Freizeitbus",
+        "line": "F 13",
+        "from": "Wolfach",
+        "to": "Bad Rippoldsau Kirche",
+        "dep": "19:18",
+        "arr": "19:48",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bad Rippoldsau Kirche",
+        "to": "работа",
+        "dep": "19:48",
+        "arr": "19:49",
+        "min": 2
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 151
+     },
+     {
+      "kind": "велосипед",
+      "min": 133,
+      "changes": 0,
+      "km": 32.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 133
+       }
+      ],
+      "risky": false,
+      "score": 246
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 567,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 541,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "17:36",
+      "arr": "03:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "17:36",
+        "arr": "17:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "17:47",
+        "arr": "18:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "18:03",
+        "arr": "03:04",
+        "min": 541
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 567
+     }
+    ],
+    "best": "транспорт",
+    "min": 140,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_11119-4982936081-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d)",
+   "firma": "Randstad Deutschland",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.6912872,
+   "lon": 8.1515688,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4982936081-S",
+   "posted": "2026-11-11",
+   "desc": "Träumen Sie von einem Job, bei dem Sie nicht nur eine Nummer sind? Wir suchen Sie als Mitarbeiter in der Produktion für unseren Geschäftspartner in Bühl, Baden. Werden Sie Teil der Randstad Familie und bewerben Sie sich jetzt online! Ihre Persönlichkeit und Ihre Fähigkeiten zählen. Alles andere ist für uns zweitrangig. Das dürfen Sie erwarten ● Zugeschnittene Weiterbildungsmöglichkeiten und kostenlose Sprachkurse ● Extra Zulagen bei langfristigen Einsätzen ● Vergünstigungen bei Sport-, Freizeit- und Wellness-Einrichtungen ● Gesundheitsvorsorge durch unser Werksarztzentrum - kostenfreie Dienstleistungen rund um die Arbeitsmedizin und individuelle Antworten auf Ihre Gesundheitsfragen ● Urlaubsanspruch von bis zu 30 Tagen im Jahr Ihre Aufgaben - Mitarbeit an den Produktionslinien - Montage von Bauteilen - Sicht- und Qualitätskontrolle - Reinigung des Arbeitsplatzes Unsere Anforderungen - Keine Berufserfahrung notwendig, Quereinsteiger willkommen - Gültige Arbeitserlaubnis - Bereitschaft zum Schichtdienst (2-Schicht) - Deutsche Sprachkenntnisse - Sorgfältige Arbeitsweise - Fingerfertigkeit",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 18.4,
+   "de": "немного",
+   "de_txt": "Deutsche Sprachkenntnisse",
+   "help": "Sprachkurs",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-11T10:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 27,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:43",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:43",
+        "min": 27
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 74
+     },
+     {
+      "kind": "как в приложении",
+      "min": 72,
+      "changes": 2,
+      "min_wait": 9,
+      "walk_end": 11,
+      "end_stop": "Kappelwindeck Bachschlossschule",
+      "dep": "06:32",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "268",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Bachschlossschule",
+        "dep": "07:26",
+        "arr": "07:34",
+        "wait": 9,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Bachschlossschule",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:45",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "велосипед",
+      "min": 93,
+      "changes": 0,
+      "km": 22.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 93
+       }
+      ],
+      "risky": false,
+      "score": 166
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_11119-4982936073-S",
+   "src": "Jobbörse",
+   "title": "Lagerhelfer (m/w/d)",
+   "firma": "Randstad Deutschland",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.6912872,
+   "lon": 8.1515688,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4982936073-S",
+   "posted": "2026-11-11",
+   "desc": "Zur Unterstützung unseres Kunden in Bühl, Baden suchen wir derzeit einen Mitarbeiter im Lager. Bewerben Sie sich jetzt direkt online für diese attraktive Stelle. Dabei freuen wir uns auch über Bewerbungen von Menschen mit Behinderung und gleichgestellten Personen. Wir sind Randstad, Personaldienstleister aus Überzeugung. Wir geben unser Bestes für Ihre Karriere. Das dürfen Sie erwarten ● Zusätzlich 250 € (brutto) für jede erfolgreiche Weiterempfehlung an einen Freund oder Bekannten ● Attraktive Sozialleistungen, zum Beispiel Urlaubs- und Weihnachtsgeld ● Kostenlose arbeitsmedizinische Vorsorge & Beratung ● Automatisch steigendes Gehalt bei längerfristigen Einsätzen ● Monatlich wechselnde Rabattaktionen, z.B. bei großen Versandhäusern, Hotelketten, Fluglinien, Modehäusern und vielem mehr Ihre Aufgaben - Wareneingangskontrolle - Entladen und Verladen von Gütern - Einräumen der Ware ins Lager - Umgang mit dem Warenwirtschaftssystem - Kommissionierung von Bestellungen - Überprüfung der Lagerbestände - Vorbereitung der Versanddokumente Unsere Anforderungen - Keine Berufserfahrung notwendig, Quereinsteiger willkommen - Gültige Arbeitserlaubnis - Bereitschaft zum Schichtdienst (Frühschicht und Spätschicht) - Deutsche Sprachkenntnisse - Sorgfältige Arbeitsweise - Gute Auffassungsfähigkeit",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 18.4,
+   "de": "немного",
+   "de_txt": "Deutsche Sprachkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-11T10:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 27,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:43",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:43",
+        "min": 27
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 74
+     },
+     {
+      "kind": "как в приложении",
+      "min": 72,
+      "changes": 2,
+      "min_wait": 9,
+      "walk_end": 11,
+      "end_stop": "Kappelwindeck Bachschlossschule",
+      "dep": "06:32",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "268",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Bachschlossschule",
+        "dep": "07:26",
+        "arr": "07:34",
+        "wait": 9,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Bachschlossschule",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:45",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "велосипед",
+      "min": 93,
+      "changes": 0,
+      "km": 22.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 93
+       }
+      ],
+      "risky": false,
+      "score": 166
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3568107619",
+   "src": "Kleinanzeigen",
+   "title": "Küchenmitarbeiter (m/w/d) Betriebsrestaurant | Teilzeit | 77963",
+   "firma": "WISAG Job & Karriere GmbH & Co. KG",
+   "ort": "Schwanau",
+   "plz": "77963",
+   "street": "",
+   "lat": 48.3649357,
+   "lon": 7.7639382,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/kuechenmitarbeiter-m-w-d-betriebsrestaurant-teilzeit-77963/3568107619-110-8038",
+   "posted": "2026-11-11",
+   "posted_time": "09:22",
+   "desc": "Willkommen bei der WISAG … einem der führenden Dienstleistungsunternehmen in Deutschland für die Bereiche: Aviation, Facility und Industrie. Mehr als 60.000 Mitarbeiterinnen und Mitarbeiter sind Tag für Tag bei uns im Einsatz. In der WISAG Business Catering sind wir auf facettenreiche Gastronomieleistungen spezialisiert. Bundesweit gestalten wir dabei individuelle Betriebsrestaurants: moderne Treffpunkte für Kommunikation und Genuss. Die Grundlage hierzu bieten unsere innovativen Konzepte der Ganztagsverpflegung (Lunch, Kaffeepause, Zwischenverpflegung und Konferenzservice). Wir lieben gutes Essen und wollen unsere Gäste jeden Tag aufs Neue begeistern! Kommen auch Sie in unser Team, begeistern Sie unsere Gäste und entfalten Sie Ihr volles Potenzial in einer abwechslungsreichen Branche mit vielen Entwicklungsmöglichkeiten. Mehr über die WISAG erfahren Sie auf unserer Webseite. Küchenmitarbeiter (m/w/d) Betriebsrestaurant | Teilzeit | 77963 Schwanau Kennziffer: 431395 Ihre Aufgaben bei uns ● Ausgabe der Speisen zur Mittagszeit ● Allgemeine Reinigungs- und Aufräumarbeiten ● Arbeiten gemäß HACCP-Richtlinien ● Unterstützung bei Sonderveranstaltungen Ihr Betriebsrestaurant befindet sich in Schwanau - Allmannsweier. Die Arbeit ist in TEILZEIT 30,00 Stunden/ Woche. Die Arbeitszeiten sind Montag bis Freitag zwischen 6:00 und 15:00 Uhr. Damit begeistern Sie uns ● Ausbildung zum Beikoch bzw. zur Beiköchin ● Erste Erfahrung in der Gemeinschaftsverpflegung ● Freude am Umfang mit frischen Lebensmitteln ● Sehr gute Deutschkenntnisse in Wort und Schrift ● Lern- und Einsatzbereitschaft sowie Teamfähigkeit ● Führerschein Klasse B zwingend erforderlich Das bieten wir Ihnen ● Planungssicherheit durch geregelte Arbeitszeiten in der Gemeinschaftsverpflegung ● Ein spannendes kulinarisches Umfeld mit viel Gestaltungsspielraum ● Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten ● Arbeitskleidung wird gestellt (inklusive Reinigung) ● Eine wertschätzende Unternehmenskultur ● Wir unterstützen Ihre Kinder und Enkelkinder! Profitieren Sie vom attraktiven Förderprogramm unserer KiWIS Stiftung - z. B. für Nachhilfe, Musikerziehung und spannende Freizeitangebote Wir haben Sie überzeugt? Dann freuen wir uns auf Ihre Bewerbung! Der einfachste Weg zu uns führt über den „Jetzt bewerben\"-Button - ohne Registrierung und ohne Anschreiben - bewerben Sie sich in nur 2 Minuten. Die WISAG ist Unterzeichner der „Charta der Vielfalt“ und fördert alle Mitarbeiter*innen mit ihren vielfältigen Fähigkeiten und Talenten wertschätzend und vorurteilsfrei. Alle Bewerbungen - unabhängig von Geschlecht, Nationalität, kultureller und sozialer Herkunft, Religion und Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und geschlechtlicher Identität - werden begrüßt. Bewerbungen von Menschen mit Migrationshintergrund sind erwünscht. Wir berücksichtigen Schwerbehinderte entsprechend den Vorgaben des SGB IX und ggf. der betrieblichen Integrationsvereinbarung. ... ********************************************** Bitte bewerben Sie sich jetzt direkt per WhatsApp über diesen Link: https://wisag.pitchyou.de/FT765 (oder klicken Sie einfach auf den Bewerben-Button) **********************************************",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 29.8,
+   "de": "нужен",
+   "de_txt": "Sehr gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Ausbildung zum Beikoch bzw zur Beiköchin",
+   "prof": true,
+   "agency": true,
+   "kind": "Кухня",
+   "first_seen": "2026-11-11T10:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 102,
+      "changes": 2,
+      "min_wait": 3,
+      "walk_end": 11,
+      "end_stop": "Allmannsweier Oberdorf",
+      "dep": "17:36",
+      "arr": "19:19",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "17:36",
+        "arr": "17:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "17:47",
+        "arr": "18:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "18:06",
+        "arr": "18:16",
+        "wait": 3,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Ottenheim Schule",
+        "dep": "18:44",
+        "arr": "18:57",
+        "wait": 28,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Ottenheim Schule",
+        "to": "Allmannsweier Oberdorf",
+        "dep": "18:59",
+        "arr": "19:08",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Allmannsweier Oberdorf",
+        "to": "работа",
+        "dep": "19:08",
+        "arr": "19:19",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 120
+     },
+     {
+      "kind": "велосипед",
+      "min": 172,
+      "changes": 0,
+      "km": 42.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 172
+       }
+      ],
+      "risky": false,
+      "score": 324
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 324,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 298,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "14:36",
+      "arr": "20:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "14:36",
+        "arr": "14:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "14:47",
+        "arr": "15:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "15:03",
+        "arr": "20:01",
+        "min": 298
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 324
+     }
+    ],
+    "best": "транспорт",
+    "min": 102,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3568121720",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer (m/w/d) 18,49 € Muggensturm | Bühl | Vollzeit | Adecco | Job",
+   "firma": "Adecco Deutschland",
+   "ort": "Bühl",
+   "plz": "77815",
+   "street": "",
+   "lat": 48.7016606,
+   "lon": 8.1350401,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-18-49-muggensturm-buehl-vollzeit-adecco-job/3568121720-247-8746",
+   "posted": "2026-11-11",
+   "posted_time": "09:40",
+   "desc": "Als Lagerhelfer (m/w/d) bei L’Oréal in Muggensturm stellst du Kosmetikbestellungen zusammen und bewegst Waren mit dem Schnellläufer. Zwei Tage Einarbeitung helfen dir, deinen Bereich kennenzulernen. Du kannst als Lagerhelfer ab sofort in Vollzeit einsteigen. Gute Deutschkenntnisse sind willkommen. Mit Polnisch oder Rumänisch ist ein Einstieg ohne Deutsch nach Absprache über eine passende Schulungsgruppe möglich. Für Bewerber aus Bühl wichtig: Der Arbeitsort ist Muggensturm. Deine Anfahrt muss zu allen vereinbarten Schichten gesichert sein. Es wird keine Unterkunft gestellt. **Deine Vorteile** * 18,49 € brutto pro Stunde zum Einstieg, nach drei Monaten 18,63 € * Unbefristet, in Vollzeit mit 38,65 Wochenstunden * Spätzuschläge, 25% Samstags- und 60% Sonn-/Feiertagszuschlag sowie Urlaubs- und Weihnachtsgeld * 25 Urlaubstage pro Jahr, ein zusätzlicher Tag je weiterem Beschäftigungsjahr * Kostenloses Wasser, kostenlose Parkplätze und Kantinennutzung **Aufgaben** * Bestellungen mit Kosmetikprodukten zusammenstellen * Waren sicher mit dem Schnellläufer transportieren * Be- und Entladearbeiten unterstützen * Innerbetriebliche Transporte und allgemeine Lagerarbeiten übernehmen * Sicherheits- und Qualitätsregeln beachten **Das bringst du mit** * Kenntnisse mit Flurförderzeugen, erste Lagererfahrung wünschenswert, Schnellläufer-Praxis von Vorteil * Gute Deutschkenntnisse oder Polnisch/Rumänisch mit abgestimmter Schulung * G25-Eignung und erfolgreiche Teilnahme an der L’Oréal-Schulung für den Einsatz * Sorgfältige, zuverlässige Arbeitsweise und Früh-/Spätschichtbereitschaft; ab Januar 2027 auch Dauernacht möglich * Eigenständige Anfahrt nach Muggensturm zu deinen Schichten **Interessiert?** Ob Fragen zur Schulung oder zum Job als Lagerhelfer: Melde dich bei uns. Mit Adecco steht dir eine kununu Top Company 2026 zur Seite. Dein persönlicher Ansprechpartner begleitet deinen Start und deinen Einsatz in Arbeitnehmerüberlassung. Bewirb dich als Lagerhelfer (m/w/d) für L’Oréal in Muggensturm. **Kontakt** Justyna Magdalena Zuk Tel.: +49 69 668194 160",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 19.3,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse sind willkommen.",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-11T10:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 10,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:27",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "велосипед",
+      "min": 117,
+      "changes": 0,
+      "km": 28.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 117
+       }
+      ],
+      "risky": false,
+      "score": 214
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_15518-OTF1JUL0JX7ON20M-S",
    "src": "Jobbörse",
@@ -2059,7 +2965,10 @@
     "changes": 3
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.jobware.de/job/gaertner-in-oder-hilfskraft-fuer-unsere-gemeindegaertnerei-065046487",
+    "https://www.kleinanzeigen.de/s-anzeige/gaertner-in-oder-hilfskraft-fuer-unsere-gemeindegaertnerei/3568166646-111-8719"
+   ],
    "person": "Алексей"
   },
   {
@@ -5399,7 +6308,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3568117722-247-8045"
+   ],
    "person": "Марина"
   },
   {
@@ -45283,7 +46194,8 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f1008j0453226-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14340-478395511-S",
-    "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-lagerhelfer-spaetschicht-in-lahr-m-w-d-/3536215736-247-8047"
+    "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-lagerhelfer-spaetschicht-in-lahr-m-w-d-/3536215736-247-8047",
+    "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-lagerhelfer-spaetschicht-in-lahr-m-w-d-/3568122986-247-8047"
    ],
    "person": "Марина"
   },

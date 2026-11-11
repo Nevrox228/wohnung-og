@@ -1,9 +1,56 @@
 {
- "generated": "2026-11-11T08:57",
+ "generated": "2026-11-11T10:44",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 51,
+ "count": 52,
  "items": [
+  {
+   "id": "ba_13635-c9469775_JB5295525-S",
+   "src": "Jobbörse",
+   "title": "Verwaltungsmitarbeiter*in für die Ganztagsbetreuung an Grundschulen",
+   "firma": "Stadt Offenburg",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.4966495,
+   "lon": 7.9364094,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-c9469775_JB5295525-S",
+   "posted": "2026-11-11",
+   "ab": "2026-11-11",
+   "zeit": " / Teilzeit",
+   "befristet": false,
+   "quer": false,
+   "beruf": "Verwaltungsfachangestellte/r - Kommunalverwaltung",
+   "km": 2.3,
+   "kind": "Hort / Schule",
+   "ausb": false,
+   "first_seen": "2026-11-11T10:11",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "ss_14739059",
+   "src": "StepStone",
+   "title": "Pädagogische Fachkraft (m/w/d) für die Kita \"Sr. Giovanna\"",
+   "firma": "Stadt Oberkirch Stadtverwaltung KöR",
+   "ort": "Oberkirch",
+   "plz": "",
+   "street": "",
+   "lat": 48.5308586,
+   "lon": 8.078657,
+   "url": "https://www.stepstone.de/stellenangebote--Paedagogische-Fachkraft-m-w-d-fuer-die-Kita-\"Sr-Giovanna\"-Oberkirch-Stadt-Oberkirch-Stadtverwaltung-KoeR--14739059-inline.html",
+   "posted": "2026-11-11",
+   "desc": "Die Stadt Oberkirch ist ein moderner Dienstleistungsanbieter mit rund 500 Mitarbeitern in der Schwarzwaldregion. Gesucht wird eine Pädagogische Fachkraft (m/w/d) für die Kita \"Sr. Giovanna\" zur engagierten Betreuung und Förderung von Kindern in der Krippe. Eine abgeschlossene Ausbildung zum staatlich anerkannten Erzieher oder eine geeignete pädagogische Ausbildung nach dem Fachkräftekatalog, fundi",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 11.4,
+   "kind": "Kita / Krippe",
+   "ausb": false,
+   "first_seen": "2026-11-11T10:11",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "li_4461528816",
    "src": "LinkedIn",
@@ -93,28 +140,6 @@
    "also_urls": []
   },
   {
-   "id": "li_4483151894",
-   "src": "LinkedIn",
-   "title": "Seminarleiter / Sozialpädagoge (m/w/d)",
-   "firma": "Bildungswerk der Bayerischen Wirtschaft (bbw-Gruppe)",
-   "ort": "Lauf",
-   "plz": "",
-   "street": "",
-   "lat": 48.6485831,
-   "lon": 8.1292199,
-   "url": "https://de.linkedin.com/jobs/view/4483151894",
-   "posted": "2026-10-23",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 23.3,
-   "kind": "Общее / другое",
-   "ausb": false,
-   "first_seen": "2026-11-10T11:04",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "ba_12412-7208cf14_JB5294448-S",
    "src": "Jobbörse",
    "title": "Erzieher (m/w/d) - Jugend- und Heimerzieher",
@@ -160,9 +185,7 @@
    "ausb": false,
    "first_seen": "2026-11-08T22:18",
    "status": "open",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4487950738"
-   ]
+   "also_urls": []
   },
   {
    "id": "ss_14715005",
@@ -1127,6 +1150,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },
