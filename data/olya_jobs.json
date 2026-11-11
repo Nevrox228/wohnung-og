@@ -1,9 +1,53 @@
 {
- "generated": "2026-11-11T10:44",
+ "generated": "2026-11-11T11:58",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 52,
+ "count": 53,
  "items": [
+  {
+   "id": "li_4483151894",
+   "src": "LinkedIn",
+   "title": "Seminarleiter / Sozialpädagoge (m/w/d)",
+   "firma": "Bildungswerk der Bayerischen Wirtschaft (bbw-Gruppe)",
+   "ort": "Lauf",
+   "plz": "",
+   "street": "",
+   "lat": 48.6485831,
+   "lon": 8.1292199,
+   "url": "https://de.linkedin.com/jobs/view/4483151894",
+   "posted": "2026-10-23",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 23.3,
+   "kind": "Общее / другое",
+   "ausb": false,
+   "first_seen": "2026-11-11T11:14",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "li_4462605353",
+   "src": "LinkedIn",
+   "title": "Sozialpädagogen (gn) Familienprojekt",
+   "firma": "Ohlebusch Baden-Baden GmbH",
+   "ort": "Offenburg",
+   "plz": "",
+   "street": "",
+   "lat": 48.4695984,
+   "lon": 7.9429235,
+   "url": "https://de.linkedin.com/jobs/view/4462605353",
+   "posted": "2026-08-11",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 0.8,
+   "kind": "Общее / другое",
+   "ausb": false,
+   "first_seen": "2026-11-11T11:14",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "ba_13635-c9469775_JB5295525-S",
    "src": "Jobbörse",
@@ -96,28 +140,6 @@
    "also_urls": []
   },
   {
-   "id": "li_4461536152",
-   "src": "LinkedIn",
-   "title": "Auszubildende für die praxisintegrierte Ausbildung zum/zur Erzieher/-in (PiA) (w/m/d) 2027",
-   "firma": "Stadt Achern",
-   "ort": "Achern",
-   "plz": "",
-   "street": "",
-   "lat": 48.6300161,
-   "lon": 8.0735581,
-   "url": "https://de.linkedin.com/jobs/view/4461536152",
-   "posted": "2026-09-01",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 19.4,
-   "kind": "Общее / другое",
-   "ausb": true,
-   "first_seen": "2026-11-11T05:49",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "li_4482372983",
    "src": "LinkedIn",
    "title": "Praxisintegrierte Ausbildung (PiA) zum Erzieher (m/w/d)",
@@ -185,7 +207,10 @@
    "ausb": false,
    "first_seen": "2026-11-08T22:18",
    "status": "open",
-   "also_urls": []
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4487950738",
+    "https://de.linkedin.com/jobs/view/4487134659"
+   ]
   },
   {
    "id": "ss_14715005",

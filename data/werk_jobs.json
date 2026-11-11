@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T10:44",
+ "generated": "2026-11-11T11:58",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 433,
-  "queue": 240,
-  "ai_focus": 226
+  "all": 436,
+  "queue": 241,
+  "ai_focus": 227
  },
  "jobs": [
   {
@@ -116,9 +116,7 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643023-1-S",
    "apply_url": "",
    "apply_email": "sbv-sindelfingen@mercedes-benz.com",
-   "also_urls": [
-    "https://www.stepstone.de/stellenangebote--Praktikantin-Infotainment-Testing-und-KI-basierte-Automatisierung-Sindelfingen-Mercedes-Benz-AG--14605183-inline.html"
-   ],
+   "also_urls": [],
    "salary": "",
    "posted": "2026-10-15",
    "first_seen": "2026-11-04T18:01",
@@ -1725,6 +1723,32 @@
    "posted": "2026-09-21",
    "first_seen": "2026-11-04T12:29",
    "description": "**Werkstudent (m/w/d) KI & Digitale Transformation** Wir suchen einen engagierten Werkstudenten, Berufseinsteiger oder Absolventen (m/w/d) mit Schwerpunkt Wirtschaftsinformatik, Digitalisierung oder Künstliche Intelligenz, der gemeinsam mit der Geschäftsführung die Einführung und Weiterentwicklung von KI-gestützten Prozessen und internen KI-Lösungen vorantreibt. **Deine Aufgaben bei uns** - Identifikation von Einsatzmöglichkeiten für Künstliche Intelligenz in unseren Geschäftsbereichen - Unterstützung bei der Entwicklung einer unternehmensweiten KI-Strategie - Recherche, Bewertung und Einführung geeigneter KI-Tools - Entwicklung von KI-gestützten Lösungen für Marketing, Kundenservice und interne Prozesse - Unterstützung bei der Automatisierung von Arbeitsabläufen - Erstellung von Leitfäden, Standards und Best Practices für den sicheren Einsatz von KI - Durchführung von Workshops und Schulungen für Mitarbeitende - Mitarbeit an Digitalisierungs- und Innovationsprojekten **Dein Profil** - Begeisterung für Künstliche Intelligenz und digitale Innovationen - Kenntnisse aktueller KI-Anwendungen wie ChatGPT, Copilot, Claude oder ähnlicher Systeme - Analytische und strukturierte Arbeitsweise - Gute Kommunikationsfähigkeiten - Erste Erfahrungen mit Automatisierungstools, Datenanalysen oder Prompt Engineering - Erste praktische Erfahrungen mit KI-Projekten - Verständnis für Unternehmensprozesse - Freude daran, neue Technologien verständlich zu vermitteln **Deine Vorteile bei uns** - Möglichkeit, die KI-Strategie einer vielfältigen Unternehmensgruppe aktiv mitzugestalten - Einblicke in unterschiedliche Geschäftsbereiche wie Energiehandel, Mobilität und Dienstleistungen - Hohe Eigenverantwortung und kurze Entscheidungswege - Flexible Arbeitszeiten & Möglichkeit zum mobilen Arbeiten - Moderne Arbeitsmittel und Zugang zu aktuellen KI-Tools - Perspektive auf Abschlussarbeiten oder eine spätere Festanstellung - Zuschüsse zu Fitnessstudio-Mitgliedschaften (Hansefit) **Sonstiges** Du unterstützt die Mönneke Unternehmensgruppe dabei, Künstliche Intelligenz sinnvoll einzusetzen, Prozesse zu optimieren und die digitale Transformation aktiv voranzutreiben. Interesse geweckt? Dann freuen wir uns über eine kurze Bewerbung per Mail. Für Rückfragen stehe ich gerne zur Verfügung: **Lilly Wiedemann** Personalabteilung | Mönneke Service GmbH [0151-23131541](https://tel:015123131541) **Deine Bewerbung** Bitte nutze unten stehendes Bewerbungsformular oder sende deine vollständige Bewerbung im PDF per E-Mail an [bewerbung@moenneke.de](https://mailto:bewerbung@moenneke.de) – andere Dateiformate und Bewerbungen per Post werden nicht berücksichtigt. Erforderliche Unterlagen: Motivationsschreiben und Lebenslauf"
+  },
+  {
+   "id": "ba_10001-1003090842-S",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent AI Engineer (m/w/d)",
+   "company": "SmartTECS Cyber Security GmbH",
+   "location": "Chemnitz",
+   "distance_km": 437.0,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003090842-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-05-19",
+   "first_seen": "2026-11-04T12:29",
+   "description": "📍 **Wo:** - Standorte: Chemnitz oder Dresden - Bereich: SmartTECS Cyber Security (Teil der SmartTECS-Gruppe) 🧑‍💻 **Was:** - Mitarbeit an KI-Lösungen für Unternehmen - Schwerpunkte:Entwicklung & Integration von KI-SystemenDatenaufbereitung & Data EngineeringRAG-Systeme, Embeddings, VektordatenbankenFine-Tuning von ML-Modellen - Analyse von Sicherheitsrisiken bei generativer KI (OWASP) 🎓 **Wie:** - Studium z. B. Informatik, Data Science, KI, Cyber Security - Grundkenntnisse:Python & ML-FrameworksDatenverarbeitung / Data Handling - Optional: Erfahrung mit RAG, LLMs, lokalen Modellen - Deutsch & Englisch sehr gut ⏰ **Rahmen:** - flexible Arbeitszeiten - strukturierte Einarbeitung - Entwicklungsperspektiven"
   },
   {
    "id": "ba_10000-1208307983-S",
@@ -8961,6 +8985,58 @@
    "posted": "2026-11-06",
    "first_seen": "2026-11-04T12:29",
    "description": "SMIGHT GmbH Werkstudent:in Marketing (m/w/d) Karlsruhe Branche Wirtschaft; Kommunikation, Medien; BWL; Marketing Art Des Angebots Werkstudent / Job Fachrichtungen Marketing; Betriebswirtschaftslehre Die vollständige Anzeige finden Sie beim Klick auf den Onlinebewerbungs-Button oder unter folgendem Link: https://jobs.jobware.net/Studentenjob/064451236?jw_chl_seg=NLINKEDIN"
+  },
+  {
+   "id": "jw_065056274",
+   "queue": false,
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent Business Intelligence & Analytics (m/w/d)",
+   "company": "metergrid",
+   "location": "Stuttgart, Hybrid",
+   "distance_km": 85.3,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobware",
+   "url": "https://www.jobware.de/job/werkstudent-business-intelligence-and-analytics-m-w-d-065056274",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11T11:14",
+   "description": ""
+  },
+  {
+   "id": "an_werkstudent-oder-teilzeitkraft-im-bereich-online-marketing-digital-growth-berlin-1354",
+   "queue": false,
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent oder Teilzeitkraft (m/w/d) im Bereich Online Marketing & Digital Growth",
+   "company": "allaboutHRLaw GmbH",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/werkstudent-oder-teilzeitkraft-im-bereich-online-marketing-digital-growth-berlin-1354",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11T11:14",
+   "description": "Die allaboutHRLaw GmbH ist ein erfahrenes Beratungsunternehmen für professionelle und praxisnahe Personalarbeit. Als HR as a Service-Partner unterstützen wir Unternehmen unterschiedlicher Größen und Branchen, insbesondere Start-ups sowie kleine und mittelständische Unternehmen (KMU) bei ihren personalwirtschaftlichen Herausforderungen – flexibel, individuell und bedarfsgerecht. Ob vollständige Übernahme der Personalarbeit, Unterstützung bei einzelnen HR-Themen oder langfristige Begleitung als externe Personalabteilung: Wir entwickeln Lösungen, die zu den Anforderungen, Strukturen und Entwicklungsphasen unserer Kunden passen. Dabei setzen wir auf partnerschaftliche Zusammenarbeit, fundiertes Fachwissen und eine nachhaltige Betreuung. Unser Team aus erfahrenen HR-Profis ist bundesweit tätig, insbesondere in den Regionen Berlin, Hamburg, Frankfurt am Main, Leipzig, Düsseldorf und München. Unser Standort in Leipzig bildet dabei die zentrale Basis für unsere internen und administrativen Aufgaben. Du hast Lust, die digitale Sichtbarkeit eines wachsenden Unternehmens aktiv mitzugestalten? Google Ads, SEO und neue Möglichkeiten rund um KI-basiertes Marketing begeistern dich? Dann suchen wir genau DICH, um unser Team als Werkstudent oder Teilzeitkraft (m/w/d) im Bereich Online Marketing & Digital Growth zu verstärken! Deine Aufgaben Bei uns bekommst du die Möglichkeit, eigene Ideen einzubringen, Maßnahmen umzusetzen und unsere digitale Weiterentwicklung aktiv voranzutreiben. Google Ads & Performance Marketing: Du unterstützt beim Aufbau, bei der Betreuung und Optimierung unserer Google-Ads-Kampagnen, um unsere Sichtbarkeit zu erhöhen und neue Kunden zu gewinnen. KI-Sichtbarkeit & neue Werbeformate: Du beschäftigst dich mit Entwicklungen rund um KI-basierte Suchsysteme und neue Werbemöglichkeiten, beispielsweise ChatGPT Ads, und prüfst, welche Potenziale sich daraus für uns ergeben. SEO & GEO: Du hilfst dabei, unsere Website sowohl für klassische Suchmaschinen als auch für KI-gestützte Suchsysteme wie ChatGPT oder Google AI Overviews zu optimieren. Website-Optimierung: Du analysierst unsere Website hinsichtlich Sichtbarkeit, Nutzerführung und Conversion-Potenzial und entwickelst konkrete Verbesserungsvorschläge. Analyse & Reporting: Du beobachtest relevante Kennzahlen, wertest Kampagnenergebnisse aus und leitest daraus Optimierungsmaßnahmen ab. Neue Ideen & Trends: Du behältst aktuelle Entwicklungen im digitalen Marketing im Blick und bringst eigene Vorschläge ein, wie wir unsere Online-Präsenz weiterentwickeln können. Das bringst du mit Du studierst idealerweise Marketing, Online-Marketing, Medien, Kommunikation oder BWL mit Schwerpunkt Marketing – oder bringst bereits erste praktische Erfahrungen im digitalen Marketing mit Du interessierst dich für digitales Marketing, insbesondere Google Ads, SEO und neue Entwicklungen rund um KI. Begriffe wie SEO, SEA, Google Analytics und Conversion sind dir vertraut und idealerweise hast du bereits erste praktische E"
   },
   {
    "id": "li_4487820187",
