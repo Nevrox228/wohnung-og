@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T01:53",
+ "generated": "2026-11-11T08:57",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 305,
+ "count": 304,
  "items": [
   {
    "id": "3567899512",
@@ -462,7 +462,7 @@
    "first_seen": "2026-11-10T12:59",
    "source": "поиск",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -3056,7 +3056,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -3416,7 +3416,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -3512,7 +3512,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -3600,7 +3600,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -3646,7 +3646,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4074,7 +4074,7 @@
    "first_seen": "2026-11-03T17:34",
    "source": "immowelt",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -4155,7 +4155,7 @@
    "first_seen": "2026-11-03T17:34",
    "source": "immowelt",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5578,7 +5578,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5626,7 +5626,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5945,7 +5945,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -5987,7 +5987,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6130,7 +6130,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6230,7 +6230,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6365,7 +6365,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6410,7 +6410,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6456,7 +6456,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6732,7 +6732,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -6914,7 +6914,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -7339,52 +7339,6 @@
    "also_urls": []
   },
   {
-   "id": "3528012631",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3528012631",
-   "title": "Perfekt für Sie - 3-Zimmer mit 77 qm und Balkon (WBS erforderlich)",
-   "price_txt": "627 €",
-   "plz": "77652",
-   "ort": "Offenburg",
-   "lat": 48.4609254,
-   "lon": 7.9467658,
-   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7db6fc1-ad95-4088-a3cc-b64bd81157d6?rule=$_59.JPG",
-   "tags": [
-    "Balkon",
-    "Badewanne",
-    "Gäste WC",
-    "Keller"
-   ],
-   "desc": "Auf ca. 77 m² bietet diese 3-Zimmer-Wohnung ausreichend Platz für individuelles Wohnen. Für die Anmietung ist ein gültiger Wohnberechtigungsschein (WBS) erforderlich. Die Wohnung verfügt über ein Wohnzimmer, ein Schlafzimmer, ein weiteres Zimmer sowie eine separate Küche, die Sie mit Ihrer eigenen Einbauküche nach Ihren Vorstellungen gestalten können. Aktuell wird die Wohnung für Sie renoviert. In den Wohnräumen wird ein pflegeleichter Design-Vinylbelag in heller Holzoptik verlegt. Wände und Decken werden frisch gestrichen, sodass die Wohnung in einem gepflegten Zustand übergeben wird. Das innenliegende Badezimmer mit Badewanne befindet sich in gepflegtem Zustand. Hinweis zu den Bildern: Aufgrund der laufenden Renovierungsarbeiten sind teilweise Musterbilder beigefügt. Das letzte Foto zeigt den vorherigen Zustand der Wohnung vor Abschluss der Renovierung. # Ausstattung Balkon; Ausrichtung Freisitz: Süd; Getrenntes WC; Boden in Holzoptik; Zentralheizung; Gas; Rollläden; Isolierverglasung; Mieterkeller; Gegensprechanlage; Waschmaschinenanschluss; vollständige Wärmedämmung; Mehrfamilienhaus; Badewanne eingemauert; # Weitere Angaben - Verfügbar ab: 05.12.26 # Lagebeschreibung Ihr neues Zuhause befindet sich in zentraler Lage in Offenburg. Offenburg liegt zwischen Rhein und Reben. Durch die sehr gute Infrastruktur erreichen Sie alle Einkaufsmöglichkeiten des täglichen Bedarfs, Ärzte, Apotheken, Kindergärten und diverse Schulen in wenigen Minuten. In die Innenstadt von Offenburg gelangen Sie in ca. 10 Minuten mit dem Auto. Trotz Zentrumsnähe gibt es schöne Rad-, Lauf- und Spazierwege. Zudem bestehen gute Anbindungen an die öffentlichen Verkehrsmittel und an die Bundesstraßen B 3, und B 33, welche auf die Autobahn A 5 (Frankfurt-Basel) führt. # Sonstiges Profitieren Sie von Vonovia Grünstrom aus 100% erneuerbaren Energien und vielen weiteren Vorteilen: - Attraktive Arbeits- und Grundpreise - Sicherheit bei der Energieversorgung - unkomplizierter und schneller Wechselservice - alles im Blick mit der Mein Vonovia App Sprechen Sie unsere VermieterInnen gerne im Rahmen der Besichtigung auf die Möglichkeiten zum Bezug von Vonovia-Grünstrom an! Hinweise darüber, wie die Vonovia Ihre personenbezogenen Daten als Interessent verarbeitet, erhalten Sie unter www.vonovia.com/datenschutz. Alle Angaben in diesem Exposé wurden sorgfältig und so vollständig wie möglich gemacht. Gleichwohl kann das Vorhandensein von Fehlern nicht ausgeschlossen werden. Die Angaben in diesem Exposé erfolgen daher ohne jede Gewähr. Maßgeblich sind die im Mietvertrag geschlossenen Vereinbarungen. Soweit die Grundrissgrafiken Maßangaben und Einrichtungen enthalten, wird auch für diese jegliche Haftung ausgeschlossen. Mietverhandlungen sind ausschließlich über den benannten Ansprechpartner zu führen. Mietpreisänderungen bleiben vorbehalten. Weitere Immobilienangebote finden Sie unter www.vonovia.de und in der Mein Vonovia App. # Energie - Energieausweis: Energiebedarfsausweis - Endenergiebedarf: 132 kWh/(m²*a) - Energieverbrauch für Warmwasser enthalten - Energieeffizienzklasse: E - Gültig bis: 2036-08-26 - Baujahr: 1984 - Heizungsart: Zentralheizung - Wesentliche Energieträger: Gas Anbieter-Objekt-ID: 86-1228070006",
-   "m2": 77.66,
-   "zimmer": 3.0,
-   "kalt": 627.0,
-   "nk": 95.0,
-   "warm": 850.0,
-   "kaution": 1881.0,
-   "ab": "",
-   "typ": "Etagenwohnung",
-   "warm_calc": 850.0,
-   "warm_est": false,
-   "moebl": false,
-   "ebk": true,
-   "km": 0.3,
-   "allowed": 1000,
-   "eur_m2": 10.9,
-   "verdict": "нет",
-   "notes": [
-    "WG/WBS/монтёр/пендлер — не наш формат",
-    "3 комн. — больше, чем нужно"
-   ],
-   "first_seen": "2026-10-31",
-   "source": "поиск",
-   "zone": "близко",
-   "posted": "2026-10-29",
-   "street": "St.-Martin-Str. 98,",
-   "loc_prec": "точный адрес",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "3527970784",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3527970784",
    "title": "Ihr neues Zuhause: weitläufige 3-Zimmer-Wohnung - nur mit WBS",
@@ -7696,7 +7650,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -8060,7 +8014,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -8794,7 +8748,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -9524,7 +9478,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10739,7 +10693,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10917,7 +10871,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11196,7 +11150,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11691,7 +11645,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11822,7 +11776,7 @@
    "street": "",
    "loc_prec": "по адресу из текста: Weingartenstr.",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -12082,7 +12036,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -12546,7 +12500,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -12853,7 +12807,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
