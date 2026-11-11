@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T18:50",
+ "generated": "2026-11-11T19:56",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -14,7 +14,7 @@
  },
  "counts": {
   "all": 443,
-  "queue": 245,
+  "queue": 244,
   "ai_focus": 233
  },
  "jobs": [
@@ -4195,32 +4195,6 @@
    "description": "*Bremen | 15-20 Stunden / Woche* **Gestalte KI-Lösungen mit uns von der ersten Idee bis zum Prototypen** Du beschäftigst dich im Studium mit IT, Softwareentwicklung oder Künstlicher Intelligenz und möchtest nicht nur darüber lesen, sondern erleben, wie daraus echte Lösungen und Produkte entstehen? Dann werde Teil unseres M/Teams und arbeite gemeinsam mit uns an innovativen KI-Lösungen. Bei uns bekommst du die Möglichkeit, moderne Technologien auszuprobieren, eigene Ideen einzubringen und Schritt für Schritt Verantwortung für eigene Themen zu übernehmen. ## Deine Aufgaben - **AI Solution Architecture:** Du unterstützt uns bei der Konzeption von KI-Lösungen und technischen Architekturen und lernst, wie KI sinnvoll in bestehende Systeme und Prozesse integriert werden kann. - **KI-Entwicklung & Prototyping:** Gemeinsam mit dem Team entwickelst du KI-Anwendungen, Proof of Concepts und Demonstratoren und setzt dabei moderne Entwicklungswerkzeuge ein. - **Innovation & Technologieevaluierung:** Du beschäftigst dich mit neuen KI-Modellen, Agentensystemen und Frameworks, probierst sie selbst aus und bewertest gemeinsam mit uns mögliche Einsatzbereiche. - **Produktmanagement & Projektarbeit:** Du unterstützt bei der Planung und Weiterentwicklung unserer KI-Produkte und übernimmst mit wachsender Erfahrung eigene Aufgaben und Themen. - **Consulting & Kundenprojekte:** Du hilfst dabei, Kundenanforderungen zu verstehen und daraus passende Lösungsideen zu entwickeln. Perspektivisch kannst du auch bei Workshops und Präsentationen dabei sein und eigene Themen vorstellen. ## Dein Profil Uns ist nicht wichtig, dass du schon alles kannst. Viel wichtiger ist uns, dass du Lust hast, dich intensiv mit neuen Technologien auseinanderzusetzen und gemeinsam mit uns zu lernen. - Du studierst in einem **technischen** oder **IT-nahen Studiengang**, zum Beispiel Informatik, Wirtschaftsinformatik, Data Science, KI oder etwas Vergleichbarem. - Du hattest bereits erste Berührungspunkte mit **Softwareentwicklung, IT-Systemen** oder **KI-Anwendungen**. - Themen wie **LLMs, KI-Agenten** und **KI-gestützte Softwareentwicklung** machen dich neugierig. - Du probierst gerne neue Technologien aus und hast Spaß daran, dich selbstständig in neue Themen einzuarbeiten. - Du denkst analytisch und möchtest verstehen, wie komplexe Probleme technisch gelöst werden können. - Du kannst deine Gedanken und Ideen verständlich vermitteln, vertrittst deine eigene Meinung und bist gleichzeitig offen für Feedback. - Du arbeitest gerne im Team und hast Lust, mit wachsender Erfahrung zunehmend Verantwortung zu übernehmen. **Nice to have aber kein Muss** Vielleicht hast du schon erste Erfahrungen mit **Python, JavaScript oder TypeScript, Git** oder **APIs** gesammelt. Auch Berührungspunkte mit KI-Entwicklungstools wie **Cursor** oder **Claude Code** sowie Themen wie **RAG** oder **KI-Agentensysteme** sind willkommen. **Das alles ist aber keine Voraussetzung.** Entscheidend sind für uns deine Lernbereitschaft"
   },
   {
-   "id": "ba_10001-1002540176-S",
-   "queue": true,
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent (m/w/d) HubSpot, Website & KI-Anwendungen",
-   "company": "Ziegler GabelstaplerGmbH",
-   "location": "Augsburg",
-   "distance_km": 204.2,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002540176-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-02-04",
-   "first_seen": "2026-11-04T12:29",
-   "description": "Du bist eingeschriebener Student (m/w/d) im Bereich Informatik, Wirtschaftsinformatik, Medieninformatik oder in einem vergleichbaren Studiengang und hast Interesse an einer Stelle als Werkstudent bis zu 20 Stunden. Wir haben die passende Stelle für dich! **Deine Aufgaben:** - Umstellung unserer Website auf HubSpot CMS inklusive Planung, Umsetzung und Tests - Pflege, Weiterentwicklung und Optimierung der Website in HubSpot CMS - Konzeption und Umsetzung von Automatisierungslösungen für interne Arbeitsprozesse - Analyse bestehender Abläufe und Identifikation von Optmierungspotenzialen - Dokumentation und Standardisierung von Prozessen - Unterstützung bei Implementierung und Nutzung von KI-gestützten Tools zur Effizienzsteigerung **Dein Profil:** - Eingeschriebener Student (m/w/d) im Bereich Informatik, Wirtschaftsinformatik, Medieninformatik oder vergleichbarer Studiengang - Erste praktische Erfahrung mit Content-Management-Systemen, idealerweise HubSpot - Interesse an Websites, digitalen Prozessen und Automatisierungslösungen - Analystisches Denken und Freude daran, Arbeitsprozesse zu verbessern - Interesse an KI-Anwendungen"
-  },
-  {
    "id": "ba_10001-1003935940-S",
    "queue": true,
    "status": "open",
@@ -5054,7 +5028,8 @@
     "https://de.linkedin.com/jobs/view/4488319630",
     "https://de.linkedin.com/jobs/view/4488601615",
     "https://de.linkedin.com/jobs/view/4488661548",
-    "https://de.linkedin.com/jobs/view/4488677956"
+    "https://de.linkedin.com/jobs/view/4488677956",
+    "https://de.linkedin.com/jobs/view/4489021786"
    ],
    "salary": "",
    "posted": "2026-11-10",
@@ -7358,6 +7333,32 @@
    "posted": "2026-10-21",
    "first_seen": "2026-11-04T12:29",
    "description": "Tätigkeitsbereich: IT/Telekommunikation Gesellschaft: Mercedes-Benz Tech Innovation GmbH Standort: Karlsruhe Startdatum: 01.12.2026 Veröffentlichungsdatum: 2026-12-01 Stellennummer: V000080204 Arbeitszeit: Teilzeit Aufgaben Welche Aufgaben erwarten dich? - Als Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x) unterstützt du das Team bei der Erstellung, Verfeinerung und Verwaltung von Caching-Mechanismen für Small Language Models (SLMs). - Du wirkst beim Training und der Weiterentwicklung von Modellen für Cache Predictions mit. - Zudem unterstützt du bei der Konfiguration und Verwaltung von Machine-Learning-Umgebungen in der Cloud. - Du beschäftigst dich mit der Konzeption und explorativen Analyse neuer Caching-Strategien und bringst dabei deine eigenen Ideen ein. - Du unterstützt bei der Auswahl, Entwicklung und Integration neuester Technologien im Rahmen innovativer Forschungsprojekte. - Darüber hinaus arbeitest du in einem agilen Produktentwicklungsteam mit erfahrenen Entwicklerinnen und Entwicklern aus unterschiedlichen Disziplinen zusammen. Qualifikationen Wie passt du in unser Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt. Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions! - Du studierst Informatik, Wirtschaftsinformatik oder einen vergleichbaren Studiengang. - Du bringst bereits Erfahrungen in der Softwareentwicklung mit Python mit. - Du verfügst über Kenntnisse im Bereich Deep Learning und bist mit dem Aufbau und der Funktionsweise von Transformer-Modellen vertraut. - Du bist hoch motiviert, arbeitest strukturiert und hast Freude daran, dich mit neuen Technologien und Themen auseinanderzusetzen. - Eine sehr gute Selbstorganisation sowie die Fähigkeit, dir neue Themen eigenständig zu erarbeiten, runden dein Profil ab. Benefits - Barriere­frei­heit - Kantine, Café - Coaching - Mobilitäts­angebote - Mit­arbeiter Events - Mit­arbeiter­rabatte möglich - Mit­arbeiter­beteili­gung möglich - Mit­arbeiter­handy möglich - Essens­zulagen - Gesund­heits­maß­nahmen - Hybrides Arbeiten möglich - Lebens­langes Lernen - Betrieb­liche Alters­ver­sorgung - Park­platz - Gute An­bindung - Flexible Arbeits­zeit möglich Kontakt Albert-Nestler-Str. 11 76131 Karlsruhe"
+  },
+  {
+   "id": "an_werkstudentin-research-und-ai-gn-im-executive-search-berlin-321659",
+   "queue": false,
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent:in Research und AI (gn) im Executive Search",
+   "company": "proetzl executive search",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "uftreten, mit dem du auch am Telefon überzeugst Deutsch auf Muttersprachniveau, Englisch sicher in Wort und Schr",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/proetzl-executive-search/werkstudentin-research-und-ai-gn-im-executive-search-berlin-321659",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11T19:20",
+   "description": "Über uns Die proetzl unternehmensberatung ist eine Executive Search Boutique mit Sitz in der Münchner Maximilianstraße. Seit 1993 besetzen wir Führungs, Management und C Level Positionen für exklusive Mandanten im deutschen Mittelstand und im Konzernumfeld. Wir arbeiten ausschließlich mit Exklusivmandaten und diskreter Direktansprache. Über 1.400 erfolgreich abgeschlossene Searches sprechen für sich. Hinter dem Haus steht ein spezialisiertes, eingespieltes Team, in dem jede Rolle sichtbar ist und echten Impact hat. Für den weiteren Ausbau unserer Research und AI Kapazitäten suchen wir dich. Deine Rolle Du bist unser verlängerter Arm im Research und baust parallel unsere AI gestützten Prozesse mit auf. Du arbeitest eng mit dem Managing Partner und unserem Team zusammen und bekommst von Tag eins Einblick in reale Executive Searches, nicht in Powerpoint Projekte. Konkret heißt das: Du recherchierst Zielunternehmen, baust Longlists auf LinkedIn Recruiter und Sales Navigator, qualifizierst Profile vor und pflegst sie in unser internes CRM ein. Parallel bringst du moderne AI Tools in unseren Alltag, zum Beispiel für Profil Screening, Zusammenfassungen, Vorab-Checks von K.o. Kriterien oder automatisierte Datenanreicherung. Wenn du Lust hast, auch mal selbst zum Hörer zu greifen und an Gatekeepern vorbei zum Entscheider durchzukommen, ist das ein großes Plus. Deine Aufgaben Research und Longlist Aufbau für laufende Executive Search Mandate über LinkedIn Recruiter, Sales Navigator, XING TalentManager und weitere Tools Boolean Suchen entwickeln, iterieren und dokumentieren Profile vorqualifizieren, Dubletten checken, Statuspflege im internen CRM Mitwirkung beim Aufbau und Testen von AI Workflows (ChatGPT, Claude, Perplexity, eigene Agents) für Research, Profilanalyse und Dokumentenerstellung Markt und Wettbewerbsanalysen für Mandate aus Industrie, Healthcare und Mittelstand Vorbereitung von Datenblättern, Kandidatenprofilen und Unterlagen für Mandanten Unterstützung bei der Pflege unseres Kandidatennetzwerks Optional: Terminkoordination und erste Telefonate mit Kandidaten Was du mitbringen solltest Eingeschriebenes Studium in Wirtschaft, Wirtschaftspsychologie, Kommunikation, Informatik, Data oder einem vergleichbaren Fach, idealerweise noch mindestens 12 Monate bis zum Abschluss Erste Erfahrung im Recruiting, Executive Search, Research, Vertrieb oder in einer Beratung ist ein klares Plus, zwingend ist sie nicht Hohe Affinität zu AI Tools und ehrliche Neugier darauf, Arbeitsprozesse mit KI besser zu machen Selbstständige, strukturierte Arbeitsweise, du brauchst keine Mikroführung Spaß am Umgang mit Menschen und ein Auftreten, mit dem du auch am Telefon überzeugst Deutsch auf Muttersprachniveau, Englisch sicher in Wort und Schrift Was wir bieten Echte Verantwortung ab Tag eins, keine Copy Paste Aufgaben Enge Zusammenarbeit mit dem Managing Partner und direktes Lernen am Executive Search Handwerk Freie Hand, moderne AI Tools in den Arbeitsalltag zu bringen u"
   },
   {
    "id": "li_4487250309",

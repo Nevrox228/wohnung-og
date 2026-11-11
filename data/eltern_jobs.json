@@ -1,9 +1,171 @@
 {
- "generated": "2026-11-11T18:50",
+ "generated": "2026-11-11T19:56",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 418,
+ "count": 416,
  "items": [
+  {
+   "id": "marina:ka_3383043519",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Produktion (m/w/d) in 2-Schicht für Hansgrohe (29126117)",
+   "firma": "hokify GmbH",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-in-2-schicht-fuer-hansgrohe-29126117-/3383043519-111-9039",
+   "posted": "2026-11-11",
+   "posted_time": "19:05",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/LSnfDcC ⬅️ - - - - - - - - ️ Werde Teil des Teams bei Hansgrohe! Wir suchen engagierte Helfer (m/w/d) für Montagetätigkeiten am Standort Offenburg. Wenn du Spaß an der Produktion hast und gerne im Schichtbetrieb arbeitest, dann bist du bei uns genau richtig! In deiner neuen Rolle unterstützt du das Team bei der Herstellung von Metallprodukten und sorgst mit deiner Arbeit dafür, dass unsere Produktionsabläufe rundlaufen. Deine Aufgaben - Montage von Kleinteilen - Überwachung der Produktionsprozesse - Qualitätskontrolle der gefertigten Produkte - Einhaltung von Sicherheits- und Gesundheitsstandards - Dokumentation der Produktionsdaten Anforderungen: Das bringst du mit - Berufserfahrung in der Produktion (von Vorteil, aber kein Muss) - Bereitschaft zur Arbeit im 2–Schichtsystem - Teamfähigkeit und Zuverlässigkeit - Technisches Verständnis - Selbstständige und sorgfältige Arbeitsweise - Körperliche Belastbarkeit Das bieten wir dir - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Übertarifliche Bezahlung plus Urlaubs‑ und Weihnachtsgeld - Einen abwechslungsreichen Arbeitsplatz mit guter Übernahmeperspektive im Kundenunternehmen Dein Weg zu uns Wenn du dich direkt bewerben möchtest, kannst du uns einfach deinen Lebenslauf per E‑Mail schicken oder deine Daten über die Online‑Bewerbung senden. Dort kannst du nach Eingabe deiner Kontaktdaten ganz bequem deinen Lebenslauf hochladen. Wir fördern Vielfalt und freuen uns über jede Bewerbung – ganz egal, wer du bist. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/LSnfDcC",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-11T19:20",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_10001-1004000839-S",
    "src": "Jobbörse",
@@ -42614,189 +42776,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_14527-k61529.1766-S",
-   "src": "Jobbörse",
-   "title": "Montagemitarbeiter (m/w/d)",
-   "firma": "acrobat Personaldienstleistungen GmbH",
-   "ort": "Achern",
-   "street": "",
-   "lat": 48.6337461,
-   "lon": 8.0388651,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1766-S",
-   "posted": "2026-10-21",
-   "desc": "# ## Aus der Region und für die Region! Wir sind ein regionales Unternehmen. Ihr Arbeitsplatz ist nicht weiter als maximal 30 km von Ihrem Wohnort entfernt. In Zeiten hoher Spritpreise ist das ein gutes Argument. \\# Jobs mit Aussicht # Montagemitarbeiter (m/w/d) in Achern # Ihre Aufgaben: - Maschinenbedienung - Schaltschrankverdrahtung nach Plan - Endmontage und Kontrolle der Teile # Ihr Profil: - Sie haben bereits erste Erfahrung in der Montage/ Produktion gesammelt. - Sie sind idealerweise mobil. - Sie sind zur Schichtarbeit bereit (2 - 4 Schichtmodell). # Das bieten wir Ihnen: - Sie werden in einem aufstrebenden Unternehmen der Metall- und Elektroindustrie eingesetzt. - Die Stelle ist langfristig angedacht – bei zunehmender Einsatzzeit winken Ihnen sehr lukrative Branchenzuschläge. - Sie erhalten eine intensive und sorgfältige Einarbeitung in der Produktionsstätte. - Bei unserem Kunden haben Sie die Möglichkeit, Ihre Erfahrungen und Kenntnisse einzubringen und Ihr Wissen zu erweitern. - Es erwartet Sie ein freundliches Team sowie eine persönliche Betreuung bei acrobat und bei unseren Kunden. - Sie erhalten Urlaubs- und Weihnachtsgeld nach der Probezeit. - Wir stellen Ihnen kostenfreie Arbeitskleidung zur Verfügung.",
-   "zeit": "Vollzeit",
-   "schicht": true,
-   "quer": false,
-   "who": "marina",
-   "km": 11.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 39,
-      "end_stop": "Achern",
-      "dep": "06:25",
-      "arr": "07:36",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Achern",
-        "to": "работа",
-        "dep": "06:58",
-        "arr": "07:36",
-        "min": 39
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 71
-     },
-     {
-      "kind": "велосипед",
-      "min": 62,
-      "changes": 0,
-      "km": 15.1,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 62
-       }
-      ],
-      "risky": false,
-      "score": 104
-     },
-     {
-      "kind": "как в приложении",
-      "min": 115,
-      "changes": 2,
-      "min_wait": 4,
-      "walk_end": 24,
-      "end_stop": "Großweier Seehotel",
-      "dep": "06:32",
-      "arr": "08:27",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Gamshurst Ziegelhütte",
-        "dep": "07:16",
-        "arr": "07:31",
-        "wait": 4,
-        "min": 15
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Gamshurst Ziegelhütte",
-        "to": "Großweier Seehotel",
-        "dep": "08:02",
-        "arr": "08:04",
-        "wait": null,
-        "min": 2
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Großweier Seehotel",
-        "to": "работа",
-        "dep": "08:04",
-        "arr": "08:27",
-        "min": 24
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 133
-     }
-    ],
-    "best": "транспорт",
-    "min": 71,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_13356-104240A31043C61-S",
    "src": "Jobbörse",
    "title": "Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d)",
@@ -57769,189 +57748,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10000-1207506603-S",
-   "src": "Jobbörse",
-   "title": "Zimmermädchen / Roomboy (m/w/d)",
-   "firma": "Hotel Engel Obertal",
-   "ort": "Baiersbronn",
-   "street": "Rechtmurg 28",
-   "lat": 48.531735,
-   "lon": 8.283456,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207506603-S",
-   "posted": "2026-08-11",
-   "desc": "Der ENGEL OBERTAL ist ein privatgeführtes, 5-Sterne Superior - Wellnesshotel im Sternedorf Baiersbronn, im Nordschwarzwald. Wir verfügen über 89 Zimmer, 6 Chalets, 5 Hausgastrestaurants mit Halbpension- und à la carte- Wahlmöglichkeiten, unseren 5000 m² großen Spa-Bereich „Wolke 7“ mit Süßwasserinnenbecken, Meerwasserinnen- und Außenbecken, ein Indoor- sowie ein Outdoorwhirlpool, ein Floatingpool mit hochprozentigem Soleanteil und einen Schwimmteich mit 25 Meterbahnen. Ebenso verschiedene Saunen sowie Grotten und dem 80m² großen Fitnesspavillon. Seit November 2017 gehören wir zur „Fährhaus Hotel Collection“ mit unserem Schwesterhotel „Fährhaus Sylt“. Unsere Gäste schätzen neben der ausgeprägten Erholungsmöglichkeit sowie unserer sehr guten Küche, vor allem den persönlichen, familiären, liebenswerten und freundlichen Umgang unserer 145 Kolleginnen und Kollegen mit ihnen. Werden auch Sie ein herzlicher Gastgeber bei uns! Alle 145 Kolleginnen und Kollegen freuen sich auf Sie! ### Sie passen zu uns, wenn Sie über folgende Qualifikationen verfügen: - Idealerweise haben Sie bereits Erfahrung in der Zimmerreinigung oder im Housekeeping – Quereinsteiger sind ebenfalls willkommen. - Sie arbeiten sorgfältig, zuverlässig und haben einen Blick für Sauberkeit und Ordnung. - Freundlichkeit und ein gepflegtes Auftreten im Umgang mit Gästen und Kollegen sind für Sie selbstverständlich. - Sie arbeiten gerne im Team und sind flexibel sowie belastbar. - Grundkenntnisse der deutschen Sprache sind von Vorteil. ### Wir bieten Ihnen: - Zahlreiche Mitarbeiterrabatte im eigenen Haus, aber auch nach außen - Weihnachtsgeld - Mitarbeiterevents - Mitarbeiter werben Mitarbeiter-Bonus von 500 Euro - Betriebseigene Mitarbeiterkantine inkl. Frühstück, Mittag- und Abendessen zu attraktiven Konditionen - Angebote innerhalb der Fährhaus Collection und in den Partnerhotels der Fairjob Hotels - E-Bike Leasing - Hilfe bei der Wohnungssuche - Unzählige Sport- und Freizeitmöglichkeiten und viel Natur in unserer Umgebung ### Kontakt Wenn wir Ihr Interesse geweckt haben, freuen wir uns auf Ihre vollständigen Bewerbungsunterlagen. **Hotel Engel Obertal** Rechtmurgstraße 28 72270Baiersbronn-Obertal Herr Sebastian Stein Personalwesen +49 (0) 7449 850 +49 (0) 7449 852 00 (Fax) jobs@engel-obertal.de [www.engel-obertal.de](http://www.engel-obertal.de/)",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 14.8,
-   "de": "немного",
-   "de_txt": "Grundkenntnisse der deutschen Sprache sind von Vorteil.",
-   "agency": false,
-   "kind": "Отель",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 135,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 8,
-      "end_stop": "Obertal Adler",
-      "dep": "16:36",
-      "arr": "18:51",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "16:36",
-        "arr": "16:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "16:47",
-        "arr": "16:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "17:07",
-        "arr": "17:15",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "400",
-        "from": "Achern",
-        "to": "Ruhestein",
-        "dep": "17:21",
-        "arr": "18:00",
-        "wait": 6,
-        "min": 39
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "200",
-        "from": "Ruhestein",
-        "to": "Obertal Adler",
-        "dep": "18:32",
-        "arr": "18:44",
-        "wait": 32,
-        "min": 12
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Obertal Adler",
-        "to": "работа",
-        "dep": "18:44",
-        "arr": "18:51",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 144
-     },
-     {
-      "kind": "велосипед",
-      "min": 105,
-      "changes": 0,
-      "km": 25.8,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 105
-       }
-      ],
-      "risky": false,
-      "score": 190
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 537,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 511,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "14:19",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "14:19",
-        "min": 511
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 537
-     }
-    ],
-    "best": "транспорт",
-    "min": 135,
-    "changes": 3
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10000-1207203780-S",
    "src": "Jobbörse",
    "title": "Zimmermädchen/Roomboy (M/W/D)",
@@ -61716,190 +61512,6 @@
     "best": "транспорт",
     "min": 190,
     "changes": 3
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3538999814",
-   "src": "Kleinanzeigen",
-   "title": "Zimmerreinigung (m/w/d)",
-   "firma": "частное",
-   "ort": "Achern",
-   "plz": "77855",
-   "street": "",
-   "lat": 48.6340095,
-   "lon": 8.0373249,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/zimmerreinigung-m-w-d-/3538999814-110-8671",
-   "posted": "2026-10-12",
-   "posted_time": null,
-   "desc": "„Kein Staubkorn ist vor dir sicher!“ ✨ Wir suchen Verstärkung für unser Housekeeping-Team! Du hast ein Auge fürs Detail und sorgst gerne für Sauberkeit und Wohlfühlatmosphäre? Dann bist du bei uns genau richtig! Quereinsteiger willkommen – wir lernen dich gerne ein! Melde dich bei uns – wir freuen uns auf dich! Gerne per WhatsApp",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 11.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 70,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 37,
-      "end_stop": "Achern",
-      "dep": "06:25",
-      "arr": "07:35",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Achern",
-        "to": "работа",
-        "dep": "06:58",
-        "arr": "07:35",
-        "min": 37
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 70
-     },
-     {
-      "kind": "велосипед",
-      "min": 62,
-      "changes": 0,
-      "km": 15.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 62
-       }
-      ],
-      "risky": false,
-      "score": 104
-     },
-     {
-      "kind": "как в приложении",
-      "min": 113,
-      "changes": 2,
-      "min_wait": 4,
-      "walk_end": 22,
-      "end_stop": "Großweier Seehotel",
-      "dep": "06:32",
-      "arr": "08:26",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Gamshurst Ziegelhütte",
-        "dep": "07:16",
-        "arr": "07:31",
-        "wait": 4,
-        "min": 15
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Gamshurst Ziegelhütte",
-        "to": "Großweier Seehotel",
-        "dep": "08:02",
-        "arr": "08:04",
-        "wait": null,
-        "min": 2
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Großweier Seehotel",
-        "to": "работа",
-        "dep": "08:04",
-        "arr": "08:26",
-        "min": 22
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 131
-     }
-    ],
-    "best": "транспорт",
-    "min": 70,
-    "changes": 0
    },
    "status": "open",
    "also_urls": [],
