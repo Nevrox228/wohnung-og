@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T19:56",
+ "generated": "2026-11-11T20:46",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 416,
+ "count": 415,
  "items": [
   {
    "id": "marina:ka_3383043519",
@@ -10180,168 +10180,6 @@
    "also_urls": [
     "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-in-produktion-fertigung-montage-/3568207513-111-8051"
    ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3563838008",
-   "src": "Kleinanzeigen",
-   "title": "Produktionsmitarbeiter (m/w/d) Baugruppenmontage 2-Schicht",
-   "firma": "expertum Gruppe",
-   "ort": "Sasbach",
-   "plz": "77880",
-   "street": "",
-   "lat": 48.6390536,
-   "lon": 8.0996858,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-baugruppenmontage-2-schicht/3563838008-111-8670",
-   "posted": "2026-11-07",
-   "posted_time": "09:30",
-   "desc": "HIER WERDEN SIE ARBEITEN: Unser Kunde ist ein internationales Industrieunternehmen im Elektrobereich mit rund 100.000 Mitarbeiter in mehr als 100 Ländern. Allein an den Standorten in Deutschland sind über 10.000 Mitarbeiter beschäftigt. In Sasbach werden mit energiesparenden und umweltschonenden Technologien Energie-Verteilersysteme entwickelt und produziert. Zur Unterstützung des Teams in der Fertigung suchen wir ab sofort einen engagierten Produktionsmitarbeiter (m/w/d) Baugruppenmontage 2 Schicht. DIES SIND IHRE AUFGABEN: ● Sie montieren Baugruppen und/oder vormontierte Komponenten mithilfe von Werkzeugen und Verbindungstechniken (z. B. Nieten, Schrauben, Löten, Kleben, Stecken). ● Sie prüfen die Teile auf Richtigkeit (Typ, Teilenummer), Vollständigkeit (Anzahl) und melden Fehlbestände. ● Letztendlich führen Sie einfache Funktionsprüfungen durch und verpacken die gefertigten Teile. DAS BRINGEN SIE MIT: ● Sie konnten bereits Erfahrung im Produktionsumfeld eines Industrieunternehmens sammeln. ● Sie überzeugen durch Ihre Fingerfertigkeit und handwerkliches Geschick. ● Sie sind bereit, im 2-Schichtsystem zu arbeiten. WIR GARANTIEREN IHNEN: ● Unbefristeter Arbeitsvertrag inkl. Urlaubs- und Weihnachtsgeld ● Tarifliche Entlohnung nach dem GVP-Tarifwerk sowie ggf. Branchenzuschläge ● Betriebliche Altersvorsorge ● Hochwertige Profi-Schutz- und -Arbeitskleidung sowie arbeitsmedizinische Vorsorge ● Arbeitsplatzbezogene Weiterbildungen ● Mitarbeiter-Prämien zu besonderen Anlässen ● Vielzahl an Shopping-Rabatten ● Spannende Projekte bei wertschätzenden Kunden LEBENSLAUF GENÜGT: Die Online-Bewerbung bei expertum dauert nur wenige Minuten. Laden Sie einfach Ihren Lebenslauf hoch, überprüfen Sie die übernommenen Daten und schicken Sie die Bewerbung ab - fertig. Alternativ können Sie uns Ihre Bewerbung auch per E-Mail zukommen lassen. Wir freuen uns auf Sie! Expert:in vor Ort Mandy Leising Kurfürsten-Anlage 3 69115 Heidelberg +49 6221 651 200 ********************************************** Bitte bewerben Sie sich jetzt direkt per WhatsApp über diesen Link: https://expertum-gruppe.pitchyou.de/3SXPE (oder klicken Sie einfach auf den Bewerben-Button) **********************************************",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 12.0,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 44,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 14,
-      "end_stop": "Sasbach Heimschule Lender",
-      "dep": "07:42",
-      "arr": "08:26",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Sasbach Heimschule Lender",
-        "to": "работа",
-        "dep": "08:13",
-        "arr": "08:26",
-        "min": 14
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 44
-     },
-     {
-      "kind": "как в приложении",
-      "min": 47,
-      "changes": 1,
-      "min_wait": 10,
-      "walk_end": 5,
-      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
-      "dep": "07:42",
-      "arr": "08:29",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "423",
-        "from": "Sasbach Heimschule Lender",
-        "to": "Obersasbach Erlenb/Oberdorfstr",
-        "dep": "08:23",
-        "arr": "08:25",
-        "wait": 10,
-        "min": 2
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Obersasbach Erlenb/Oberdorfstr",
-        "to": "работа",
-        "dep": "08:25",
-        "arr": "08:29",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 50
-     },
-     {
-      "kind": "велосипед",
-      "min": 63,
-      "changes": 0,
-      "km": 15.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 63
-       }
-      ],
-      "risky": false,
-      "score": 106
-     }
-    ],
-    "best": "транспорт",
-    "min": 44,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -52504,7 +52342,9 @@
    "help": "",
    "ru": "",
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-m-w-d-kommissionierung-von-autoteilen/3458648307-247-9040"
+   ],
    "person": "Марина"
   },
   {
