@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T20:46",
+ "generated": "2026-11-11T21:45",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 443,
-  "queue": 244,
-  "ai_focus": 233
+  "all": 444,
+  "queue": 245,
+  "ai_focus": 234
  },
  "jobs": [
   {
@@ -2839,6 +2839,32 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4473653009",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student Data Science Pricing & Market Analytics (m/w/d)",
+   "company": "ifm",
+   "location": "Essen",
+   "distance_km": 334.4,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4473653009",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-26",
+   "first_seen": "2026-11-11T21:16",
+   "description": "Nur das, was man liebt, macht man wirklich mit 100% Leidenschaft und Herzblut. Als potenzieller Arbeitgeber fordern wir dazu auf, das zu tun, was man liebt. Und wir bieten dafür das Spielfeld. In einem internationalen, innovativen Unternehmen, in dem jede:r persönliche Stärken und Leidenschaften ausleben kann. Mit einer Arbeit, die sinnvoll ist, mit vielfältigen Aufgabenbereichen, Respekt, Offenheit, Vielfalt, Mut und Wertschätzung sowie viel Freiraum, sich weiterzuentwickeln. Denn bei ifm zu arbeiten heißt: Do what you love. Working Student Data Science Pricing & Market Analytics (m/w/d) Kennziffer: 905 Die Aufgabe Als Werkstudent in der Abteilung Market Analytics & Pricing Excellence suchen Sie gemeinsam mit uns nach Wachstumspotenzialen und entwickeln strategische sowie operative Implikationen für unsere Marketing- und Vertriebsorganisation in nationalen und internationalen Projekten. Sie unterstützen laufende als auch neue Projekte in den Bereichen Pricing & Market Analytics (Machine Learning & AI use-cases im Marketing- und Vertriebskontext) mit einer stark strukturierten und analytischen Denkweise Sie begleiten Projekte von der ersten Ideenfindung bis zum finalen Abschluss in allen Phasen und können Ihr Know-How in den unterschiedlichen Phasen einbringen Abgeleitet aus den Ergebnissen unterstützen Sie uns anschließend bei der Erstellung von Business Cases und Präsentationen Als Teil einer globalen Marketingorganisation stehen Sie im regelmäßigen organisatorischen und fachlichen Austausch mit unseren ausländischen Tochtergesellschaften Das Profil Sie befinden sich mindestens im 3. Fachsemester Ihres Bachelorstudiums oder im 1. Mastersemester in Betriebs- oder Volkswirtschaftslehre, Wirtschaftsinformatik, Data Science / Analytics oder vergleichbarem Sie verfügen über gute Excel Kenntnisse & haben idealerweise bereits erste kleinere Analyse Projekte in Python durchgeführt (z.B. Numpy, Pandas, scikit-learn) Sie haben Spaß daran sich intensiv in eine Problemstellung einzuarbeiten und spannende Erkenntnisse aus Daten zu gewinnen Sie zeichnen sich durch eine hohe Lernbereitschaft, hohe Zuverlässigkeit und Gründlichkeit in Ihrer Arbeit aus sowie eine Offenheit für einen internationalen Austausch Sie sind lösungsorientiert, arbeitest sehr gerne mit anderen zusammen Ihre Deutsch- und Englischkenntnisse runden Ihr Profil ab Wir bieten: ifmStudy Programm: Teilnahme an unserem hausinternen Studierenden-Programm Eine vollkommene Integration in das Team sowie eine intensive Einarbeitungsphase Möglichkeit internationaler Dienstreisen sofern Projektlage dies gewährleistet Fachliche und methodische Weiterentwicklung durch enge Betreuung und kontinuierliches Coaching Längerfristige Zusammenarbeit im Strategischen Marketing Offene und familiäre Unternehmenskultur Die Möglichkeit, eigene Ideen und Projekte selbständig umzusetzen Netzwerken: Austausch mit anderen Studierenden durch regelmäßige Events Weiterbildungsveranstaltungen für Berufseinsteiger Zentrale La"
   },
   {
    "id": "li_4489977117",
