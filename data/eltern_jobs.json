@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T23:54",
+ "generated": "2026-11-11T01:06",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 419,
+ "count": 420,
  "items": [
   {
    "id": "marina:ba_15518-OTF1JUL0JX7ON20M-S",
@@ -57549,6 +57549,130 @@
     "min": 48,
     "changes": 1
    },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10001-1002337783-S",
+   "src": "Jobbörse",
+   "title": "Maschineneinrichter (m/w/d) für Verpackungsanlagen",
+   "firma": "etol Gesundheitspflege- und Pharmaprodukte GmbH",
+   "ort": "Oberkirch",
+   "street": "Konrad-Adenauer-Str. 3",
+   "lat": 48.538323,
+   "lon": 8.0612325,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002337783-S",
+   "posted": "2025-12-22",
+   "desc": "Die etol Gesundheitspflege- und Pharmaprodukte GmbH in Oberkirch/Baden ist ein mittelständisches Familienunternehmen mit internationaler Ausrichtung. Wir sind Lohnhersteller für Kosmetika, Medizinprodukte und Arzneimittel sowie Spezialist für Mundpflegeprodukte. Am Standort Oberkirch suchen wir für die **Abteilung Technik** schnellstmöglich in **Vollzeit** einen Maschineneinrichter (m/w/d) für Verpackungsanlagen. **Unser Angebot:** Abwechslungsreiche Tätigkeiten durch einen vielfältigen Anlagenpark und ein breites Produktspektrum Qualifizierte Einarbeitung durch unser Technik-Team Kollegiales Arbeitsklima und offene Kommunikation Stabilität und Kontinuität mit langfristiger Perspektive Entgeltleistungen, orientiert an den Chemie-Tarif Baden-Württemberg Betriebliche Sozialleistungen wie z.B. betriebliche Altersvorsorge, JobRad, AG-Zuschuss Mittagessen **Ihre Aufgaben:** Einrichten und Betreuen von verschiedensten Verpackungsmaschinen und Anlagen, um einen störungsfreien Lauf zu gewährleisten Eigenständige Fehler- und Störungsbehebung Mitwirkung bei Wartungsarbeiten Aktive Mitarbeit bei der Optimierung von technischen Abläufen **Ihr Profil:** abgeschlossene Berufsausbildung als Industriemechaniker (m/w/d), Mechatroniker (m/w/d), als Anlagen- und Maschinenführer (m/w/d) oder eine technische oder handwerkliche Ausbildung im Bereich Metall mehrjährige Berufserfahrung im Produktionsumfeld je nach Erfahrungshintergrund ist auch Quereinstieg möglich Flexibilität, Motivation, Teamfähigkeit, selbständige und gewissenhafte Arbeitsweise Bereitschaft zur Schichtarbeit (Früh-, Spätschicht; bei Bedarf Nachtschicht) **Interesse?** Wir freuen uns auf Ihre Bewerbung! Bitte senden Sie Ihre aussagekräftigen Bewerbungsunterlagen an: **karriere@etol.de**",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": true,
+   "who": "marina",
+   "km": 1.7,
+   "de": "?",
+   "de_txt": "",
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-04T13:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 10,
+      "changes": 0,
+      "km": 2.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 10
+       }
+      ],
+      "risky": false,
+      "score": 10
+     },
+     {
+      "kind": "транспорт",
+      "min": 21,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Oberkirch Blumenau",
+      "dep": "06:39",
+      "arr": "07:00",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:39",
+        "arr": "06:47",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "RB1",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch Blumenau",
+        "dep": "06:47",
+        "arr": "06:48",
+        "wait": null,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch Blumenau",
+        "to": "работа",
+        "dep": "06:48",
+        "arr": "07:00",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 21
+     },
+     {
+      "kind": "пешком",
+      "min": 26,
+      "changes": 0,
+      "km": 1.9,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 26
+       }
+      ],
+      "risky": false,
+      "score": 26
+     }
+    ],
+    "best": "велосипед",
+    "min": 10,
+    "changes": 0
+   },
+   "prof": true,
+   "prof_txt": "abgeschlossene Berufsausbildung als Industriemechaniker (m/w/d), Mechatroniker (m/w/d), als",
+   "help": "",
+   "ru": "",
    "status": "open",
    "also_urls": [],
    "person": "Марина"

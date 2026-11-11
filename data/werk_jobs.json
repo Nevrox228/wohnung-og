@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T23:54",
+ "generated": "2026-11-11T01:06",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,11 +13,37 @@
   ]
  },
  "counts": {
-  "all": 429,
-  "queue": 236,
-  "ai_focus": 223
+  "all": 430,
+  "queue": 237,
+  "ai_focus": 224
  },
  "jobs": [
+  {
+   "id": "li_4475426325",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) KI-Engineering",
+   "company": "Ailo-IT | Salesforce Partner",
+   "location": "Mössingen",
+   "distance_km": 73.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4475426325",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-07",
+   "first_seen": "2026-11-11T00:24",
+   "description": "Deine Aufgaben Unsere Consultants und Entwickler arbeiten jeden Tag in den Salesforce-Systemen unserer Kunden: Anforderungen aufnehmen, konfigurieren, entwickeln, testen, ausrollen, dokumentieren. Vieles davon läuft heute noch so wie in den meisten Beratungen – viel Wissen in Köpfen, viel Handarbeit zwischen einzelnen Tools. Das wollen wir grundlegend ändern. KI-Agenten wie Claude Code sollen bei uns nicht nur Code vorschlagen, sondern mit dem richtigen Kontext, klaren Regeln und sauberen Pipelines echte Arbeit an Kundensystemen übernehmen. Dafür suchen wir jemanden, der die Infrastruktur dahinter mit aufbaut. Salesforce-Wissen brauchst du nicht – das bringen wir dir bei. Deine Aufgaben: Du baust die Grundlage, auf der Menschen und KI-Agenten bei uns zusammenarbeiten: Kontext für KI-Agenten: Regeln, Projektwissen und Konventionen so aufbereiten, dass Claude Code in jedem Kundenprojekt weiß, wie das System aufgebaut ist, was erlaubt ist und was nicht – etwa über CLAUDE.md, Skills und MCP-Server. Pipelines und Deployments: Versionierung, automatisierte Tests und Deployments für Salesforce-Projekte mit aufsetzen (Git, Salesforce CLI, CI/CD), damit Änderungen nachvollziehbar und reproduzierbar ausgerollt werden. Interne Tools: Werkzeuge bauen, die unseren Alltag vereinfachen – Skripte, kleine Anwendungen und Automatisierungen, unter anderem mit Make.com und Lovable. Projektsteuerung in ClickUp: Aufgaben, Zeiten und Kundendaten zwischen ClickUp und Salesforce verbinden, damit Projektstand und Auslastung ohne manuelles Nachpflegen sichtbar sind. Dokumentation: Wissen über Kundensysteme und interne Abläufe so organisieren, dass Menschen und Agenten es gleichermaßen nutzen können – und es möglichst automatisch aktuell halten. Daten und Zusammenhänge: verstehen, welche Daten wo liegen und wie sie zusammenhängen, und daraus saubere Datenflüsse bauen. Ausprobieren und bewerten: neue Werkzeuge und Ansätze testen, Ergebnisse festhalten und mitentscheiden, was Standard wird. Dein Profil Du studierst Informatik, Wirtschaftsinformatik, Data Science oder ein ähnliches Fach. Du bist sicher auf der Kommandozeile und mit Git und schreibst Skripte, zum Beispiel in Python, TypeScript oder Bash. Du verstehst CI/CD, APIs und Datenmodelle – aus dem Studium, einem Nebenjob oder eigenen Projekten. Du hast schon ernsthaft mit KI-Coding-Agenten wie Claude Code oder Cursor gearbeitet und weißt, wo sie an Grenzen stoßen. Du denkst in Systemen: Wenn etwas zweimal von Hand passiert, fragst du dich, wie es kein drittes Mal passieren muss. Du dokumentierst gern – so, dass andere damit arbeiten können. Du sprichst gut Deutsch und Englisch. Ein Teil unseres Entwicklungsteams sitzt in Indien. Pluspunkte: eigene Projekte auf GitHub, Erfahrung mit MCP, Docker oder GitHub Actions oder mit Automatisierungsplattformen wie Make oder n8n. Benefits Gestaltungsraum: Du baust etwas Neues auf, statt Tickets abzuarbeiten. Was funktioniert, wird Standard für das ganze Team. Echte Systeme: Du arbe"
+  },
   {
    "id": "ba_10001-1002742306-S",
    "queue": true,
