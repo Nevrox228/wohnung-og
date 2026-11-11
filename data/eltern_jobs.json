@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T01:06",
+ "generated": "2026-11-11T01:53",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 420,
+ "count": 419,
  "items": [
   {
    "id": "marina:ba_15518-OTF1JUL0JX7ON20M-S",
@@ -29934,7 +29934,6 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-972069675-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-963385848-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-981673735-S"
    ],
    "person": "Марина"
@@ -31573,189 +31572,6 @@
     ],
     "best": "транспорт",
     "min": 53,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1002133855-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d)",
-   "firma": "BuKo HR Performance GmbH",
-   "ort": "Bühl",
-   "street": "",
-   "lat": 48.6897418,
-   "lon": 8.1540682,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002133855-S",
-   "posted": "2025-11-11",
-   "desc": "## Wir sind BuKo! *Dein Entschluss, den ersten oder den nächsten Schritt in deiner Karriere zu gehen, wird von uns gefördert und professionell durchdacht – das versprechen wir Dir!* Wir sind der HR Staffing Partner für Menschen & Arbeit in Augsburg, Bayern und Deutschland. Wir glauben, dass jeder Einzelne einen echten Einfluss auf die Welt um ihn herum haben kann, wenn er oder sie eine faire Chance bekommt. Durch das verbinden von Menschen mit dem perfekten Job geben wir jedem die Chance, seinen Beitrag zu leisten. Ob wir über Europa und seine Grenzen sprechen, über Prozesse, Digitalisierung oder Fachkräftemangel: der Mensch steht immer im Mittelpunkt. So auch bei uns. ## Über das Unternehmen: Unser Kunde ist ein familiär geführtes Unternehmen mit Sitz in Bühl, das Wert auf ein herzliches Miteinander und ein motiviertes Team legt. Hier kannst du deine handwerklichen Fähigkeiten einbringen, Verantwortung übernehmen und dich persönlich und fachlich weiterentwickeln. Dich erwartet ein sicherer Arbeitsplatz, faire Bedingungen und ein Umfeld, in dem deine Arbeit geschätzt wird. Wenn du ein Teil diese engagierten Teams werden möchtest, dann bewirb dich jetzt, wir freuen uns auf dich! ## Deine Aufgaben: - Montage und Zusammenbau von Bauteilen oder Produkten - Qualitätskontrolle und Sichtprüfung der gefertigten Teile - Verpacken und Vorbereiten der Ware ## Das bringst du mit: - Abgeschlossene Ausbildung im Metallbereich oder vergleichbare Erfahrungen - Technisches Verständnis und handwerkliches Geschick - Bereitschaft zur 3 - Schichtarbeit - Deutschkenntnisse auf mind. A1 - Niveau - Belastbarkeit und Motivation, Verantwortung zu übernehmen - Führerschein und PKW sollten vorhanden sein - Quereinsteiger oder Studenten sind ebenfalls Willkommen",
-   "zeit": "Vollzeit",
-   "schicht": true,
-   "quer": true,
-   "who": "marina",
-   "km": 18.3,
-   "de": "немного",
-   "de_txt": "Deutschkenntnisse auf mind A1",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": true,
-   "prof_txt": "Abgeschlossene Ausbildung im Metallbereich oder vergleichbare Erfahrungen",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 73,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 30,
-      "end_stop": "Bühl (Baden)",
-      "dep": "20:36",
-      "arr": "21:49",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "20:36",
-        "arr": "20:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "20:47",
-        "arr": "20:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "21:07",
-        "arr": "21:20",
-        "wait": 11,
-        "min": 13
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "21:20",
-        "arr": "21:49",
-        "min": 30
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 76
-     },
-     {
-      "kind": "как в приложении",
-      "min": 92,
-      "changes": 2,
-      "min_wait": 11,
-      "walk_end": 2,
-      "end_stop": "Kappelwindeck Klotzbergstraße",
-      "dep": "20:36",
-      "arr": "22:08",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "20:36",
-        "arr": "20:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "20:47",
-        "arr": "20:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "21:07",
-        "arr": "21:20",
-        "wait": 11,
-        "min": 13
-       },
-       {
-        "walk": false,
-        "mode": "Anruflinientaxi",
-        "line": "271",
-        "from": "Bühl (Baden)",
-        "to": "Kappelwindeck Klotzbergstraße",
-        "dep": "21:45",
-        "arr": "22:07",
-        "wait": 25,
-        "min": 22
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelwindeck Klotzbergstraße",
-        "to": "работа",
-        "dep": "22:07",
-        "arr": "22:08",
-        "min": 2
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 98
-     },
-     {
-      "kind": "велосипед",
-      "min": 94,
-      "changes": 0,
-      "km": 22.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 94
-       }
-      ],
-      "risky": false,
-      "score": 168
-     }
-    ],
-    "best": "транспорт",
-    "min": 73,
     "changes": 1
    },
    "status": "open",
@@ -45806,7 +45622,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973490874-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970035259-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-963670797-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-963398127-S",
     "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3560302252-247-9039"
    ],
    "person": "Марина"

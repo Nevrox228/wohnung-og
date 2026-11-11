@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T01:06",
+ "generated": "2026-11-11T01:53",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 430,
-  "queue": 237,
-  "ai_focus": 224
+  "all": 429,
+  "queue": 236,
+  "ai_focus": 223
  },
  "jobs": [
   {
@@ -2523,32 +2523,6 @@
    "posted": "2026-10-19",
    "first_seen": "2026-11-04T18:01",
    "description": ""
-  },
-  {
-   "id": "ba_13635-980f0996_JB5270645-S",
-   "queue": true,
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent (m/w/d) KI-Prozessmanagement & Microsoft Copilot",
-   "company": "Cactus GmbH",
-   "location": "Baden-Baden",
-   "distance_km": 24.5,
-   "remote": false,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-980f0996_JB5270645-S",
-   "apply_url": "https://www.jobexport.de/job/5270645.html?exp=81&cid=980f0996-93f6-447c-b082-d7a17a2109f9",
-   "apply_email": "bewerbung@cactus.ag",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-10-13",
-   "first_seen": "2026-11-04T12:29",
-   "description": "Mit unseren Grußkarten bringen wir Freude in die Welt!Mit unseren Grußkarten bringen wir Freude in die Welt!Seit über 30 Jahren designen und produzieren wir individuelle Gruß- und Postkarten für unsere Kunden*innen. Von der ersten Idee über die Erstellung der Muster bis hin zur finalen Produktion und Auslieferung - die Cactus GmbH bietet rundum beste Qualität und hochwertigen Service.Wir wachsen weiter und suchen zum nächstmöglichen Eintritt für unseren Standort in Baden-Baden eine*n Werkstudent (m/w/d) KI-Prozessmanagement & Microsoft Copilot Das sind die Aufgaben: • Du analysierst bestehende Geschäftsprozesse und identifizierst Optimierungspotenziale.-Du unterstützt bei der optimalen Nutzung von Microsoft Copilot, Power Automate und weiteren KI-gestützten Tools. • Du dokumentierst Prozesse und Workflows strukturiert und nachvollziehbar. • Du erstellst Schulungs- und Anwenderunterlagen für verschiedene Zielgruppen. • Du begleitest Change-Management-Maßnahmen und unterstützt bei Anwenderschulungen sowie der Einführung neuer digitaler Lösungen. Das wünschen wir uns: • Du begeisterst Dich für digitale Prozesse, Künstliche Intelligenz und moderne Automatisierungslösungen. • Du hast idealerweise bereits Erfahrung im Umgang mit Microsoft Copilot, Power Automate oder vergleichbaren KI- und Automatisierungstools. • Du arbeitest analytisch, strukturiert und lösungsorientiert. • Du kannst komplexe Sachverhalte verständlich aufbereiten und vermitteln. • Du bringst Kommunikationsstärke mit und hast Freude daran, Mitarbeitende bei Veränderungen zu begleiten und zu schulen. • Du arbeitest eigenverantwortlich, bist gleichzeitig aber auch ein echter Teamplayer. • Du hast Spaß daran, neue Technologien kennenzulernen und deren Potenziale für das Unternehmen nutzbar zu machen. Was wir bieten: Offene Unternehmenskultur - Kurze Entscheidungswege, ein respektvoller Umgang und eine offene Kommunikationskultur schaffen Raum für eigene Ideen und aktive Mitgestaltung. Moderne Arbeitsausstattung -Zeitgemäße Arbeitsmittel und digitale Systeme unterstützen dich dabei, Deine Aufgaben effizient und erfolgreich zu gestalten. Kollegiales Arbeitsumfeld -Freue Dich auf ein engagiertes Team, eine strukturierte Einarbeitung sowie eine vertrauensvolle und wertschätzende Zusammenarbeit. Verpflegung & Pausenbereich -Ein modern ausgestatteter Pausen- und Aufenthaltsbereich sowie die Möglichkeit zur vergünstigten Essensbestellung sorgen für eine angenehme Arbeitsatmosphäre. Getränke stehen kostenfrei zur Verfügung. Die Stelle passt? Dann freuen wir uns auf deine Bewerbung über unser Bewerberportal oder per E-Mail an bewerbung@cactus.ag Ein Anschreiben benötigen wir übrigens nicht. Für Rückfragen steht dir unsere HR-Managerin Babette Hauser natürlich gerne zur Verfügung. Über unsDie Cactus GmbH ist einer der führenden Hersteller von Grußkarten in Deutschland. Unsere über 30-jährige Erfahrung in Design, Druck und Herstellung spiegelt sich in unserer einzigartigen Qualität und unserem unsc"
   },
   {
    "id": "ba_10001-1003449525-S",
