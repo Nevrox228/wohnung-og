@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T14:57",
+ "generated": "2026-11-11T18:50",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,11 +13,37 @@
   ]
  },
  "counts": {
-  "all": 442,
-  "queue": 244,
-  "ai_focus": 232
+  "all": 443,
+  "queue": 245,
+  "ai_focus": 233
  },
  "jobs": [
+  {
+   "id": "li_4489985232",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Pflichtpraktikum / Thesis: KI-Unterstütztes Benchmarking von Bildverarbeitungslösungen",
+   "company": "SICK",
+   "location": "Waldkirch",
+   "distance_km": 49.0,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4489985232",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11T15:28",
+   "description": "Sommersemester 2027 – befristet auf 3–6 Monate Moderne Machine-Vision-Systeme erzeugen große Mengen an Bild- und Sensordaten, deren manuelle Auswertung zeitaufwändig und nur begrenzt skalierbar ist. Gleichzeitig steigen die Anforderungen an die Qualität, Robustheit und Nachvollziehbarkeit industrieller Bildverarbeitungslösungen. Künstliche Intelligenz bietet neue Möglichkeiten, Qualitätsabweichungen automatisiert zu erkennen, Daten effizient auszuwerten und Benchmarking-Prozesse zu unterstützen. Im Rahmen des Praktikums beziehungsweise der Abschlussarbeit entwickeln Sie ein Konzept zur KI-gestützten Qualitätssicherung und automatisierten Analyse von Machine-Vision-Systemen und setzen dieses prototypisch um. Ihre Aufgaben Sie analysieren bestehende Verfahren zur Qualitätssicherung in der industriellen Bildverarbeitung und untersuchen den Einsatz von KI zur automatisierten Auswertung großer Bilddatenbestände. Sie entwickeln Methoden zur Erkennung und Klassifikation von Qualitätsabweichungen, Fehlklassifikationen und Ausreißern in Bilddaten. Sie konzipieren und implementieren eine automatisierte Analyse- und Benchmarking-Pipeline für Machine-Vision-Systeme. Sie entwickeln Metriken zur Bewertung von Bildqualität, Erkennungsleistung und Systemrobustheit. Sie untersuchen den Einsatz von Large Language Models (LLMs) und AI-Agenten zur Interpretation, Aggregation und Dokumentation von Analyseergebnissen. Sie entwickeln Dashboards und automatisierte Reports zur Visualisierung von Qualitätskennzahlen und Benchmark-Ergebnissen. Sie vergleichen verschiedene Vision-Lösungen anhand realer Daten und identifizieren Verbesserungspotenziale hinsichtlich Genauigkeit, Stabilität und Performance. Sie dokumentieren und präsentieren Ihre Ergebnisse sowie daraus abgeleitete Handlungsempfehlungen. Ihr Profil Studium der Informatik, Elektrotechnik, Data Science, Mathematik, Robotik oder eines vergleichbaren Studiengangs Gute Programmierkenntnisse in Python Grundkenntnisse in Machine Learning, Deep Learning und Computer Vision Interesse an industrieller Bildverarbeitung und automatisierter Qualitätssicherung Erste Erfahrungen mit PyTorch, TensorFlow oder vergleichbaren Frameworks von Vorteil Kenntnisse in Large Language Models (LLMs), Generative AI oder AI-Agenten von Vorteil Erfahrung in der Datenanalyse und -visualisierung sowie mit der Entwicklung von Dashboards von Vorteil Selbstständige und strukturierte Arbeitsweise, analytisches Denkvermögen und gute Englischkenntnisse Kontakt: Sarah Disch"
+  },
   {
    "id": "ss_14742530",
    "queue": true,
@@ -2225,7 +2251,7 @@
    "description": "Ein Job, der jede Menge Abwechslung verspricht? Garantieren wir dir! Finanzielle Sicherheit für Autokäufer, gesteigerte Kundenzufriedenheit für Händler: Mit unserem Angebot zählen wir von der CG Car-Garantie Versicherungs-AG zu den führenden Spezialisten für Fahrzeuggarantien in Europa – und das bereits seit über 50 Jahren. Über 40 Hersteller und Importeure sowie 23.000 qualifizierte Autohäuser vertrauen auf unsere erstklassige Kundenorientierung und unseren Premium-Service auf jeder Ebene. Das verdanken wir nicht zuletzt unserem starken Team aus engagierten Mitarbeiter*innen, die Tag für Tag mit Begeisterung und Leidenschaft ans Werk gehen, um unsere Kunden perfekt abzusichern. Klingt so, als könntest du deine Kompetenzen hier bestens einbringen? Dann unterstütze uns zum nächstmöglichen Zeitpunkt als Werkstudent / Praktikant KI: Use-Case-Entwicklung & Prototyping (m/w/d) mit Homeoffice-Möglichkeit für unsere Zentrale in Freiburg. Hier zeigst du vollen Einsatz: Du identifizierst gemeinsam mit uns spannende Einsatzgebiete für KI, die uns als Spezialversicherer echte Wettbewerbsvorteile verschaffen Du unterstützt bei der Evaluation und der konzeptionellen Umsetzung von KI-Lösungen Du arbeitest an Prototypen und Proof-of-Concepts – fachlich und/oder technisch Du recherchierst neue KI-Technologien, Tools und Best Practices Du arbeitest eng mit Entwicklern und Fachabteilungen zusammen Mit dir auf der sicheren Seite: Du studierst Informatik, Wirtschaftsinformatik, Wirtschaftsingenieurwesen, BWL oder einen verwandten Studiengang – mit Interesse an digitalen Geschäftsmodellen und KI-Use-Cases Du hast sehr gute analytische und konzeptionelle Fähigkeiten und kannst komplexe Themen strukturiert aufbereiten Du bist eigeninitiativ und hast Spaß, neue Themengebiete kennenzulernen Du hast erste Erfahrungen im praktischen Einsatz von Large Language Models, z. B. durch Prompting, API-Nutzung oder Prototyping Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Worauf du dich noch freuen kannst: Erste Berufserfahrung sammeln! Spannende Einblicke und Mitarbeit im Arbeitsalltag Entwickle dich weiter! Lerne die praktischen Möglichkeiten von KI kennen, bringe deine eigenen Ideen ein und profitiere von unserer fachlichen Begleitung und dem regelmäßigen Austausch mit erfahrenen Kolleginnen und Kollegen Studium steht an erster Stelle! Flexible Arbeitszeitregelungen für eine optimale Vereinbarkeit von Studium und Job Auch von zuhause arbeiten! Homeoffice nach Einarbeitung möglich Fit bleiben: mit einer Hansefit-Mitgliedschaft In der Mittagspause stärken! Mit unserem Essenszuschuss für die Kantine. Jetzt einsteigen und loslegen! Hast du Lust auf spannende Aufgaben in einem internationalen Unternehmen, in dem deine interkulturellen Kompetenzen gefragt sind? Dann reiche deine aussagekräftige Bewerbung mit Angabe deines möglichen Eintrittsdatums und deiner Gehaltsvorstellung ausschließlich über unser Bewerbungsportal (Button „Jetzt bewerben!“ in der "
   },
   {
-   "id": "ss_14739038",
+   "id": "ba_13151-1652665-1-S",
    "queue": true,
    "status": "open",
    "stars": 4,
@@ -2233,22 +2259,24 @@
    "type": "Werkstudent",
    "track": "KI / Automatisierung",
    "title": "Werkstudent*in IT-Analytik, KI & Enterprise Architektur Qualitätsmanagement",
-   "company": "Mercedes-Benz AG",
+   "company": "Mercedes-Benz Group AG",
    "location": "Böblingen",
-   "distance_km": 70.5,
-   "remote": true,
+   "distance_km": 68.3,
+   "remote": false,
    "german_level": "normal",
    "german_quote": "",
    "video_in_job": false,
-   "source": "StepStone",
-   "url": "https://www.stepstone.de/stellenangebote--Werkstudentin-IT-Analytik-KI-Enterprise-Architektur-Qualitaetsmanagement-Boeblingen-Mercedes-Benz-AG--14739038-inline.html",
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1652665-1-S",
    "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
+   "apply_email": "sbv-sindelfingen@mercedes-benz.com",
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Werkstudentin-IT-Analytik-KI-Enterprise-Architektur-Qualitaetsmanagement-Boeblingen-Mercedes-Benz-AG--14739038-inline.html"
+   ],
    "salary": "",
-   "posted": "2026-11-10",
+   "posted": "2026-11-11",
    "first_seen": "2026-11-10T16:38",
-   "description": "Mercedes-Benz ist ein globaler Automobilhersteller, der Fahrzeuge, Motoren und Getriebe produziert. Gesucht wird ein Werkstudent*in IT-Analytik und KI (m/w/d) zur Unterstützung bei der Einarbeitung in Datenplattformen und der Mitarbeit an KI-Anforderungen im Qualitätsmanagement. Ein Studium in Wirtschaftsinformatik, Informatik oder vergleichbarem Studiengang, sichere Deutsch- und Englischkenntnisse sowie analytische Denkweise werden vorausgesetzt."
+   "description": "Tätigkeitsbereich: IT/Telekommunikation Fachabteilung: Q Digitalisierung - Data, Portfolio Mgmt & Innovation Gesellschaft: Mercedes-Benz AG Standort: Böblingen Startdatum: 22.12.2026 Veröffentlichungsdatum: 22.12.2026 Stellennummer: MER0004A1Z Arbeitszeit: Part time Aufgaben Wir im Bereich IT Operations sind für die IT-Systemlandschaft verantwortlich, die für die Produktion von Fahrzeugen, Motoren und Getrieben zum Einsatz kommt. Dies beinhaltet das Management sowie den reibungslosen Betrieb der Applikationen und IT-Systeme für die Qualitätssicherung. Für diesen anspruchsvollen und spannenden Aufgabenbereich suchen wir Dich als Werkstudent*in IT-Analytik und KI im Qualitätsmanagement. Diese Herausforderungen kommen u. a. auf Dich zu: - Einarbeitung in verschiedene Datenplattformen (z. B. Azure, Celonis) - Mitarbeit in Azure und Databricks - Vorbereitung und Dokumentation technischer Sessions - Gegenüberstellung und Bewertung technischer Features - Unterstützung bei der agilen Zusammenarbeit im Team - Zusammenarbeit mit internationalen Hubs - Mitarbeit bei der technischen und organisatorischen Umsetzung von KI-Anforderungen - Unterstützung einer AI Working Group - Organisation von AI-Events - Unterstützung bei KI-PoCs (Proof of Concept) Das bieten wir: - Einblicke in zukunftsweisende Themen rund um Data Analytics und Künstliche Intelligenz - Mitarbeit in einem internationalen Arbeitsumfeld - Eigenverantwortliche Aufgaben und Raum für eigene Ideen - Praktische Erfahrungen in der IT- und Qualitätsmanagement-Systemlandschaft von Mercedes-Benz Die Tätigkeit kann ab Dezember 2026 beginnen. Qualifikationen - Studiengang im Bereich Wirtschaftsinformatik, Informatik, Wirtschaftswissenschaften, Ingenieurwissenschaften, Naturwissenschaften oder ein vergleichbarer Studiengang - Sichere Deutsch- und Englischkenntnisse in Wort und Schrift - Sicherer Umgang mit MS Office - Engagement - Teamfähigkeit - Analytische Denkweise und strategische Arbeitsweise - Selbstständige und zuverlässige Arbeitsweise - Kommunikationsfähigkeit und interkulturelle Kompetenz - Kenntnisse im Projektmanagement sind von Vorteil - Kenntnisse in agilen Methoden (z. B. Scrum oder Kanban) sind von Vorteil - Kenntnisse im Umgang mit weiteren Projektmanagement-Tools sind von Vorteil - Fähigkeit, komplexe Zusammenhänge zu erkennen und daraus geeignete Lösungsansätze abzuleiten Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Ein Anschreiben ist optional. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Duhier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Be"
   },
   {
    "id": "ss_14738334",
@@ -2813,6 +2841,32 @@
    "description": ""
   },
   {
+   "id": "li_4489977117",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikum Data Science & AI",
+   "company": "Lidl in Deutschland",
+   "location": "Neckarsulm",
+   "distance_km": 111.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4489977117",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11T15:28",
+   "description": "Einleitung Eine gute Idee war der Ursprung, ein erfolgreiches Konzept ist das Ergebnis. Qualität zum guten Preis möglichst vielen Menschen anbieten zu können treibt uns an - mittlerweile weltweit, denn wir sind Lidl. Hier ist das berufliche Zuhause vielfältiger Talente. Ob im Einkauf, in der Logistik, im Warengeschäft oder in der IT; ob als Impulsgeber, Gestalter oder Dienstleister der Länder. Wir suchen Anpacker, Durchstarter, Möglichmacher und bieten spannende Aufgaben und Projekte in einem dynamischen und internationalen Umfeld. Bei Lidl findet jeder seine persönliche Herausforderung. Denn Lidl lohnt sich. Deine Aufgaben Werde Teil unseres Daten & KI Teams, unterstütze beim Prototyping innovativer Use Cases und bei der Entwicklung zukunftsweisender KI-Lösungen für den internationalen Handel. Ab sofort für 4 bis 6 Monate. … Konkret Heißt Das Mitarbeit bei Datenaufbereitung und explorativer Analysen Mitwirkung bei der Entwicklung und Validierung von KI und statistikbasierten Lösungsansätzen für Fachabteilungen Mithilfe bei der Überführung von Pilotprojekten in automatisierte Entscheidungsprozesse Verwendung von Big Data und Machine Learning Technologien Einbringen in die strategische Definition von Daten- & KI-Themen, beispielsweise durch Präsentationserstellung oder Workshop-Teilnahme Dein Profil Fortgeschrittenes Studium* im Bereich Statistik, Mathematik, Informatik, Physik, Wirtschaftswissenschaften, Psychologie, Sozialwissenschaften oder einem vergleichbaren Studiengang Grundlegende Kenntnisse in Statistik und Machine Learning Programmiererfahrung mit Python oder R Idealerweise erste Erfahrungen mit Databricks, git und SQL Bitte füge deiner Bewerbung deinen aktuellen Notenspiegel hinzu. Wir bieten Lidl legt Wert darauf, dass sich deine Zeit bei uns lohnt! Deshalb kannst du bei uns nicht nur deine Finanzen aufbessern (Pflichtpraktikum: 1.300 € p.M. / freiwilliges Praktikum: Gesetzlicher Mindestlohn): Du gewinnst wertvolle Praxiseinblicke in „deinen“ Fachbereich und lernst die Herausforderungen im Tagesgeschäft kennen. Dabei steht dir nicht nur während der Einarbeitung ein fester Ansprechpartner zur Seite. Du hast zu jeder Zeit Zugriff auf das Expertenwissen deines festen Ansprechpartners und das Know-how deiner hilfsbereiten Kolleginnen und Kollegen. Lerne das kollegiale Umfeld und deine beruflichen Möglichkeiten bei Lidl kennen. Und nutze die Chance, dir ein erstes Karrierenetzwerk aufzubauen."
+  },
+  {
    "id": "li_4405357280",
    "queue": true,
    "status": "open",
@@ -3255,32 +3309,6 @@
    "posted": "2026-11-04",
    "first_seen": "2026-11-05T09:50",
    "description": "Als Student arbeitest Du mit Deinen Kolleginnen und Kollegen auf Augenhöhe und schaffst ideale Voraussetzungen für Deine spätere Karriere. Sich etwas Neues trauen, über sich hinauswachsen und dabei die Grenzen des Machbaren neu deﬁnieren. Genau das ist es, was unsere Mitarbeitenden täglich leben dürfen und sollen. Um mit unseren Innovationen das Tempo vorzugeben und Großartiges zu ermöglichen. Denn hinter jedem erfolgreichen Unternehmen stehen eine ganze Menge faszinierender Menschen. Die Mitarbeitenden von ZEISS arbeiten in einem offenen und modernen Umfeld mit zahlreichen Entwicklungs- und Weiterbildungsmöglichkeiten. Unsere Kultur ist geprägt von Expertenwissen und Teamgeist. All das wird getragen durch die besondere Eigentümerstruktur und das langfristige Ziel der Carl-Zeiss-Stiftung: Wissenschaft und Gesellschaft gemeinsam voranzubringen. Heute wagen. Morgen begeistern. Vielfalt ist ein Teil von ZEISS. Wir freuen uns unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität auf Ihre Bewerbung. Jetzt bewerben! In weniger als 10 Minuten. Aufgaben Bei uns hast Du die Möglichkeit, Studium und Praxis optimal miteinander zu verbinden und aktiv an spannenden Projekten mitzuarbeiten. So sammelst Du wertvolle Erfahrungen, baust Dein Netzwerk auf und entwickelst Dich sowohl fachlich als auch persönlich weiter. Analyse, Aufbereitung und Visualisierung von Daten aus Metallbearbeitungsprozessen Untersuchung von Zusammenhängen zwischen Prozessgrößen und Bearbeitungsergebnis Entwicklung und Vergleich von datengetriebenen und physik-informierten Modellen Integration von physikalischem Prozesswissen in Machine-Learning-Ansätze Anwendung und Bewertung von Methoden des Physics-Informed Machine Learning Validierung der entwickelten Modelle anhand experimenteller Daten sowie die Ausarbeitung und Durchführung geeigneter Versuchsreihen auf dem Shopfloor Strukturierte Dokumentation, Bewertung und Präsentation der Ergebnisse Profil Studium im Bereich Maschinenbau, Produktionstechnik, Mechatronik, Physik oder einer vergleichbaren Fachrichtung Interesse an CNC-Metallbearbeitung, Prozessmodellierung und datengetriebenen Methoden Gute Kenntnisse in Python und im Umgang mit Daten Kenntnisse in Physics-Informed Machine Learning, Scientific Machine Learning, Simulation oder physikalischer Modellierung sind ein Plus Gutes analytisches Verständnis und Freude daran, physikalische und datenbasierte Betrachtungsweisen miteinander zu verbinden Strukturierte und selbstständige Arbeitsweise Klingt spannend? Dann werde Teil von #teamZEISS und gestalte mit uns die Zukunft! Reiche uns hierfür bitte Deine vollständigen Bewerbungsunterlagen (Lebenslauf, Zeugnisse etc.) ein. Wir bieten Important note Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may "
-  },
-  {
-   "id": "ba_14225-24180e6319acaf99-S",
-   "queue": true,
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Informatiker, Fachinformatiker, Data Scientist - Werkstudent (m/w/d)",
-   "company": "LRE Medical GmbH",
-   "location": "Nördlingen",
-   "distance_km": 181.6,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-24180e6319acaf99-S",
-   "apply_url": "https://www.jobvector.de/job/informatiker-24180e6319acaf99/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid272185&utm_content=b2c&utm_term=tmf8eca_uicfcb8f05",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "JAHRESGEHALT",
-   "posted": "2026-09-23",
-   "first_seen": "2026-11-04T18:01",
-   "description": "Werkstudent Data Engineering & Digitalization (m/w/d) IT - Nördlingen, Bayern (Hybride) Die LRE Medical GmbH, gegründet 1961 mit Standorten in Nördlingen und München, ist ein innovatives, internationales Unternehmen im Bereich der optischen und elektrochemischen Analyse-Systeme, die vorzugsweise im Bereich der medizinischen Diagnostik eingesetzt werden. Unsere kundenorientierten Produkte fertigen wir in hoher Qualität, die uns zu einem geschätzten Partner für medizinisch-diagnostische Industrieunternehmen macht. Werkstudent Data Engineering & Digitalization (m/w/d) Gestalte unsere Datenbasis von Grund auf mit Wir bauen die technischen Grundlagen für eine unternehmensweite Reporting-Plattform neu auf. Dafür suchen wir Dich als technisch interessierte Unterstützung: Du hilfst dabei, Daten aus unterschiedlichen Unternehmenssystemen strukturiert zusammenzuführen, aufzubereiten und zuverlässig bereitzustellen. Unsere aktuelle Präferenz ist Microsoft Power BI, die technologische Ausgestaltung ist jedoch noch offen. WERDE EIN TEIL DAVON. KOMM IN UNSER TEAM! LRE Medical GmbH | Hofer Strasse 5 | 86720 Nördlingen Dein technischer Fokus Datenanbindung, Datenstrukturen, Datenmodelle, Datenflüsse, Qualität und technische Bereitstellung. Fachliche Verantwortung KPI-Definition, Erstellung von Reports und fachliche Auswertung liegen beim Controlling und den Fachbereichen. Unterstützung beim technischen Aufbau einer zentralen Datenstruktur als Grundlage für eine Reporting- und Analytics-Plattform Identifikation, Analyse und technische Anbindung relevanter Datenquellen, insbesondere aus ERP-, DMS- und weiteren Unternehmenssystemen Extraktion, Transformation, Strukturierung und Bereitstellung von Daten für Controlling und Fachbereiche Mitarbeit beim Aufbau nachvollziehbarer Datenmodelle sowie automatisierter und wiederholbarer Datenflüsse Unterstützung bei der Sicherstellung von Datenqualität, Datenkonsistenz und technischer Nachvollziehbarkeit Dokumentation von Datenquellen, Schnittstellen, Transformationen und technischen Lösungen Mitarbeit bei der Auswahl, Einführung und technischen Weiterentwicklung geeigneter Data-&-Analytics-Werkzeuge; aktuell mit Präferenz für Microsoft Power BI Unterstützung bei Digitalisierungs- und Prozessautomatisierungsprojekten, zum Beispiel mit Microsoft Power Plattform Mitarbeit bei der technischen Erprobung sinnvoller KI- und Copilot-Anwendungsfälle Das erwartet Dich bei uns: Greenfield-Charakter: Du arbeitest nicht nur an einem bestehenden Reporting-System, sondern gestaltest dessen technische Grundlage aktiv mit Praxisnahe Aufgaben mit konkretem Nutzen für Controlling, Fachbereiche und Management Einblicke in Data & Analytics, ERP, Dokumentenmanagement, Prozessautomatisierung, Microsoft 365 und KI Eigenverantwortliche Aufgaben und die Möglichkeit, eigene technische Ideen einzubringen Zusammenarbeit mit erfahrenen Kolleginnen und Kollegen in einer offenen und unterstützenden Kultur Flexible Arbeitsmöglichkeiten remote oder an unser"
   },
   {
    "id": "ba_10001-1003856236-S",
@@ -11306,9 +11334,7 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-SDE-125116-STA-S",
    "apply_url": "https://www.stellenanzeigen.de/job/detail/SDE-125116/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
    "apply_email": "Isabella.Brandl@dbs-gruppe.de",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-e16b2764ca3e1470-S"
-   ],
+   "also_urls": [],
    "salary": "",
    "posted": "2026-10-27",
    "first_seen": "2026-11-04T12:29",

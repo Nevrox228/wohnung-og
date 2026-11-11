@@ -1,9 +1,249 @@
 {
- "generated": "2026-11-11T14:57",
+ "generated": "2026-11-11T18:50",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 417,
+ "count": 418,
  "items": [
+  {
+   "id": "marina:ba_10001-1004000839-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft (m/w/d) in FREISTETT",
+   "firma": "Helmut Schoch GmbH Betriebsstätte Rastatt",
+   "ort": "Rheinau",
+   "street": "",
+   "lat": 48.6552076,
+   "lon": 7.9357109,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004000839-S",
+   "posted": "2026-11-11",
+   "desc": "✨ **WIR SUCHEN VERSTÄRKUNG!** ✨ 🧹 **Reinigungskraft (m/w/d) auf Minijob-Basis gesucht!** Du bist zuverlässig, gründlich und hast Freude daran, für Sauberkeit und Ordnung zu sorgen? Dann bist du bei uns genau richtig! 😊 🏢 **DEINE AUFGABEN:** 🧽 Reinigung und Pflege unserer Objekte ✨ Sicherstellung von Sauberkeit und Hygiene 🧹 Sorgfältige und gewissenhafte Ausführung der Reinigungsarbeiten 🌟 **DAS BRINGST DU MIT:** ✔️ Zuverlässigkeit und Pünktlichkeit ✔️ Selbstständige und sorgfältige Arbeitsweise ✔️ Freundlichkeit und Motivation ✔️ Flexibilität ✔️ Idealerweise erste Erfahrung in der Gebäudereinigung 🕒 **DAS BIETEN WIR DIR:** ✨ Beschäftigung auf Minijob-Basis ⏰ **Arbeitszeiten:** 5 x wchtl. 1 - 1,50 Std. (ca. 30 Std./ Monat) entweder ab 6.00 Uhr oder ab 17.00 Uhr 📍 **Einsatzort:** Freistett 🤝 Ein freundliches Team 😊 Eine angenehme Arbeitsatmosphäre 💪 Eine abwechslungsreiche Tätigkeit 📩 **INTERESSE GEWECKT?** Dann freuen wir uns darauf, dich kennenzulernen! Melde dich einfach bei uns – wir freuen uns auf deine Nachricht! 💌 📧 **E-Mail:** gerbert@schoch-gmbh.de 💛 **Werde Teil unseres Teams – wir freuen uns auf dich!** 💛",
+   "zeit": " / Minijob",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-11T15:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 105,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 24,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:10",
+        "min": 24
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 108
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 11,
+      "end_stop": "Rheinbischofsheim Kath.Kirche",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Rheinbischofsheim Kath.Kirche",
+        "dep": "07:48",
+        "arr": "07:51",
+        "wait": 2,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Rheinbischofsheim Kath.Kirche",
+        "to": "работа",
+        "dep": "07:51",
+        "arr": "08:01",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 110
+     },
+     {
+      "kind": "велосипед",
+      "min": 89,
+      "changes": 0,
+      "km": 21.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 89
+       }
+      ],
+      "risky": false,
+      "score": 158
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 299,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 273,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:20",
+        "min": 273
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 299
+     }
+    ],
+    "best": "транспорт",
+    "min": 105,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3568338455",
    "src": "Kleinanzeigen",
@@ -3474,6 +3714,7 @@
    },
    "status": "open",
    "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-REG-46967-RJA-S",
     "https://www.jobware.de/job/gaertner-in-oder-hilfskraft-fuer-unsere-gemeindegaertnerei-065046487",
     "https://www.kleinanzeigen.de/s-anzeige/gaertner-in-oder-hilfskraft-fuer-unsere-gemeindegaertnerei/3568166646-111-8719"
    ],
