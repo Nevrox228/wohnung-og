@@ -1,9 +1,182 @@
 {
- "generated": "2026-11-11T11:58",
+ "generated": "2026-11-11T14:03",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 420,
+ "count": 419,
  "items": [
+  {
+   "id": "marina:ka_3568338455",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft / Cleaner (m/w/d) für Zell am Harmersbach",
+   "firma": "Service System Gebäudemanagement",
+   "ort": "Zell am Harmersbach",
+   "plz": "77736",
+   "street": "",
+   "lat": 48.3435884,
+   "lon": 8.0828409,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-cleaner-m-w-d-fuer-zell-am-harmersbach/3568338455-109-8051",
+   "posted": "2026-11-11",
+   "posted_time": "13:12",
+   "desc": "Wir suchen SIE als Unterstützung für unser Team!!! Reinigungskraft (m/w/d) für ein Objekt in Zell am Harmersbach ab 01.07.2026 gesucht. - tarifliche Bezahlung - Minijob - Teilzeit Arbeitszeiten: ab 16:00 Uhr Wir haben Ihr Interesse geweckt? Dann melden Sie sich telefonisch unter 07753-9797811 Montag - Freitag von 8.00 Uhr -12.00 Uhr.",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 20.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-11T13:45",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 73,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:35",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 79
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 345,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 319,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:06",
+        "min": 319
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 345
+     }
+    ],
+    "best": "транспорт",
+    "min": 73,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3568215669",
    "src": "Kleinanzeigen",
@@ -11533,9 +11706,7 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-nacharbeit-3-schicht/3563837900-111-8670"
-   ],
+   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -13652,168 +13823,6 @@
     ],
     "best": "транспорт",
     "min": 71,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3531858077",
-   "src": "Kleinanzeigen",
-   "title": "*MINIJOB* Reinigungskraft in Offenburg",
-   "firma": "tuncel GebäudeService GmbH",
-   "ort": "Offenburg",
-   "plz": "77656",
-   "street": "",
-   "lat": 48.4594035,
-   "lon": 7.9234795,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/-minijob-reinigungskraft-in-offenburg/3531858077-109-9039",
-   "posted": "2026-11-04",
-   "posted_time": "15:08",
-   "desc": "Wir suchen eine zuverlässige, deutschsprachige Reinigungskraft für ein Objekt in Offenburg. Arbeitszeiten: Mo . -Fr. ab 16 Uhr je 1,7 Std.",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 14.1,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-05T09:50",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 50,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 4,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:49",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:49",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 53
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 65,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 39,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:38",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:38",
-        "min": 39
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 65
-     },
-     {
-      "kind": "велосипед",
-      "min": 83,
-      "changes": 0,
-      "km": 20.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 83
-       }
-      ],
-      "risky": false,
-      "score": 146
-     }
-    ],
-    "best": "транспорт",
-    "min": 50,
     "changes": 1
    },
    "status": "open",
@@ -16229,8 +16238,7 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-98827d83-028f-4103--S",
-    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-minijob-samstags-5-7-30-uhr-morgens-m-w-d-/3532692533-107-8667"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-98827d83-028f-4103--S"
    ],
    "person": "Марина"
   },
@@ -21496,9 +21504,7 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-unterhaltsreinigung-teilzeit-sasbach/3532719034-109-8670"
-   ],
+   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -36365,7 +36371,8 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-968176143-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-981673878-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-981673878-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-982572192-S"
    ],
    "person": "Марина"
   },
@@ -47955,7 +47962,8 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970035255-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1194053942-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1194053942-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-982570816-S"
    ],
    "person": "Марина"
   },
@@ -62020,166 +62028,6 @@
     "best": "транспорт",
     "min": 70,
     "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:jw_064813859",
-   "src": "Jobware",
-   "title": "Minijob Reinigungskraft (m/w/d) in WILLSTÄTT",
-   "firma": "Helmut Schoch GmbH Betriebsstätte Rastatt",
-   "street": "",
-   "lat": 48.5415314,
-   "lon": 7.8934991,
-   "ort": "Willstätt",
-   "url": "https://www.jobware.de/job/minijob-reinigungskraft-m-w-d-in-willst-ae-tt-064813859",
-   "posted": "2026-10-27",
-   "desc": "",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 13.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 57,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 1,
-      "end_stop": "Willstätt Kinzigbrücke",
-      "dep": "06:59",
-      "arr": "07:56",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Kinzigbrücke",
-        "dep": "07:34",
-        "arr": "07:56",
-        "wait": 8,
-        "min": 22
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Willstätt Kinzigbrücke",
-        "to": "работа",
-        "dep": "07:56",
-        "arr": "07:56",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 60
-     },
-     {
-      "kind": "велосипед",
-      "min": 67,
-      "changes": 0,
-      "km": 16.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 67
-       }
-      ],
-      "risky": false,
-      "score": 114
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 150,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 124,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:59",
-      "arr": "09:29",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "07:26",
-        "arr": "09:29",
-        "min": 124
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 150
-     }
-    ],
-    "best": "транспорт",
-    "min": 57,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
