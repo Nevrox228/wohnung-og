@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T14:03",
+ "generated": "2026-11-11T14:57",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,11 +13,37 @@
   ]
  },
  "counts": {
-  "all": 441,
-  "queue": 243,
-  "ai_focus": 231
+  "all": 442,
+  "queue": 244,
+  "ai_focus": 232
  },
  "jobs": [
+  {
+   "id": "ss_14742530",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Pflichtpraktikant im Bereich KI Agentenentwicklung (m/w/d)",
+   "company": "Mi-Jack Europe GmbH",
+   "location": "Karlsruhe",
+   "distance_km": 58.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Pflichtpraktikant-im-Bereich-KI-Agentenentwicklung-m-w-d-Karlsruhe-Mi-Jack-Europe-GmbH--14742530-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-11T14:40",
+   "description": "Mi-Jack Europe GmbH ist ein führendes Unternehmen in der Hafenautomatisierung und -sicherheit. Gesucht wird ein Praktikant (m/w/d) im Bereich KI Agentenentwicklung, um KI-Agenten auf Qualität, Zuverlässigkeit und Sicherheit zu testen. Ein Studium mit Schwerpunkt Softwareentwicklung, fundierte Programmierkenntnisse, Kenntnisse in Prompt Engineering und sichere Deutsch- und Englischkenntnisse werden vorausgesetzt."
+  },
   {
    "id": "li_4475426325",
    "queue": true,
