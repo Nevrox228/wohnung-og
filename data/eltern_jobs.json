@@ -1,9 +1,312 @@
 {
- "generated": "2026-11-12T09:29",
+ "generated": "2026-11-12T10:29",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 416,
+ "count": 418,
  "items": [
+  {
+   "id": "marina:ka_3569009558",
+   "src": "Kleinanzeigen",
+   "title": "Ferrero Job im Supermarkt Minijob / Aushilfe / Nebenjob",
+   "firma": "TMS Trademarketing Service GmbH",
+   "ort": "Bühl",
+   "plz": "77815",
+   "street": "",
+   "lat": 48.7016606,
+   "lon": 8.1350401,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/ferrero-job-im-supermarkt-minijob-aushilfe-nebenjob/3569009558-107-8746",
+   "posted": "2026-11-12",
+   "posted_time": "10:05",
+   "desc": "Ferrero Job im Supermarkt in Bühl Minijob / Aushilfe / Nebenjob Der Job bei TMS: ⏰ Arbeitsort: 77815 Bühl ⏰ Arbeitstage: Mo+Mi ⏰ Arbeitszeiten: Flexibel während der Marktöffnungszeiten ⏰ Arbeitsbeginn: Ab sofort Was wir bieten: ✋ Unbefristeter Minijob ✋ Flexible Arbeitszeiten ✋ Wochenenden frei ✋ Pünktliche Bezahlung Aufgabengebiet: ✍️ Pflege und Bestückung der Ferrero-Markenwelt im Handel ✍️ Auffüllen der Ferrero-Süßwaren im Regal & an der Kasse ✍️ Kontrolle von Qualität & Mindesthaltbarkeitsdatum ✍️ Dokumentation der Tätigkeiten per App Anforderungen: ✅ Keine Vorkenntnisse nötig - Einarbeitung inklusive ✅ Gute Deutschkenntnisse ✅ Smartphone mit Internet ✅ Zuverlässig, belastbar & freundlich ☘️ Klicke auf den „Bewerben“-Button, damit dich die zuständige Ansprechperson direkt kontaktieren kann. Wir begrüßen Bewerbungen aller Geschlechter und Hintergründe.",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 19.3,
+   "de": "нужен",
+   "de_txt": "Einarbeitung inklusive ✅ Gute Deutschkenntnisse ✅ Smartphone mit Internet ✅ Zuverlässig, belastbar & freundlich ☘️ Klicke auf den „Bewerben“-Button, damit dich ",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-12T10:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 10,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:27",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "велосипед",
+      "min": 117,
+      "changes": 0,
+      "km": 28.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 117
+       }
+      ],
+      "risky": false,
+      "score": 214
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569013045",
+   "src": "Kleinanzeigen",
+   "title": "Tchibo Job im Supermarkt Minijob / Aushilfe / Nebenjob",
+   "firma": "TMS Trademarketing Service GmbH",
+   "ort": "Achern",
+   "plz": "77855",
+   "street": "",
+   "lat": 48.6340095,
+   "lon": 8.0373249,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569013045-107-8671",
+   "posted": "2026-11-12",
+   "posted_time": "10:00",
+   "desc": "Tchibo Job im Supermarkt in Achern Minijob / Aushilfe / Nebenjob Der Job bei TMS: ⏰ Arbeitsort: 77855 Achern ⏰ Arbeitstage: Mo+Mi ⏰ Arbeitszeiten: Flexibel, montags bis spätestens 10 Uhr im Markt ⏰ Arbeitsbeginn: Ab sofort Was wir bieten: ✋ Unbefristeter Minijob ✋ Flexible Arbeitszeiten ✋ Wochenenden frei ✋ Pünktliche Bezahlung Aufgabengebiet: ✍️ Eigenständige Pflege der Tchibo-Markenwelt im Supermarkt ✍️ Bestücken der wöchentlich wechselnden Tchibo Non-Food Regalflächen ✍️ Auffüllen von Tchibo-Kaffee im Regal & an Zweitplatzierungen ✍️ Kontrolle von Qualität und Haltbarkeit ✍️ Dokumentation der Tätigkeiten per App Anforderungen: ✅ Keine Vorkenntnisse nötig - Einarbeitung inklusive ✅ Gute Deutschkenntnisse ✅ Smartphone mit Internet ✅ Zuverlässig, belastbar & freundlich ☘️ Klicke auf den „Bewerben“-Button, damit dich die zuständige Ansprechperson direkt kontaktieren kann. Wir begrüßen Bewerbungen aller Geschlechter und Hintergründe.",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 11.8,
+   "de": "нужен",
+   "de_txt": "Einarbeitung inklusive ✅ Gute Deutschkenntnisse ✅ Smartphone mit Internet ✅ Zuverlässig, belastbar & freundlich ☘️ Klicke auf den „Bewerben“-Button, damit dich ",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-12T10:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 37,
+      "end_stop": "Achern",
+      "dep": "06:25",
+      "arr": "07:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Achern",
+        "to": "работа",
+        "dep": "06:58",
+        "arr": "07:35",
+        "min": 37
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 70
+     },
+     {
+      "kind": "велосипед",
+      "min": 62,
+      "changes": 0,
+      "km": 15.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 62
+       }
+      ],
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 113,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 22,
+      "end_stop": "Großweier Seehotel",
+      "dep": "06:32",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Gamshurst Ziegelhütte",
+        "dep": "07:16",
+        "arr": "07:31",
+        "wait": 4,
+        "min": 15
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Gamshurst Ziegelhütte",
+        "to": "Großweier Seehotel",
+        "dep": "08:02",
+        "arr": "08:04",
+        "wait": null,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Großweier Seehotel",
+        "to": "работа",
+        "dep": "08:04",
+        "arr": "08:26",
+        "min": 22
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 131
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569012241-107-8088",
+    "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569011479-107-8665"
+   ],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3568940403",
    "src": "Kleinanzeigen",
@@ -47167,7 +47470,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970841916-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970841916-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393476-S"
    ],
    "person": "Марина"
   },
