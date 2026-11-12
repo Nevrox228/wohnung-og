@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-12T21:49",
+ "generated": "2026-11-12T22:40",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 313,
+ "count": 312,
  "items": [
   {
    "id": "3569564289",
@@ -8001,57 +8001,6 @@
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
    "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "3555117842",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3555117842",
-   "title": "MODERNE NEUBAUWOHNUNGEN IN APPENWEIER; | zentrumsnah & bahnho",
-   "price_txt": "650 €",
-   "plz": "77767",
-   "ort": "Appenweier",
-   "lat": 48.54158455417913,
-   "lon": 7.971031251797857,
-   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/326b0761-34f7-4aea-b9ce-03009613bc87?rule=$_59.JPG",
-   "tags": [
-    "Möbliert/Teilmöbliert",
-    "Balkon",
-    "Einbauküche",
-    "Stufenloser Zugang",
-    "Fußbodenheizung",
-    "Neubau",
-    "Aufzug",
-    "Keller",
-    "Garage/Stellplatz"
-   ],
-   "desc": "Die Immobilie befindet sich in zentrumsnaher Lage von Appenweier und überzeugt durch eine sehr gute Infrastruktur, Einkaufsmöglichkeiten, Bäckereien, Restaurants sowie Ärzte und weitere Einrichtungen des täglichen Bedarfs sind bequem fußläufig erreichbar. Besonders hervorzuheben ist die Nähe zum Bahnhof Appenweier, der eine hervorragende Anbindung an den regionalen und überregionalen Bahnverkehr bietet. So sind umliegende Städte wie Offenburg, Karlsruhe oder Straßburg schnell und unkompliziert erreichbar – ideal für Pendler. Die Umgebung ist geprägt von einer angenehmen Wohnstruktur mit kurzen Wegen und gleichzeitig ruhigem Wohncharakter. Auch Schulen, Kindergärten sowie Freizeit- und Naherholungsmöglichkeiten befinden sich in unmittelbarer Nähe. Durch die gute Verkehrsanbindung sowohl mit öffentlichen Verkehrsmitteln als auch über die nahegelegenen Straßenverbindungen ist eine optimale Erreichbarkeit in alle Richtungen gewährleistet. Beschreibung: ✔ Gebäude KfW40_QNG & Klimafreundlicher Neubau ✔ Ökologische Bauweise in Premiumqualität ✔ Haushersteller ist mehrfach ausgezeichneter Testsieger ✔ regelbare Fußbodenheizung / Wärmepumpe ✔ Hochwertige Ausstattungsmerkmale / Sichtbetontreppe ✔ Architektonisch ansprechendes Gesamt-Konzept ✔ neue Einbauküche für jede Wohneinheit ✔ Aufzug vorhanden! ✔ Mit Keller in dem sich zusätzliche Abstellräume befinden ✔ Sep. Waschraum im UG ✔ Fahrradstellplätze und Kfz-Stellplätze direkt am Haus verfügbar ✔ Die Wohnungen sind mit edlem Feinputz ausgestattet ✔ gehobene Sanitärausstattung / Granitsimse / Alurollläden etc. ✔ spezielle Schallschutzwände/- und Decken zwischen den Einheiten ✔Jede Wohneinheit verfügt über einen Balkon ✔ Einzug ab 01. November 2026 mögl. 1.) 35m²; 650€ kalt / (inkl. EBK/Stellplatz/NK/Abstell: 895€)_(OG01) 2.) 40m²; 740€ kalt / (inkl. EBK/Stellplatz/NK/Abstell: 998€)_(OG02) EBK = Einbauküche NK = Nebenkosten / Heizkosten Kaution: 3 Nettokaltmieten Interesse? Gerne eine Nachricht mit kurzer Vorstellung senden. Besichtigungen nach Absprache möglich.",
-   "m2": 35.0,
-   "zimmer": 1.0,
-   "kalt": 650.0,
-   "nk": null,
-   "warm": null,
-   "kaution": null,
-   "ab": "November 2026",
-   "typ": "",
-   "warm_calc": 748.0,
-   "warm_est": true,
-   "moebl": true,
-   "ebk": true,
-   "km": 9.4,
-   "allowed": 990,
-   "eur_m2": 21.4,
-   "verdict": "отлично",
-   "notes": [
-    "тёплая ≈ (холодная + NK на глаз)"
-   ],
-   "first_seen": "2026-10-31",
-   "source": "поиск",
-   "zone": "близко",
-   "route": {},
-   "posted": "2026-10-28",
-   "street": "",
-   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
    "also_urls": []
   },
   {
