@@ -1,9 +1,320 @@
 {
- "generated": "2026-11-12T16:57",
+ "generated": "2026-11-12T20:10",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 417,
+ "count": 419,
  "items": [
+  {
+   "id": "marina:ba_10001-1004008287-S",
+   "src": "Jobbörse",
+   "title": "Küchenchef (m/w/d) auf Schloss Staufenberg",
+   "firma": "Hotel Ritter Durbach GmbH & Co.KG",
+   "ort": "Durbach",
+   "street": "Schloss Staufenberg",
+   "lat": 48.5016626,
+   "lon": 8.0286619,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004008287-S",
+   "posted": "2026-11-12",
+   "desc": "**Ein Arbeitsplatz, der glücklich macht.** Wir sind die Terrasse der Ortenau mit einem atemberaubenden Blick auf unsere Heimat und ihre Weinkultur. Hier laden wir unsere Gäste dazu ein, das Leben zu genießen. Als leidenschaftliche:r Gastgeber:in & kulinarische/r Botschafter:in begeisterst Du unsere Gäste mit einem umfassenden gastronomischen Angebot, vorwiegend im täglichen à la carte Geschäft und zusätzlich bei rauschenden Festen, Traumhochzeiten, Firmenevents und Geburtstagen. Deine Leidenschaft und Deine Expertise prägen die Küche auf Schloss Staufenberg. Du bist der kreative Kopf und der Motivator Deines kleinen Küchenteams. Verzaubere gemeinsam mit einem herzlichen Gastgeberteam unsere Gäste und bewirb Dich als **Küchenchef:in (m/w/d)** ### Deine Aufgaben: - Gesamtverantwortung für die Organisation und Koordination des täglichen Küchenbetriebs einer überschaubaren Küchengröße - AEVO Schein oder Bereitschaft diesen zu machen - Einsatzplanung, Mitarbeiterführung und -motivation innerhalb des Küchenteams von ca. 5 Mitarbeitenden - Qualitätskontrolle von Speisen und Produkten - Überwachung der Einhaltung von Hygiene- und Sicherheitsvorschriften (HACCP) - Entwicklung kreativer Gerichte unter Berücksichtigung regionaler Produkte, Speisekartenplanung und -gestaltung - Einarbeitung neuer Mitarbeitenden und Auszubildender - Enge Zusammenarbeit mit Service- und Betriebsleitung - Warenbestellung, Lagerung und Prüfung des Warenbestands - Implementierung von Standards - Sicherstellung eines reibungslosen Ablaufs auch in stressigen Situationen ### Das bringst Du idealerweise mit: - Abgeschlossene Berufsausbildung als Koch/Köchin sowie Führungserfahrung in vergleichbarer Position - Hohes Qualitätsbewusstsein und ein ausgeprägter Sinn für Gastfreundschaft - Belastbarkeit, Organisationstalent und dass Du immer mit Herz und Teamgeist dabei bist - Auch an stressigen Tagen behältst Du einen kühlen Kopf und bist in der Lage, Aufgaben zu priorisieren - Eigenverantwortliches, strukturiertes, verantwortungsbewusstes Arbeiten um gemeinsam unsere Ziele zu erreichen - Arbeit an Abenden, Wochenenden und Feiertagen sind für Dich selbstverständlich - Ein gutes Gespür für Motivation und Konfliktlösung - Budget- und Kostenkontrolle, Wareneinsatz-Management - Fundierte Kenntnisse in HACCP, Hygienestandards, Lebensmittel- und Arbeitssicherheit - Kreativität und Innovationsfreude bei der Speisenentwicklung - Du liebst gute Küche und möchtest deine Begeisterung an unsere Mitarbeiter weitergeben - Gute Deutschkenntnisse C1, jede weitere Sprache ist von Vorteil ### Das kannst Du von uns erwarten: - Ein modernen Arbeitsplatz im Herzen des Schwarzwalds - Eine faire Vergütung und attraktive Benefits - Kindergartenzuschuss, Fahrtkostenzuschuss oder Tankgutschein - Betriebliche Altersvorsorge - JobRad - Eine abwechslungsreiche Tätigkeit in einem inspirierenden und innovativen Umfeld - Unterstützung durch unser erfahrenes und motiviertes Team - Aus- und Weiterbildungsmöglichkeiten sowie jährliche Mitarbeitergespräche mit dem Blick auf dein Wohl und deine Entwicklung - Personalzimmer oder Hilfe bei der Wohnungssuche - Mitglied bei Fair Job Hotels ### Dein Team: Wir sind ein kunterbuntes Team aus Festangestellten, Teilzeitkräften und Aushilfen und leben die Gastlichkeit auf dem Schloss Staufenberg mit Spaß und Freude. Gemeinsam mit unseren 160 Kollegen des Hotel Ritter Durbachs sind wir Glücksritter aus Leidenschaft. **Die #schlosscrew freut sich auf Dich.** ### Lust Glücksritter zu sein? Dann lerne uns ganz unkompliziert kennen: Schick uns einfach Terminvorschläge für ein kurzes digitales Kennenlernen – ganz ohne Anschreiben oder Lebenslauf. **Per WhatsApp: +49 157 356 189 46** oder klassisch unter **bewerbung@ritter-durbach.de** Du erfüllst noch nicht alle Anforderungen? Sofern Du motiviert bist und Dich weiterentwickeln möchtest, unterstützen wir Dich gerne auf Deinem Weg.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 5.1,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse C1, jede weitere Sprache ist von Vorteil",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Berufsausbildung als Koch/Köchin sowie Führungserfahrung in vergleichbarer P",
+   "prof": true,
+   "agency": false,
+   "kind": "Кухня",
+   "first_seen": "2026-11-12T19:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 29,
+      "changes": 0,
+      "km": 6.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 29
+       }
+      ],
+      "risky": false,
+      "score": 38
+     },
+     {
+      "kind": "транспорт",
+      "min": 88,
+      "changes": 1,
+      "min_wait": 26,
+      "walk_end": 18,
+      "end_stop": "Durbach Rathaus",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7142",
+        "from": "Offenburg Bahnhof Ost",
+        "to": "Durbach Rathaus",
+        "dep": "07:25",
+        "arr": "07:43",
+        "wait": 26,
+        "min": 18
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Durbach Rathaus",
+        "to": "работа",
+        "dep": "07:43",
+        "arr": "08:01",
+        "min": 18
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 130,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 104,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "13:36",
+      "arr": "15:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "13:36",
+        "arr": "13:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "13:47",
+        "arr": "14:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "14:03",
+        "arr": "15:46",
+        "min": 104
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 130
+     }
+    ],
+    "best": "велосипед",
+    "min": 29,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10001-1001884702-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter für die Pharmaherstellung (m/w/d)",
+   "firma": "perspective Personalmanagement GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.5425634,
+   "lon": 7.9905837,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001884702-S",
+   "posted": "2025-09-23",
+   "desc": "**Für unseren namenhaften Kunden suchen wir mehrere Produktionsmitarbeiter für die Pharmaherstellung (m/w/d)** **Ihre Perspektiven:** - Unbefristeter Arbeitsvertrag - Übertarifliche Bezahlung - Interessante und abwechslungsreiche Aufgaben - Urlaubs- und Weihnachtsgeld - Sehr hohe Chance zur Übernahme in den Kundenbetrieb **Ihre Aufgaben:** - Überwachung der Produktionsanlagen - Herstellung unter Einhaltung der Hygienevorschriften und Vorgaben der Herstellanweisungen - Reinigung der benutzten Anlagen, Geräte und Räume **Ihr Profil:** - Abgeschlossene fachspezifische Berufsausbildung (Pharmakant/in oder eine vergleichbare Ausbildung z.B. Bäcker, Konditor oder Koch m/w/d) - Eigenständige und motivierte Arbeitsweise - Bereitschaft zur 3-Schichtarbeit (Früh-, Spät- und Nachtschicht) - Führerschein und Fahrzeug zum Erreichen des Arbeitsplatzes **----> Haben wir Interesse geweckt? <----**",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": true,
+   "who": "marina",
+   "km": 6.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "nt/in oder eine vergleichbare Ausbildung z.B Bäcker, Konditor oder Koch m/w/d)",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T19:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_10001-1003969533-S",
    "src": "Jobbörse",
@@ -10781,7 +11092,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3568117722-247-8045"
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3568117722-247-8045",
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3569594177-247-8045"
    ],
    "person": "Марина"
   },
@@ -40226,7 +40538,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1835-S"
+   ],
    "person": "Марина"
   },
   {
@@ -46890,8 +47204,7 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393232-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973490874-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970035259-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973490874-S"
    ],
    "person": "Марина"
   },
@@ -48992,7 +49305,6 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970035255-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1194053942-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-982570816-S"
    ],
@@ -50413,8 +50725,7 @@
    "ru": "",
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973505658-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970035251-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973505658-S"
    ],
    "person": "Марина"
   },
@@ -53445,6 +53756,7 @@
    "ru": "",
    "status": "open",
    "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15937-k55805.127842-S",
     "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-m-w-d-kommissionierung-von-autoteilen/3458648307-247-9040"
    ],
    "person": "Марина"

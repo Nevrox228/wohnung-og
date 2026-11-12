@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-12T16:57",
+ "generated": "2026-11-12T20:10",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 49,
+ "count": 48,
  "items": [
   {
    "id": "ba_16262-0068715203-S",
@@ -47,28 +47,6 @@
    "kind": "Общее / другое",
    "ausb": false,
    "first_seen": "2026-11-12T14:38",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4461528816",
-   "src": "LinkedIn",
-   "title": "Praktikanten (w/m/d) im Anerkennungsjahr im Rahmen der Ausbildung zum/zur Erzieher/-in 2027",
-   "firma": "Stadt Achern",
-   "ort": "Achern",
-   "plz": "",
-   "street": "",
-   "lat": 48.6300161,
-   "lon": 8.0735581,
-   "url": "https://de.linkedin.com/jobs/view/4461528816",
-   "posted": "2026-09-01",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 19.4,
-   "kind": "Общее / другое",
-   "ausb": true,
-   "first_seen": "2026-11-12T12:10",
    "status": "open",
    "also_urls": []
   },
@@ -208,8 +186,7 @@
    "first_seen": "2026-11-08T22:18",
    "status": "open",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4487950738",
-    "https://de.linkedin.com/jobs/view/4487134659"
+    "https://de.linkedin.com/jobs/view/4487950738"
    ]
   },
   {
@@ -1097,7 +1074,6 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },
