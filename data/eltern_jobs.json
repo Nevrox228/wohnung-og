@@ -1,9 +1,505 @@
 {
- "generated": "2026-11-12T11:19",
+ "generated": "2026-11-12T12:29",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 417,
+ "count": 421,
  "items": [
+  {
+   "id": "marina:ba_17710-0068701903-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 17 bis 21.30 Uhr (m/w/d)",
+   "firma": "Klüh Cleaning GmbH",
+   "ort": "Rheinau",
+   "street": "Am Erlenpark",
+   "lat": 48.6230233,
+   "lon": 7.8872059,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17710-0068701903-S",
+   "posted": "2026-11-12",
+   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH & Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 4,5 Stunden täglich von 17.00 bis 21.30 Uhr. Werden auch Sie Teil des Klüh-Teams! **Ihre Vorteile** * 30 Tage Urlaub/Jahr * Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit * Pünktliche und sichere Vergütung nach Tarifvertrag * Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen * Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl) * Kostenloser Parkplatz * Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie * Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr **Ihre Aufgaben** * Reinigung von Büros * Reinigung von Sanitärräumen * Reinigung von Ausstellungsflächen **Ihr Profil** * Erfahrung als Reinigungskraft von Vorteil * Zuverlässigkeit * Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "zeit": " / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.5,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-12T12:10",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 112,
+      "changes": 1,
+      "min_wait": 15,
+      "walk_end": 9,
+      "end_stop": "Linx Süd",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Kehl Rathaus",
+        "dep": "06:03",
+        "arr": "06:47",
+        "wait": 15,
+        "min": 44
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Kehl Rathaus",
+        "to": "Linx Süd",
+        "dep": "06:50",
+        "arr": "07:05",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Linx Süd",
+        "to": "работа",
+        "dep": "07:05",
+        "arr": "07:14",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 115
+     },
+     {
+      "kind": "велосипед",
+      "min": 107,
+      "changes": 0,
+      "km": 26.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 107
+       }
+      ],
+      "risky": false,
+      "score": 194
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 112,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569122281",
+   "src": "Kleinanzeigen",
+   "title": "Lagerist - Lagermitarbeiter - Kommissionierer (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerist-lagermitarbeiter-kommissionierer-m-w-d-/3569122281-247-9037",
+   "posted": "2026-11-12",
+   "posted_time": "11:47",
+   "desc": "Lagerist - Lagermitarbeiter - Kommissionierer (m/w/d) bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14322014/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Lagerist - Lagermitarbeiter - Kommissionierer (m/w/d) Wir suchen ab sofort motivierte Unterstützung als Lagerist - Lagermitarbeiter - Kommissionierer (m/w/d) Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● eigenständiges Kommissionieren ● Be- und Entladen von LKW ● Warenannahme ● Ein- und Auslagern von Waren ● Durchführung von Bestandskontrollen Profil Das bringen Sie mit: ● Erfahrung im Lager wünschenswert ● selbstständige Arbeitsweise und Flexibilität ● Pünktlichkeit, Zuverlässigkeit und Teamfähigkeit ● Bereitschaft zur Schichtarbeit ● Staplerschein von Vorteil ● Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton ● 200 € Startprämie, sowie 100 € für jeden neuen TEMPTON Mitarbeiter, welchen Sie uns empfehlen ● unbefristeter Arbeitsvertrag ● Übertarifliche Bezahlung mindestens nach GVP/DGB-Tarifvertrag ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge ● persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung ● kostenfreie Stellung von Arbeitsschutzkleidung und Werkzeugen ● Attraktive Mitarbeiterrabatte bis zu 85% auf namhafte Produkte ● Volle Lohnauszahlung zum 15. Bankarbeitstages des Monats, mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● elektronische Zeiterfassung ● sehr gute Chance auf Übernahme in den Kundenbetrieb KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 13.8,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-12T12:10",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569111481",
+   "src": "Kleinanzeigen",
+   "title": "Montierer - Montagearbeiter - Montagehelfer (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montierer-montagearbeiter-montagehelfer-m-w-d-/3569111481-111-9040",
+   "posted": "2026-11-12",
+   "posted_time": "11:37",
+   "desc": "Montierer - Montagearbeiter - Montagehelfer (m/w/d) bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14322006/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Montierer - Montagearbeiter - Montagehelfer (m/w/d) Wir suchen ab sofort motivierte Unterstützung als Montierer - Montagearbeiter - Montagehelfer (m/w/d) Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● Durchführung von fachgerechten Montage von Baugruppen ● Verantwortung für die Einhaltung der Qualitäts- und Sicherheitsstandards am Arbeitsplatz ● Dokumentation der fertiggestellten Produkte Profil Das bringen Sie mit: ● Erfahrung in der Montage hochwertiger Baugruppen ● zuverlässige und gewissenhafte Arbeitsweise ● Präzision und Sorgfalt ● Schichtbereitschaft ● Team- und Kommunikationsfähigkeit ● Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton ● 200 € Startprämie, sowie 100 € für jeden neuen TEMPTON Mitarbeiter, welchen Sie uns empfehlen ● unbefristeter Arbeitsvertrag ● Übertarifliche Bezahlung mindestens nach GVP/DGB-Tarifvertrag ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge ● persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung ● kostenfreie Stellung von Arbeitsschutzkleidung und Werkzeugen ● Attraktive Mitarbeiterrabatte bis zu 85% auf namhafte Produkte ● Volle Lohnauszahlung zum 15. Bankarbeitstages des Monats, mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● elektronische Zeiterfassung ● sehr gute Chance auf Übernahme in den Kundenbetrieb KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T12:10",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_15518-RR9H0JLTXALLTP6V-S",
    "src": "Jobbörse",
@@ -11031,6 +11527,168 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ka_3563838008",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) Baugruppenmontage 2-Schicht",
+   "firma": "expertum Gruppe",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-baugruppenmontage-2-schicht/3563838008-111-8670",
+   "posted": "2026-11-07",
+   "posted_time": "09:30",
+   "desc": "HIER WERDEN SIE ARBEITEN: Unser Kunde ist ein internationales Industrieunternehmen im Elektrobereich mit rund 100.000 Mitarbeiter in mehr als 100 Ländern. Allein an den Standorten in Deutschland sind über 10.000 Mitarbeiter beschäftigt. In Sasbach werden mit energiesparenden und umweltschonenden Technologien Energie-Verteilersysteme entwickelt und produziert. Zur Unterstützung des Teams in der Fertigung suchen wir ab sofort einen engagierten Produktionsmitarbeiter (m/w/d) Baugruppenmontage 2 Schicht. DIES SIND IHRE AUFGABEN: ● Sie montieren Baugruppen und/oder vormontierte Komponenten mithilfe von Werkzeugen und Verbindungstechniken (z. B. Nieten, Schrauben, Löten, Kleben, Stecken). ● Sie prüfen die Teile auf Richtigkeit (Typ, Teilenummer), Vollständigkeit (Anzahl) und melden Fehlbestände. ● Letztendlich führen Sie einfache Funktionsprüfungen durch und verpacken die gefertigten Teile. DAS BRINGEN SIE MIT: ● Sie konnten bereits Erfahrung im Produktionsumfeld eines Industrieunternehmens sammeln. ● Sie überzeugen durch Ihre Fingerfertigkeit und handwerkliches Geschick. ● Sie sind bereit, im 2-Schichtsystem zu arbeiten. WIR GARANTIEREN IHNEN: ● Unbefristeter Arbeitsvertrag inkl. Urlaubs- und Weihnachtsgeld ● Tarifliche Entlohnung nach dem GVP-Tarifwerk sowie ggf. Branchenzuschläge ● Betriebliche Altersvorsorge ● Hochwertige Profi-Schutz- und -Arbeitskleidung sowie arbeitsmedizinische Vorsorge ● Arbeitsplatzbezogene Weiterbildungen ● Mitarbeiter-Prämien zu besonderen Anlässen ● Vielzahl an Shopping-Rabatten ● Spannende Projekte bei wertschätzenden Kunden LEBENSLAUF GENÜGT: Die Online-Bewerbung bei expertum dauert nur wenige Minuten. Laden Sie einfach Ihren Lebenslauf hoch, überprüfen Sie die übernommenen Daten und schicken Sie die Bewerbung ab - fertig. Alternativ können Sie uns Ihre Bewerbung auch per E-Mail zukommen lassen. Wir freuen uns auf Sie! Expert:in vor Ort Mandy Leising Kurfürsten-Anlage 3 69115 Heidelberg +49 6221 651 200 ********************************************** Bitte bewerben Sie sich jetzt direkt per WhatsApp über diesen Link: https://expertum-gruppe.pitchyou.de/3SXPE (oder klicken Sie einfach auf den Bewerben-Button) **********************************************",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-08T13:52",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ka_3564829211",
    "src": "Kleinanzeigen",
    "title": "Lagerhelfer (m/w/d) (Offenburg)",
@@ -12438,7 +13096,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-nacharbeit-3-schicht/3563837900-111-8670"
+   ],
    "person": "Марина"
   },
   {
@@ -16615,180 +17275,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_17710-0067873377-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft Minijob samstags 5 - 7.30 Uhr morgens (m/w/d)",
-   "firma": "Klüh Cleaning GmbH",
-   "ort": "Rheinau",
-   "street": "Am Erlenpark",
-   "lat": 48.623023327,
-   "lon": 7.88720592,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17710-0067873377-S",
-   "posted": "2026-10-05",
-   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eineReinigungskraft (m/w/d) im Minijob für sein Objekt WeberHaus GmbH & Co. KG in Rheinau-Linx. Arbeitszeit nur einmal wöchentlich,samstags, von 5.00 bis 7.30 Uhr morgens.Werden auch Sie Teil des Klüh-Teams! **Ihre Vorteile** * 30 Tage Urlaub/Jahr * Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit * Pünktliche und sichere Vergütung nach Tarifvertrag * Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen * Kostenloser Parkplatz * Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie * Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr **Ihre Aufgaben** * Reinigung der Teeküchen * Reinigung der Sanitärräume * Reinigung von Büros **Ihr Profil** * Erfahrung in der Unterhaltsreinigung von Vorteil * Gute Deutschkenntnisse zur Kommunikation mit Kollegen nötig * Eigenes Fahrzeug zum Erreichen des Arbeitsplatzes um 5 Uhr morgens erforderlich",
-   "zeit": " / Teilzeit / Minijob",
-   "schicht": true,
-   "quer": false,
-   "who": "marina",
-   "km": 17.5,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse zur Kommunikation mit Kollegen nötig",
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 112,
-      "changes": 1,
-      "min_wait": 15,
-      "walk_end": 9,
-      "end_stop": "Linx Süd",
-      "dep": "05:21",
-      "arr": "07:14",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Kehl Rathaus",
-        "dep": "06:03",
-        "arr": "06:47",
-        "wait": 15,
-        "min": 44
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Kehl Rathaus",
-        "to": "Linx Süd",
-        "dep": "06:50",
-        "arr": "07:05",
-        "wait": null,
-        "min": 15
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Linx Süd",
-        "to": "работа",
-        "dep": "07:05",
-        "arr": "07:14",
-        "min": 9
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 115
-     },
-     {
-      "kind": "велосипед",
-      "min": 107,
-      "changes": 0,
-      "km": 26.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 107
-       }
-      ],
-      "risky": false,
-      "score": 194
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 303,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 277,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:24",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:24",
-        "min": 277
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 303
-     }
-    ],
-    "best": "транспорт",
-    "min": 112,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-98827d83-028f-4103--S"
-   ],
    "person": "Марина"
   },
   {
@@ -23287,6 +23773,178 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a65d07002-S"
    ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_12951-98827d83-028f-4103--S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft Minijob samstags 5 - 7.30 Uhr morgens (m/w/d)",
+   "firma": "Klüh Cleaning GmbH",
+   "ort": "Rheinau",
+   "street": "Am Erlenpark",
+   "lat": 48.6230233,
+   "lon": 7.8872059,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-98827d83-028f-4103--S",
+   "posted": "2026-10-06",
+   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) im Minijob für sein Objekt WeberHaus GmbH und Co. KG in Rheinau-Linx. Arbeitszeit nur einmal wöchentlich, samstags, von 5.00 bis 7.30 Uhr morgens. Werden auch Sie Teil des Klüh-Teams! Ihre Vorteile ✓ 30 Tage Urlaub/Jahr✓ Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit✓ Pünktliche und sichere Vergütung nach Tarifvertrag✓ Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen✓ Kostenloser Parkplatz✓ Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie✓ Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr Ihre Aufgaben ✓ Reinigung der Teeküchen✓ Reinigung der Sanitärräume✓ Reinigung von Büros Ihr Profil ✓ Erfahrung in der Unterhaltsreinigung von Vorteil✓ Gute Deutschkenntnisse zur Kommunikation mit Kollegen nötig✓ Eigenes Fahrzeug zum Erreichen des Arbeitsplatzes um 5 Uhr morgens erforderlich",
+   "zeit": " / Teilzeit / Minijob",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.5,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zur Kommunikation mit Kollegen nötig",
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 112,
+      "changes": 1,
+      "min_wait": 15,
+      "walk_end": 9,
+      "end_stop": "Linx Süd",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Kehl Rathaus",
+        "dep": "06:03",
+        "arr": "06:47",
+        "wait": 15,
+        "min": 44
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Kehl Rathaus",
+        "to": "Linx Süd",
+        "dep": "06:50",
+        "arr": "07:05",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Linx Süd",
+        "to": "работа",
+        "dep": "07:05",
+        "arr": "07:14",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 115
+     },
+     {
+      "kind": "велосипед",
+      "min": 107,
+      "changes": 0,
+      "km": 26.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 107
+       }
+      ],
+      "risky": false,
+      "score": 194
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 112,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -41722,7 +42380,6 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37600C47-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43231C34-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35379C50-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105550A48439C15-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A49639C4-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35999C48-S",
@@ -46952,7 +47609,10 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-lagermitarbeiter-kommissionierer-m-w-d-ab-15-/3569126603-247-8037",
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-lagermitarbeiter-kommissionierer-m-w-d-ab-15-/3569114634-247-8045"
+   ],
    "person": "Марина"
   },
   {
