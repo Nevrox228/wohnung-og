@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T10:29",
+ "generated": "2026-11-12T11:19",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 444,
+  "all": 443,
   "queue": 244,
-  "ai_focus": 231
+  "ai_focus": 230
  },
  "jobs": [
   {
@@ -277,6 +277,32 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "ba_10001-1004003687-S",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) Künstliche Intelligenz & Digitalisierung",
+   "company": "LMT Tool Systems GmbH & Co. KG",
+   "location": "Schwarzenbek",
+   "distance_km": 580.0,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004003687-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12T10:59",
+   "description": "### Ihre Aufgaben - Analyse bestehender technischer und administrativer Prozesse hinsichtlich sinnvoller KI- und Automatisierungspotenziale - Entwicklung und Erprobung von KI-basierten Prototypen, kleinen Softwaretools und Proof-of-Concept-Anwendungen - Entwicklung smarter Lösungen für Angebots-, Engineering- und Entwicklungsprozesse - Strukturierung und Aufbereitung von technischem Wissen für KI-basierte Anwendungen - Bewertung der entwickelten Ansätze hinsichtlich Nutzen, Umsetzbarkeit und Integration in bestehende Prozesse - Zusammenarbeit mit Engineering, Entwicklung, Produktmanagement und Customer Service ### Ihr Anforderungsprofil - Immatrikulierter Student (m/w/d) im Bereich Maschinenbau, Wirtschaftsingenieurwesen, Informatik, Data Science, Computational Engineering oder vergleichbar - Erste praktische Erfahrung in Programmierung, Datenanalyse, KI/LLMs oder Automatisierung von Vorteil; keine zwingende Berufserfahrung erforderlich - Grundkenntnisse in mindestens einer Programmiersprache, z. B. Python, C++ oder vergleichbar - Erste Berührungspunkte mit LLMs, APIs, Cloud- oder Low-Code-Plattformen von Vorteil - Interesse an KI-Anwendungen und digitalen Technologien - Gutes technisches Verständnis - Gute Deutsch- und Englischkenntnisse"
   },
   {
    "id": "ba_15693-44568473-1111-S",
@@ -1775,32 +1801,6 @@
    "posted": "2026-05-19",
    "first_seen": "2026-11-04T12:29",
    "description": "📍 **Wo:** - Standorte: Chemnitz oder Dresden - Bereich: SmartTECS Cyber Security (Teil der SmartTECS-Gruppe) 🧑‍💻 **Was:** - Mitarbeit an KI-Lösungen für Unternehmen - Schwerpunkte:Entwicklung & Integration von KI-SystemenDatenaufbereitung & Data EngineeringRAG-Systeme, Embeddings, VektordatenbankenFine-Tuning von ML-Modellen - Analyse von Sicherheitsrisiken bei generativer KI (OWASP) 🎓 **Wie:** - Studium z. B. Informatik, Data Science, KI, Cyber Security - Grundkenntnisse:Python & ML-FrameworksDatenverarbeitung / Data Handling - Optional: Erfahrung mit RAG, LLMs, lokalen Modellen - Deutsch & Englisch sehr gut ⏰ **Rahmen:** - flexible Arbeitszeiten - strukturierte Einarbeitung - Entwicklungsperspektiven"
-  },
-  {
-   "id": "ba_10000-1208307983-S",
-   "queue": true,
-   "status": "open",
-   "stars": 5,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent (m/w/d) Digital Marketing & AI",
-   "company": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
-   "location": "Iserlohn",
-   "distance_km": 318.4,
-   "remote": true,
-   "german_level": "sehr gut",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208307983-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-10-15",
-   "first_seen": "2026-11-04T12:29",
-   "description": "Wir denken und handeln zukunftsorientiert, wertschaffend und familiär – deine neue Jobfamilie. **Gutes tun & weiterkommen – Deine Aufgaben** **Diese Stelle ist zunächst auf 6 Monate befristet. ** Zur Unterstützung des Bereichs Digital PCC suchen wir einen Werkstudenten (m/w/i), der bei der Umsetzung digitaler Marketingaktivitäten und der Weiterentwicklung KI-gestützter Arbeitsabläufe mitwirkt. Dies umfasst folgende Aufgaben: - Unterstützung bei der Planung, Umsetzung und Auswertung digitaler Marketingkampagnen, insbesondere auf Meta und Google - Erstellung und Optimierung von Texten, Visuals und Anzeigenvarianten auf Basis vorgegebener Briefings und Markenrichtlinien - Recherche zu Zielgruppen, Wettbewerbern und digitalen Trends sowie Aufbereitung von Kampagnendaten und Reportings - Unterstützung bei Agenturbriefings, der Organisation von Marketingmaterialien und Freigabeprozessen sowie bei Website-, Content- und SEO-Themen - Entwicklung und Erprobung von KI-gestützten Vorlagen, Prompts und einfachen Automatisierungen für wiederkehrende Marketingaufgaben - Unterstützung beim Einsatz von KI-Assistenten und automatisierten Workflows, beispielsweise für Recherche, Reporting und Content-Erstellung - Prüfung und Dokumentation KI-gestützter Ergebnisse und Anwendungen unter Berücksichtigung von Qualität, Markenrichtlinien und internen Vorgaben **Expertise & Kompetenzen zeigen – Dein Profil** - Laufendes Studium, beispielsweise im Bereich Marketing, Wirtschaftsinformatik, Medienmanagement, Kommunikation, Informatik oder einer vergleichbaren Fachrichtung - Grundverständnis für digitales Marketing und Kampagnenkennzahlen - Praktische Erfahrung mit generativer KI und die Fähigkeit, Aufgaben durch klare Prompts strukturiert zu bearbeiten - Sicherer Umgang mit Excel beziehungsweise vergleichbaren Anwendungen zur Datenaufbereitung - Sehr gute Deutschkenntnisse und ein gutes Gespür für verständliche Texte - Strukturierte, zuverlässige Arbeitsweise - Interesse daran, neue Anwendungen zu testen und ihren tatsächlichen Nutzen zu bewerten **Ansprechpartner** Wir freuen uns auf deine Bewerbung! Bei Fragen steht dir unser Team People & Culture gerne zur Verfügung und meldet sich zeitnah bei dir. Deine Ansprechpartnerin ist **Chiara De Nardo**"
   },
   {
    "id": "ba_12117-YF-53005-YF-S",
@@ -7307,32 +7307,6 @@
    "posted": "2026-07-03",
    "first_seen": "2026-11-04T18:01",
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
-  },
-  {
-   "id": "ba_13151-1645814-1-S",
-   "queue": false,
-   "status": "open",
-   "stars": 2,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x)",
-   "company": "Mercedes-Benz Group AG",
-   "location": "Karlsruhe",
-   "distance_km": 58.6,
-   "remote": true,
-   "german_level": "C1+",
-   "german_quote": "Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1645814-1-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-10-21",
-   "first_seen": "2026-11-04T12:29",
-   "description": "Tätigkeitsbereich: IT/Telekommunikation Gesellschaft: Mercedes-Benz Tech Innovation GmbH Standort: Karlsruhe Startdatum: 01.12.2026 Veröffentlichungsdatum: 2026-12-01 Stellennummer: V000080204 Arbeitszeit: Teilzeit Aufgaben Welche Aufgaben erwarten dich? - Als Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x) unterstützt du das Team bei der Erstellung, Verfeinerung und Verwaltung von Caching-Mechanismen für Small Language Models (SLMs). - Du wirkst beim Training und der Weiterentwicklung von Modellen für Cache Predictions mit. - Zudem unterstützt du bei der Konfiguration und Verwaltung von Machine-Learning-Umgebungen in der Cloud. - Du beschäftigst dich mit der Konzeption und explorativen Analyse neuer Caching-Strategien und bringst dabei deine eigenen Ideen ein. - Du unterstützt bei der Auswahl, Entwicklung und Integration neuester Technologien im Rahmen innovativer Forschungsprojekte. - Darüber hinaus arbeitest du in einem agilen Produktentwicklungsteam mit erfahrenen Entwicklerinnen und Entwicklern aus unterschiedlichen Disziplinen zusammen. Qualifikationen Wie passt du in unser Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt. Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions! - Du studierst Informatik, Wirtschaftsinformatik oder einen vergleichbaren Studiengang. - Du bringst bereits Erfahrungen in der Softwareentwicklung mit Python mit. - Du verfügst über Kenntnisse im Bereich Deep Learning und bist mit dem Aufbau und der Funktionsweise von Transformer-Modellen vertraut. - Du bist hoch motiviert, arbeitest strukturiert und hast Freude daran, dich mit neuen Technologien und Themen auseinanderzusetzen. - Eine sehr gute Selbstorganisation sowie die Fähigkeit, dir neue Themen eigenständig zu erarbeiten, runden dein Profil ab. Benefits - Barriere­frei­heit - Kantine, Café - Coaching - Mobilitäts­angebote - Mit­arbeiter Events - Mit­arbeiter­rabatte möglich - Mit­arbeiter­beteili­gung möglich - Mit­arbeiter­handy möglich - Essens­zulagen - Gesund­heits­maß­nahmen - Hybrides Arbeiten möglich - Lebens­langes Lernen - Betrieb­liche Alters­ver­sorgung - Park­platz - Gute An­bindung - Flexible Arbeits­zeit möglich Kontakt Albert-Nestler-Str. 11 76131 Karlsruhe"
   },
   {
    "id": "an_werkstudentin-research-und-ai-gn-im-executive-search-berlin-321659",
