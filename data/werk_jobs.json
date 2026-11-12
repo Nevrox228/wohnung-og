@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T16:10",
+ "generated": "2026-11-12T16:57",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,11 +13,37 @@
   ]
  },
  "counts": {
-  "all": 447,
-  "queue": 248,
-  "ai_focus": 233
+  "all": 449,
+  "queue": 250,
+  "ai_focus": 235
  },
  "jobs": [
+  {
+   "id": "ss_14746635",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikant*in KI & Way of Working MB.OS",
+   "company": "Mercedes-Benz AG",
+   "location": "Sindelfingen",
+   "distance_km": 70.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Praktikantin-KI-Way-of-Working-MB-OS-Sindelfingen-Mercedes-Benz-AG--14746635-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12T16:40",
+   "description": "Mercedes-Benz entwickelt Fahrzeuge und Mobilitätslösungen auf globaler Ebene. Gesucht wird ein Praktikant (m/w/d) in KI & Way of Working, um KI-basierte Planning Agents für die agile Fahrzeugentwicklung zu konzipieren und zu testen. Ein Studium der (Wirtschafts-)Informatik oder eines vergleichbaren Studiengangs, Interesse an LLM-basierten Agenten, sichere Deutsch- und Englischkenntnisse sowie analytische Arbeitsweise werden vorausgesetzt."
+  },
   {
    "id": "li_4489985232",
    "queue": true,
@@ -2197,6 +2223,32 @@
    "posted": "2026-11-03",
    "first_seen": "2026-11-04T12:29",
    "description": "📍 Dorsten, NRW 🕒 Werkstudent (bis zu 20 Std./Woche) ⏰ Arbeitszeit schwerpunktmäßig vormittags unter der Woche 🏁 Start: ab sofort 🏢 Zunächst überwiegend vor Ort in Dorsten, später teilweise Homeoffice denkbar Gestalte mit, wie KI einen Mittelständler verändert – mit Code, Daten und KI. Du baust mit KI lieber echte Lösungen, als nur darüber zu lesen? Dann tu es nicht länger nur für Uni-Projekte. Bei uns entwickelst Du Tools, Automatisierungen und Reportings für ein echtes Unternehmen – mit eigenem Lager, echten Kunden und Daten aus dem Tagesgeschäft. Dafür bekommst Du einen Claude-Zugang im höchsten Tarif, den Du ausreizen darfst. Ob Informatik, Wirtschaftsinformatik oder Data Science: Unser Geschäft erklären wir Dir. Bauen musst Du wollen. Wer wir sind E-M-C-direct ist ein inhabergeführter technischer Großhandel in Dorsten. Wir liefern Kabelschutz, Kabelbinder, Befestigungstechnik und Werkzeuge an Firmenkunden aus Fahrzeugbau, Industrie und Solarbranche, direkt ab unserem eigenen Lager – im DACH-Raum und zunehmend international. KI ist bei uns Chefsache: Die Geschäftsführung treibt das Thema selbst voran, und Du baust direkt mit. Dein Job Du findest gemeinsam mit Vertrieb, Einkauf, Lager und Marketing heraus, wo KI echte Arbeit abnimmt – und setzt es um. Du entwickelst interne Tools, kleine Web-Anwendungen, Skripte und KI-Agenten für EMC. Du verbindest unsere Systeme und ersetzt manuelle Routinen durch stabile, automatisierte Abläufe. Du ziehst Daten aus unserer Warenwirtschaft und weiteren Quellen und baust daraus Dashboards und Kennzahlen, mit denen wir entscheiden. Du hilfst beim Aufbau unserer KI- und Dateninfrastruktur: Schnittstellen, Datenmodelle, Berechtigungen, Dokumentation – sicher und datenschutzkonform. Du zeigst Deinen Kollegen, wie sie KI-Tools gut nutzen, damit Deine Lösungen im Alltag auch ankommen. Was Du mitbringst Du bist als Student eingeschrieben, idealerweise in Informatik, Wirtschaftsinformatik, Data Science oder einem ähnlichen Fach. Du programmierst sicher, am liebsten in Python, und kommst mit SQL, Datenbanken und Excel klar. Du arbeitest täglich mit KI-Tools wie Claude oder ChatGPT und hast schon eigene Projekte damit gebaut. Du packst an, lieferst Ergebnisse und arbeitest Dich selbstständig in neue Systeme ein, auch wenn nicht alles vorgegeben ist. Dich interessiert, wie ein Unternehmen tickt. Erfahrung mit Warenwirtschaft, E-Commerce oder Reporting ist ein Plus. Du gehst verantwortungsvoll mit Daten um und hast ein Gespür für Datenschutz und IT-Sicherheit. Du sprichst gut Deutsch, Englisch ist ein Plus. Du wohnst in Dorsten oder Umgebung und kannst uns gut erreichen. Was Dich hier erwartet Kein Einzelkämpfer-Job: Du arbeitest mit anderen Werkstudenten und Kollegen zusammen, die ebenfalls mit KI bauen. Ihr entwickelt gemeinsam Anwendungen, teilt Prompts und Kniffe und lernt voneinander. Echte Wirkung: Was Du baust, läuft im Tagesgeschäft. Du siehst sofort, ob es hilft. Top-Werkzeuge: Claude im höchsten Tarif und modern"
+  },
+  {
+   "id": "ss_14746634",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Intern AI & Way of Working MB.OS",
+   "company": "Mercedes-Benz AG",
+   "location": "Sindelfingen",
+   "distance_km": 70.7,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Intern-AI-Way-of-Working-MB-OS-Sindelfingen-Mercedes-Benz-AG--14746634-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-12T16:40",
+   "description": "Mercedes-Benz entwickelt Fahrzeuge und digitale Lösungen für die globale Mobilität. Gesucht wird ein Intern AI & Way of Working MB.OS (m/w/d) zur Unterstützung bei der Entwicklung von KI-gestützten Planning Agents für die agile Fahrzeugentwicklung. Ein Studium in Informatik, Wirtschaftsinformatik oder vergleichbarem Fachgebiet, Interesse an LLM-basierten Agenten, Kenntnisse in agilen Methoden und sehr gute Deutsch- und Englischkenntnisse werden vorausgesetzt."
   },
   {
    "id": "li_4489471675",

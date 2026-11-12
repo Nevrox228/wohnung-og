@@ -1,9 +1,1492 @@
 {
- "generated": "2026-11-12T16:10",
+ "generated": "2026-11-12T16:57",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 418,
+ "count": 417,
  "items": [
+  {
+   "id": "marina:ba_10001-1003969533-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter Montage (m/w/d)",
+   "firma": "Joseph Westiform GmbH",
+   "ort": "Ortenberg",
+   "street": "Kinzigtalstr. 2",
+   "lat": 48.441249,
+   "lon": 7.9707015,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003969533-S",
+   "posted": "2026-11-05",
+   "desc": "Mit viel Leidenschaft und Herzblut geben wir bei der Joseph Westiform GmbH jeden Tag alles, um die Marken unserer Kunden perfekt in Szene zu setzen und einzigartige Markenauftritte zu realisieren. Werden auch Du ein Teil der internationalen Joseph Westiform Familie und offizieller #Spotlighter! Für unseren Standort in Ortenberg oder Bretzfeld suchen wir Mitarbeiter für die Montage (m/w/d) zum nächstmöglichen Zeitpunkt. ‍**Ihre Aufgaben:** - Montage von Werbeanlagen nach Zeichnung und Arbeitsanweisung - Instandhaltung, Reinigung und Wartung von Werbeanlagen - Technischer Ansprechpartner für unsere Kunden vor Ort - Beratung und Betreuung der Kunden bei technischen Fragen - Enge Kommunikation mit Montage- und internem Projektmanagementteam bei technischen Fragen - Sorgfältige Dokumentation durchgeführter Arbeiten **Ihre Qualifikationen:** - Erfolgreich abgeschlossene technische/handwerkliche Ausbildung von Vorteil - Technisches Verständnis und handwerkliches Geschick - Erste Erfahrungen im Bereich Montage wünschenswert - Elektrokenntnisse von Vorteil - Kommunikationsstärke sowie ein freundliches und sicheres Auftreten - Strukturierte, lösungsorientierte und eigenständige Arbeitsweise, hohe Leistungsbereitschaft - Reisebereitschaft im Inland - Gültige Fahrerlaubnis der Klasse B - Gute Deutschkenntnisse in Wort und Schrift **Wir bieten Ihnen:** - Anspruchsvolle und abwechslungsreiche Tätigkeit in einem international tätigen Unternehmen - Unbefristetes Arbeitsverhältnis - 30 Tage Urlaub, flexible Arbeitszeiten mit Gleitzeitregelung - Tarifliche Lohnerhöhungen und betriebliche Sonderzahlungen, wie z.B. Urlaubs- und Weihnachtsgeld - Betriebliche Altersvorsorge - Vollumfängliches Einarbeitungsprogramm - Vielfältige Weiterbildungsmöglichkeiten - Firmen- und Teamevents - Kantine und Outdoor-Kantine im Sommer - Ein super Team, dass Sie jederzeit unterstützt **Interesse?** Bitte senden Sie Ihre Bewerbung per E-Mail an personal@westiform.de oder laden Sie diese schnell und einfach über unser Online-Bewerbungsformular unter [https://www.westiform.de/career](https://www.westiform.de/career) hoch. Vielen Dank.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": true,
+   "who": "marina",
+   "km": 12.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T16:40",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 4,
+      "end_stop": "Ortenberg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7134",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Ortenberg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:23",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Ortenberg Bahnhof",
+        "to": "работа",
+        "dep": "07:23",
+        "arr": "07:26",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 91,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 65,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:53",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:53",
+        "min": 65
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 84,
+      "changes": 0,
+      "km": 20.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 84
+       }
+      ],
+      "risky": false,
+      "score": 148
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-2FAK4D21C52BWOS5-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d)",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-2FAK4D21C52BWOS5-S",
+   "posted": "2026-11-12",
+   "desc": "Produktionshelfer (m/w/d/x) ab sofort gesucht! Standort: Offenburg Anstellungsart(en): Vollzeit Arbeitszeit: 37,5 Stunden pro Woche Ihre Aufgaben: - Verpacken von Produkten - Qualitätskontrolle - Verladen von Paketen Anforderungen: - Erfahrung in der Produktion ist wünschenswert - 2-Schicht Bereitschaft - Motivation und Teamfähigkeit Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für die Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-97CALKC40CWMLE4I-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d/x) für Hansgrohe",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-97CALKC40CWMLE4I-S",
+   "posted": "2026-11-12",
+   "desc": "Wir suchen zum nächstmöglichen Zeitpunkt motivierte Mitarbeiter (m/w/d/x) für unseren Kunden Hansgrohe in Elgersweier! Standort: Offenburg Anstellungsart(en): Vollzeit Ihre Aufgaben: - Vormontieren, Montieren und Verpacken von Teilprodukten/Produkten nach Stücklisten - Durchführen von Routineprüfungen (Sicht- und Funktionskontrolle) - Führen von Prozessdatenblättern Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Bereitschaft zur Arbeit in 2-Schicht - Qualitätsbewusstsein und Motivation Das können Sie erwarten: - Einen unbefristeten Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung (Einstiegslohn 15,82€) - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-N6JP0JY5UYNL2GZA-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d/x) Vollzeit Hansgrohe",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-N6JP0JY5UYNL2GZA-S",
+   "posted": "2026-11-12",
+   "desc": "Produktionshelfer (m/w/d/x) Vollzeit für Hansgrohe in Offenburg-Elgersweier Ihre Aufgaben: - Vormontieren, Montieren und Verpacken von Teilprodukten/Produkten nach Stücklisten - Durchführen von Routineprüfungen (Sicht- und Funktionskontrolle) - Führen von Prozessdatenblättern Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert aber keine Voraussetzung - Quereinsteiger (m/w/d/x) sind ebenfalls herzlich willkommen - Bereitschaft zur Arbeit in 2-Schicht - Qualitätsbewusstsein und Motivation Das können Sie erwarten: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-ZAZY054940G2BD6T-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter (m/w/d/x) Produktion",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-ZAZY054940G2BD6T-S",
+   "posted": "2026-11-12",
+   "desc": "Mitarbeiter (m/w/d/x) für die Produktion ab sofort in Vollzeit gesucht Das bieten wir: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Deine Aufgaben: - Zuhilfsarbeiten in der Produktion - Kontrolle von Bauteilen - Sauberhalten des Arbeitsplatzes Das bringst Du mit: - Idealerweise Berufserfahrung in der Produktion - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Qualitätsbewusstsein und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: - 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) - 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x) Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-T9MJRD5RURTDJWOD-S",
+   "src": "Jobbörse",
+   "title": "Quereinsteiger (m/w/d/x) Produktion",
+   "firma": "iperdi GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.461288252,
+   "lon": 7.924757749,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-T9MJRD5RURTDJWOD-S",
+   "posted": "2026-11-12",
+   "desc": "Wir suchen zum nächstmöglichen Zeitpunkt motivierte Mitarbeiter (m/w/d/x) ! Standort: Offenburg Anstellungsart(en): Vollzeit Tätigkeiten: - Zuhilfsarbeiten in der Produktion - Montieren von Kleinteilen - Verpackung Qualifikation: - Quereinsteiger (m/w/d/x) herzlich willkommen - Motivation und Lernbereitschaft - Führerschein und Auto von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung-auch außerhalb der Bürozeiten - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 13.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 48,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 1,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:47",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:47",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 51
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 62,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 36,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:34",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:34",
+        "min": 36
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "велосипед",
+      "min": 82,
+      "changes": 0,
+      "km": 20.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 82
+       }
+      ],
+      "risky": false,
+      "score": 144
+     }
+    ],
+    "best": "транспорт",
+    "min": 48,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-K2XV0J4O3W3RWGBN-S"
+   ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-CBRA1B4RFA991DID-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter (m/w/d/x) Vollzeit",
+   "firma": "iperdi GmbH",
+   "ort": "Oberkirch",
+   "street": "",
+   "lat": 48.520369076,
+   "lon": 8.068269202,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-CBRA1B4RFA991DID-S",
+   "posted": "2026-11-12",
+   "desc": "Produktionsmitarbeiter (m/w/d/x) Vollzeit Standort: Appenweier Anstellungsart(en): Vollzeit Arbeitszeit: 35 - 40 Stunden pro Woche Ihre Aufgaben: - Vormontieren und Montieren von Autoteilen nach Stücklisten - Sicht- und Funktionskontrolle - Dokumentation Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Qualitätsbewusstsein und Motivation Das können Sie erwarten: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Eine offene Unternehmenskultur mit hervorragendem Betriebsklima - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 1.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 11,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 11
+       }
+      ],
+      "risky": false,
+      "score": 11
+     },
+     {
+      "kind": "транспорт",
+      "min": 28,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 15,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:26",
+      "arr": "07:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:26",
+        "arr": "07:34",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": null,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:54",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 28
+     },
+     {
+      "kind": "пешком",
+      "min": 31,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 31
+       }
+      ],
+      "risky": false,
+      "score": 32
+     }
+    ],
+    "best": "велосипед",
+    "min": 11,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-9CBDFU11LLE7E6DN-S",
+   "src": "Jobbörse",
+   "title": "Helfer (m/w/d/x) Quereinsteiger",
+   "firma": "iperdi GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.461288252,
+   "lon": 7.924757749,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-9CBDFU11LLE7E6DN-S",
+   "posted": "2026-11-12",
+   "desc": "Helfer (m/w/d/x) für die Produktion in Offenburg und Umkreis ab sofort in Vollzeit für unsere namhaften Kunden gesucht! Standort: Offenburg Anstellungsart(en): Vollzeit Tätigkeiten: - Zuhilfsarbeiten in der Produktion - Montieren von Baugruppen - Qualitätskontrollen durchführen Anforderungen: - Quereinsteiger (m/w/d/x) herzlich willkommen - Motivation und Lernbereitschaft - Führerschein und Auto von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 13.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 48,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 1,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:47",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:47",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 51
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 62,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 36,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:34",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:34",
+        "min": 36
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "велосипед",
+      "min": 82,
+      "changes": 0,
+      "km": 20.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 82
+       }
+      ],
+      "risky": false,
+      "score": 144
+     }
+    ],
+    "best": "транспорт",
+    "min": 48,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-0UKQ0JU0DZAN3ZJ0-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter (m/w/d/x) Vollzeit +200€ Startbonus",
+   "firma": "iperdi GmbH",
+   "ort": "Oberkirch",
+   "street": "",
+   "lat": 48.520369076,
+   "lon": 8.068269202,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-0UKQ0JU0DZAN3ZJ0-S",
+   "posted": "2026-11-12",
+   "desc": "Produktionsmitarbeiter (m/w/d/x) Vollzeit +200€ Startbonus Das bieten wir: - Startbonus in Höhe von 200,- Euro - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Deine Aufgaben: - Vormontieren und Montieren von Autoteilen nach Stücklisten - Sicht- und Funktionskontrolle - Dokumentation Das bringst Du mit: - Idealerweise Berufserfahrung in der Produktion - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Qualitätsbewusstsein und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: - 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) - 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x) Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 1.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 11,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 11
+       }
+      ],
+      "risky": false,
+      "score": 11
+     },
+     {
+      "kind": "транспорт",
+      "min": 28,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 15,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:26",
+      "arr": "07:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:26",
+        "arr": "07:34",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": null,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:54",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 28
+     },
+     {
+      "kind": "пешком",
+      "min": 31,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 31
+       }
+      ],
+      "risky": false,
+      "score": 32
+     }
+    ],
+    "best": "велосипед",
+    "min": 11,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-3YFIHRBMNHNS02TX-S",
+   "src": "Jobbörse",
+   "title": "Montagehelfer (m/w/d/x)",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-3YFIHRBMNHNS02TX-S",
+   "posted": "2026-11-12",
+   "desc": "Montagehelfer (m/w/d/x) für den Standort Appenweier ab sofort gesucht! Ihre Aufgaben: - Montieren von Bauteilen gemäß Vorgabe - Sichtkontrolle - Verpacken von Fertigteilen Ihr Profil: - Erfahrung in der Produktion von Vorteil - Quereinsteiger (m/w/d/x) sind ebenfalls willkommen - Sorgfältige und genaue Arbeitsweise - Deutschkenntnisse Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse Unser Angebot:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_15518-82OTBTDE708Z7IVN-S",
    "src": "Jobbörse",
@@ -163,6 +1646,170 @@
    },
    "status": "open",
    "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-SUVPKSN35KFNZVBF-S",
+   "src": "Jobbörse",
+   "title": "Verpacker (m/w/d/x) Vollzeit",
+   "firma": "iperdi GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.461288252,
+   "lon": 7.924757749,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-SUVPKSN35KFNZVBF-S",
+   "posted": "2026-11-12",
+   "desc": "Verpacker (m/w/d/x) Vollzeit Standort: Offenburg Anstellungsart(en): Vollzeit Ihre Aufgaben: - Verpacken von Produkten nach Vorgabe - Endmontage von Bauteilen und Dokumentation - Durchführen von Sicht- und Funktionskontrolle Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert - Quereinsteiger (m/w/d/x) sind ebenfalls herzlich willkommen - 2-Schicht Bereitschaft - Zuverlässigkeit und Motivation Das können Sie erwarten: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 13.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 48,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 1,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:47",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:47",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 51
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 62,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 36,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:34",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:34",
+        "min": 36
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "велосипед",
+      "min": 82,
+      "changes": 0,
+      "km": 20.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 82
+       }
+      ],
+      "risky": false,
+      "score": 144
+     }
+    ],
+    "best": "транспорт",
+    "min": 48,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-ZP9CSWN65PK99Q27-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-M8H6X5JRHQO4Z99P-S"
+   ],
    "person": "Марина"
   },
   {
@@ -493,6 +2140,706 @@
     "best": "транспорт",
     "min": 66,
     "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-E0DOPP3IIDKR006I-S",
+   "src": "Jobbörse",
+   "title": "Kommissionierer (m/w/d/x)",
+   "firma": "iperdi GmbH",
+   "ort": "Oppenau",
+   "street": "",
+   "lat": 48.479055879,
+   "lon": 8.175704669,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-E0DOPP3IIDKR006I-S",
+   "posted": "2026-11-12",
+   "desc": "Kommissionierer (m/w/d/x) Standort: Oppenau Anstellungsart(en): Vollzeit Aufgaben: - Kommissionieren von Kundenaufträgen und Materialien - Verpacken und Bereitstellen von Waren - Waren auf Vollständigkeit und Schäden prüfen Anforderungen: - Berufserfahrung als Kommissionierer (m/w/d/x) - Erfahrung im Umgang mit einem Handscanner - Staplerschein von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Bezahlung von Fahrgeld - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 9.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Berufserfahrung als Kommissionierer (m/w/d/x)",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 6,
+      "end_stop": "Oppenau Oberes Stadttor",
+      "dep": "16:12",
+      "arr": "16:47",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Oppenau Oberes Stadttor",
+        "dep": "16:38",
+        "arr": "16:41",
+        "wait": 6,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oppenau Oberes Stadttor",
+        "to": "работа",
+        "dep": "16:41",
+        "arr": "16:47",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 38
+     },
+     {
+      "kind": "велосипед",
+      "min": 47,
+      "changes": 0,
+      "km": 11.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 47
+       }
+      ],
+      "risky": false,
+      "score": 74
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-H9F7W6BGA3VP5W8I-S",
+   "src": "Jobbörse",
+   "title": "Helfer Lager (m/w/d/x)",
+   "firma": "iperdi GmbH",
+   "ort": "Oberkirch",
+   "street": "",
+   "lat": 48.520369076,
+   "lon": 8.068269202,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-H9F7W6BGA3VP5W8I-S",
+   "posted": "2026-11-12",
+   "desc": "Helfer Lager (m/w/d/x) Standort: Oberkirch (Baden) Anstellungsart(en): Vollzeit Aufgaben: - Kommissionieren von Kundenaufträgen und Materialien - Verpacken und Bereitstellen von Waren - Waren auf Vollständigkeit und Schäden prüfen Anforderungen: - Berufserfahrung als Kommissionierer (m/w/d/x) - Erfahrung im Umgang mit einem Handscanner - Staplerschein von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 1.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Berufserfahrung als Kommissionierer (m/w/d/x)",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 11,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 11
+       }
+      ],
+      "risky": false,
+      "score": 11
+     },
+     {
+      "kind": "транспорт",
+      "min": 28,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 15,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:26",
+      "arr": "07:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:26",
+        "arr": "07:34",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": null,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:54",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 28
+     },
+     {
+      "kind": "пешком",
+      "min": 31,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 31
+       }
+      ],
+      "risky": false,
+      "score": 32
+     }
+    ],
+    "best": "велосипед",
+    "min": 11,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-R3GC1GU54808ZY8F-S",
+   "src": "Jobbörse",
+   "title": "Verpacker (m/w/d/x) Pharma",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-R3GC1GU54808ZY8F-S",
+   "posted": "2026-11-12",
+   "desc": "Verpacker (m/w/d/x) Pharma Standort: Appenweier Anstellungsart(en): Schicht, Vollzeit Ihr Aufgabenfeld: - Verpacken von Fertigprodukten - Kontrolle und Dokumentation der Qualität - Bedienung von Maschinen - Säubern des Arbeitsplatzes Fachliche Anforderungen: - Produktionserfahrung wünschenswert - Genauigkeit und Sorgfalt - 3-Schicht Bereitschaft - Gute Deutsch Kenntnisse Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutsch Kenntnisse Unser Angebot:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-0C3MPUXS1VDX62YT-S",
+   "src": "Jobbörse",
+   "title": "Helfer (m/w/d/x) +200€ Startbonus",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-0C3MPUXS1VDX62YT-S",
+   "posted": "2026-11-12",
+   "desc": "Helfer (m/w/d/x) ab sofort gesucht mit +200€ Startbonus! Das bieten wir: - Startbonus in Höhe von 200,- Euro - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Deine Aufgaben: - Auf- und Abstecken von Bauteilen - Qualitätskontrolle - Als Helfer (m/w/d/x) arbeitest Du im Team Das bringst Du mit: - Bereitschaft zur 3-Schicht - Grundlegende Deutsch-Kenntnisse - Sorgfalt und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: - 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) - 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x) Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutsch-Kenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15518-D9UFG56NOB3SA9DV-S",
+   "src": "Jobbörse",
+   "title": "Quereinsteiger (m/w/d/x) Lager",
+   "firma": "iperdi GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.461288252,
+   "lon": 7.924757749,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-D9UFG56NOB3SA9DV-S",
+   "posted": "2026-11-12",
+   "desc": "Quereinsteiger (m/w/d/x) Lager Standort: Offenburg Anstellungsart(en): Vollzeit Tätigkeiten: - Zuhilfsarbeiten im Lager - Kommissionieren - Verpackung Qualifikation: - Quereinsteiger (m/w/d/x) herzlich willkommen - Motivation und Lernbereitschaft - Führerschein und Auto von Vorteil aber nicht zwingend notwendig Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 13.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 48,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 1,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:47",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:47",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 51
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 62,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 36,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:34",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:34",
+        "min": 36
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "велосипед",
+      "min": 82,
+      "changes": 0,
+      "km": 20.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 82
+       }
+      ],
+      "risky": false,
+      "score": 144
+     }
+    ],
+    "best": "транспорт",
+    "min": 48,
+    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -9121,189 +11468,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-CW334NWYVQV8S81W-S",
-   "src": "Jobbörse",
-   "title": "Betonfertigteilbauer - Maurer Sonderanfertigung (m/w/d)",
-   "firma": "iperdi GmbH",
-   "ort": "Bühl",
-   "street": "",
-   "lat": 48.691287219,
-   "lon": 8.151568768,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-CW334NWYVQV8S81W-S",
-   "posted": "2026-11-08",
-   "desc": "Iperdi GmbH iperdi ist ein mittelständisches Unternehmen für Personaldienstleistungen in Familien- bzw. Privatbesitz. Über 2.500 Firmenkunden aus vielen Branchen vertrauen uns als erfahrenen Spezialisten für Personalleasing, Personalvermittlung und individuelle Personalkonzepte sowie für In-House-Services. Mit über 3.000 externen vielseitig qualifizierten Kolleginnen und Kollegen in Deutschland sind wir jederzeit Ihr zuverlässiger Partner für alle Personalfragen. Betonfertigteilbauer - Maurer Sonderanfertigung (m/w/d) Standort: Bühl Anstellungsart(en): Vollzeit Zweck und Ziel der Stelle Bei uns stehst du im Vordergrund, und ein ganzes Team hinter dir: Denn Respekt, gegenseitige Wertschätzung und Unterstützung sind für uns das Wichtigste – egal, in welcher Position du bei uns arbeitest. Du hast Lust auf Veränderungen und abwechslungsreiche Aufgaben? Aufgaben: - eigenständiger Aufbau und Erstellung von Schalungen nach vorgegebenen Bauplänen - Einmessung und Einbau von Einbauteilen, Transportmaterial und Bewehrung - selbstständige Betonage der Fertigteile und anschließende Verarbeitung zu einem fertigen Produkt unter Einhaltung vorgegebener Liefertermine - Lesen von Plänen und Zeichnungen - Abstimmung von Arbeitsabläufen und gegenseitige Unterstützung mit den Kollegen - durch die verschiedenen Arbeitsabläufe veredelst du die Rohstoffe und Materialien zu einem wertigen Produkt Voraussetzung: eine abgeschlossene Berufsausbildung im Baugewerbe oder eine vergleichbare Qualifikation technisches Verständnis und handwerkliches Geschick mehrjährige Berufserfahrung im Baugewerbe erwünscht lesen von Bauplänen räumliches Vorstellungsvermögen sorgfältige und teamorientierte Arbeitsweise Verantwortungsbewusstsein und selbstständiges Arbeiten Benefits: - Mitarbeiterrabatte durch Corporate Benefits bei 1500 Shops (z.B. About You, Apple, Boss, HP, Samsung u.v.m) - Sicherheit durch einen unbefristeten Arbeitsvertrag bei einem der TOP-Personaldienstleister in Deutschland (FOCUS SPEZIAL und LÜNENDONK®-LISTE) - Abschlagzahlungen (wenn gewünscht) - Langfristiger Einsatz bei renommierten Kunden - Viele Zusatzleistungen wie Urlaubs- und Weihnachtsgeld, Leistungszulagen und Prämien durch JOB'N CASH-Programm - Zukunftssicherheit durch mögliche Übernahme in den Kundenbetrieb Ständig vergeben wir Jobs in Vollzeit, auch für Berufs- und Quereinsteiger: Staplerfahrer, Helfer oder Fachhelfer in Produktion – Lager – Metall - Elektro - Montage - Verpackung - Logistik. Sicher Dir unsere Prämie, wenn Du aus Freundes- oder Bekanntenkreis eine Jobempfehlung gibst. Kontaktdaten für Stellenanzeige: Dein Ansprechpartner Herr Patrick Kiefer freut sich - auf Deinen Anruf unter der 07222 - 9311260 - auf eine Whatsapp Nachricht an +49159 0409 5809 - auf Deine E-Mail an kuppenheim@iperdi.de - oder auf Deinen spontanen Besuch in der Neufeldstr. 6, 76456 Kuppenheim Wir reagieren innerhalb 24 Stunden nach Eingang Deiner Bewerbung!",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 18.4,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "n Produkt Voraussetzung: eine abgeschlossene Berufsausbildung im Baugewerbe oder eine vergleichbare Qualifikation technis",
-   "prof": true,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-08T14:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 27,
-      "end_stop": "Bühl (Baden)",
-      "dep": "06:32",
-      "arr": "07:43",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "07:17",
-        "arr": "07:43",
-        "min": 27
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 74
-     },
-     {
-      "kind": "как в приложении",
-      "min": 72,
-      "changes": 2,
-      "min_wait": 9,
-      "walk_end": 11,
-      "end_stop": "Kappelwindeck Bachschlossschule",
-      "dep": "06:32",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "268",
-        "from": "Bühl (Baden)",
-        "to": "Kappelwindeck Bachschlossschule",
-        "dep": "07:26",
-        "arr": "07:34",
-        "wait": 9,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelwindeck Bachschlossschule",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:45",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 78
-     },
-     {
-      "kind": "велосипед",
-      "min": 93,
-      "changes": 0,
-      "km": 22.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 93
-       }
-      ],
-      "risky": false,
-      "score": 166
-     }
-    ],
-    "best": "транспорт",
-    "min": 71,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_15518-DNSHGMQKXROB6P7K-S",
    "src": "Jobbörse",
    "title": "Produktionsmitarbeiter (m/w/d)",
@@ -9943,168 +12107,6 @@
     "best": "транспорт",
     "min": 190,
     "changes": 3
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3534437734",
-   "src": "Kleinanzeigen",
-   "title": "Minijob in Freiburg Sankt Georgen m/w/d",
-   "firma": "tuncel GebäudeService GmbH",
-   "ort": "Offenburg",
-   "plz": "77656",
-   "street": "",
-   "lat": 48.4594035,
-   "lon": 7.9234795,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/minijob-in-freiburg-sankt-georgen-m-w-d/3534437734-107-9039",
-   "posted": "2026-11-07",
-   "posted_time": "17:08",
-   "desc": "Wir suchen zum nächstmöglichen Zeitpunkt eine Reinigungskraft für ein Objekt in Freiburg Sankt Georgen. Arbeitszeiten sind Montag und Donnerstag (oder 2x nach Vereinbarung) jeweils 2,5 Stunden ab 08:00 Uhr. Wir zahlen Tariflohn von 15€ / h. Gerne geben wir auch branchenfremden eine Chance. Wir freuen uns auf Ihre Bewerbung. Weitere Details besprechen wir in einem gemeinsamen Termin.",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 14.1,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 50,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 4,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:49",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:49",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 53
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 65,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 39,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:38",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:38",
-        "min": 39
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 65
-     },
-     {
-      "kind": "велосипед",
-      "min": 83,
-      "changes": 0,
-      "km": 20.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 83
-       }
-      ],
-      "risky": false,
-      "score": 146
-     }
-    ],
-    "best": "транспорт",
-    "min": 50,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -17001,9 +19003,7 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002991215-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1779-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1775-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1762-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1723-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1744-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-981903908-S",
@@ -25487,9 +27487,6 @@
    "ru": "",
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-WHCLSQIBXAIG4NHH-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-HVKVV1OEB5VV0JF8-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-FAUYY3ZVU6D6V89F-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-PKP4L27LH6QOMSSP-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-X0QGTSUR47OLAXL7-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-DQL7X9RRI95EQLV8-S"
@@ -30470,158 +32467,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-YVAO3KYK5HUU9PJ9-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d)",
-   "firma": "iperdi GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-YVAO3KYK5HUU9PJ9-S",
-   "posted": "2026-10-13",
-   "desc": "Produktionshelfer (m/w/d/x) ab sofort gesucht! Standort: Offenburg Anstellungsart(en): Vollzeit Arbeitszeit: 37,5 Stunden pro Woche Ihre Aufgaben: - Verpacken von Produkten - Qualitätskontrolle - Verladen von Paketen Anforderungen: - Erfahrung in der Produktion ist wünschenswert - 2-Schicht Bereitschaft - Motivation und Teamfähigkeit Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für die Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-2FAK4D21C52BWOS5-S"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10001-1002847089-S",
    "src": "Jobbörse",
    "title": "Produktionshelfer (m/w/d)",
@@ -33836,158 +35681,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-O0O2H7JIY9YUDIJK-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d/x) für Hansgrohe",
-   "firma": "iperdi GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-O0O2H7JIY9YUDIJK-S",
-   "posted": "2026-10-13",
-   "desc": "Wir suchen zum nächstmöglichen Zeitpunkt motivierte Mitarbeiter (m/w/d/x) für unseren Kunden Hansgrohe in Elgersweier! Standort: Offenburg Anstellungsart(en): Vollzeit Ihre Aufgaben: - Vormontieren, Montieren und Verpacken von Teilprodukten/Produkten nach Stücklisten - Durchführen von Routineprüfungen (Sicht- und Funktionskontrolle) - Führen von Prozessdatenblättern Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Bereitschaft zur Arbeit in 2-Schicht - Qualitätsbewusstsein und Motivation Das können Sie erwarten: - Einen unbefristeten Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung (Einstiegslohn 15,82€) - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-97CALKC40CWMLE4I-S"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_11119-4973609842-S",
    "src": "Jobbörse",
    "title": "Produktionshelfer (m/w/d) in 2-Schicht",
@@ -35181,158 +36874,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-0PHSZXW90NXMIHPL-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d/x) Vollzeit Hansgrohe",
-   "firma": "iperdi GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-0PHSZXW90NXMIHPL-S",
-   "posted": "2026-10-13",
-   "desc": "Produktionshelfer (m/w/d/x) Vollzeit für Hansgrohe in Offenburg-Elgersweier Ihre Aufgaben: - Vormontieren, Montieren und Verpacken von Teilprodukten/Produkten nach Stücklisten - Durchführen von Routineprüfungen (Sicht- und Funktionskontrolle) - Führen von Prozessdatenblättern Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert aber keine Voraussetzung - Quereinsteiger (m/w/d/x) sind ebenfalls herzlich willkommen - Bereitschaft zur Arbeit in 2-Schicht - Qualitätsbewusstsein und Motivation Das können Sie erwarten: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-N6JP0JY5UYNL2GZA-S"
-   ],
    "person": "Марина"
   },
   {
@@ -38850,158 +40391,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-UX3ZF3N0Y4IO3NX6-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter (m/w/d/x) Produktion",
-   "firma": "iperdi GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-UX3ZF3N0Y4IO3NX6-S",
-   "posted": "2026-10-13",
-   "desc": "Mitarbeiter (m/w/d/x) für die Produktion ab sofort in Vollzeit gesucht Das bieten wir: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Deine Aufgaben: - Zuhilfsarbeiten in der Produktion - Kontrolle von Bauteilen - Sauberhalten des Arbeitsplatzes Das bringst Du mit: - Idealerweise Berufserfahrung in der Produktion - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Qualitätsbewusstsein und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: - 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) - 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x) Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-ZAZY054940G2BD6T-S"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_12513-0007660696-S",
    "src": "Jobbörse",
    "title": "Kurzbewerbung für die Produktion",
@@ -39400,171 +40789,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-HQJL65FL6FBFBIKD-S",
-   "src": "Jobbörse",
-   "title": "Quereinsteiger (m/w/d/x) Produktion",
-   "firma": "iperdi GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.461288252,
-   "lon": 7.924757749,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-HQJL65FL6FBFBIKD-S",
-   "posted": "2026-10-13",
-   "desc": "Quereinsteiger (m/w/d/x) Produktion Standort: Offenburg Anstellungsart(en): Vollzeit Deine Aufgaben: - Zuhilfsarbeiten in der Produktion - Montieren von Kleinteilen - Verpackung Deine Qualifikation: - Du bist bereit für einen neuen Berufsweg - Motivation und Lernbereitschaft - Führerschein und Auto von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung-auch außerhalb der Bürozeiten - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 13.9,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 48,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 1,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:47",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 62,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 36,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:34",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:34",
-        "min": 36
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "велосипед",
-      "min": 82,
-      "changes": 0,
-      "km": 20.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 82
-       }
-      ],
-      "risky": false,
-      "score": 144
-     }
-    ],
-    "best": "транспорт",
-    "min": 48,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-L972C9GROQWH529L-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-T9MJRD5RURTDJWOD-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-K2XV0J4O3W3RWGBN-S"
-   ],
    "person": "Марина"
   },
   {
@@ -40545,295 +41769,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-KVOCUID01R63MCD9-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d/x) Vollzeit",
-   "firma": "iperdi GmbH",
-   "ort": "Oberkirch",
-   "street": "",
-   "lat": 48.520369076,
-   "lon": 8.068269202,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-KVOCUID01R63MCD9-S",
-   "posted": "2026-10-13",
-   "desc": "Produktionsmitarbeiter (m/w/d/x) Vollzeit Standort: Appenweier Anstellungsart(en): Vollzeit Arbeitszeit: 35 - 40 Stunden pro Woche Ihre Aufgaben: - Vormontieren und Montieren von Autoteilen nach Stücklisten - Sicht- und Funktionskontrolle - Dokumentation Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Qualitätsbewusstsein und Motivation Das können Sie erwarten: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Eine offene Unternehmenskultur mit hervorragendem Betriebsklima - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 1.6,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 11,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 11
-       }
-      ],
-      "risky": false,
-      "score": 11
-     },
-     {
-      "kind": "транспорт",
-      "min": 28,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 15,
-      "end_stop": "Oberkirch H.-Furler-Gymnasium",
-      "dep": "07:26",
-      "arr": "07:54",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:26",
-        "arr": "07:34",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Oberkirch H.-Furler-Gymnasium",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": null,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oberkirch H.-Furler-Gymnasium",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:54",
-        "min": 15
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 28
-     },
-     {
-      "kind": "пешком",
-      "min": 31,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 31
-       }
-      ],
-      "risky": false,
-      "score": 32
-     }
-    ],
-    "best": "велосипед",
-    "min": 11,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-CBRA1B4RFA991DID-S"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-3YO4X5N5Q8GZFREJ-S",
-   "src": "Jobbörse",
-   "title": "Helfer (m/w/d/x) Quereinsteiger",
-   "firma": "iperdi GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.461288252,
-   "lon": 7.924757749,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-3YO4X5N5Q8GZFREJ-S",
-   "posted": "2026-10-13",
-   "desc": "Helfer (m/w/d/x) für die Produktion in Offenburg und Umkreis ab sofort in Vollzeit für unsere namhaften Kunden gesucht! Standort: Offenburg Anstellungsart(en): Vollzeit Tätigkeiten: - Zuhilfsarbeiten in der Produktion - Montieren von Baugruppen - Qualitätskontrollen durchführen Anforderungen: - Quereinsteiger (m/w/d/x) herzlich willkommen - Motivation und Lernbereitschaft - Führerschein und Auto von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 13.9,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 48,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 1,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:47",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 62,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 36,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:34",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:34",
-        "min": 36
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "велосипед",
-      "min": 82,
-      "changes": 0,
-      "km": 20.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 82
-       }
-      ],
-      "risky": false,
-      "score": 144
-     }
-    ],
-    "best": "транспорт",
-    "min": 48,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-9CBDFU11LLE7E6DN-S"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10001-1001743877-S",
    "src": "Jobbörse",
    "title": "Produktions-Technik-Helfer (m/w/d)",
@@ -41230,132 +42165,6 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003797083-S"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-F50N88IRWS6M9BQ1-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d/x) Vollzeit +200€ Startbonus",
-   "firma": "iperdi GmbH",
-   "ort": "Oberkirch",
-   "street": "",
-   "lat": 48.520369076,
-   "lon": 8.068269202,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-F50N88IRWS6M9BQ1-S",
-   "posted": "2026-10-13",
-   "desc": "Produktionsmitarbeiter (m/w/d/x) Vollzeit +200€ Startbonus Das bieten wir: - Startbonus in Höhe von 200,- Euro - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Deine Aufgaben: - Vormontieren und Montieren von Autoteilen nach Stücklisten - Sicht- und Funktionskontrolle - Dokumentation Das bringst Du mit: - Idealerweise Berufserfahrung in der Produktion - Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen - Qualitätsbewusstsein und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: - 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) - 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x) Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 1.6,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 11,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 11
-       }
-      ],
-      "risky": false,
-      "score": 11
-     },
-     {
-      "kind": "транспорт",
-      "min": 28,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 15,
-      "end_stop": "Oberkirch H.-Furler-Gymnasium",
-      "dep": "07:26",
-      "arr": "07:54",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:26",
-        "arr": "07:34",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Oberkirch H.-Furler-Gymnasium",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": null,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oberkirch H.-Furler-Gymnasium",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:54",
-        "min": 15
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 28
-     },
-     {
-      "kind": "пешком",
-      "min": 31,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 31
-       }
-      ],
-      "risky": false,
-      "score": 32
-     }
-    ],
-    "best": "велосипед",
-    "min": 11,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-0UKQ0JU0DZAN3ZJ0-S"
    ],
    "person": "Марина"
   },
@@ -42020,7 +42829,6 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37600C47-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43231C34-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105550A48439C15-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A49639C4-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35999C48-S",
@@ -43142,158 +43950,6 @@
    "ru": "",
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-FO58YPZGY19WZXEL-S",
-   "src": "Jobbörse",
-   "title": "Montagehelfer (m/w/d/x)",
-   "firma": "iperdi GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-FO58YPZGY19WZXEL-S",
-   "posted": "2026-10-13",
-   "desc": "Montagehelfer (m/w/d/x) für den Standort Appenweier ab sofort gesucht! Ihre Aufgaben: - Montieren von Bauteilen gemäß Vorgabe - Sichtkontrolle - Verpacken von Fertigteilen Ihr Profil: - Erfahrung in der Produktion von Vorteil - Quereinsteiger (m/w/d/x) sind ebenfalls willkommen - Sorgfältige und genaue Arbeitsweise - Deutschkenntnisse Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "немного",
-   "de_txt": "Deutschkenntnisse Unser Angebot:",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-3YFIHRBMNHNS02TX-S"
-   ],
    "person": "Марина"
   },
   {
@@ -47600,7 +48256,8 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970841916-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393476-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393476-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973505627-S"
    ],
    "person": "Марина"
   },
@@ -49355,123 +50012,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-B9C325RHW7LZTROS-S",
-   "src": "Jobbörse",
-   "title": "Kommissionierer (m/w/d/x)",
-   "firma": "iperdi GmbH",
-   "ort": "Oppenau",
-   "street": "",
-   "lat": 48.479055879,
-   "lon": 8.175704669,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-B9C325RHW7LZTROS-S",
-   "posted": "2026-10-13",
-   "desc": "Kommissionierer (m/w/d/x) Standort: Oppenau Anstellungsart(en): Vollzeit Aufgaben: - Kommissionieren von Kundenaufträgen und Materialien - Verpacken und Bereitstellen von Waren - Waren auf Vollständigkeit und Schäden prüfen Anforderungen: - Berufserfahrung als Kommissionierer (m/w/d/x) - Erfahrung im Umgang mit einem Handscanner - Staplerschein von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Bezahlung von Fahrgeld - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 9.0,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 35,
-      "changes": 1,
-      "min_wait": 6,
-      "walk_end": 6,
-      "end_stop": "Oppenau Oberes Stadttor",
-      "dep": "16:12",
-      "arr": "16:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "16:12",
-        "arr": "16:19",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Oppenau",
-        "dep": "16:19",
-        "arr": "16:32",
-        "wait": null,
-        "min": 13
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "425",
-        "from": "Oppenau",
-        "to": "Oppenau Oberes Stadttor",
-        "dep": "16:38",
-        "arr": "16:41",
-        "wait": 6,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oppenau Oberes Stadttor",
-        "to": "работа",
-        "dep": "16:41",
-        "arr": "16:47",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 38
-     },
-     {
-      "kind": "велосипед",
-      "min": 47,
-      "changes": 0,
-      "km": 11.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 47
-       }
-      ],
-      "risky": false,
-      "score": 74
-     }
-    ],
-    "best": "транспорт",
-    "min": 35,
-    "changes": 1
-   },
-   "prof": true,
-   "prof_txt": "Berufserfahrung als Kommissionierer (m/w/d/x)",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-E0DOPP3IIDKR006I-S"
-   ],
    "person": "Марина"
   },
   {
@@ -51664,132 +52204,6 @@
    "ru": "",
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-KFFL6YU5C5BHGSZ5-S",
-   "src": "Jobbörse",
-   "title": "Helfer Lager (m/w/d/x)",
-   "firma": "iperdi GmbH",
-   "ort": "Oberkirch",
-   "street": "",
-   "lat": 48.520369076,
-   "lon": 8.068269202,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-KFFL6YU5C5BHGSZ5-S",
-   "posted": "2026-10-13",
-   "desc": "Helfer Lager (m/w/d/x) Standort: Oberkirch (Baden) Anstellungsart(en): Vollzeit Aufgaben: - Kommissionieren von Kundenaufträgen und Materialien - Verpacken und Bereitstellen von Waren - Waren auf Vollständigkeit und Schäden prüfen Anforderungen: - Berufserfahrung als Kommissionierer (m/w/d/x) - Erfahrung im Umgang mit einem Handscanner - Staplerschein von Vorteil Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 1.6,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 11,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 11
-       }
-      ],
-      "risky": false,
-      "score": 11
-     },
-     {
-      "kind": "транспорт",
-      "min": 28,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 15,
-      "end_stop": "Oberkirch H.-Furler-Gymnasium",
-      "dep": "07:26",
-      "arr": "07:54",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:26",
-        "arr": "07:34",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Oberkirch H.-Furler-Gymnasium",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": null,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oberkirch H.-Furler-Gymnasium",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:54",
-        "min": 15
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 28
-     },
-     {
-      "kind": "пешком",
-      "min": 31,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 31
-       }
-      ],
-      "risky": false,
-      "score": 32
-     }
-    ],
-    "best": "велосипед",
-    "min": 11,
-    "changes": 0
-   },
-   "prof": true,
-   "prof_txt": "Berufserfahrung als Kommissionierer (m/w/d/x)",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-H9F7W6BGA3VP5W8I-S"
-   ],
    "person": "Марина"
   },
   {
@@ -55549,7 +55963,6 @@
    "ru": "",
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-552SAQPK2P2HPCJ5-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-7BYIQ9JELDAZJNDO-S"
    ],
    "person": "Марина"
@@ -56266,158 +56679,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-DS5ZB45Z66BQF7OB-S",
-   "src": "Jobbörse",
-   "title": "Verpacker (m/w/d/x) Pharma",
-   "firma": "iperdi GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-DS5ZB45Z66BQF7OB-S",
-   "posted": "2026-10-13",
-   "desc": "Verpacker (m/w/d/x) Pharma Standort: Appenweier Anstellungsart(en): Schicht, Vollzeit Ihr Aufgabenfeld: - Verpacken von Fertigprodukten - Kontrolle und Dokumentation der Qualität - Bedienung von Maschinen - Säubern des Arbeitsplatzes Fachliche Anforderungen: - Produktionserfahrung wünschenswert - Genauigkeit und Sorgfalt - 3-Schicht Bereitschaft - Gute Deutsch Kenntnisse Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "нужен",
-   "de_txt": "Gute Deutsch Kenntnisse Unser Angebot:",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-R3GC1GU54808ZY8F-S"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_14471-3VPNF4X5T2JTGBU1-S",
    "src": "Jobbörse",
    "title": "Mitarbeiter (m/w/d) für Vormontage und Verpacken",
@@ -56601,158 +56862,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-8AHJIVTINRAAE840-S",
-   "src": "Jobbörse",
-   "title": "Helfer (m/w/d/x) +200€ Startbonus",
-   "firma": "iperdi GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-8AHJIVTINRAAE840-S",
-   "posted": "2026-10-13",
-   "desc": "Helfer (m/w/d/x) ab sofort gesucht mit +200€ Startbonus! Das bieten wir: - Startbonus in Höhe von 200,- Euro - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Deine Aufgaben: - Auf- und Abstecken von Bauteilen - Qualitätskontrolle - Als Helfer (m/w/d/x) arbeitest Du im Team Das bringst Du mit: - Bereitschaft zur 3-Schicht - Grundlegende Deutsch-Kenntnisse - Sorgfalt und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: - 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) - 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x) Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "немного",
-   "de_txt": "Grundlegende Deutsch-Kenntnisse",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-0C3MPUXS1VDX62YT-S"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10001-1003324069-S",
    "src": "Jobbörse",
    "title": "Verpacker (m,w,d )",
@@ -56911,173 +57020,6 @@
    "ru": "",
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-VBGN1V1NI81YOVKB-S",
-   "src": "Jobbörse",
-   "title": "Verpacker (m/w/d/x) Vollzeit",
-   "firma": "iperdi GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.461288252,
-   "lon": 7.924757749,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-VBGN1V1NI81YOVKB-S",
-   "posted": "2026-10-13",
-   "desc": "Verpacker (m/w/d/x) Vollzeit Standort: Offenburg Anstellungsart(en): Vollzeit Ihre Aufgaben: - Verpacken von Produkten nach Vorgabe - Endmontage von Bauteilen und Dokumentation - Durchführen von Sicht- und Funktionskontrolle Das bringen Sie mit: - Berufserfahrung in der Produktion ist wünschenswert - Quereinsteiger (m/w/d/x) sind ebenfalls herzlich willkommen - 2-Schicht Bereitschaft - Zuverlässigkeit und Motivation Das können Sie erwarten: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 13.9,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 48,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 1,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:47",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 62,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 36,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:34",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:34",
-        "min": 36
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "велосипед",
-      "min": 82,
-      "changes": 0,
-      "km": 20.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 82
-       }
-      ],
-      "risky": false,
-      "score": 144
-     }
-    ],
-    "best": "транспорт",
-    "min": 48,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-SRNLIKYWI8BS27CG-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-OLWKEFG0TT8R7A7U-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-SUVPKSN35KFNZVBF-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-ZP9CSWN65PK99Q27-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-M8H6X5JRHQO4Z99P-S"
-   ],
    "person": "Марина"
   },
   {
@@ -57836,169 +57778,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15518-MZVK286MZT2YGW2P-S",
-   "src": "Jobbörse",
-   "title": "Quereinsteiger (m/w/d/x) Lager",
-   "firma": "iperdi GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.461288252,
-   "lon": 7.924757749,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-MZVK286MZT2YGW2P-S",
-   "posted": "2026-10-13",
-   "desc": "Quereinsteiger (m/w/d/x) Lager Standort: Offenburg Anstellungsart(en): Vollzeit Tätigkeiten: - Zuhilfsarbeiten im Lager - Kommissionieren - Verpackung Qualifikation: - Quereinsteiger (m/w/d/x) herzlich willkommen - Motivation und Lernbereitschaft - Führerschein und Auto von Vorteil aber nicht zwingend notwendig Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 13.9,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 48,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 1,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:47",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 62,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 36,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:34",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:34",
-        "min": 36
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "велосипед",
-      "min": 82,
-      "changes": 0,
-      "km": 20.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 82
-       }
-      ],
-      "risky": false,
-      "score": 144
-     }
-    ],
-    "best": "транспорт",
-    "min": 48,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-D9UFG56NOB3SA9DV-S"
-   ],
    "person": "Марина"
   },
   {
