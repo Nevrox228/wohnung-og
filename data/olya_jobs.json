@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-12T20:10",
+ "generated": "2026-11-12T20:59",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 48,
+ "count": 47,
  "items": [
   {
    "id": "ba_16262-0068715203-S",
@@ -25,28 +25,6 @@
    "kind": "Общее / другое",
    "ausb": false,
    "first_seen": "2026-11-12T16:40",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4462605353",
-   "src": "LinkedIn",
-   "title": "Sozialpädagogen (gn) Familienprojekt",
-   "firma": "Ohlebusch Baden-Baden GmbH",
-   "ort": "Offenburg",
-   "plz": "",
-   "street": "",
-   "lat": 48.4695984,
-   "lon": 7.9429235,
-   "url": "https://de.linkedin.com/jobs/view/4462605353",
-   "posted": "2026-08-11",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 0.8,
-   "kind": "Общее / другое",
-   "ausb": false,
-   "first_seen": "2026-11-12T14:38",
    "status": "open",
    "also_urls": []
   },

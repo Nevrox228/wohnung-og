@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-12T20:10",
+ "generated": "2026-11-12T20:59",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 419,
+ "count": 415,
  "items": [
   {
    "id": "marina:ba_10001-1004008287-S",
@@ -310,6 +310,179 @@
     "best": "транспорт",
     "min": 34,
     "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569594177",
+   "src": "Kleinanzeigen",
+   "title": "Zeitungszusteller (w/m/d) in Teilzeit oder als Minijob",
+   "firma": "Smash Jobs",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "",
+   "lat": 48.3785759,
+   "lon": 7.8951348,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3569594177-247-8045",
+   "posted": "2026-11-12",
+   "posted_time": "19:52",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/x1bkwilh_nVv Auch Quereinsteiger ohne Zustell-Erfahrung sind bei uns herzlich willkommen! Aufgaben - Du arbeitest täglich von Montag bis Samstag in den frühen Morgenstunden, jeweils bis 6 Uhr - Nach einer Einarbeitungsphase übernimmst Du selbstständig und eigenverantwortlich Deine eigene Tour Dein Profil - Du bist zuverlässig, motiviert und pünktlich - Ein Fahrzeug ist von Vorteil, aber nicht Voraussetzung (Fahrtkostenerstattung) - Aufgrund des Jugendschutzgesetzes können wir keine Bewerbungen seitens Minderjähriger berücksichtigen Deine Vorteile - Einsatz in Wohnortnähe ohne langen Anfahrtsweg - Geregelte Arbeitszeiten, verschiedene Arbeitszeitmodelle möglich, ideal auch als Nebenverdienst zum Hauptjob oder zur Rente - Attraktive Zusatzleistungen - Lohnfortzahlung bei Krankheit und Urlaub Interessiert? Wir freuen uns auf Deine Bewerbung. Bei Fragen steht Dir unser Recruiting-Team gerne zur Verfügung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/x1bkwilh_nVv",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 21.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-12T19:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 99,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Oberweier Litzengrund",
+      "dep": "06:32",
+      "arr": "08:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "104",
+        "from": "Lahr (Schwarzw)",
+        "to": "Oberweier Litzengrund",
+        "dep": "07:38",
+        "arr": "08:06",
+        "wait": 22,
+        "min": 28
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberweier Litzengrund",
+        "to": "работа",
+        "dep": "08:06",
+        "arr": "08:12",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 105
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 214,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 188,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:07",
+        "min": 188
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 214
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 32.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     }
+    ],
+    "best": "транспорт",
+    "min": 99,
+    "changes": 2
    },
    "status": "open",
    "also_urls": [],
@@ -4669,6 +4842,169 @@
    },
    "status": "open",
    "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_15937-k55805.127842-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter (m/w/d) Kommissionierung von Autoteilen",
+   "firma": "Neo Temp GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.496649515,
+   "lon": 7.936409392,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15937-k55805.127842-S",
+   "posted": "2026-11-12",
+   "desc": "Wir suchen # Mitarbeiter (m/w/d) Kommissionierung von Autoteilen Offenburg Vollzeit Mitarbeiter (m/w/d) Kommissionierung von Autoteilen in Offenburg Für unseren Kunden am Standort Offenburg suchen wir ab sofort einen engagierten Mitarbeiter (m/w/d) für die Kommissionierung von Autoteilen. Es erwartet Sie eine abwechslungsreiche Tätigkeit in einem modernen Logistikunternehmen mit langfristiger Perspektive. # Ihr zukünftiges Aufgabengebiet: - Kommissionierung von Autoteilen nach Vorgabe - Bedienung eines Handscanners zur Erfassung und Kontrolle von Warenbewegungen - Verpackung, Etikettierung und Versandvorbereitung der Teile - Unterstützung bei allgemeinen Lager- und Versandtätigkeiten # Ihr Profil für die Stelle Mitarbeiter (m/w/d) Kommissionierung von Autoteilen: - Berufserfahrung im Lager- oder Logistikbereich von Vorteil - Erfahrung im Umgang mit dem Handscanner - Zuverlässige, gewissenhafte und teamorientierte Arbeitsweise - Körperliche Belastbarkeit und Bereitschaft zur 2 - Schichtarbeit von Montag - Freitag - (FD 6:00 - 14:00, SD 14:00 - 22:00) - Gute Deutschkenntnisse in Wort und Schrift # Unser Angebot für Sie: - Unbefristete Festanstellung im Rahmen der Arbeitnehmerüberlassung in Münster - Leistungsgerechte Vergütung ab 15,67 €/h gemäß Qualifikation und Erfahrung - Urlaubs- und Weihnachtsgeld gemäß Tarifvertrag - Persönliche Betreuung durch unser Team # Interessiert an der Position Mitarbeiter (m/w/d) Kommissionierung von Autoteilen? So geht es weiter! Sie können über den untenstehenden Button Ihre Bewerbung für die Position als Mitarbeiter (m/w/d) Kommissionierung von Autoteilen direkt an uns absenden. Alternativ senden Sie uns Ihre Bewerbungsunterlagen direkt per E-Mail oder rufen uns an: [bewerbung.osnabrueck@neo-temp.de](mailto:bewerbung.osnabrueck@neo-temp.de?subject=Meine%20Bewerbung%20) 0541 998 961 21 WhatsApp: 0151 65729325",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 11.4,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-11T20:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 45,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 5,
+      "end_stop": "Bühl Talackerweg",
+      "dep": "06:59",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Bühl Talackerweg",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": 8,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl Talackerweg",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:45",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 48
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 66,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 40,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:27",
+        "min": 40
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 66
+     },
+     {
+      "kind": "велосипед",
+      "min": 64,
+      "changes": 0,
+      "km": 15.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 64
+       }
+      ],
+      "risky": false,
+      "score": 108
+     }
+    ],
+    "best": "транспорт",
+    "min": 45,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-m-w-d-kommissionierung-von-autoteilen/3458648307-247-9040"
+   ],
    "person": "Марина"
   },
   {
@@ -10922,182 +11258,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ka_3566544963",
-   "src": "Kleinanzeigen",
-   "title": "Zeitungszusteller (w/m/d) in Teilzeit oder als Minijob",
-   "firma": "Smash Jobs",
-   "ort": "Meißenheim",
-   "plz": "77974",
-   "street": "",
-   "lat": 48.4041504,
-   "lon": 7.7905411,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3566544963-247-8043",
-   "posted": "2026-11-09",
-   "posted_time": "13:15",
-   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/9F7Mjn4KD97_ Auch Quereinsteiger ohne Zustell-Erfahrung sind bei uns herzlich willkommen! Das bieten wir Dir: - Einsatz in Wohnortnähe ohne langen Anfahrtsweg - geregelte Arbeitszeiten - verschiedene Arbeitszeitmodelle möglich, ideal auch als Nebenverdienst zum Hauptjob oder zur Rente - attraktive Zusatzleistungen - Lohnfortzahlung bei Krankheit und Urlaub Das sind Deine Hauptaufgaben: - Du arbeitest täglich von Montag bis Samstag in den frühen Morgenstunden, jeweils bis 6 Uhr - nach einer Einarbeitungsphase übernimmst Du selbstständig und eigenverantwortlich Deine eigene Tour Das bringst Du mit: - Du bist zuverlässig, motiviert und pünktlich - Ein Fahrzeug ist von Vorteil, aber nicht Voraussetzung (Fahrtkostenerstattung) Aufgrund des Jugendschutzgesetzes können wir keine Bewerbungen seitens Minderjähriger berücksichtigen. Interessiert? Wir freuen uns auf Deine Bewerbung. Bei Fragen steht Dir unser Recruiting-Team gerne zur Verfügung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/9F7Mjn4KD97_",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 25.6,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Другое",
-   "first_seen": "2026-11-09T13:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 102,
-      "changes": 2,
-      "min_wait": 7,
-      "walk_end": 14,
-      "end_stop": "Meißenheim Nord",
-      "dep": "06:32",
-      "arr": "08:15",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB26",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "07:06",
-        "arr": "07:16",
-        "wait": 7,
-        "min": 10
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "106",
-        "from": "Lahr (Schwarzw)",
-        "to": "Meißenheim Nord",
-        "dep": "07:32",
-        "arr": "08:01",
-        "wait": 16,
-        "min": 29
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Meißenheim Nord",
-        "to": "работа",
-        "dep": "08:01",
-        "arr": "08:15",
-        "min": 14
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 108
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 274,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 248,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "11:07",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "11:07",
-        "min": 248
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 274
-     },
-     {
-      "kind": "велосипед",
-      "min": 162,
-      "changes": 0,
-      "km": 39.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 162
-       }
-      ],
-      "risky": false,
-      "score": 304
-     }
-    ],
-    "best": "транспорт",
-    "min": 102,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3568117722-247-8045",
-    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3569594177-247-8045"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10001-1003980692-S",
    "src": "Jobbörse",
    "title": "Hotel-Reinigungskraft (m/w/d)",
@@ -12235,190 +12395,6 @@
     "best": "транспорт",
     "min": 35,
     "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3323049663",
-   "src": "Kleinanzeigen",
-   "title": "Reinigungskraft Teilzeit / Minijob (m/w/d) Baiersbronn",
-   "firma": "Günter Ott - Ihre Gebäudereinigung",
-   "ort": "Baiersbronn",
-   "plz": "72270",
-   "street": "",
-   "lat": 48.5416972,
-   "lon": 8.3252756,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-minijob-m-w-d-baiersbronn/3323049663-109-8719",
-   "posted": "2026-11-07",
-   "posted_time": "19:05",
-   "desc": "Wir sind ein mittelständisches Dienstleistungsunternehmen. Unser Familienbetrieb ist seit über 55 Jahren im Nordschwarzwald tätig. Zur Erweiterung unseres Teams suchen wir für ein Objekte in Baiersbronn Teilzeitkräfte oder Minijob. Ab 01.01.2026 Stundenlohn EUR 15,- (Minijobgrenze max. 603 EUR/Monat) Baiersbronn: Minijob: 2x wöchentlich, montags & mittwochs von 8 Uhr bis 10.20 Uhr. Minijob: alle 14 Tage, dienstags von 8 Uhr bis 13 Uhr. Minijob: 3 x wöchentlich für 2-3 Std. ab 8 Uhr Freudenstadt: Minijob: 2x wöchentlich, ab 16 Uhr 2,5 Std. Weitere freie Stellen in Horb und Umgebung - sprechen Sie uns an! Als Teil unseres Teams genießen Sie eine Vielzahl an Vorteilen: Betriebliches Gesundheitsmanagement Arbeitgeber finanzierte Zusatzkrankenversicherung Übertarifliche Bezahlung für bestimmte Tätigkeiten Betriebsfeiern zu verschiedenen Anlässen Aufstiegsmöglichkeiten zur VorarbeiterIn / ObjektleiterIn (m/w/d) Wir freuen uns von Ihnen zu hören!",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 17.9,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 190,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 59,
-      "end_stop": "Mitteltal Lamm",
-      "dep": "16:36",
-      "arr": "19:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "16:36",
-        "arr": "16:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "16:47",
-        "arr": "16:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "17:07",
-        "arr": "17:15",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "400",
-        "from": "Achern",
-        "to": "Ruhestein",
-        "dep": "17:21",
-        "arr": "18:00",
-        "wait": 6,
-        "min": 39
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "200",
-        "from": "Ruhestein",
-        "to": "Mitteltal Lamm",
-        "dep": "18:32",
-        "arr": "18:48",
-        "wait": 32,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Mitteltal Lamm",
-        "to": "работа",
-        "dep": "18:48",
-        "arr": "19:46",
-        "min": 59
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 199
-     },
-     {
-      "kind": "велосипед",
-      "min": 121,
-      "changes": 0,
-      "km": 29.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 121
-       }
-      ],
-      "risky": false,
-      "score": 222
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 570,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 544,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "14:52",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "14:52",
-        "min": 544
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 570
-     }
-    ],
-    "best": "транспорт",
-    "min": 190,
-    "changes": 3
    },
    "status": "open",
    "also_urls": [],
@@ -29606,167 +29582,6 @@
    "prof_txt": "",
    "help": "",
    "ru": "",
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1003636647-S",
-   "src": "Jobbörse",
-   "title": "Helfer (m/w/d) in Dauerspätschicht",
-   "firma": "Pensum GmbH",
-   "ort": "Friesenheim",
-   "street": "",
-   "lat": 48.3811919,
-   "lon": 7.8778544,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003636647-S",
-   "posted": "2026-09-01",
-   "desc": "Die Pensum GmbH ist ein Personaldienstleister, der sich innerhalb kürzester Zeit zu einem der führenden Dienstleister in diesem Segment etabliert hat. Mit unseren Standorten in Offenburg, Freiburg, Lahr, Karlsruhe, Stuttgart, Frankfurt, Darmstadt, Müllheim, Nürnberg und Bremen bedienen wir zahlreiche Kunden unterschiedlichster Größe und Branche. Für unseren namhaften Kunden suchen wir aktuell noch mehrere Helfer (m/w/d) in Dauerspätschicht zum nächstmöglichen Eintrittstermin. (die Einarbeitung erfolgt in Früh- und Tagschicht) Voraussetzungen: - Berufserfahrung in der Produktion wünschenswert - Grundkenntnisse in Deutsch - Körperliche Belastbarkeit - Pkw + Führerschein von Vorteil - Zuverlässigkeit und sorgfältige Arbeitsweise Aufgaben: - Sicht- und Qualitätskontrollen durchführen - Zuhilfsarbeiten in der Produktion Wir bieten Ihnen: - einen langfristigen Einsatz bei unserem Kunden - ein gutes Arbeitsklima - eine vertrauensvolle Zusammenarbeit - persönliche Betreuung - vielfältige und interessante Aufgabengebiete Wir haben Ihr Interesse geweckt? Dann senden Sie uns Ihre vollständigen Bewerbungsunterlagen an Pensum GmbH, Kreuzstraße 13, 77933 Lahr oder per E-Mail an lahr@pensum-gmbh.de zu. Für Rückfragen stehen wir Ihnen gerne unter der Telefonnummer 07821-98970-0 zur Verfügung.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 22.4,
-   "de": "?",
-   "de_txt": "",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 98,
-      "changes": 1,
-      "min_wait": 29,
-      "walk_end": 13,
-      "end_stop": "Friesenheim Schule",
-      "dep": "05:21",
-      "arr": "06:59",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Schule",
-        "dep": "06:17",
-        "arr": "06:47",
-        "wait": 29,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Schule",
-        "to": "работа",
-        "dep": "06:47",
-        "arr": "06:59",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 101
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 211,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 185,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "08:52",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "08:52",
-        "min": 185
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 211
-     },
-     {
-      "kind": "велосипед",
-      "min": 129,
-      "changes": 0,
-      "km": 31.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 129
-       }
-      ],
-      "risky": false,
-      "score": 238
-     }
-    ],
-    "best": "транспорт",
-    "min": 98,
-    "changes": 1
-   },
    "status": "open",
    "also_urls": [],
    "person": "Марина"
@@ -47203,8 +47018,7 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393232-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973490874-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393232-S"
    ],
    "person": "Марина"
   },
@@ -48568,9 +48382,7 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970841916-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393476-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973505627-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393476-S"
    ],
    "person": "Марина"
   },
@@ -49147,22 +48959,22 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_11852-972732108-S",
+   "id": "marina:ba_10000-1194053942-S",
    "src": "Jobbörse",
    "title": "Kommissionierer (m/w/d)",
-   "firma": "TimePartner Personalmanagement GmbH",
+   "firma": "perspective Personalmanagement GmbH",
    "ort": "Offenburg",
    "street": "",
-   "lat": 48.461288252,
-   "lon": 7.924757749,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-972732108-S",
-   "posted": "2026-09-24",
-   "desc": "#### Über uns TIME to Care – bei TimePartner setzen wir uns seit über 30 Jahren dafür ein, Karrieren voranzubringen. Unsere Mission ist es, dich bestmöglich zu unterstützen, damit du deinen beruflichen Zielen näherkommst. Eine schnelle Rückmeldung liegt uns besonders am Herzen: Innerhalb von 24 Stunden erhältst du eine Antwort auf deine Bewerbung. Wir hören zu, verstehen deine Bedürfnisse und begleiten dich auf deinem Weg nach vorne – mit Leidenschaft und Empathie, weil uns deine Zukunft wichtig ist. Als Kommissionierer (m/w/d) im Lebensmittellager übernimmst Du eine zentrale Rolle dafür, dass Waren schnell, sauber und zuverlässig ihren Weg finden. In der Lagerlogistik in einer 2-Schicht-Struktur sorgst Du in diesem Einsatzort für einen reibungslosen Ablauf im Tagesgeschäft. - Du stellst Waren nach Vorgabe zusammen und bereitest Aufträge für den weiteren Versand oder die interne Weitergabe vor. - Beim Prüfen, Sortieren und Zusammenführen der Artikel achtest Du auf Vollständigkeit und eine sorgfältige Arbeitsweise. - Die Arbeit mit frischen und haltbaren Lebensmitteln erfordert ein hohes Maß an Ordnung, Sorgfalt und Tempo. - Du bewegst Waren im Lagerbereich und hältst dabei die vorgesehenen Abläufe konsequent ein. - Verpackte und kommissionierte Artikel bereitest Du so vor, dass sie sicher und übersichtlich weiterverarbeitet werden können. - Im täglichen Ablauf stimmst Du Dich mit dem Team ab, damit Aufträge termingerecht bearbeitet werden. - Auch bei wiederkehrenden Aufgaben behältst Du den Überblick und arbeitest zuverlässig nach Vorgabe. #### Das suchen wir Gesucht ist ein zuverlässiger Kommissionierer, der gerne praktisch arbeitet und auch bei höherem Tempo den Überblick behält. Für diese Rolle passt Du gut, wenn Du sorgfältig, teamorientiert und belastbar bist und Dich in einem Lagerumfeld wohlfühlst. - Erste Erfahrung in der Kommissionierung, im Lager oder in der Logistik ist hilfreich, aber kein Muss. - Du arbeitest konzentriert, achtest auf Genauigkeit und gehst verantwortungsvoll mit Waren um. - Ein gutes Verständnis für strukturierte Abläufe hilft Dir, Aufträge sicher und zügig zu bearbeiten. - Die Arbeitszeit ist im 2-Schicht-System organisiert und erfordert Zuverlässigkeit sowie Pünktlichkeit. - Schichtmodelle im Lageralltag sind für Dich machbar, auch wenn der Ablauf klar getaktet ist. - Ein freundliches Miteinander im Team und eine praktische Arbeitsweise passen gut zu Dir. - Körperliche Belastbarkeit ist von Vorteil, da die Tätigkeit aktiv und bewegungsreich ist. #### Das bieten wir Freu Dich auf ein attraktives Paket mit klaren Rahmenbedingungen und einer fairen Vergütung für Deinen Einsatz im Lageralltag. - Attraktive Vergütung von 15,67 € pro Stunde.. - Corporate Benefits mit attraktiven Vorteilen für Deinen Alltag. - Strukturierte Einarbeitung durch ein unterstützendes Team, damit Du gut ankommst. - Ein eingespieltes Arbeitsumfeld mit klaren Abläufen und verlässlicher Organisation.",
-   "zeit": "",
+   "lat": 48.4966495,
+   "lon": 7.9364095,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1194053942-S",
+   "posted": "2025-01-21",
+   "desc": "**Für mehrere Kundenunternehmen suchen wir ab sofort mehrere:** **----> Kommissionierer (m/w/d) Das perspective-Team freut sich auf Sie! <----** **WhatsApp: +49 170 / 82 33 603 / Festnetz: +49 781 / 12 55 45 11** **E-Mail: m.baer@perspective-personal.de**",
+   "zeit": "Vollzeit",
    "schicht": true,
    "quer": false,
    "who": "marina",
-   "km": 13.9,
+   "km": 11.4,
    "de": "?",
    "de_txt": "",
    "agency": true,
@@ -49176,13 +48988,13 @@
     "opts": [
      {
       "kind": "транспорт",
-      "min": 48,
+      "min": 45,
       "changes": 1,
-      "min_wait": 9,
-      "walk_end": 1,
-      "end_stop": "Offenburg Eichendorff-Schule",
+      "min_wait": 8,
+      "walk_end": 5,
+      "end_stop": "Bühl Talackerweg",
       "dep": "06:59",
-      "arr": "07:47",
+      "arr": "07:45",
       "legs": [
        {
         "walk": true,
@@ -49208,38 +49020,38 @@
        {
         "walk": false,
         "mode": "Regionalbus",
-        "line": "R2",
+        "line": "7146",
         "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
+        "to": "Bühl Talackerweg",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": 8,
+        "min": 6
        },
        {
         "walk": true,
         "mode": "пешком",
         "line": "",
-        "from": "Offenburg Eichendorff-Schule",
+        "from": "Bühl Talackerweg",
         "to": "работа",
-        "dep": "07:46",
-        "arr": "07:47",
-        "min": 1
+        "dep": "07:40",
+        "arr": "07:45",
+        "min": 5
        }
       ],
       "full": true,
       "risky": false,
-      "score": 51
+      "score": 48
      },
      {
       "kind": "до вокзала + пешком",
-      "min": 62,
+      "min": 66,
       "changes": 0,
       "min_wait": null,
-      "walk_end": 36,
+      "walk_end": 40,
       "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:34",
+      "dep": "05:21",
+      "arr": "06:27",
       "legs": [
        {
         "walk": true,
@@ -49247,8 +49059,8 @@
         "line": "",
         "from": "дом",
         "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
+        "dep": "05:21",
+        "arr": "05:32",
         "min": 9
        },
        {
@@ -49257,8 +49069,8 @@
         "line": "RS2",
         "from": "Oberkirch",
         "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
+        "dep": "05:32",
+        "arr": "05:48",
         "wait": null,
         "min": 16
        },
@@ -49268,20 +49080,20 @@
         "line": "",
         "from": "Offenburg Bahnhof",
         "to": "работа",
-        "dep": "06:59",
-        "arr": "07:34",
-        "min": 36
+        "dep": "05:48",
+        "arr": "06:27",
+        "min": 40
        }
       ],
       "full": false,
       "risky": false,
-      "score": 62
+      "score": 66
      },
      {
       "kind": "велосипед",
-      "min": 82,
+      "min": 64,
       "changes": 0,
-      "km": 20.0,
+      "km": 15.6,
       "legs": [
        {
         "walk": false,
@@ -49292,20 +49104,19 @@
         "to": "работа",
         "dep": "",
         "arr": "",
-        "min": 82
+        "min": 64
        }
       ],
       "risky": false,
-      "score": 144
+      "score": 108
      }
     ],
     "best": "транспорт",
-    "min": 48,
+    "min": 45,
     "changes": 1
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1194053942-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-982570816-S"
    ],
    "person": "Марина"
@@ -50269,64 +50080,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1001570473-S",
-   "src": "Jobbörse",
-   "title": "Kommissionierer (m/w/d)",
-   "firma": "Pensum GmbH",
-   "ort": "Gengenbach",
-   "street": "",
-   "lat": 48.4019782,
-   "lon": 8.0243644,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001570473-S",
-   "posted": "2025-07-09",
-   "desc": "Die Pensum GmbH ist ein Personaldienstleister, der sich innerhalb kürzester Zeit zu einem der führenden Dienstleister in diesem Segment etabliert hat. In unseren Standorten in Offenburg, Freiburg, Lahr, Karlsruhe, Stuttgart, Frankfurt, Darmstadt, Müllheim, Nürnberg und Bremen bedienen wir zahlreiche Kunden unterschiedlichster Größe und Branche. Für unsere Kunden aus der Metallverarbeitung suchen wir aktuell mehrere Kommissionierer (m/w/d) zum nächstmöglichen Eintrittstermin. Ihr Profil: - Erfahrung im Bereich Kommissionieren - Deutsch Kenntnisse in Wort und Schrift, Englisch Kenntnisse von Vorteil - Erfahrung im Bereich Lager Transport - Pkw + Führerschein von Vorteil - Computer/SAP Kenntnisse - Zuverlässigkeit, Einsatzbereitschaft und Flexibilität - Selbstständige Arbeitsweise und Sorgfalt Ihre Aufgaben: - Stellt Waren anhand von Kundenbestellungen zusammen und bereitet diese für den Versand vor. - Die SCM-Qualitätskontrolle. - Allgemeine Lagertätigkeiten - Das Verpacken und die Vorbereitung der Versanddokumente. Wir bieten Ihnen: - einen langfristigen Einsatz bei unserem Kunden - eine leistungsgerechte Vergütung - ein gutes Arbeitsklima - eine anspruchsvolle und abwechslungsreiche Tätigkeit Wir haben Ihr Interesse geweckt? Dann senden Sie uns eine Nachricht per E-Mail an lahr@pensum-gmbh.de. Für Rückfragen stehen wir Ihnen unter der Telefonnummer 07821 989700 zur Verfügung.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 15.0,
-   "de": "нужен",
-   "de_txt": "Deutsch Kenntnisse in Wort und Schrift, Englisch Kenntnisse von Vorteil",
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 94,
-      "changes": 0,
-      "km": 22.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 94
-       }
-      ],
-      "risky": false,
-      "score": 168
-     }
-    ],
-    "best": "велосипед",
-    "min": 94,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_20905-957532046-S",
    "src": "Jobbörse",
    "title": "Kommissionierer (m/w/d)",
@@ -50724,9 +50477,7 @@
    "help": "",
    "ru": "",
    "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973505658-S"
-   ],
+   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -53595,170 +53346,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_15937-k55805.125693-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter (m/w/d) Kommissionierung von Autoteilen",
-   "firma": "Neo Temp GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.496649515,
-   "lon": 7.936409392,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15937-k55805.125693-S",
-   "posted": "2026-10-07",
-   "desc": "Wir suchen # Mitarbeiter (m/w/d) Kommissionierung von Autoteilen Offenburg Vollzeit Mitarbeiter (m/w/d) Kommissionierung von Autoteilen in Offenburg Für unseren Kunden am Standort Offenburg suchen wir ab sofort einen engagierten Mitarbeiter (m/w/d) für die Kommissionierung von Autoteilen. Es erwartet Sie eine abwechslungsreiche Tätigkeit in einem modernen Logistikunternehmen mit langfristiger Perspektive. # Ihr zukünftiges Aufgabengebiet: - Kommissionierung von Autoteilen nach Vorgabe - Bedienung eines Handscanners zur Erfassung und Kontrolle von Warenbewegungen - Verpackung, Etikettierung und Versandvorbereitung der Teile - Unterstützung bei allgemeinen Lager- und Versandtätigkeiten # Ihr Profil für die Stelle Mitarbeiter (m/w/d) Kommissionierung von Autoteilen: - Berufserfahrung im Lager- oder Logistikbereich von Vorteil - Erfahrung im Umgang mit dem Handscanner - Zuverlässige, gewissenhafte und teamorientierte Arbeitsweise - Körperliche Belastbarkeit und Bereitschaft zur 2 - Schichtarbeit von Montag - Freitag - (FD 6:00 - 14:00, SD 14:00 - 22:00) - Gute Deutschkenntnisse in Wort und Schrift # Unser Angebot für Sie: - Unbefristete Festanstellung im Rahmen der Arbeitnehmerüberlassung in Münster - Leistungsgerechte Vergütung ab 15,67 €/h gemäß Qualifikation und Erfahrung - Urlaubs- und Weihnachtsgeld gemäß Tarifvertrag - Persönliche Betreuung durch unser Team # Interessiert an der Position Mitarbeiter (m/w/d) Kommissionierung von Autoteilen? So geht es weiter! Sie können über den untenstehenden Button Ihre Bewerbung für die Position als Mitarbeiter (m/w/d) Kommissionierung von Autoteilen direkt an uns absenden. Alternativ senden Sie uns Ihre Bewerbungsunterlagen direkt per E-Mail oder rufen uns an: [bewerbung.osnabrueck@neo-temp.de](mailto:bewerbung.osnabrueck@neo-temp.de?subject=Meine%20Bewerbung%20) 0541 998 961 21 WhatsApp: 0151 65729325",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 11.4,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
-   "agency": false,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 45,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 5,
-      "end_stop": "Bühl Talackerweg",
-      "dep": "06:59",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Bühl Talackerweg",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": 8,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl Talackerweg",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:45",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 48
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 66,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 40,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:27",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:27",
-        "min": 40
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 66
-     },
-     {
-      "kind": "велосипед",
-      "min": 64,
-      "changes": 0,
-      "km": 15.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 64
-       }
-      ],
-      "risky": false,
-      "score": 108
-     }
-    ],
-    "best": "транспорт",
-    "min": 45,
-    "changes": 1
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15937-k55805.127842-S",
-    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-m-w-d-kommissionierung-von-autoteilen/3458648307-247-9040"
-   ],
    "person": "Марина"
   },
   {
@@ -58088,130 +57675,6 @@
     "min": 64,
     "changes": 1
    },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1002337783-S",
-   "src": "Jobbörse",
-   "title": "Maschineneinrichter (m/w/d) für Verpackungsanlagen",
-   "firma": "etol Gesundheitspflege- und Pharmaprodukte GmbH",
-   "ort": "Oberkirch",
-   "street": "Konrad-Adenauer-Str. 3",
-   "lat": 48.538323,
-   "lon": 8.0612325,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002337783-S",
-   "posted": "2025-12-22",
-   "desc": "Die etol Gesundheitspflege- und Pharmaprodukte GmbH in Oberkirch/Baden ist ein mittelständisches Familienunternehmen mit internationaler Ausrichtung. Wir sind Lohnhersteller für Kosmetika, Medizinprodukte und Arzneimittel sowie Spezialist für Mundpflegeprodukte. Am Standort Oberkirch suchen wir für die **Abteilung Technik** schnellstmöglich in **Vollzeit** einen Maschineneinrichter (m/w/d) für Verpackungsanlagen. **Unser Angebot:** Abwechslungsreiche Tätigkeiten durch einen vielfältigen Anlagenpark und ein breites Produktspektrum Qualifizierte Einarbeitung durch unser Technik-Team Kollegiales Arbeitsklima und offene Kommunikation Stabilität und Kontinuität mit langfristiger Perspektive Entgeltleistungen, orientiert an den Chemie-Tarif Baden-Württemberg Betriebliche Sozialleistungen wie z.B. betriebliche Altersvorsorge, JobRad, AG-Zuschuss Mittagessen **Ihre Aufgaben:** Einrichten und Betreuen von verschiedensten Verpackungsmaschinen und Anlagen, um einen störungsfreien Lauf zu gewährleisten Eigenständige Fehler- und Störungsbehebung Mitwirkung bei Wartungsarbeiten Aktive Mitarbeit bei der Optimierung von technischen Abläufen **Ihr Profil:** abgeschlossene Berufsausbildung als Industriemechaniker (m/w/d), Mechatroniker (m/w/d), als Anlagen- und Maschinenführer (m/w/d) oder eine technische oder handwerkliche Ausbildung im Bereich Metall mehrjährige Berufserfahrung im Produktionsumfeld je nach Erfahrungshintergrund ist auch Quereinstieg möglich Flexibilität, Motivation, Teamfähigkeit, selbständige und gewissenhafte Arbeitsweise Bereitschaft zur Schichtarbeit (Früh-, Spätschicht; bei Bedarf Nachtschicht) **Interesse?** Wir freuen uns auf Ihre Bewerbung! Bitte senden Sie Ihre aussagekräftigen Bewerbungsunterlagen an: **karriere@etol.de**",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 1.7,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 10,
-      "changes": 0,
-      "km": 2.1,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 10
-       }
-      ],
-      "risky": false,
-      "score": 10
-     },
-     {
-      "kind": "транспорт",
-      "min": 21,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Oberkirch Blumenau",
-      "dep": "06:39",
-      "arr": "07:00",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:39",
-        "arr": "06:47",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "RB1",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Oberkirch Blumenau",
-        "dep": "06:47",
-        "arr": "06:48",
-        "wait": null,
-        "min": 1
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oberkirch Blumenau",
-        "to": "работа",
-        "dep": "06:48",
-        "arr": "07:00",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 21
-     },
-     {
-      "kind": "пешком",
-      "min": 26,
-      "changes": 0,
-      "km": 1.9,
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 26
-       }
-      ],
-      "risky": false,
-      "score": 26
-     }
-    ],
-    "best": "велосипед",
-    "min": 10,
-    "changes": 0
-   },
-   "prof": true,
-   "prof_txt": "abgeschlossene Berufsausbildung als Industriemechaniker (m/w/d), Mechatroniker (m/w/d), als",
-   "help": "",
-   "ru": "",
    "status": "open",
    "also_urls": [],
    "person": "Марина"
