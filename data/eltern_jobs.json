@@ -1,9 +1,402 @@
 {
- "generated": "2026-11-12T06:37",
+ "generated": "2026-11-12T09:29",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 415,
+ "count": 416,
  "items": [
+  {
+   "id": "marina:ka_3568940403",
+   "src": "Kleinanzeigen",
+   "title": "Job als Reinigungskraft in Ortenberg, Baden (Ortenberg)",
+   "firma": "my-perfect-job.de",
+   "ort": "Ortenberg",
+   "plz": "77799",
+   "street": "",
+   "lat": 48.4494408,
+   "lon": 7.9720423,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/job-als-reinigungskraft-in-ortenberg-baden-ortenberg-/3568940403-107-9030",
+   "posted": "2026-11-12",
+   "posted_time": "08:10",
+   "desc": "Job als Reinigungskraft in Ortenberg, Baden Württemberg – 14 € /Std. JETZT BEWERBEN unter https://putzperle.de/de/jobs/6257316?utm_source=ebay ___________________________________________ **Reinigungskraft (m/w/d) gesucht** -> 77799 Ortenberg, Baden Württemberg -> Privathaushalt -> Stundenlohn: 16 € EUR -> Teilzeit __________________ Interessiert? Alle Infos zu Aufgaben und Arbeitszeiten finden Sie unter: https://putzperle.de/de/jobs/6257316?utm_source=ebay Tipp: Diesen Link einfach kopieren und im Browser suchen ___________________________________________ **Warum Putzperle.de die beste Wahl ist für einen Zusatzverdienst:** -> Schnell passende Jobs in Ihrer Nähe finden -> Sie entscheiden, welche Jobs Sie annehmen -> Ihre Arbeit, Ihr Lohn – zu 100 % __________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-12T08:05",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 48,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 0,
+      "end_stop": "Ortenberg Schloß/Freudental",
+      "dep": "06:32",
+      "arr": "07:21",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7134",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Ortenberg Schloß/Freudental",
+        "dep": "07:10",
+        "arr": "07:21",
+        "wait": 11,
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 51
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 80,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 54,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:41",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:41",
+        "min": 54
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 80
+     },
+     {
+      "kind": "велосипед",
+      "min": 80,
+      "changes": 0,
+      "km": 19.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 80
+       }
+      ],
+      "risky": false,
+      "score": 140
+     }
+    ],
+    "best": "транспорт",
+    "min": 48,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3568937294",
+   "src": "Kleinanzeigen",
+   "title": "Job als Reinigungskraft in Rheinau, Baden Württemberg (Rheinau)",
+   "firma": "my-perfect-job.de",
+   "ort": "Rheinau",
+   "plz": "77866",
+   "street": "",
+   "lat": 48.6567433,
+   "lon": 7.9354027,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/job-als-reinigungskraft-in-rheinau-baden-wuerttemberg-rheinau-/3568937294-107-8667",
+   "posted": "2026-11-12",
+   "posted_time": "08:02",
+   "desc": "Job als Reinigungskraft in Rheinau, Baden Württemberg – 14 € /Std. JETZT BEWERBEN unter https://putzperle.de/de/jobs/6259050?utm_source=ebay ___________________________________________ **Für unser Zuhause suchen wir eine Haushaltshilfe (m/w/d)** -> 77866 Rheinau, Baden Württemberg -> Privathaushalt -> Stundenlohn: Verhandelbar EUR -> Teilzeit __________________ Interessiert? Alle Infos zu Aufgaben und Arbeitszeiten finden Sie unter: https://putzperle.de/de/jobs/6259050?utm_source=ebay Tipp: Diesen Link einfach kopieren und im Browser suchen ___________________________________________ **Warum Putzperle.de die beste Wahl ist für einen Zusatzverdienst:** -> Schnell passende Jobs in Ihrer Nähe finden -> Sie entscheiden, welche Jobs Sie annehmen -> Ihre Arbeit, Ihr Lohn – zu 100 % __________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-12T08:05",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 98,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 18,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:04",
+        "min": 18
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 101
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 13,
+      "end_stop": "Freistett Seniorenzentrum",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Freistett Seniorenzentrum",
+        "dep": "07:48",
+        "arr": "07:49",
+        "wait": 2,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Seniorenzentrum",
+        "to": "работа",
+        "dep": "07:49",
+        "arr": "08:01",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 110
+     },
+     {
+      "kind": "велосипед",
+      "min": 90,
+      "changes": 0,
+      "km": 21.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 90
+       }
+      ],
+      "risky": false,
+      "score": 160
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 98,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3383043519",
    "src": "Kleinanzeigen",
@@ -15813,7 +16206,8 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1744-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-981903908-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982162706-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982162706-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982654594-S"
    ],
    "person": "Марина"
   },
@@ -23710,112 +24104,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1003838838-S",
-   "src": "Jobbörse",
-   "title": "mehrere Reinigungskräfte (Minijob) Standort: Kappelrodeck",
-   "firma": "GSG Oliver Vieser Gebäudemanagement GbR",
-   "ort": "Kappelrodeck",
-   "street": "",
-   "lat": 48.583823338,
-   "lon": 8.111024587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003838838-S",
-   "posted": "2026-10-12",
-   "desc": "Wir suchen im Rahmen einer geringfügigen Beschäftigung mehrere zuverlässige Reinigungskräfte für ein Objekt in Kappelrodeck. Die wöchentliche Arbeitszeit erfolgt von Montag bis Freitag ab 15:30 Uhr. Erste Erfahrungen in der Reinigung von Gebäuden und Wohnort in der Nähe des Einsatzortes sind wünschenswert und vorteilhaft.",
-   "zeit": " / Teilzeit / Minijob",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 6.2,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 33,
-      "changes": 0,
-      "km": 7.8,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 33
-       }
-      ],
-      "risky": false,
-      "score": 46
-     },
-     {
-      "kind": "транспорт",
-      "min": 47,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 14,
-      "end_stop": "Kappelrodeck Waldulmer Straße",
-      "dep": "06:21",
-      "arr": "07:07",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "06:21",
-        "arr": "06:28",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Kappelrodeck Waldulmer Straße",
-        "dep": "06:28",
-        "arr": "06:54",
-        "wait": null,
-        "min": 26
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelrodeck Waldulmer Straße",
-        "to": "работа",
-        "dep": "06:54",
-        "arr": "07:07",
-        "min": 14
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 47
-     }
-    ],
-    "best": "велосипед",
-    "min": 33,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/mehrere-reinigungskraefte-minijob-standort-kappelrodeck-064588893"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_12518-CTJ1ID-4A5-S",
    "src": "Jobbörse",
    "title": "Mitarbeiter (m/w/d) in der Morgenreinigung",
@@ -29525,167 +29813,6 @@
    "prof_txt": "",
    "help": "",
    "ru": "",
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_11119-4965099270-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d)",
-   "firma": "DEKRA Arbeit GmbH",
-   "ort": "Willstätt",
-   "street": "",
-   "lat": 48.5449571,
-   "lon": 7.8911489,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4965099270-S",
-   "posted": "2026-10-14",
-   "desc": "Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Wir suchen einen engagierten Produktionshelfer (m/w/d) für unseren Kunden in Willstätt. Sie werden Teil eines dynamischen Umfelds, in dem Qualität und Effizienz an erster Stelle stehen. Wenn Sie eine Leidenschaft für die Produktion haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Montage von Baugruppen und Geräten - Helfertätigkeiten in der Fertigung - Überwachung des Produktionsprozesses - Qualitätskontrolle der gefertigten Produkte - Einhaltung von Sicherheitsvorschriften Anforderungen: - Berufserfahrung in der Produktion ist von Vorteil - Technisches Verständnis und handwerkliches Geschick - Teamfähigkeit und Zuverlässigkeit - Gute Deutschkenntnisse Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 14.1,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse Was wir Ihnen bieten:",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 64,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 8,
-      "end_stop": "Willstätt Kinzigbrücke",
-      "dep": "06:59",
-      "arr": "08:03",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Kinzigbrücke",
-        "dep": "07:34",
-        "arr": "07:56",
-        "wait": 8,
-        "min": 22
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Willstätt Kinzigbrücke",
-        "to": "работа",
-        "dep": "07:56",
-        "arr": "08:03",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 67
-     },
-     {
-      "kind": "велосипед",
-      "min": 69,
-      "changes": 0,
-      "km": 16.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 69
-       }
-      ],
-      "risky": false,
-      "score": 118
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 156,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 130,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:58",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:58",
-        "min": 130
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 156
-     }
-    ],
-    "best": "транспорт",
-    "min": 64,
-    "changes": 1
-   },
    "status": "open",
    "also_urls": [],
    "person": "Марина"
@@ -40769,6 +40896,130 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ba_12384-13134388-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter (m/w/d) Maschinenbedienung",
+   "firma": "Actief Personalmanagment GmbH Achern",
+   "ort": "Oberkirch",
+   "street": "",
+   "lat": 48.5203692,
+   "lon": 8.0682693,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-13134388-S",
+   "posted": "2025-03-27",
+   "desc": "Kunststoff ist dein Ding? Dann haben wir den perfekten Job für dich! Wir bieten eine Stelle in der Produktion im 3-Schichtsystem in einem tollen Betrieb, bewirb dich gleich! Das dürfen Sie von uns erwarten: - Langfristiger und fester Einsatz - Sehr gute und schnelle Übernahmechance! - Attraktive Vergütung nach BAP Tarif inkl. Zulagen und Zuschläge - Jahressonderzahlungen - Interne Aus- und Weiterbildungsmöglichkeiten - Kostenlose Arbeitskleidung Ihre Aufgaben: - Bedienen der Anlagen - Prüfen und Messen der fertigen Teile nach Vorgabe - Dokumentation der Prüfergebnisse und eventuelle Mengel - Aussortieren des Ausschusses und Meldung geben an die zuständigen Fachkräfte - Bei Bedarf Mithilfe in der Verpackung Ihr Profil: - Erste Berufserfahrung in der Maschinenbedienung von Vorteil - 3-Schichtbereitschaft - Bereitschaft zur Wochenendarbeit (jede 3. Woche) - Deutsch lesen, schreiben und verstehen - Bestenfalls Führerschein und Fahrzeug - Zuverlässigkeit hat äußerste Priorität Bei uns zählen Ihre Erfahrungen und Stärken. Wir freuen uns über jede Bewerbung, weil wir bestimmt auch für Sie eine passende Stelle finden. ACTIEF Personalmanagement - PEOPLE IN ACTION - damit auch Sie einer von 5.000 zufriedenen Mitarbeitern in einem expandierenden Unternehmen werden. Wir zahlen mindestens Tarif (BAP) und Sonderleistungen wie Urlaubs- und Weihnachtsgeld. Ihr ACTIEF Berater begleitet Ihre persönliche Weiterentwicklung, sei es durch verschiedene Einsätze bei unseren namhaften Kundenunternehmen oder durch gezielte Maßnahmen - bei ACTIEF erweitern Sie täglich Ihr Wissen und Ihre Fähigkeiten.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 1.6,
+   "de": "нужен",
+   "de_txt": "Deutsch lesen, schreiben und verstehen",
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-04T13:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 11,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 11
+       }
+      ],
+      "risky": false,
+      "score": 11
+     },
+     {
+      "kind": "транспорт",
+      "min": 28,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 15,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:26",
+      "arr": "07:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:26",
+        "arr": "07:34",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": null,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:54",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 28
+     },
+     {
+      "kind": "пешком",
+      "min": 31,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 31
+       }
+      ],
+      "risky": false,
+      "score": 32
+     }
+    ],
+    "best": "велосипед",
+    "min": 11,
+    "changes": 0
+   },
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ba_13356-105555A35646C49-S",
    "src": "Jobbörse",
    "title": "Produktionsmitarbeiter (m/w/d), gerne Quereinsteiger (m/w/d)",
@@ -45555,7 +45806,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-976393232-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-973490874-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-970035259-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-963670797-S",
     "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3560302252-247-9039"
    ],
    "person": "Марина"
@@ -54302,7 +54552,111 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_12288-4967389707-S",
+   "id": "marina:ba_10000-1207950752-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter (m/w/d) Qualitätssicherung u. Verpackung",
+   "firma": "perspective Personalmanagement GmbH",
+   "ort": "Offenburg",
+   "street": "Hauptstr. 115",
+   "lat": 48.467277,
+   "lon": 7.9408125,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207950752-S",
+   "posted": "2026-09-18",
+   "desc": "Unser langjähriger Kunde in Oberkirch sucht ab sofort --> • • • **Mitarbeiter (m/w/d) Qualitätskontrolle u. Verpackung** • • • **Ihre Perspektive**: - abwechslungsreiche Tätigkeiten und ein kollegiales Miteinander **Ihre Aufgaben**: - Durchführung von Sicht-, Maß- und Funktionsprüfungen gemäß Vorgabe - Pflege von Qualitätsdokumenten **Ihr Profil**: - idealerweise berufliche Erfahrung in der Qualitätssicherung - technisches Interesse & Verständnis - routinierter Umgang mit Geräten & Computer - Bereitschaft zur Arbeit in 3-Schicht **Sie sind interessiert?** **Dann bewerben Sie sich bitte mit Ihrem Lebenslauf per** -> E-Mail m.baer@perspective-personal.de -> Tel.: 0781 - 12 55 45-11 -> Hauptstraße 115 in 77652 Offenburg",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": true,
+   "who": "marina",
+   "km": 12.6,
+   "de": "?",
+   "de_txt": "",
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 42,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 16,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:14",
+        "min": 16
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 42
+     },
+     {
+      "kind": "велосипед",
+      "min": 76,
+      "changes": 0,
+      "km": 18.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 76
+       }
+      ],
+      "risky": false,
+      "score": 132
+     }
+    ],
+    "best": "транспорт",
+    "min": 42,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_12117-YF-52779-YF-S",
    "src": "Jobbörse",
    "title": "Einkäufer Rohstoffe & Verpackung (m/w/d)",
    "firma": "VIVIL A. MÜLLER GMBH & CO. KG",
@@ -54310,9 +54664,9 @@
    "street": "",
    "lat": 48.4728461,
    "lon": 7.974223,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4967389707-S",
-   "posted": "2026-10-16",
-   "desc": "Sichern Sie die Zutaten für unseren Erfolg Gute Produkte beginnen mit den richtigen Zutaten – und den passenden Materialien. Seit 1903 steht VIVIL für Qualität, Verlässlichkeit und Erfrischung. Für unseren Einkauf von Rohstoffen und Verpackungsmaterialien suchen wir Sie als Einkäufer (m/w/d) Rohstoffe & Verpackungsmaterialien . Ihre Aufgaben - Sie packen selbst mit an Einkauf aktiv gestalten: Sie gestalten den strategischen und operativen Einkauf unserer Rohstoffe und Verpackungsmaterialien aktiv mit. Dabei bearbeiten Sie selbst Einkaufsvorgänge, entwickeln Beschaffungsstrategien und begleiten den gesamten Prozess von der Bedarfsermittlung bis zum erfolgreichen Vertragsabschluss. Führen und mitarbeiten: Sie übernehmen die fachliche und disziplinarische Führung des Einkaufsteams. Gleichzeitig arbeiten Sie selbst operativ mit, bearbeiten Einkaufsvorgänge und sind im Tagesgeschäft nah an den Themen und Menschen. Erfolgreich verhandeln: Sie führen eigenständig Preis-, Vertrags- und Konditionsverhandlungen mit nationalen und internationalen Lieferanten und entwickeln bestehende Lieferantenbeziehungen weiter. Versorgung sicherstellen: Sie stimmen sich eng mit Produktionsplanung, Produktentwicklung und Qualitätssicherung ab und sorgen dafür, dass unsere Produktion zuverlässig mit den benötigten Materialien versorgt wird. Prozesse verbessern: Sie hinterfragen bestehende Abläufe, erkennen Optimierungspotenziale und setzen Verbesserungen gemeinsam mit Ihrem Team um. Qualität und Kosten im Blick behalten: Sie bearbeiten Reklamationen, bewerten Lieferanten und behalten Kosten, Qualität, Lieferfähigkeit und Bestände im Blick. Ergebnisse transparent machen: Sie analysieren Einkaufskennzahlen, erstellen Auswertungen und leiten daraus konkrete Maßnahmen ab. Das bringen Sie mit Sie haben eine kaufmännische Ausbildung mit entsprechender Weiterbildung oder ein betriebswirtschaftliches Studium erfolgreich abgeschlossen – idealerweise mit Schwerpunkt Einkauf, Materialwirtschaft oder Supply Chain Management. Sie bringen mehrjährige Erfahrung im strategischen und operativen Einkauf mit, idealerweise in einem produzierenden Unternehmen. Sie haben bereits Führungserfahrung oder sind bereit, Verantwortung für ein Team zu übernehmen. Sie führen Ihr Team mit klarer Orientierung, fördern die Entwicklung Ihrer Mitarbeitenden und arbeiten selbst aktiv im Tagesgeschäft mit. Sie verhandeln sicher, denken wirtschaftlich und bauen langfristige Lieferantenbeziehungen auf. Sie behalten auch bei kurzfristigen Änderungen den Überblick und finden pragmatische Lösungen. Sie arbeiten strukturiert, analytisch und eigenständig – und packen dort mit an, wo Sie gebraucht werden. Idealerweise kennen Sie den Einkauf von Rohstoffen und Verpackungsmaterialien. Sie sind sicher im Umgang mit MS Office und ERP-Systemen und verfügen über gute Deutsch- und Englischkenntnisse. Das erwartet Sie bei VIVIL Ein namhafter Arbeitgeber mit über 120 Jahren Tradition Ein zukunftsorientierter Arbeitsplatz mit viel Gestaltungsspielraum Eine verantwortungsvolle Aufgabe mit kurzen Entscheidungswegen und viel Gestaltungsspielraum Individuelle Aus-, Fort- und Weiterbildungsmöglichkeiten Ein freundliches und kooperatives Arbeitsklima Leistungsgerechte Vergütung Flexible Arbeitszeiten Preisnachlässe auf VIVIL-Produkte und weitere attraktive Vergünstigungen Lust auf eine Aufgabe mit Geschmack? Dann werden Sie Teil unseres Teams und sorgen Sie dafür, dass bei VIVIL die richtigen Zutaten und Materialien zur richtigen Zeit am richtigen Ort sind. Wir freuen uns auf Ihre Bewerbung. VIVIL A. MÜLLER GmbH & Co. KG Moltkestraße 33 • 77654 Offenburg E-Mail: jobs@vivil.de • www.vivil.de • Tel. +49 (0) 781 478 119",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-52779-YF-S",
+   "posted": "2026-10-15",
+   "desc": "Einkäufer Rohstoffe & Verpackung (m/w/d) Einkäufer (m/w/d) Rohstoffe & Verpackungsmaterialien Sichern Sie die Zutaten für unseren Erfolg Gute Produkte beginnen mit den richtigen Zutaten - und den passenden Materialien. Seit 1903 steht VIVIL für Qualität, Verlässlichkeit und Erfrischung. Für unseren Einkauf von Rohstoffen und Verpackungsmaterialien suchen wir Sie als Einkäufer (m/w/d) Rohstoffe & Verpackungsmaterialien. Ihre Aufgaben - Sie packen selbst mit an * Einkauf aktiv gestalten: Sie gestalten den strategischen und operativen Einkauf unserer Rohstoffe und Verpackungsmaterialien aktiv mit. Dabei bearbeiten Sie selbst Einkaufsvorgänge, entwickeln Beschaffungsstrategien und begleiten den gesamten Prozess von der Bedarfsermittlung bis zum erfolgreichen Vertragsabschluss. * Führen und mitarbeiten: Sie übernehmen die fachliche und disziplinarische Führung des Einkaufsteams. Gleichzeitig arbeiten Sie selbst operativ mit, bearbeiten Einkaufsvorgänge und sind im Tagesgeschäft nah an den Themen und Menschen. * Erfolgreich verhandeln: Sie führen eigenständig Preis-, Vertrags- und Konditionsverhandlungen mit nationalen und internationalen Lieferanten und entwickeln bestehende Lieferantenbeziehungen weiter. * Versorgung sicherstellen: Sie stimmen sich eng mit Produktionsplanung, Produktentwicklung und Qualitätssicherung ab und sorgen dafür, dass unsere Produktion zuverlässig mit den benötigten Materialien versorgt wird. * Prozesse verbessern: Sie hinterfragen bestehende Abläufe, erkennen Optimierungspotenziale und setzen Verbesserungen gemeinsam mit Ihrem Team um. * Qualität und Kosten im Blick behalten: Sie bearbeiten Reklamationen, bewerten Lieferanten und behalten Kosten, Qualität, Lieferfähigkeit und Bestände im Blick. * Ergebnisse transparent machen: Sie analysieren Einkaufskennzahlen, erstellen Auswertungen und leiten daraus konkrete Maßnahmen ab. Das bringen Sie mit * Sie haben eine kaufmännische Ausbildung mit entsprechender Weiterbildung oder ein betriebswirtschaftliches Studium erfolgreich abgeschlossen - idealerweise mit Schwerpunkt Einkauf, Materialwirtschaft oder Supply Chain Management. * Sie bringen mehrjährige Erfahrung im strategischen und operativen Einkauf mit, idealerweise in einem produzierenden Unternehmen. * Sie haben bereits Führungserfahrung oder sind bereit, Verantwortung für ein Team zu übernehmen. * Sie führen Ihr Team mit klarer Orientierung, fördern die Entwicklung Ihrer Mitarbeitenden und arbeiten selbst aktiv im Tagesgeschäft mit. * Sie verhandeln sicher, denken wirtschaftlich und bauen langfristige Lieferantenbeziehungen auf. * Sie behalten auch bei kurzfristigen Änderungen den Überblick und finden pragmatische Lösungen. * Sie arbeiten strukturiert, analytisch und eigenständig - und packen dort mit an, wo Sie gebraucht werden. * Idealerweise kennen Sie den Einkauf von Rohstoffen und Verpackungsmaterialien. * Sie sind sicher im Umgang mit MS Office und ERP-Systemen und verfügen über gute Deutsch- und Englischkenntnisse. Das erwartet Sie bei VIVIL * Ein namhafter Arbeitgeber mit über 120 Jahren Tradition * Ein zukunftsorientierter Arbeitsplatz mit viel Gestaltungsspielraum * Eine verantwortungsvolle Aufgabe mit kurzen Entscheidungswegen und viel Gestaltungsspielraum * Individuelle Aus-, Fort- und Weiterbildungsmöglichkeiten * Ein freundliches und kooperatives Arbeitsklima * Leistungsgerechte Vergütung * Flexible Arbeitszeiten * Preisnachlässe auf VIVIL-Produkte und weitere attraktive Vergünstigungen Lust auf eine Aufgabe mit Geschmack? Dann werden Sie Teil unseres Teams und sorgen Sie dafür, dass bei VIVIL die richtigen Zutaten und Materialien zur richtigen Zeit am richtigen Ort sind. Wir freuen uns auf Ihre Bewerbung. VIVIL A. MÜLLER GmbH & Co. KG Moltkestraße 33 . 77654 Offenburg E-Mail: jobs@vivil.de . www.vivil.de . Tel. +49 (0) 781 478 119",
    "zeit": "Vollzeit",
    "schicht": false,
    "quer": false,
@@ -54323,6 +54677,10 @@
    "agency": false,
    "kind": "Производство",
    "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
    "route": {
     "opts": [
      {
@@ -54454,118 +54812,10 @@
     "min": 57,
     "changes": 0
    },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-52779-YF-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4996081324-S"
    ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10000-1207950752-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter (m/w/d) Qualitätssicherung u. Verpackung",
-   "firma": "perspective Personalmanagement GmbH",
-   "ort": "Offenburg",
-   "street": "Hauptstr. 115",
-   "lat": 48.467277,
-   "lon": 7.9408125,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207950752-S",
-   "posted": "2026-09-18",
-   "desc": "Unser langjähriger Kunde in Oberkirch sucht ab sofort --> • • • **Mitarbeiter (m/w/d) Qualitätskontrolle u. Verpackung** • • • **Ihre Perspektive**: - abwechslungsreiche Tätigkeiten und ein kollegiales Miteinander **Ihre Aufgaben**: - Durchführung von Sicht-, Maß- und Funktionsprüfungen gemäß Vorgabe - Pflege von Qualitätsdokumenten **Ihr Profil**: - idealerweise berufliche Erfahrung in der Qualitätssicherung - technisches Interesse & Verständnis - routinierter Umgang mit Geräten & Computer - Bereitschaft zur Arbeit in 3-Schicht **Sie sind interessiert?** **Dann bewerben Sie sich bitte mit Ihrem Lebenslauf per** -> E-Mail m.baer@perspective-personal.de -> Tel.: 0781 - 12 55 45-11 -> Hauptstraße 115 in 77652 Offenburg",
-   "zeit": "Vollzeit",
-   "schicht": true,
-   "quer": true,
-   "who": "marina",
-   "km": 12.6,
-   "de": "?",
-   "de_txt": "",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 42,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 16,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:14",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:14",
-        "min": 16
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 42
-     },
-     {
-      "kind": "велосипед",
-      "min": 76,
-      "changes": 0,
-      "km": 18.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 76
-       }
-      ],
-      "risky": false,
-      "score": 132
-     }
-    ],
-    "best": "транспорт",
-    "min": 42,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "Марина"
   },
   {
