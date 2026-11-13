@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13T01:06",
+ "generated": "2026-11-13T06:56",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 50,
+ "count": 49,
  "items": [
   {
    "id": "li_4461536152",
@@ -45,28 +45,6 @@
    "kind": "Общее / другое",
    "ausb": false,
    "first_seen": "2026-11-13T00:47",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4482372983",
-   "src": "LinkedIn",
-   "title": "Praxisintegrierte Ausbildung (PiA) zum Erzieher (m/w/d)",
-   "firma": "Stadtverwaltung Lahr Personalamt",
-   "ort": "Lahr/Schwarzwald",
-   "plz": "",
-   "street": "",
-   "lat": 48.338896,
-   "lon": 7.8710825,
-   "url": "https://de.linkedin.com/jobs/view/4482372983",
-   "posted": "2026-09-29",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 16.3,
-   "kind": "Общее / другое",
-   "ausb": true,
-   "first_seen": "2026-11-12T23:10",
    "status": "open",
    "also_urls": []
   },
@@ -230,7 +208,6 @@
    "first_seen": "2026-11-08T22:18",
    "status": "open",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4487134659",
     "https://de.linkedin.com/jobs/view/4487950738"
    ]
   },
