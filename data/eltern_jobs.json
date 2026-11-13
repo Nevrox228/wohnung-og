@@ -1,9 +1,1178 @@
 {
- "generated": "2026-11-13T12:44",
+ "generated": "2026-11-13T13:34",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 414,
+ "count": 421,
  "items": [
+  {
+   "id": "marina:ka_3570096450",
+   "src": "Kleinanzeigen",
+   "title": "Maschinenbediener - Produktionsmitarbeiter - Produktionshelfer...",
+   "firma": "Stepstone",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "",
+   "lat": 48.3785759,
+   "lon": 7.8951348,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/maschinenbediener-produktionsmitarbeiter-produktionshelfer-/3570096450-111-8045",
+   "posted": "2026-11-13",
+   "posted_time": "13:27",
+   "desc": "Maschinenbediener - Produktionsmitarbeiter - Produktionshelfer... bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14727197/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Maschinenbediener - Produktionsmitarbeiter - Produktionshelfer (m/w/d) bis 17,-€ / Std. Wir suchen ab sofort motivierte Unterstützung als Maschinenbediener - Produktionsmitarbeiter - Produktionshelfer (m/w/d) bis 17,-€ / Std. Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● Bedienen, Einrichten und Überwachen von Schleif-, Polier- und Strahlmaschinen ● Qualitätskontrolle ● Verpackungstätigkeiten Profil Das bringen Sie mit: ● idealerweise erste Berufserfahrung in der Oberflächenveredelung ● gute Deutschkenntnisse ● Bereitschaft zur 2-Schichtarbeit ● selbstständige Arbeitsweise, Teamfähigkeit und Zuverlässigkeit Wir bieten Diese Vorteile erwarten Sie bei Tempton ● unbefristetes Arbeitsverhältnis ● übertarifliche Bezahlung ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● Urlaubs- und Weihnachtsgeld ● Zuschüsse zur betrieblichen Altersvorsorge ● attraktive Mitarbeiterrabatte bis zu 85 % auf namhafte Produkte ● volle Lohnauszahlung zum 15. Bankarbeitstag des Monats mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● kostenfreie Stellung von Arbeitsschutzkleidung KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 21.8,
+   "de": "нужен",
+   "de_txt": "gute Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 99,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Oberweier Litzengrund",
+      "dep": "06:32",
+      "arr": "08:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "104",
+        "from": "Lahr (Schwarzw)",
+        "to": "Oberweier Litzengrund",
+        "dep": "07:38",
+        "arr": "08:06",
+        "wait": 22,
+        "min": 28
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberweier Litzengrund",
+        "to": "работа",
+        "dep": "08:06",
+        "arr": "08:12",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 105
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 214,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 188,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:07",
+        "min": 188
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 214
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 32.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     }
+    ],
+    "best": "транспорт",
+    "min": 99,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570092175",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Wolfach",
+   "plz": "77709",
+   "street": "",
+   "lat": 48.3214206,
+   "lon": 8.2473819,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-/3570092175-111-8538",
+   "posted": "2026-11-13",
+   "posted_time": "13:23",
+   "desc": "Produktionshelfer (m/w/d) bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14322011/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Produktionshelfer (m/w/d) Wir suchen ab sofort motivierte Unterstützung als Produktionshelfer (m/w/d) Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● Einfache Lackier- und Schleifarbeiten ● Unterstützung in der Montage ● Be- und Entladen der Ware Profil Das bringen Sie mit: ● handwerkliches Geschick ● selbstständige Arbeitsweise und Flexibilität ● Pünktlichkeit und Zuverlässigkeit ● Team- und Kommunikationsfähigkeit ● Deutschkenntnisse ● Quereinsteiger sind HERZLICH WILLKOMMEN Wir bieten Diese Vorteile erwarten Sie bei Tempton ● 200 € Startprämie, sowie 100 € für jeden neuen TEMPTON Mitarbeiter, welchen Sie uns empfehlen ● unbefristeter Arbeitsvertrag ● Übertarifliche Bezahlung mindestens nach GVP/DGB-Tarifvertrag ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge ● persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung ● kostenfreie Stellung von Arbeitsschutzkleidung und Werkzeugen ● Attraktive Mitarbeiterrabatte bis zu 85% auf namhafte Produkte ● Volle Lohnauszahlung zum 15. Bankarbeitstages des Monats, mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● elektronische Zeiterfassung ● sehr gute Chance auf Übernahme in den Kundenbetrieb KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.3,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 126,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 41,
+      "end_stop": "Wolfach Stadion",
+      "dep": "05:21",
+      "arr": "07:28",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Wolfach",
+        "dep": "05:54",
+        "arr": "06:26",
+        "wait": 6,
+        "min": 32
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7161",
+        "from": "Wolfach",
+        "to": "Wolfach Stadion",
+        "dep": "06:44",
+        "arr": "06:47",
+        "wait": 18,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Wolfach Stadion",
+        "to": "работа",
+        "dep": "06:47",
+        "arr": "07:28",
+        "min": 41
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 132
+     },
+     {
+      "kind": "велосипед",
+      "min": 157,
+      "changes": 0,
+      "km": 38.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 157
+       }
+      ],
+      "risky": false,
+      "score": 294
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 588,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 562,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:10",
+        "min": 562
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 588
+     }
+    ],
+    "best": "транспорт",
+    "min": 126,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570089185",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter - Produktionshelfer (m/w/d) mit Fahrauf...",
+   "firma": "Stepstone",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-produktionshelfer-m-w-d-mit-fahrauf-/3570089185-111-9040",
+   "posted": "2026-11-13",
+   "posted_time": "13:20",
+   "desc": "Produktionsmitarbeiter - Produktionshelfer (m/w/d) mit Fahrauf... bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14322003/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Produktionsmitarbeiter - Produktionshelfer (m/w/d) mit Fahrauftrag Wir suchen ab sofort motivierte Unterstützung als Produktionsmitarbeiter - Produktionshelfer (m/w/d) mit Fahrauftrag Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● Unterstützung in der Produktion ● Maschinenbedienung ● Durchführung einfacher Montagetätigkeiten ● Qualitätskontrolle der gefertigten Produkte (z. B. Sichtprüfungen) ● Produktionsversorgung mittels Stapler / PKW und Anhänger Profil Das bringen Sie mit: ● handwerkliches Geschick ● selbstständige Arbeitsweise und Flexibilität ● Pünktlichkeit und Zuverlässigkeit ● Bereitschaft zur Schichtarbeit ● Führerschein (Klasse B und BE) ● Staplerschein ● Team- und Kommunikationsfähigkeit ● Deutschkenntnisse ● Quereinsteiger sind HERZLICH WILLKOMMEN Wir bieten Diese Vorteile erwarten Sie bei Tempton ● 200 € Startprämie, sowie 100 € für jeden neuen TEMPTON Mitarbeiter, welchen Sie uns empfehlen ● unbefristeter Arbeitsvertrag ● Übertarifliche Bezahlung mindestens nach GVP/DGB-Tarifvertrag ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge ● persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung ● kostenfreie Stellung von Arbeitsschutzkleidung und Werkzeugen ● Attraktive Mitarbeiterrabatte bis zu 85% auf namhafte Produkte ● Volle Lohnauszahlung zum 15. Bankarbeitstages des Monats, mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● elektronische Zeiterfassung ● sehr gute Chance auf Übernahme in den Kundenbetrieb KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Staplerschein",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570064470",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d)*",
+   "firma": "Heyrecruit",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-/3570064470-111-9035",
+   "posted": "2026-11-13",
+   "posted_time": "12:57",
+   "desc": "HeiBa GmbH HeiBa GmbH Personalvermittlung - Wo Leistung auf Persönlichkeit trifft Starten Sie jetzt Ihre berufliche Zukunft in Appenweier als Produktionsmitarbeiter (m/w/d)*: Ihre Aufgaben ● Maschinen starten und bedienen ● Produkte nach Rezept herstellen ● Sauberkeit und Ordnung halten ● Qualität der Produkte kontrollieren ● Material nachfüllen und verbuchen ● Probleme melden und lösen Das bringen Sie mit ● Ausbildung in Pharma, Chemie, Lebensmittelbereich oder Gastronomie ● Erfahrung mit Maschinen ● Gute Deutschkenntnisse ● Zuverlässig und genau arbeiten ● Schichtarbeit möglich ● Führerschein und eigenes Auto von Vorteil Ihr Plus bei uns ● Unkomplizierter und schneller Bewerbungsprozess ● Attraktive, marktgerechte Vergütung sowie zusätzliche Sozialleistungen ● Fester Ansprechpartner und persönliche Betreuung ● Zugang zu einem großen und starken Unternehmensnetzwerk ● Vermittlung in einen zukunftssicheren Arbeitsplatz ● Geregelte und planbare Arbeitszeiten Kontakt Sie können nur gewinnen: ein kurzer Anruf genügt und wir besprechen dann alles Weitere. Bewerben Sie sich auch gerne per E-Mail. Ihr HeiBa Team Mit der Kontaktaufnahme bzw. Zusendung einer Bewerbung erklären Sie sich mit der Speicherung und Weiterverarbeitung Ihrer persönlichen Daten einverstanden. * Charakter und Fähigkeiten sind entscheidend, nicht das Geschlecht!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570064333",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d)*",
+   "firma": "Heyrecruit",
+   "ort": "Meißenheim",
+   "plz": "77974",
+   "street": "",
+   "lat": 48.4041504,
+   "lon": 7.7905411,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-/3570064333-111-8043",
+   "posted": "2026-11-13",
+   "posted_time": "12:57",
+   "desc": "HeiBa GmbH HeiBa GmbH Personalvermittlung - Wo Leistung auf Persönlichkeit trifft Starten Sie jetzt Ihre berufliche Zukunft in Meißenheim als Produktionsmitarbeiter (m/w/d)*: Ihre Aufgaben ● Bedienen von Maschinen ● Qualitätskontrolle ● Fachgerechtes Verpacken der Produkte ● Vorbereiten und Bereitstellen von Materialien ● Einhalten von Sicherheits- und Hygienestandards Das bringen Sie mit ● Erste Erfahrung in der Produktion ist von Vorteil ● Idealerweise Erfahrung im Bereich Hauswirtschaft, Reinigung oder Lagerlogistik ● Qualitätsbewusstsein ● Technisches Verständnis ● Teamfähigkeit und Zuverlässigkeit Ihr Plus bei uns ● Unkomplizierter und schneller Bewerbungsprozess ● Attraktive, marktgerechte Vergütung sowie zusätzliche Sozialleistungen ● Fester Ansprechpartner und persönliche Betreuung ● Zugang zu einem großen und starken Unternehmensnetzwerk ● Vermittlung in einen zukunftssicheren Arbeitsplatz ● Geregelte und planbare Arbeitszeiten Kontakt Sie können nur gewinnen: ein kurzer Anruf genügt und wir besprechen dann alles Weitere. Bewerben Sie sich auch gerne per E-Mail. Ihr HeiBa Team Mit der Kontaktaufnahme bzw. Zusendung einer Bewerbung erklären Sie sich mit der Speicherung und Weiterverarbeitung Ihrer persönlichen Daten einverstanden. * Charakter und Fähigkeiten sind entscheidend, nicht das Geschlecht!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 25.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 102,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 14,
+      "end_stop": "Meißenheim Nord",
+      "dep": "06:32",
+      "arr": "08:15",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Meißenheim Nord",
+        "dep": "07:32",
+        "arr": "08:01",
+        "wait": 16,
+        "min": 29
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Meißenheim Nord",
+        "to": "работа",
+        "dep": "08:01",
+        "arr": "08:15",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 108
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 274,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 248,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:07",
+        "min": 248
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 274
+     },
+     {
+      "kind": "велосипед",
+      "min": 162,
+      "changes": 0,
+      "km": 39.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 162
+       }
+      ],
+      "risky": false,
+      "score": 304
+     }
+    ],
+    "best": "транспорт",
+    "min": 102,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570064384",
+   "src": "Kleinanzeigen",
+   "title": "Lagermitarbeiter (m/w/d)*",
+   "firma": "Heyrecruit",
+   "ort": "Offenburg",
+   "plz": "77654",
+   "street": "",
+   "lat": 48.4755964,
+   "lon": 7.9828459,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-/3570064384-247-9038",
+   "posted": "2026-11-13",
+   "posted_time": "12:57",
+   "desc": "HeiBa GmbH HeiBa GmbH Personalvermittlung - Wo Leistung auf Persönlichkeit trifft Starten Sie jetzt Ihre berufliche Zukunft in Offenburg als Lagermitarbeiter (m/w/d)*: Ihre Aufgaben ● Ein- und Auslagerung von Waren, Überwachung der Lagerbestände sowie Sicherstellung einer ordnungsgemäßen und sauberen Lagerorganisation ● Kommissionierung ● Durchführung kleinerer Reparatur- und Wartungsarbeiten ● Flexible Unterstützung in verschiedenen Betriebsbereichen je nach saisonalem Bedarf Das bringen Sie mit ● Handwerkliches Geschick und technisches Verständnis ● Körperliche Belastbarkeit (z. B. Heben, Stehen, Arbeiten in wechselnden Temperaturen) ● Selbstständige und zuverlässige Arbeitsweise ● Teamfähigkeit und Flexibilität ● Erfahrung im Bereich Weinbau/Lager von Vorteil Ihr Plus bei uns ● Unkomplizierter und schneller Bewerbungsprozess ● Attraktive, marktgerechte Vergütung sowie zusätzliche Sozialleistungen ● Fester Ansprechpartner und persönliche Betreuung ● Zugang zu einem großen und starken Unternehmensnetzwerk ● Vermittlung in einen zukunftssicheren Arbeitsplatz ● Geregelte und planbare Arbeitszeiten Kontakt Sie können nur gewinnen: ein kurzer Anruf genügt und wir besprechen dann alles Weitere. Bewerben Sie sich auch gerne per E-Mail. Ihr HeiBa Team Mit der Kontaktaufnahme bzw. Zusendung einer Bewerbung erklären Sie sich mit der Speicherung und Weiterverarbeitung Ihrer persönlichen Daten einverstanden. * Charakter und Fähigkeiten sind entscheidend, nicht das Geschlecht!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 9.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 1,
+      "min_wait": 16,
+      "walk_end": 4,
+      "end_stop": "Zell-Weierbach Abtsberghalle",
+      "dep": "06:32",
+      "arr": "07:31",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Offenburg",
+        "line": "S1",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Zell-Weierbach Abtsberghalle",
+        "dep": "07:15",
+        "arr": "07:28",
+        "wait": 16,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Zell-Weierbach Abtsberghalle",
+        "to": "работа",
+        "dep": "07:28",
+        "arr": "07:31",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 68,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 42,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:29",
+        "min": 42
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 68
+     },
+     {
+      "kind": "велосипед",
+      "min": 66,
+      "changes": 0,
+      "km": 16.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 66
+       }
+      ],
+      "risky": false,
+      "score": 112
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570095012",
+   "src": "Kleinanzeigen",
+   "title": "Lackierer - Lackierhelfer (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Oppenau",
+   "plz": "77728",
+   "street": "",
+   "lat": 48.4828605,
+   "lon": 8.1804316,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lackierer-lackierhelfer-m-w-d-/3570095012-109-8225",
+   "posted": "2026-11-13",
+   "posted_time": "13:25",
+   "desc": "Lackierer - Lackierhelfer (m/w/d) bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14322024/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Lackierer - Lackierhelfer (m/w/d) Wir suchen ab sofort motivierte Unterstützung als Lackierer - Lackierhelfer (m/w/d) Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● Lackiervorbereitung ● Lackierarbeiten ● Lackiernachbearbeitung ● Finish-Arbeiten Profil Das bringen Sie mit: ● abgeschlossene Ausbildung als Lackierer wünschenswert aber kein Muss ● Erfahrung im Lackieren erforderlich ● selbstständige Arbeitsweise und Flexibilität ● Pünktlichkeit und Zuverlässigkeit ● Bereitschaft zur Schichtarbeit ● Team- und Kommunikationsfähigkeit ● Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton ● 200 € Startprämie, sowie 100 € für jeden neuen TEMPTON Mitarbeiter, welchen Sie uns empfehlen ● unbefristeter Arbeitsvertrag ● Übertarifliche Bezahlung mindestens nach GVP/DGB-Tarifvertrag ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge ● persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung ● kostenfreie Stellung von Arbeitsschutzkleidung und Werkzeugen ● Attraktive Mitarbeiterrabatte bis zu 85% auf namhafte Produkte ● Volle Lohnauszahlung zum 15. Bankarbeitstages des Monats, mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● elektronische Zeiterfassung ● sehr gute Chance auf Übernahme in den Kundenbetrieb KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 9.0,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 57,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 28,
+      "end_stop": "Oppenau Oberes Stadttor",
+      "dep": "16:12",
+      "arr": "17:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Oppenau Oberes Stadttor",
+        "dep": "16:38",
+        "arr": "16:41",
+        "wait": 6,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oppenau Oberes Stadttor",
+        "to": "работа",
+        "dep": "16:41",
+        "arr": "17:09",
+        "min": 28
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 60
+     },
+     {
+      "kind": "велосипед",
+      "min": 53,
+      "changes": 0,
+      "km": 12.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 53
+       }
+      ],
+      "risky": false,
+      "score": 86
+     }
+    ],
+    "best": "транспорт",
+    "min": 57,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570085859",
+   "src": "Kleinanzeigen",
+   "title": "Helfer - Verpackung (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-verpackung-m-w-d-/3570085859-109-9035",
+   "posted": "2026-11-13",
+   "posted_time": "13:17",
+   "desc": "Helfer - Verpackung (m/w/d) bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14322007/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Helfer - Verpackung (m/w/d) Wir suchen ab sofort motivierte Unterstützung als Helfer - Verpackung (m/w/d) Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● Bedienung, Rüsten und Reinigung von Konfektionierungsanlagen ● Überwachung der Bestückung ● Durchführung von Materialkontrollen ● Einhaltung der Qualitätsstandards Profil Das bringen Sie mit: ● abgeschlossene Ausbildung im pharmazeutischen Bereich oder entsprechende Erfahrung wünschenswert ● selbstständige Arbeitsweise und Flexibilität ● Pünktlichkeit und Zuverlässigkeit ● Bereitschaft zur Schichtarbeit ● Team- und Kommunikationsfähigkeit ● gute Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton ● 200 € Startprämie, sowie 100 € für jeden neuen TEMPTON Mitarbeiter, welchen Sie uns empfehlen ● unbefristeter Arbeitsvertrag ● Übertarifliche Bezahlung mindestens nach GVP/DGB-Tarifvertrag ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● anerkannte Sozialleistungen, inkl. Urlaubs- und Weihnachtsgeld sowie Zuschüsse zur betrieblichen Altersvorsorge ● persönliche Betreuung und Beratung durch einen festen Ansprechpartner in Ihrer Niederlassung ● kostenfreie Stellung von Arbeitsschutzkleidung und Werkzeugen ● Attraktive Mitarbeiterrabatte bis zu 85% auf namhafte Produkte ● Volle Lohnauszahlung zum 15. Bankarbeitstages des Monats, mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● elektronische Zeiterfassung ● sehr gute Chance auf Übernahme in den Kundenbetrieb KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "нужен",
+   "de_txt": "gute Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton",
+   "help": "",
+   "ru": "",
+   "prof_txt": "abgeschlossene Ausbildung im pharmazeutischen Bereich oder entsprechende Erfahrung wü",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T13:14",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_21026-983039922-S",
    "src": "Jobbörse",
@@ -5784,7 +6953,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerist-lagermitarbeiter-kommissionierer-m-w-d-/3570093438-247-9040"
+   ],
    "person": "Марина"
   },
   {
@@ -26428,178 +27599,6 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a65d07002-S"
    ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_12951-98827d83-028f-4103--S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft Minijob samstags 5 - 7.30 Uhr morgens (m/w/d)",
-   "firma": "Klüh Cleaning GmbH",
-   "ort": "Rheinau",
-   "street": "Am Erlenpark",
-   "lat": 48.6230233,
-   "lon": 7.8872059,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-98827d83-028f-4103--S",
-   "posted": "2026-10-06",
-   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) im Minijob für sein Objekt WeberHaus GmbH und Co. KG in Rheinau-Linx. Arbeitszeit nur einmal wöchentlich, samstags, von 5.00 bis 7.30 Uhr morgens. Werden auch Sie Teil des Klüh-Teams! Ihre Vorteile ✓ 30 Tage Urlaub/Jahr✓ Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit✓ Pünktliche und sichere Vergütung nach Tarifvertrag✓ Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen✓ Kostenloser Parkplatz✓ Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie✓ Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr Ihre Aufgaben ✓ Reinigung der Teeküchen✓ Reinigung der Sanitärräume✓ Reinigung von Büros Ihr Profil ✓ Erfahrung in der Unterhaltsreinigung von Vorteil✓ Gute Deutschkenntnisse zur Kommunikation mit Kollegen nötig✓ Eigenes Fahrzeug zum Erreichen des Arbeitsplatzes um 5 Uhr morgens erforderlich",
-   "zeit": " / Teilzeit / Minijob",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.5,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse zur Kommunikation mit Kollegen nötig",
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 112,
-      "changes": 1,
-      "min_wait": 15,
-      "walk_end": 9,
-      "end_stop": "Linx Süd",
-      "dep": "05:21",
-      "arr": "07:14",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Kehl Rathaus",
-        "dep": "06:03",
-        "arr": "06:47",
-        "wait": 15,
-        "min": 44
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Kehl Rathaus",
-        "to": "Linx Süd",
-        "dep": "06:50",
-        "arr": "07:05",
-        "wait": null,
-        "min": 15
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Linx Süd",
-        "to": "работа",
-        "dep": "07:05",
-        "arr": "07:14",
-        "min": 9
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 115
-     },
-     {
-      "kind": "велосипед",
-      "min": 107,
-      "changes": 0,
-      "km": 26.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 107
-       }
-      ],
-      "risky": false,
-      "score": 194
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 303,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 277,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:24",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:24",
-        "min": 277
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 303
-     }
-    ],
-    "best": "транспорт",
-    "min": 112,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -52025,7 +53024,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerist-lagermitarbeiter-kommissionierer-m-w-d-ab-15-50-/3570090518-247-8045"
+   ],
    "person": "Марина"
   },
   {

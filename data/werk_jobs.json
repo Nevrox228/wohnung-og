@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T12:44",
+ "generated": "2026-11-13T13:34",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 464,
-  "queue": 261,
-  "ai_focus": 244
+  "all": 466,
+  "queue": 263,
+  "ai_focus": 245
  },
  "jobs": [
   {
@@ -303,6 +303,32 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "li_4490594966",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student – Data & AI (f/m/d)",
+   "company": "Black Semiconductor",
+   "location": "Aachen",
+   "distance_km": 289.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4490594966",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-13T13:14",
+   "description": "Your Role As a Working Student in our Data & AI department, you will support the team across a range of projects and help bring Black Semiconductor’s AI-first vision to life. Working closely with a dedicated mentor, you will gain hands-on experience in data engineering, data science, and AI technologies. You will support the development and testing of data and machine-learning platforms, contribute to ontologies and knowledge graphs, and assist with agentic platforms and AI tools. What You’ll Do Support the setup, configuration and testing of data and machine-learning platforms Help create, structure and maintain ontologies and knowledge graphs Assist with configuring agentic platforms, LLM tools and other AI technologies Perform data preparation, analysis and data-pipeline tasks under guidance Support research and other administrative activities related to Data & AI projects Prepare clear documentation so that your work and findings can be understood and reused by others Record meeting notes and help keep project information structured and up to date Participate in stand-ups and team meetings, sharing your progress, questions and blockers openly Collaborate with your mentor and other team members while developing your technical skills What You Bring Current enrolment in a bachelor’s or master’s programme in computer science, data science, physics, electrical engineering, mathematics, business informatics or another quantitative field An interest in artificial intelligence, data technologies, deep tech or the semiconductor industry Curiosity, reliability and a strong willingness to learn A structured approach to your work and the confidence to ask questions when something is unclear Good communication and teamwork skills Good English skills; German is an advantage Some programming experience with Python or SQL is an advantage Familiarity with Jupyter, Git or GitLab is an advantage Experience with Microsoft 365, Teams, Miro or PowerPoint Familiarity with LLM tools or agent frameworks is an advantage Our work culture People Over Processes. At Black Semiconductor, flexibility is key—we ensure work adapts to life, not the other way around. We champion work-life harmony, where careers are meaningful and enriching. Our processes are human-centric, allowing you to focus on what matters Let’s grow together. Your potential is our priority. We provide the autonomy to make a lasting impact and nurture your growth through a culture of continuous learning. We invest in your journey for professional and personal development Your Health and Future Matter. Your well-being is paramount. We offer a comprehensive benefits package with outstanding insurance, pension and virtual stock options for your mental, physical, and financial health. Your peace of mind is our priority - in the present and future We Live Openness. Collaboration and inclusivity are the cornerstones of our culture. We practice openness, fostering trust and respect. Individuality is our collective"
   },
   {
    "id": "ba_18706-9JKMKLB2Thrfnq-S",
@@ -5209,6 +5235,32 @@
    "posted": "2026-09-15",
    "first_seen": "2026-11-04T12:29",
    "description": "Deine Aufgaben Du unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend. Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js. Du hilfst dabei, Schnittstellen zwischen Webshop, ERP, Versanddienstleistern und Lieferanten weiterzuentwickeln. Du analysierst bestehende Prozesse und bringst eigene Ideen ein, wie wir Abläufe durch Software und Automatisierung verbessern können und unterstützt bei der Umsetzung von Prozessen aus Lager, Versand und Einkauf. Du arbeitest mit modernen KI- und LLM-Tools und unterstützt bei deren Einsatz für z. B. Belegerkennung, Datenextraktion oder die Automatisierung von Workflows. Dein Profil Du studierst Informatik, Software Engineering, Wirtschaftsinformatik oder einen vergleichbaren Studiengang. Du hast erste Erfahrung in der Webentwicklung, idealerweise mit React, Vue oder TypeScript. Du hast Interesse an Fullstack-Entwicklung und möchtest deine Kenntnisse im Frontend und Backend weiter ausbauen. Grundkenntnisse in Datenbanken und APIs sind von Vorteil. Du interessierst dich dafür, wie Software reale Geschäftsprozesse wie Lager, Versand, Einkauf und Buchhaltung abbildet. Du hast Lust, neue Technologien auszuprobieren und dich beispielsweise mit KI- und LLM-Anwendungen zu beschäftigen. Du arbeitest selbstständig, zuverlässig und gerne im Team. Du bringst Neugier mit und hast keine Angst davor, dich in neue Themen einzuarbeiten. Warum wir? Wertschätzung und Teamgeist: Wir schaffen ein unterstützendes Umfeld, in dem deine Passion und Eigenverantwortung geschätzt werden. Gestaltungsfreiheit in einem dynamischen Umfeld: Hier kannst du deine Ideen sofort umsetzen und aktiv zum Erfolg beitragen! Persönliche und berufliche Weiterentwicklung: Bei uns hast du hervorragende Aussichten auf berufliche Weiterentwicklung - wir setzen auf den langfristigen Aufbau unseres Teams. Attraktive Vergütung: Wir honorieren deine Arbeit mit einer Vergütung, die sich sehen lassen kann. Work-Life-Balance: Modernes Arbeitsumfeld, mobiles Arbeiten und flexible Arbeitszeiten sind unser Standard. Über uns Welectron. Empowering Innovations of Tomorrow. Du bist Visionär und möchtest die Zukunft mitgestalten? Dann bist du bei uns richtig! Wir begleiten Maker, Ingenieure und Unternehmen auf ihrem Weg von der Idee zum Erfolg. Wir glauben daran, dass Innovationen die Welt verändern können und möchten unseren Teil dazu beitragen. Als Partner für die Entwicklung und Fertigung von Prototypen bis hin zur Großserie liefern wir die notwendige Technik, um Visionen Wirklichkeit werden zu lassen. Unsere Produkte umfassen hochwertige Messtechnik, Löttechnik und 3D-Drucker, ebenso wie passende Elektronikkomponenten aus dem Embedded Computing Bereich. Als Mitarbeitender bei Welectron wirst du Teil eines dynamischen Teams, das sich für Innovation und Fortschritt einsetzt. Du wirst die Möglichkeit haben, deine Fähigkeiten und Kenntnis"
+  },
+  {
+   "id": "ba_12117-YF-54317-YF-S",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Infrastrukturplanung & Digitalisierung (all genders)",
+   "company": "Blackwave GmbH",
+   "location": "Garching bei München",
+   "distance_km": 262.3,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-54317-YF-S",
+   "apply_url": "https://www.yourfirm.de/job/detail/YF-54317/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-13T13:14",
+   "description": "html Werkstudent Infrastrukturplanung & Digitalisierung (all genders)Garching bei München / Teilzeit / Praktikum Über uns Blackwave designs, manufactures and ships flight-qualified, commercial off-the-shelf composite overwrapped pressure vessels (COPVs) for launch vehicles and satellites. Founded in 2016 and headquartered in Munich, Germany, the company delivers COPVs from a standardized portfolio with flight heritage. The approach reduces lead time from months to days while ensuring that each tank is qualified and flight-ready. Blackwave's mission is to end COPV failure in spaceflight. The company employs more than 150 people across manufacturing facilities in Germany and Texas. More information at Blackwave.com and the procurement platform COPV.com. Werkstudent Infrastrukturplanung & Digitalisierung (all genders) Garching bei München / Teilzeit / Praktikum DEINE AUFGABEN THE WHAT Du unterstützt unser Infrastrukturteam bei der Digitalisierung und Weiterentwicklung der bestehenden Infrastrukturplanung an unseren Standorten in Garching und Taufkirchen. Dazu misst du Hallen, Medienführungen und Maschinenstellplätze auf, überträgst die Daten in maßstäbliche CAD-Pläne und hältst diese kontinuierlich aktuell. Darüber hinaus erstellst du Anforderungsprofile und bereitest Anfragen an Handwerker vor. Dabei arbeitest du eng mit dem Teamlead Infrastruktur, der Produktion und den jeweiligen Bereichsverantwortlichen zusammen. THE WHY Viele unserer Bestandspläne sind veraltet oder liegen nur analog vor. Gleichzeitig erfordern der Ausbau unserer Hallen und neue Maschinenaufstellungen eine verlässliche Planungsgrundlage mit präzisen Maßen und aktuellen Informationen. YOUR IMPACT * Du schaffst eine verlässliche digitale Grundlage für unsere Infrastrukturplanung * Mit maßstabsgetreuen und aktuellen Plänen ermöglichst du schnellere und fehlerfreie Ausschreibungen und Umsetzungen * Reduzierst Rückfragen und Nacharbeiten und entlastest unser Infrastrukturteam im Tagesgeschäft Deine Aufgaben im Detail und nach Priorität Digitalisierung und Pflege der Bestandspläne unserer Hallen durch maßstäbliche CAD-Grundrisse, Schnitte und Detailpläne mit einheitlicher Planstruktur und Layer-Systematik. Ziel ist eine vollständige digitale Planungsgrundlage für alle Hallen des ersten Standorts innerhalb der ersten sechs Monate. → High Performance: Erstelle präzise, einheitliche und termingerechte CAD-Pläne als Grundlage unserer Infrastrukturplanung. Aufmaß von Maschinenstellplätzen und Infrastrukturbereichen sowie Übertragung der Daten in CAD. Abstimmung und Freigabe der Pläne mit Produktion und Bereichsverantwortlichen vor der Umsetzung, um Fehlmaße, Fehlbestellungen und Nacharbeiten zu vermeiden. → Togetherness: Stimme deine Planung eng mit den relevanten Teams ab und schaffe gemeinsam verlässliche Lösungen. Erstellung von Anforderungsprofilen und Vorbereitung von Handwerkeranfragen mit vollständigen Angaben zu Plänen, Maßen, Medien, Terminen und Ansprechpartnern. Transparente Ke"
   },
   {
    "id": "ss_14749204",
