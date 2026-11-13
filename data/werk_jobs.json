@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T11:56",
+ "generated": "2026-11-13T12:44",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -14,7 +14,7 @@
  },
  "counts": {
   "all": 464,
-  "queue": 260,
+  "queue": 261,
   "ai_focus": 244
  },
  "jobs": [
@@ -5209,6 +5209,32 @@
    "posted": "2026-09-15",
    "first_seen": "2026-11-04T12:29",
    "description": "Deine Aufgaben Du unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend. Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js. Du hilfst dabei, Schnittstellen zwischen Webshop, ERP, Versanddienstleistern und Lieferanten weiterzuentwickeln. Du analysierst bestehende Prozesse und bringst eigene Ideen ein, wie wir Abläufe durch Software und Automatisierung verbessern können und unterstützt bei der Umsetzung von Prozessen aus Lager, Versand und Einkauf. Du arbeitest mit modernen KI- und LLM-Tools und unterstützt bei deren Einsatz für z. B. Belegerkennung, Datenextraktion oder die Automatisierung von Workflows. Dein Profil Du studierst Informatik, Software Engineering, Wirtschaftsinformatik oder einen vergleichbaren Studiengang. Du hast erste Erfahrung in der Webentwicklung, idealerweise mit React, Vue oder TypeScript. Du hast Interesse an Fullstack-Entwicklung und möchtest deine Kenntnisse im Frontend und Backend weiter ausbauen. Grundkenntnisse in Datenbanken und APIs sind von Vorteil. Du interessierst dich dafür, wie Software reale Geschäftsprozesse wie Lager, Versand, Einkauf und Buchhaltung abbildet. Du hast Lust, neue Technologien auszuprobieren und dich beispielsweise mit KI- und LLM-Anwendungen zu beschäftigen. Du arbeitest selbstständig, zuverlässig und gerne im Team. Du bringst Neugier mit und hast keine Angst davor, dich in neue Themen einzuarbeiten. Warum wir? Wertschätzung und Teamgeist: Wir schaffen ein unterstützendes Umfeld, in dem deine Passion und Eigenverantwortung geschätzt werden. Gestaltungsfreiheit in einem dynamischen Umfeld: Hier kannst du deine Ideen sofort umsetzen und aktiv zum Erfolg beitragen! Persönliche und berufliche Weiterentwicklung: Bei uns hast du hervorragende Aussichten auf berufliche Weiterentwicklung - wir setzen auf den langfristigen Aufbau unseres Teams. Attraktive Vergütung: Wir honorieren deine Arbeit mit einer Vergütung, die sich sehen lassen kann. Work-Life-Balance: Modernes Arbeitsumfeld, mobiles Arbeiten und flexible Arbeitszeiten sind unser Standard. Über uns Welectron. Empowering Innovations of Tomorrow. Du bist Visionär und möchtest die Zukunft mitgestalten? Dann bist du bei uns richtig! Wir begleiten Maker, Ingenieure und Unternehmen auf ihrem Weg von der Idee zum Erfolg. Wir glauben daran, dass Innovationen die Welt verändern können und möchten unseren Teil dazu beitragen. Als Partner für die Entwicklung und Fertigung von Prototypen bis hin zur Großserie liefern wir die notwendige Technik, um Visionen Wirklichkeit werden zu lassen. Unsere Produkte umfassen hochwertige Messtechnik, Löttechnik und 3D-Drucker, ebenso wie passende Elektronikkomponenten aus dem Embedded Computing Bereich. Als Mitarbeitender bei Welectron wirst du Teil eines dynamischen Teams, das sich für Innovation und Fortschritt einsetzt. Du wirst die Möglichkeit haben, deine Fähigkeiten und Kenntnis"
+  },
+  {
+   "id": "ss_14749204",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Technische Projektierung & Digitalisierung (m/w/d)",
+   "company": "STOPA Anlagenbau GmbH",
+   "location": "Achern-Gamshurst nähe von Offenburg",
+   "distance_km": null,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-Technische-Projektierung-Digitalisierung-m-w-d-Achern-Gamshurst-naehe-von-Offenburg-STOPA-Anlagenbau-GmbH--14749204-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-13T12:26",
+   "description": "STOPA ist ein weltweit führender Hersteller automatisierter Lagersysteme für Bleche und Langgut. Gesucht wird ein Werkstudent Technische Projektierung & Digitalisierung (m/w/d) zur Unterstützung beim Aufbau eines modularen Lagerkonfigurators und der Digitalisierung technischer Planungsprozesse. Ein laufendes Studium in Maschinenbau oder vergleichbarem technischen Studiengang, Grundkenntnisse in SolidWorks und gute MS Office-Kenntnisse werden vorausgesetzt."
   },
   {
    "id": "li_4464645370",
@@ -11973,32 +11999,6 @@
    "posted": "2026-11-04",
    "first_seen": "2026-11-04T12:29",
    "description": "Wir suchen zum frühestmöglichen Einstieg eine:n Werkstudent:in für Content Creation und als On-Camera Talent (m/w/d). Über uns: Die JM Nature GmbH und unsere Marken Ben&Anna und Good on You stehen für moderne Körperpflege mit Charakter. Von zertifizierter, veganer Naturkosmetik bis hin zu trendiger Bodycare entwickeln wir Produkte, die auffallen und Spaß machen. Jetzt suchen wir ein neues Gesicht, das unsere Marken auf Social Media authentisch, kreativ und mit Persönlichkeit zum Leben erweckt. Deine Aufgaben: - Du bist regelmäßig vor der Kamera und wirst eines der Gesichter von Ben&Anna und Good on You. - Du produzierst gemeinsam mit unserem Team Reels, TikToks, Stories und Ads. - Du setzt Skripte und Content-Ideen natürlich und überzeugend um. - Du bringst eigene Ideen ein und greifst aktuelle Social-Media-Trends auf. Dein Profil: - Du fühlst dich vor der Kamera wohl und kannst Inhalte natürlich und mit Energie vermitteln. - Du hast Spaß an TikTok, Instagram & Co. und ein gutes Gespür für Trends und aufmerksamkeitsstarken Content. - Du bist kommunikativ, kreativ und offen für Feedback. - Du arbeitest zuverlässig und eigenständig. - Du bist aktuell an einer Hochschule oder Universität eingeschrieben. Das bieten wir: - Eine sichtbare Rolle mit echtem Einfluss auf den Social-Media-Auftritt unserer Marken. - Viel Raum für eigene Ideen, Persönlichkeit und kreative Formate. - Direkte Zusammenarbeit mit unserem Marketing- und Content-Team. - Praxisnaher Einblick in Content Creation, Branding und Performance Marketing. - Die Chance, den Auftritt von Ben&Anna und Good on You aktiv mitzugestalten. Du fühlst dich vor der Kamera zuhause und Social Media ist dein Ding? Dann zeig uns, wer du bist, und werde eines der Gesichter von Ben&Anna und Good on You. Bewerbung an: p.bischof@jmnature.com"
-  },
-  {
-   "id": "ba_10001-1003776861-S",
-   "queue": false,
-   "status": "open",
-   "stars": 1,
-   "ai_focus": false,
-   "type": "Werkstudent",
-   "track": "Online-Marketing",
-   "title": "Praktikum/ Werkstudent (m/w/d) Bereich Marketing & Content Creation",
-   "company": "CE cideon engineering GmbH & Co. KG",
-   "location": "Chemnitz",
-   "distance_km": 439.5,
-   "remote": true,
-   "german_level": "sehr gut",
-   "german_quote": "",
-   "video_in_job": true,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003776861-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-09-29",
-   "first_seen": "2026-11-04T12:29",
-   "description": "Als Engineering-Dienstleister für Schienenfahrzeuge haben wir spannende und abwechslungsreiche Projektaufgaben, bei denen wir für unsere anspruchsvollen Kunden innovative Lösungen entwickeln. Wir sind ein international agierendes Unternehmen und immer bestrebt, unser Team zu erweitern. Du begeisterst Dich für Social Media, Foto- und Videoproduktion und möchtest kreative Marketingprojekte aktiv mitgestalten? Dann werde Teil unseres Teams und sammle wertvolle Praxiserfahrung in einem spannenden technischen Umfeld. Ab sofort suchen wir einen engagierten Werkstudenten/ Praktikanten im Bereich Marketing & Content Creation (m/w/d) Standort Chemnitz | Werkstudententätigkeit oder Pflichtpraktikum. Bei einem Praktikum beträgt die Einsatzdauer mindestens drei Monate. Deine Aufgaben - Erstellung und Veröffentlichung von Social-Media-Content sowie Pflege aktueller Unternehmensnews - Konzeption, Aufnahme und Bearbeitung von Foto- und Videomaterial für Marketing- und Recruitingzwecke - Kreative Begleitung unserer Fahrzeugprojekte durch Foto- und Videoaufnahmen sowie Aufbereitung des Contents für Social Media, Webseite und Marketingmaterialien - Erstellung von Grafiken und visuellen Inhalten für Online- und Printmedien - Pflege und Aktualisierung unserer Unternehmenswebseiten - Mitarbeit bei der Erstellung und Überarbeitung von Marketing- und Kommunikationsmaterialien (z. B. Flyer, Broschüren, Roll-Ups und Präsentationen) - Unterstützung des Marketingteams im operativen Tagesgeschäft Das bringst Du mit - Eingeschriebener Student (m/w/d) im Bereich Marketing, Kommunikation, Medienmanagement, Grafikdesign oder einer vergleichbaren Fachrichtung - Interesse an Social Media, Content Creation und digitalem Marketing - Begeisterung für Foto- und Videografie sowie kreative Content-Erstellung - Erste Erfahrungen mit Bild- und Videobearbeitungsprogrammen (z. B. Adobe Creative Cloud, Canva, DaVinci Resolve oder vergleichbare Tools) - Idealerweise Kenntnisse im Bereich Animation oder 3D-Visualisierung (z. B. Blender) - Kreativität, Eigeninitiative und ein gutes Gespür für Design und Kommunikation - Selbstständige und strukturierte Arbeitsweise - Sehr gute Deutschkenntnisse in Wort und Schrift Das bieten wir dir: - Du erhältst eine intensive Einarbeitung und persönliche Betreuung - Du profitierst von einer flachen Hierarchie und kurzen Entscheidungswegen - Du arbeitest an spannenden Projekten in der Fahrzeugentwicklung - Du hast flexible Arbeits- und Pausenzeiten - Du bekommst die Möglichkeit auch mobil zu arbeiten - Du genießt ein angenehmes Arbeitsklima, ein hilfsbereites Team sowie ein kollegiales Miteinander Wenn du Lust hast, unser Team zu verstärken und mehr über den Bereich Schienenfahrzeugentwicklung zu erfahren, freuen wir uns auf deine Bewerbung!"
   },
   {
    "id": "ba_11956-3078771793746801-S",
