@@ -1,9 +1,182 @@
 {
- "generated": "2026-11-13T14:23",
+ "generated": "2026-11-13T15:11",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 414,
+ "count": 415,
  "items": [
+  {
+   "id": "marina:ka_3570157487",
+   "src": "Kleinanzeigen",
+   "title": "Zimmermädchen / Roomboy (m/w/d) Spezialist:in für Wohlfühlambient",
+   "firma": "max reach HR",
+   "ort": "Wolfach",
+   "plz": "77709",
+   "street": "",
+   "lat": 48.3214206,
+   "lon": 8.2473819,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zimmermaedchen-roomboy-m-w-d-spezialist-in-fuer-wohlfuehlambient/3570157487-110-8538",
+   "posted": "2026-11-13",
+   "posted_time": "14:25",
+   "desc": "☘️ Naturparkhotel Adler sucht zum nächstmöglichen Zeitpunkt in Wolfach ein/e Zimmermädchen / Roomboy (m/w/d) Spezialist:in für Wohlfühlambiente. MEHR ALS EIN ARBEITSPLATZ Seien Sie der Wind unter den Flügeln des Adlers Sie lieben es für ein gemütliches und sauberes Haus zu sorgen und Gästen ein schönes Ambiente zu zaubern? Sie sind Profi und Gastgeber aus Überzeugung? Sie arbeiten gerne in einem engagierten, internationalen Team? Dann passen Sie perfekt zu uns! Im Naturparkhotel Adler... (gekürzte Stellenanzeige) ❗️❗️❗️❗️ Wichtiger Hinweis ❗️❗️❗️❗️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Die vollständige Stellenausschreibung, alle Kontaktinformationen sowie die Bewerbungsoption finden Sie unter folgendem Link: ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ▼ jobs4us.de/1mos8gy49f7 ▲ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ So funktioniert’s: Klicken Sie auf den Button „Bewerben“ oder Kopieren Sie den Link und fügen Sie ihn in die Adressleiste Ihres Internet-Browsers ein, um den Arbeitgeber zu kontaktieren. ✅",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Отель",
+   "first_seen": "2026-11-13T14:53",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 126,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 41,
+      "end_stop": "Wolfach Stadion",
+      "dep": "05:21",
+      "arr": "07:28",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Wolfach",
+        "dep": "05:54",
+        "arr": "06:26",
+        "wait": 6,
+        "min": 32
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7161",
+        "from": "Wolfach",
+        "to": "Wolfach Stadion",
+        "dep": "06:44",
+        "arr": "06:47",
+        "wait": 18,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Wolfach Stadion",
+        "to": "работа",
+        "dep": "06:47",
+        "arr": "07:28",
+        "min": 41
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 132
+     },
+     {
+      "kind": "велосипед",
+      "min": 157,
+      "changes": 0,
+      "km": 38.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 157
+       }
+      ],
+      "risky": false,
+      "score": 294
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 588,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 562,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:10",
+        "min": 562
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 588
+     }
+    ],
+    "best": "транспорт",
+    "min": 126,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_10000-1208665180-S",
    "src": "Jobbörse",
