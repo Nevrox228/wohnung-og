@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T00:17",
+ "generated": "2026-11-13T01:06",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 458,
-  "queue": 255,
-  "ai_focus": 242
+  "all": 461,
+  "queue": 257,
+  "ai_focus": 243
  },
  "jobs": [
   {
@@ -2893,6 +2893,32 @@
    "description": ""
   },
   {
+   "id": "li_4449773244",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent IT Communications & AI Content Innovation (w/m/d)",
+   "company": "KPMG IT Service GmbH",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4449773244",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-03",
+   "first_seen": "2026-11-13T00:47",
+   "description": "Begleite KPMG dabei, die zukünftigen Herausforderungen unserer Kund:innen erfolgreich zu meistern. Begeistere auch Du Dich für die Vielfalt unserer Aufgaben – und gestalte gemeinsam mit uns den Unterschied. Die KPMG IT Service GmbH ist der IT-Berater und -Dienstleister der KPMG AG. Du verantwortest gemeinsam mit Deinem Team die IT-Infrastruktur und unterstützt die Fachabteilungen bei der Bereitstellung von effizienz- und effektivitätssteigernder Business Software. Eine leistungsfähige IT braucht leistungsfähige Kommunikation. Mit klaren, verständlichen und zielgruppengerechten Inhalten unterstützen wir deutschlandweit Kolleg:innen der KPMG in ihrer täglichen Arbeit. Gleichzeitig gestalten wir die Zukunft der internen Kommunikation aktiv mit: Wir nutzen moderne KI-Technologien, um Inhalte effizienter zu erstellen, Qualität zu steigern und Kommunikationsprozesse kontinuierlich weiterzuentwickeln. Die KPMG IT Service GmbH ist der interne IT-Dienstleister der KPMG AG Wirtschaftsprüfungsgesellschaft. Unsere Kommunikation bewegt sich an der Schnittstelle von IT, Digitalisierung, Innovation und Mensch. Du interessierst Dich für Kommunikation, digitale Technologien und die Möglichkeiten von Künstlicher Intelligenz? Dann werde Teil unseres Teams. Deine Aufgaben Du bist kreativ, zuverlässig und kommunikationsstark? Dann kannst Du Dich unter anderem in folgenden Bereichen einbringen: Du recherchierst, konzipierst und erstellst zielgruppengerechte Inhalte für Intranet, Newsletter, Social Media sowie weitere interne und externe Kommunikationsmaßnahmen. Du unterstützt uns dabei, den Einsatz von Generativer KI in der Unternehmenskommunikation weiterzuentwickeln und neue Anwendungsmöglichkeiten zu identifizieren. Du testest und evaluierst moderne KI-Tools für die Erstellung von Text-, Bild-, Audio- und Videoinhalten und leitest daraus Best Practices für unsere Arbeit ab. Du entwickelst, optimierst und dokumentierst Prompts, Workflows und Content-Prozesse für unterschiedliche Kommunikationsformate und Kanäle. Du bereitest IT-, Technologie- und Digitalisierungsthemen verständlich, kreativ und mediengerecht auf und entwickelst eigene Ideen für neue Formate und Kommunikationsansätze. Du wirkst bei der Erstellung von Multimedia-Inhalten sowie der Planung und Begleitung interner Veranstaltungen und Kommunikationskampagnen mit. Dein Profil Du studierst Kommunikationswissenschaften, Wirtschaftswissenschaften, Wirtschaftsinformatik oder einen vergleichbaren Studiengang und befindest Dich idealerweise mindestens im dritten Fachsemester. Du verfügst über ein sehr gutes Sprachgefühl in Deutsch sowie gute Englischkenntnisse und kannst komplexe Sachverhalte verständlich und zielgruppengerecht formulieren. Du hast Spaß an Unternehmenskommunikation und digitalen Medien, denkst technologieorientiert und möchtest den Einsatz von Generativer KI nutzen, um Kommunikationsprozesse und Inhalte zukunftsorientiert weiterzuentwickeln. Du arbeitest strukturiert, sorgfältig und eigenverant"
+  },
+  {
    "id": "li_4421849825",
    "queue": true,
    "status": "open",
@@ -5159,6 +5185,32 @@
    "posted": "2026-09-15",
    "first_seen": "2026-11-04T12:29",
    "description": "Deine Aufgaben Du unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend. Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js. Du hilfst dabei, Schnittstellen zwischen Webshop, ERP, Versanddienstleistern und Lieferanten weiterzuentwickeln. Du analysierst bestehende Prozesse und bringst eigene Ideen ein, wie wir Abläufe durch Software und Automatisierung verbessern können und unterstützt bei der Umsetzung von Prozessen aus Lager, Versand und Einkauf. Du arbeitest mit modernen KI- und LLM-Tools und unterstützt bei deren Einsatz für z. B. Belegerkennung, Datenextraktion oder die Automatisierung von Workflows. Dein Profil Du studierst Informatik, Software Engineering, Wirtschaftsinformatik oder einen vergleichbaren Studiengang. Du hast erste Erfahrung in der Webentwicklung, idealerweise mit React, Vue oder TypeScript. Du hast Interesse an Fullstack-Entwicklung und möchtest deine Kenntnisse im Frontend und Backend weiter ausbauen. Grundkenntnisse in Datenbanken und APIs sind von Vorteil. Du interessierst dich dafür, wie Software reale Geschäftsprozesse wie Lager, Versand, Einkauf und Buchhaltung abbildet. Du hast Lust, neue Technologien auszuprobieren und dich beispielsweise mit KI- und LLM-Anwendungen zu beschäftigen. Du arbeitest selbstständig, zuverlässig und gerne im Team. Du bringst Neugier mit und hast keine Angst davor, dich in neue Themen einzuarbeiten. Warum wir? Wertschätzung und Teamgeist: Wir schaffen ein unterstützendes Umfeld, in dem deine Passion und Eigenverantwortung geschätzt werden. Gestaltungsfreiheit in einem dynamischen Umfeld: Hier kannst du deine Ideen sofort umsetzen und aktiv zum Erfolg beitragen! Persönliche und berufliche Weiterentwicklung: Bei uns hast du hervorragende Aussichten auf berufliche Weiterentwicklung - wir setzen auf den langfristigen Aufbau unseres Teams. Attraktive Vergütung: Wir honorieren deine Arbeit mit einer Vergütung, die sich sehen lassen kann. Work-Life-Balance: Modernes Arbeitsumfeld, mobiles Arbeiten und flexible Arbeitszeiten sind unser Standard. Über uns Welectron. Empowering Innovations of Tomorrow. Du bist Visionär und möchtest die Zukunft mitgestalten? Dann bist du bei uns richtig! Wir begleiten Maker, Ingenieure und Unternehmen auf ihrem Weg von der Idee zum Erfolg. Wir glauben daran, dass Innovationen die Welt verändern können und möchten unseren Teil dazu beitragen. Als Partner für die Entwicklung und Fertigung von Prototypen bis hin zur Großserie liefern wir die notwendige Technik, um Visionen Wirklichkeit werden zu lassen. Unsere Produkte umfassen hochwertige Messtechnik, Löttechnik und 3D-Drucker, ebenso wie passende Elektronikkomponenten aus dem Embedded Computing Bereich. Als Mitarbeitender bei Welectron wirst du Teil eines dynamischen Teams, das sich für Innovation und Fortschritt einsetzt. Du wirst die Möglichkeit haben, deine Fähigkeiten und Kenntnis"
+  },
+  {
+   "id": "li_4464645370",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Web / Shop / SEO",
+   "title": "E-Commerce Werkstudent (m/w/d)",
+   "company": "Picnic Technologies",
+   "location": "Hamburg",
+   "distance_km": 575.0,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4464645370",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-13T00:47",
+   "description": "Kurz und knapp Als Online-Supermarkt ist das Herzstück unseres Businesses natürlich die Picnic App. Das Category Management Team sorgt dafür, dass unsere digitalen Regale perfekt mit den besten lokalen und internationalen Produkten ausgestattet sind – und das immer frisch und zu den besten Preisen. Als WerkstudentIn (m/w/d) bist du das operative Rückgrat dieses Teams und bekommst tiefe Einblicke in den E-Commerce und den FMCG-Bereich (Fast-Moving Consumer Goods). Du tauchst tief in Daten ein, unterstützt bei der Sortimentsgestaltung und sorgst dafür, dass unsere Produkte in der App optimal präsentiert werden. Du arbeitest eng mit unseren Category Managern sowie cross-funktionalen Teams (wie Supply Chain und Marketing) zusammen, pflegst wichtige Stammdaten und hilfst dabei, dass unsere App für die KundInnen immer perfekt gepflegt ist. Mit deinem analytischen Denken und smarten Automatisierungstools machst du unsere Prozesse zudem jeden Tag ein Stückchen besser. Das erwartet dich Unterstützung im Tagesgeschäft: Du hilfst unseren Category Managern bei operativen und administrativen Aufgaben im E-Commerce-Alltag – von der Ein- und Auslistung von Produkten bis hin zur Überprüfung von Datenblättern. App & Content Pflege: Du bist mitverantwortlich für den In-App Content deiner Produktkategorien. Du sorgst dafür, dass Artikelbeschreibungen, Bilder und Promotions immer up-to-date sind und unseren KundInnen ein Lächeln ins Gesicht zaubern. Daten & Analysen: Du wertest Verkaufszahlen, Kundenfeedback und Markttrends aus, erkennst Muster und hilfst dem Team dabei, datenbasierte Entscheidungen zur Sortimentsoptimierung zu treffen. Lieferanten- & Stakeholder-Kommunikation: Du unterstützt bei der Vor- und Nachbereitung von Lieferantengesprächen und arbeitest bereichsübergreifend mit Teams wie Supply Chain und Customer Success zusammen. Projektarbeit: Du bekommst die Chance, eigene, übergreifende Projekte zur Verbesserung unserer Tools und Prozesse zu übernehmen und so aktiv zur Unternehmensstrategie beizutragen.\" Das bringst du mit Fortgeschrittenes Bachelorstudium oder aktuell im Master in Betriebswirtschaftslehre, E-Commerce, Supply Chain Management, Volkswirtschaftslehre oder einem vergleichbaren Studiengang. Ein scharfes Auge fürs Detail, starkes logisches Denkvermögen und eine natürliche Neugier, um hinter die Kulissen zu blicken und operative Rätsel zu lösen. Exzellente organisatorische Fähigkeiten, eine proaktive Einstellung zur Übernahme von Verantwortung und Routine im Umgang mit täglichen Arbeitsabläufen. Eine echte Affinität für die Lebensmittelbranche und Begeisterung für die Arbeit mit neuer Software und automatisierten Systemen. Zeit, unser Team für 16 - 20 Stunden pro Woche zu unterstützen. Fließende Deutsch- und Englischkenntnisse. Darauf kannst du dich freuen Starte mit uns durch: Werde Teil unseres internationalen Teams in einem Umfeld, das echtes Wachstum und eine „Act like an Owner“-Mentalität fördert. Bei uns hast du die Chance, Projekte eig"
   },
   {
    "id": "li_4487462133",
@@ -8385,6 +8437,32 @@
    "posted": "2026-10-15",
    "first_seen": "2026-11-04T12:29",
    "description": "Unternehmensbeschreibung Willkommen bei Ströer Media Solutions. Willkommen in der Welt der Außenwerbung und der digitalen Medien. Was wir tun? Unsere Kund:innen erfolgreicher machen. Mit Kommunikationslösungen, die richtig gut funktionieren. Im öffentlichen Raum und online. Dafür arbeiten wir in unseren Gesellschaften Ströer Media Solutions GmbH und allen beteiligten Unternehmen mit mehr als 750 tollen Kolleg:innen in ganz Deutschland. Mit hohem Anspruch. Mit viel Engagement. Und mit viel Freude. Wir suchen ab sofort einen Werkstudent Branded Content & Webdesign (m/w/d) an unserem Standort Berlin. Die Stelle ist zunächst bis zum 30.09.2028 befristet, jedoch mit der Option auf Übernahme. Stellenbeschreibung Du setzt kreative Layouts und Designs für Branded-Content-Kampagnen in WordPress mit Elementor um Du gestaltest und optimierst Seitenlayouts sowie interaktive Content-Formate Du entwickelst bestehende Templates kontinuierlich weiter und passt sie an neue Anforderungen und Kampagnen an Du bringst aktuelle Webdesign-, UX- und KI-Trends zusammen, um digitale Inhalte noch attraktiver zu gestalten Du stellst die Darstellung und Nutzerführung für unterschiedliche Endgeräte und Bildschirmgrößen sicher Qualifikationen Du bist aktuell in einem Studiengang im Bereich Grafikdesign, Webdesign, Mediendesign oder einem vergleichbaren Studiengang immatrikuliert Du hast praktische Erfahrung mit WordPress, idealerweise mit Elementor, und kennst die Grundlagen von HTML und CSS Du bringst ein gutes Gespür für Design, Layout, Typografie und User Experience mit Du interessierst dich für digitale Trends, KI-Tools und moderne Content-Formate und probierst gerne neue Möglichkeiten aus Du hast bereits mit Content-Management-Systemen gearbeitet und bringst Erfahrung in der Bildbearbeitung mit Zusätzliche Informationen Benefits Mach mehr aus Deinem Job. Wir setzen auf das Potenzial jedes Einzelnen und bieten Dir eine Umgebung, in der Du Dich weiterentwickeln, Verantwortung übernehmen und im Team innovative Lösungen schaffen kannst. Nutze die Chance und entdecke unsere Benefits, die Dich auf Deinem Weg bei uns unterstützen: Flexible Arbeitszeiten: zusätzlich Homeoffice-Optionen Corporate Benefits: Rabatte z.B. für Reisen und Eventtickets Weiterentwicklung: Frauenförderung, individuelle Trainingsangebote Wissensdatenbank: Zugang zu getAbstract für kontinuierliches Lernen Moderne Büros: Papierlose Arbeitsplätze mit digitalen Prozessen Arbeitsmedizinische Versorgung: Gesundheitschecks und -veranstaltungen Firmenevents: Weihnachtsfeiern, Teamausflüge und B2Run-Teilnahme Communities: Netzwerke wie Frauennetzwerk Mach Deinen nächsten Karriereschritt in einem spannenden Umfeld – wir freuen uns darauf, Dich kennenzulernen!"
+  },
+  {
+   "id": "li_4477086195",
+   "queue": false,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Web / Shop / SEO",
+   "title": "Werkstudent:in E-Commerce und Online Marketing (m/w/d)",
+   "company": "Edurino",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "mindestens zwei Wochen Vorlauf. Du beherrschst Deutsch auf C2-Niveau, sprichst sehr gutes Englisch (C",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4477086195",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-15",
+   "first_seen": "2026-11-13T00:47",
+   "description": "Über Edurino EDURINO verbindet digitale Lernwelten mit haptischen Spielfiguren und bereitet Kinder von 3-8 Jahren auf die Zukunft vor. Wir erzielen bereits einen zweistelligen Millionenumsatz, sind in DACH und UK aktiv und haben eine 17-Mio € Series-B abgeschlossen. Unser nächster Meilenstein: nachhaltiges Wachstum. Wir sind ein Team von rund 50 mit hohem Anspruch – Ownership, Speed und KI im Arbeitsalltag sind bei uns Standard, nicht Bonus. Deine Mission Unser Shop-Team bringt übers Jahr eine Kampagne nach der anderen in den Shop, von Seasonal Deals bis Weihnachten, für DACH und UK. Damit das schnell und verlässlich klappt, suchen wir dich als Verstärkung. Du berichtest an unsere Campaign Managerin und arbeitest eng mit unserer Shopify Managerin, unserer Shopify-Agentur, Marketing und Design. Die Rolle ist sehr hands-on und du kannst Schritt für Schritt deinen Einfluss erweitern. Shop-Alltag verantworten: Du setzt Kampagnen operativ in Shopify auf und hältst Produktseiten, Inhalte und Designs aktuell. Shop-Copy schreiben: Mit und ohne KI erstellst und verbesserst du Produktbeschreibungen, Landingpages und Meta-Descriptions, bis sie für Kund:innen und Suchmaschinen funktionieren. Kampagnen umsetzen: Du bringst Seasonal Deals wie BFCM und Weihnachtsaktionen in den DACH- und UK-Shop. Daten auswerten: Du unterstützt bei der Beobachtung von Traffic, Conversion und Umsatz unserer Kampagnen, baust und pflegst einfache Reports und schlägst proaktiv Verbesserungen vor. Team unterstützen: Du stimmst dich mit Marketing, Design und anderen Teams ab und übernimmst kurzfristige Anfragen aus dem Shop-Team. What Success Looks Like Nach der Einarbeitung erledigst du Shop-Updates und Copy-Aufgaben eigenständig, und Anfragen landen bei dir, weil sie dort schnell und verlässlich erledigt werden. Langfristig kannst du eigene Shop-Bereiche komplett verantworten, etwa SEO-Copy oder Kampagnen-Setups, und treibst Verbesserungen voran, die sich in den Shop-KPIs zeigen. Are you a match? Das bringst du mit Feeling für Commercial Brands: Du verstehst unsere Brand-Identity, die Zielgruppe und kannst Texte und Landingpages daran ausrichten. Affinität für Zahlen und Daten: Du willst wissen, warum Seiten konvertieren, und liebst schnelle Iterationen. Du nutzt KI-Tools selbstverständlich im (Arbeits-)Alltag und prüfst den Output kritisch, bevor er live geht. Du bist an einer Universität immatrikuliert und mindestens im 3. Bachelorsemester oder im Master (BWL, Marketing oder verwandte Richtungen). Du bist mindestens 15 Stunden pro Woche verfügbar. Idealerweise an festen Tagen oder flexibler Planung mit mindestens zwei Wochen Vorlauf. Du beherrschst Deutsch auf C2-Niveau, sprichst sehr gutes Englisch (C1) und kommunizierst proaktiv in einem interkulturellen Team. Extrapunkte, wenn.. …du schon mit Shopify gearbeitet hast. …du als Werkstudent:in oder im Praktikum Erfahrung im E-Commerce oder Online Marketing gesammelt hast. …du regelmäßig in unser Münchner Office kommen kannst. Ehrl"
   },
   {
    "id": "an_werkstudent-karriereberatung-coaching-und-marketing-dusseldorf-265164",
