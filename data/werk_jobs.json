@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T08:23",
+ "generated": "2026-11-13T11:56",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 462,
-  "queue": 258,
-  "ai_focus": 242
+  "all": 464,
+  "queue": 260,
+  "ai_focus": 244
  },
  "jobs": [
   {
@@ -303,6 +303,32 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "ba_18706-9JKMKLB2Thrfnq-S",
+   "queue": true,
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) Digitalisierung, KI & Automatisierung",
+   "company": "ZV Komm. Verkehrssicherheit",
+   "location": "Amberg",
+   "distance_km": 295.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18706-9JKMKLB2Thrfnq-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "STUNDENLOHN",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-13T11:36",
+   "description": "**Dein Studium steckt voller Ideen. Unsere Verwaltung voller Möglichkeiten.** Du siehst einen umständlichen Ablauf und denkst: „Das müsste doch automatisch gehen“? Du probierst mit ChatGPT mehr aus als die nächste Hausarbeit und würdest mit n8n am liebsten gleich einen Workflow bauen? Dann haben wir ab sofort ein paar ziemlich spannende Aufgaben für Dich. Beim **Zweckverband Kommunale Verkehrssicherheit Oberpfalz in Amberg** unterstützt Du die Geschäftsführung dabei, Verwaltung neu zu denken: digitaler, einfacher und intelligenter. Mit echten Projekten, Raum zum Ausprobieren und Ergebnissen, die Deinen Kolleginnen und Kollegen den Arbeitsalltag erleichtern. **Wer wir sind** Wir kümmern uns für rund 170 Kommunen um die Verkehrssicherheit. Dahinter stecken viele wiederkehrende Abläufe, große Datenmengen und jede Menge Potenzial für clevere Lösungen. Genau dort setzen wir an: von der Bearbeitung von Ordnungswidrigkeiten bis zu unseren internen Prozessen. ## Unsere Anforderungen - Du studierst beispielsweise Informatik, Wirtschaftsinformatik, Künstliche Intelligenz, Digital Business oder einen vergleichbaren Studiengang. - Du kennst Dich mit Microsoft 365 aus und hast erste praktische Erfahrungen mit KI-Anwendungen und Large Language Models. - RPA ist für Dich kein Fremdwort. Tools wie n8n oder Power Automate hast Du vielleicht schon ausprobiert – oder möchtest endlich ein echtes Projekt damit umsetzen. - Du interessierst Dich für Cloud-Technologien, Schnittstellen und das Zusammenspiel verschiedener Anwendungen. - Du denkst strukturiert, fragst nach und hast den Mut, etwas anzupacken. Dabei gehst Du sorgfältig mit Daten um und behältst im Blick, wer mit Deiner Lösung arbeiten soll. **Du musst nicht unsere komplette Tool-Liste beherrschen.** Uns interessieren Dein technisches Verständnis, Deine Neugier und Deine Lust, Dich in neue Themen einzuarbeiten. Ein eigenes kleines Projekt kann dabei genauso spannend sein wie eine gute Studienleistung. ## Ihre Aufgaben **Aus „Das machen wir immer so“ wird „Das geht auch einfacher“.** - **Digitalisierung mitgestalten:** Du unterstützt die Geschäftsführung dabei, Abläufe zu hinterfragen, Verbesserungen zu entwickeln und praktisch umzusetzen. - **Automatisierungen bauen:** Du verbindest Anwendungen, reduzierst manuelle Arbeitsschritte und erprobst Workflows – beispielsweise mit Power Automate, n8n oder RPA. - **KI sinnvoll einsetzen:** Du testest, wie uns Large Language Models wie GPT und Anwendungen wie Microsoft Copilot bei konkreten Aufgaben unterstützen können. - **Microsoft 365 weiterdenken:** Du hilfst uns, die Möglichkeiten von Microsoft 365, Cloud-Diensten und gegebenenfalls Microsoft Azure besser zu nutzen. - **Daten verständlich machen:** Du entwickelst Auswertungen und Dashboards, etwa mit Power BI, die aus Zahlen hilfreiche Entscheidungsgrundlagen machen. - **Von der Idee in den Alltag kommen:** Du baust Prototypen, testest sie gemeinsam mit den Beschäftigten und hilfst dabei, funktionierende Lösungen"
   },
   {
    "id": "li_4484646097",
@@ -2832,9 +2858,7 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643985-1-S",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [
-    "https://www.stepstone.de/stellenangebote--Werkstudentin-IT-Forensik-AI-Automatisierung-Konzernsicherheit-Sindelfingen-Mercedes-Benz-Group-AG--14613768-inline.html"
-   ],
+   "also_urls": [],
    "salary": "",
    "posted": "2026-10-15",
    "first_seen": "2026-11-04T12:29",
@@ -2891,6 +2915,32 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4488915345",
+   "queue": true,
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) Machine Learning/Computer Vision",
+   "company": "menio GmbH",
+   "location": "Hannover",
+   "distance_km": 443.9,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4488915345",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-13T11:36",
+   "description": "Beschreibung Computer Vision nicht nur auf vorhandenen Datensätzen testen, sondern sehen, wie dein Modell mit echten Daten aus Kantinen zurechtkommt? Bei menio entwickeln wir Software für die Gemeinschaftsverpflegung. Aktuell arbeiten wir an einer kamerabasierten Speisenerkennung: Gerichte sollen anhand weniger Referenzbilder gelernt und anschließend über eine Kamera automatisch erkannt und dem passenden Menüartikel zugeordnet werden. Als Werkstudent (m/w/d) Machine Learning/Computer Vision unterstützt du uns dabei, verschiedene Ansätze auszuprobieren, Modelle zu vergleichen und Schritt für Schritt einen funktionierenden Prototypen aufzubauen. Dabei arbeitest du an einem echten Anwendungsfall mit realen Daten und Herausforderungen, von ähnlich aussehenden Gerichten bis hin zu unterschiedlichen Lichtverhältnissen und Anrichtungen. Deine Aufgaben Recherche & Prototyping: Du vergleichst aktuelle Ansätze für Few-Shot-Erkennung und visuelle Ähnlichkeitssuche, z. B. DINOv2, SigLIP oder leichtgewichtige Modelle wie MobileNet. Datenbasis: Du nutzt öffentliche Food-Datensätze für Vortraining und Benchmarks und baust gemeinsam mit uns einen eigenen, sauber dokumentierten Datensatz aus echten Kantinen auf. Few-Shot-Erkennung: Du entwickelst ein Verfahren, mit dem neue Gerichte anhand von 1–5 Referenzbildern ohne komplettes Neutraining hinzugefügt werden können. Unbekannte Gerichte erkennen: Du sorgst dafür, dass das System erkennt, wenn es ein Gericht nicht kennt, statt einfach das ähnlichste zu raten (Open-Set-Erkennung). Robustheit & Standortwechsel: Du sorgst dafür, dass die Erkennung bei unterschiedlichen Portionen, Beleuchtungen und Anrichtungen funktioniert – und auch dann, wenn ein Gericht in Kantine A registriert und in Kantine B erkannt werden soll. Mehrere Gerichte pro Tablett: Du kombinierst die Few-Shot-Erkennung mit Detektion bzw. Segmentierung, sodass Hauptgericht, Beilage und Dessert einzeln erkannt werden. Kontextwissen nutzen: Du untersuchst, wie der Tagesspeiseplan (nur wenige Gerichte, bekannte Namen) die Erkennung verbessern kann, z. B. über die Bild-Text-Fähigkeiten von SigLIP. Evaluation: Du definierst Metriken und Testszenarien und findest heraus, unter welchen Umständen sich ähnliche Gerichte verwechseln lassen. Danach suchen wir Du studierst Informatik, Data Science, Mathematik oder einen vergleichbaren Studiengang. Du hast bereits eigene Projekte mit Python umgesetzt, zum Beispiel im Studium, privat oder auf GitHub. Du kennst die Grundlagen von Machine Learning und Deep Learning und hast Interesse an Computer Vision. Idealerweise hast du bereits mit PyTorch gearbeitet. Erste Erfahrungen mit Bildklassifikation, Embeddings, visueller Ähnlichkeitssuche oder Objekterkennung sind ein Plus, aber kein Muss. Begriffe wie Few-Shot Learning, Transfer Learning, Open-Set Recognition oder Segmentierung dürfen dir bekannt vorkommen, du musst aber noch kein Experte darin sein. Du hast Lust, neue Ansätze auszuprobieren und herauszufinden, was auße"
   },
   {
    "id": "li_4449773244",
@@ -11443,7 +11493,10 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13649-12724705AB-S",
    "apply_url": "https://www.absolventa.de/stellenangebote/12724705?utm_campaign=job&utm_medium=premiumcpc&utm_source=BAG&utm_content=job",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4488913307",
+    "https://www.arbeitnow.com/jobs/companies/flexlog-gmbh/werkstudent-marketing-karlsruhe-495989"
+   ],
    "salary": "",
    "posted": "2026-07-10",
    "first_seen": "2026-11-04T12:29",

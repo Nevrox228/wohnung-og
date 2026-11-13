@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13T08:23",
+ "generated": "2026-11-13T11:56",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 50,
+ "count": 49,
  "items": [
   {
    "id": "li_4482372983",
@@ -23,28 +23,6 @@
    "kind": "Общее / другое",
    "ausb": true,
    "first_seen": "2026-11-13T08:03",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4461536152",
-   "src": "LinkedIn",
-   "title": "Auszubildende für die praxisintegrierte Ausbildung zum/zur Erzieher/-in (PiA) (w/m/d) 2027",
-   "firma": "Stadt Achern",
-   "ort": "Achern",
-   "plz": "",
-   "street": "",
-   "lat": 48.6300161,
-   "lon": 8.0735581,
-   "url": "https://de.linkedin.com/jobs/view/4461536152",
-   "posted": "2026-09-01",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 19.4,
-   "kind": "Общее / другое",
-   "ausb": true,
-   "first_seen": "2026-11-13T00:47",
    "status": "open",
    "also_urls": []
   },
@@ -114,7 +92,9 @@
    "ausb": false,
    "first_seen": "2026-11-12T16:40",
    "status": "open",
-   "also_urls": []
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4489538517"
+   ]
   },
   {
    "id": "li_4361574268",
@@ -1119,6 +1099,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },

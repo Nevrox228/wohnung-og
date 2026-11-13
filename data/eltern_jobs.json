@@ -1,9 +1,1599 @@
 {
- "generated": "2026-11-13T08:23",
+ "generated": "2026-11-13T11:56",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 414,
+ "count": 422,
  "items": [
+  {
+   "id": "marina:ba_10001-1004008888-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft (m/w/d) in Baiersbronn-Obertal",
+   "firma": "Gebäudeservice Murcia GmbH",
+   "ort": "Baiersbronn",
+   "street": "",
+   "lat": 48.546340008,
+   "lon": 8.351884119,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004008888-S",
+   "posted": "2026-11-13",
+   "desc": "### 🚀 Starte deinen Job als Reinigungskraft in Baiersbronn-Obertal Du suchst eine zuverlässige Arbeitsstelle am Abend und möchtest in einem modernen, gut organisierten Unternehmen arbeiten? Dann bist du bei der **Gebäudeservice Murcia GmbH** genau richtig. Für ein Objekt in **72270 Baiersbronn-Obertal** suchen wir ab sofort motivierte und zuverlässige **Reinigungskräfte (m/w/d)**. Die Arbeitszeiten liegen täglich am Abend von **20:00 bis 00:00 Uhr** und eignen sich ideal für Bewerberinnen und Bewerber, die einen planbaren Job im Bereich Reinigung suchen. ### ✨ Das bieten wir dir 💼 Beschäftigung auf Minijob- oder Teilzeitbasis 🔒 Einen sicheren Arbeitsplatz mit klaren Arbeitszeiten 💶 Faire und leistungsgerechte Vergütung 📋 Eine gründliche Einarbeitung vor Ort 🤝 Ein freundliches Team und feste Ansprechpartner 🧽 Strukturierte Arbeitsabläufe nach Reinigungsplan 📈 Perspektiven in einem wachsenden Dienstleistungsunternehmen ### 🧹 Deine Aufgaben 🧼 Reinigung und Pflege der zugeteilten Bereiche im Objekt 🚻 Reinigung von Sanitäranlagen, Aufenthaltsbereichen, Fluren und weiteren Nutzflächen 🗑️ Entsorgung von Abfällen und Austausch von Verbrauchsmaterialien 🧴 Fachgerechter Einsatz von Reinigungs- und Pflegemitteln ✅ Einhaltung von Hygiene-, Sicherheits- und Qualitätsstandards 📋 Sorgfältige Ausführung der Arbeiten nach Vorgabe und Reinigungsplan ### 👤 Dein Profil ✅ Erfahrung in der Reinigung ist von Vorteil, aber nicht zwingend erforderlich ⏰ Du bist zuverlässig, pünktlich und verantwortungsbewusst 🧽 Du arbeitest sorgfältig, sauber und selbstständig 💪 Du bist körperlich belastbar und einsatzbereit 🤝 Du hast ein freundliches Auftreten und arbeitest gerne im Team 🗣️ Deutschkenntnisse sind von Vorteil ### 📍 Reinigungskraft Job in 72270 Baiersbronn-Obertal Die Gebäudeservice Murcia GmbH ist als zuverlässiger Dienstleister im Bereich **Gebäudereinigung, Unterhaltsreinigung und Objektpflege** tätig. Für unseren Einsatzort in **Baiersbronn-Obertal** suchen wir Reinigungskräfte, die unser Team langfristig unterstützen möchten. Dieser Job eignet sich besonders für Bewerberinnen und Bewerber aus **Baiersbronn, Obertal, Mitteltal, Freudenstadt und Umgebung**, die eine Arbeitsstelle am Abend suchen. Durch die festen Arbeitszeiten von **20:00 bis 00:00 Uhr** ist die Stelle gut planbar und ideal für alle, die im Bereich Reinigung eine sichere Tätigkeit suchen. ### 📩 Jetzt bewerben Wir freuen uns auf deine Bewerbung als **Reinigungskraft (m/w/d) in Baiersbronn-Obertal**. Bewirb dich jetzt einfach online bei der **Gebäudeservice Murcia GmbH**. Bei Fragen stehen wir dir gerne zur Verfügung. Mit freundlichen Grüßen **Gebäudeservice Murcia GmbH**",
+   "zeit": "Vollzeit / Teilzeit / Minijob",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 19.8,
+   "de": "немного",
+   "de_txt": "👤 Dein Profil ✅ Erfahrung in der Reinigung ist von Vorteil, aber nicht zwingend erforderlich ⏰ Du bist zuverlässig, pünktlich und verantwortungsbewusst 🧽 Du arb",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 138,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Tonbach Traube/Tanne",
+      "dep": "16:12",
+      "arr": "18:30",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Ruhestein",
+        "dep": "16:38",
+        "arr": "17:15",
+        "wait": 6,
+        "min": 37
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "200",
+        "from": "Ruhestein",
+        "to": "Baiersbronn Wilh.-Münster-Pl.",
+        "dep": "17:32",
+        "arr": "17:53",
+        "wait": 17,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Freizeitbus",
+        "line": "F 16",
+        "from": "Baiersbronn Wilh.-Münster-Pl.",
+        "to": "Tonbach Traube/Tanne",
+        "dep": "18:06",
+        "arr": "18:15",
+        "wait": 13,
+        "min": 9
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Tonbach Traube/Tanne",
+        "to": "работа",
+        "dep": "18:15",
+        "arr": "18:30",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 147
+     },
+     {
+      "kind": "велосипед",
+      "min": 140,
+      "changes": 0,
+      "km": 34.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 140
+       }
+      ],
+      "risky": false,
+      "score": 260
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 635,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 609,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:56",
+        "min": 609
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 635
+     }
+    ],
+    "best": "транспорт",
+    "min": 138,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10001-1004008950-S",
+   "src": "Jobbörse",
+   "title": "Spülkraft (m/w/d) in Baiersbronn",
+   "firma": "Gebäudeservice Murcia GmbH",
+   "ort": "Baiersbronn",
+   "street": "",
+   "lat": 48.546340008,
+   "lon": 8.351884119,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004008950-S",
+   "posted": "2026-11-13",
+   "desc": "### 🚀 Spülkraft in 72270 Baiersbronn gesucht Du suchst einen sicheren Job im Küchenbereich und möchtest in einem zuverlässigen, gut organisierten Unternehmen arbeiten? Dann bist du bei der **Gebäudeservice Murcia GmbH** genau richtig. Für unseren Einsatzort in **72270 Baiersbronn** suchen wir ab sofort eine engagierte und zuverlässige **Spülkraft (m/w/d)**. Die Arbeitszeit ist **täglich von 10:00 bis 15:30 Uhr**. Aktuell besteht in diesem Bereich ein hoher Personalbedarf, daher freuen wir uns besonders über motivierte Bewerberinnen und Bewerber, die unser Team zeitnah unterstützen möchten. Die Stelle eignet sich ideal für Personen, die eine Tätigkeit als **Spülkraft, Küchenhilfe oder Reinigungskraft im Küchenbereich** suchen. ### ✨ Das bieten wir dir 💼 Minijob, Teilzeit oder Vollzeit möglich 🔒 Einen sicheren Arbeitsplatz mit Zukunft 💶 Leistungsgerechte und überdurchschnittliche Vergütung 📋 Eine strukturierte und gründliche Einarbeitung 🤝 Ein freundliches Team und ein angenehmes Arbeitsumfeld 🧼 Klare Arbeitsabläufe und feste Ansprechpartner 📈 Eine langfristige Perspektive in einem wachsenden Unternehmen ### 🍽️ Deine Aufgaben 🍽️ Spülen und Reinigen von Geschirr, Besteck, Töpfen und Küchenutensilien 🧽 Bedienung und Pflege der Spülmaschine ✅ Einhaltung der Hygienevorschriften und Qualitätsstandards 🧼 Sauberhalten des Spülbereichs und der Küche 🗑️ Entsorgung von Abfällen und Unterstützung bei Ordnung und Sauberkeit 👨‍🍳 Unterstützung bei allgemeinen Küchenarbeiten ### 👤 Dein Profil ✅ Erfahrung im Küchen- oder Spülbereich ist von Vorteil, aber nicht zwingend erforderlich ⏰ Du bist zuverlässig, pünktlich und verantwortungsbewusst 🧽 Du arbeitest sorgfältig, sauber und strukturiert 💪 Du bist körperlich belastbar und einsatzbereit 🤝 Du bist teamfähig und hast ein freundliches Auftreten 🗣️ Deutschkenntnisse sind von Vorteil ### 📍 Spülkraft Job in 72270 Baiersbronn Die **Gebäudeservice Murcia GmbH** ist ein zuverlässiger Dienstleister für **Gebäudeservice, Reinigung, Küchenreinigung und Objektbetreuung**. Für unseren Einsatzort in **Baiersbronn** suchen wir Unterstützung im Küchen- und Spülbereich. Dieser Job eignet sich besonders für Bewerberinnen und Bewerber aus **Baiersbronn, Baiersbronn-Obertal, Mitteltal, Freudenstadt, Klosterreichenbach und Umgebung**, die eine Tätigkeit im Bereich **Spülküche, Küchenhilfe oder Reinigung** suchen. Durch die Arbeitszeit von **Montag bis Sonntag von 10:00 bis 15:30 Uhr** ist die Stelle gut planbar und bietet verschiedene Beschäftigungsmöglichkeiten. ### 📩 Jetzt bewerben Wir freuen uns auf deine Bewerbung als **Spülkraft (m/w/d) in Baiersbronn**. Bewirb dich jetzt einfach online bei der **Gebäudeservice Murcia GmbH**. Bei Fragen stehen wir dir gerne zur Verfügung. Mit freundlichen Grüßen **Gebäudeservice Murcia GmbH**",
+   "zeit": "Vollzeit / Teilzeit / Minijob",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 19.8,
+   "de": "немного",
+   "de_txt": "👤 Dein Profil ✅ Erfahrung im Küchen- oder Spülbereich ist von Vorteil, aber nicht zwingend erforderlich ⏰ Du bist zuverlässig, pünktlich und verantwortungsbewus",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 138,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Tonbach Traube/Tanne",
+      "dep": "16:12",
+      "arr": "18:30",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Ruhestein",
+        "dep": "16:38",
+        "arr": "17:15",
+        "wait": 6,
+        "min": 37
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "200",
+        "from": "Ruhestein",
+        "to": "Baiersbronn Wilh.-Münster-Pl.",
+        "dep": "17:32",
+        "arr": "17:53",
+        "wait": 17,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Freizeitbus",
+        "line": "F 16",
+        "from": "Baiersbronn Wilh.-Münster-Pl.",
+        "to": "Tonbach Traube/Tanne",
+        "dep": "18:06",
+        "arr": "18:15",
+        "wait": 13,
+        "min": 9
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Tonbach Traube/Tanne",
+        "to": "работа",
+        "dep": "18:15",
+        "arr": "18:30",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 147
+     },
+     {
+      "kind": "велосипед",
+      "min": 140,
+      "changes": 0,
+      "km": 34.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 140
+       }
+      ],
+      "risky": false,
+      "score": 260
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 635,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 609,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:56",
+        "min": 609
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 635
+     }
+    ],
+    "best": "транспорт",
+    "min": 138,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10001-1004009842-S",
+   "src": "Jobbörse",
+   "title": "Spüler / Küchenhilfe (m/w/d)",
+   "firma": "Möhrle, Jörg /Schwarzwaldhotel Tanne",
+   "ort": "Baiersbronn",
+   "street": "Tonbachstr. 243",
+   "lat": 48.5376447,
+   "lon": 8.3574757,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004009842-S",
+   "posted": "2026-11-13",
+   "desc": "**Wir suchen Dich – als KÜCHENHILFE/SPÜLER (w/m/d) - ab sofort oder nach Vereinbarung - in Vollzeit!** **Wir suchen einen neuen „Glückbringer“, der unser Küchen-Team unterstützt und damit auch unseren Gästen glückliche Tage beschert.** ## Wir wünschen uns von Dir: - Freude an Deinen Aufgaben! Dazu gehört das Reinigen von Geschirr, Besteck und Töpfen, Entsorgung der anfallenden Speisenreste und des Mülls, Sauberhaltung der Küche und einfachere Tätigkeiten beim Zubereiten von Speisen. - Freude am selbstständigen und eigenverantwortlichen Arbeiten in einem Team. - Motivation und Begeisterungsfähigkeit - Wir freuen uns auf fröhliche und freundliche Mitarbeiter, für die Loyalität gegenüber Ihren Kollegen und Vorgesetzten selbstverständlich ist. - Flexibilität, Zuverlässigkeit und Belastbarkeit sind keine Fremdwörter für Dich - Wir nennen unsere Mitarbeiter „Glücksbringer“, weil sie mit dem, was sie täglich tun, andere Menschen glücklich machen. Jeder Mitarbeiter der Tanne ist ein Glücksbringer für unsere Gäste aber auch für alle seine Kollegen. ## Wir bieten: - Arbeit in einer familiären Atmosphäre - Interne und externe Schulungen - Anerkennung und Mitspracherecht in einem mehrfach ausgezeichneten Team - Angemessene Entlohnung - Ein offenes Ohr auch für private Angelegenheiten - Geregelte Arbeitszeiten, faire Dienstplan- und Urlaubsgestaltung ## Deine Benefits: - Tägliche Nutzung des Hotel-Schwimmbads & Fitnessraum ab 21 Uhr - Vergünstigungen (z.B. 50% auf Zimmerpreis unter der Woche für nahe Verwandte) - 50 % Ermäßigungen in unseren Partnerhotels - Ausflüge und Förderung zum Teambuilding - eine gute Infrastruktur in Baiersbronn (ca. 3 km entfernt) mit Ärztezentren, Einkaufsmärkten, alle Schularten, Kindergärten - Das Hotel ist über Weihnachten geschlossen, damit unsere Mitarbeiter mit ihren Familien feiern können ## Kontakt Haben wir Dich überzeugt? Dann werde Teil unseres Teams und bewerbe Dich noch heute. Wir freuen uns auf Deine Bewerbung unter **personal@hotel-tanne.de.** **Wellness-Hotel Tanne** Tonbachstraße 243 72270 Baiersbronn personal@hotel-tanne.de [www.hotel-tanne.de](http://www.hotel-tanne.de/)",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 20.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Кухня",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 154,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 1,
+      "end_stop": "Tonbach Traube/Tanne",
+      "dep": "05:21",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Freudenstadt Hauptbahnhof",
+        "dep": "05:54",
+        "arr": "07:09",
+        "wait": 6,
+        "min": 75
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE40",
+        "from": "Freudenstadt Hauptbahnhof",
+        "to": "Baiersbronn Bahnhof",
+        "dep": "07:20",
+        "arr": "07:37",
+        "wait": 11,
+        "min": 17
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "22",
+        "from": "Baiersbronn Bahnhof",
+        "to": "Tonbach Traube/Tanne",
+        "dep": "07:45",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Tonbach Traube/Tanne",
+        "to": "работа",
+        "dep": "07:55",
+        "arr": "07:55",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 163
+     },
+     {
+      "kind": "велосипед",
+      "min": 135,
+      "changes": 0,
+      "km": 33.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 135
+       }
+      ],
+      "risky": false,
+      "score": 250
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 622,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 596,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:44",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:44",
+        "min": 596
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 622
+     }
+    ],
+    "best": "транспорт",
+    "min": 154,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10001-1004011995-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer/in Teilzeit 20 - 24 Std. pro Woche, 4-Tage Woche, Donnerstag frei",
+   "firma": "Siegfried Spinner GmbH",
+   "ort": "Offenburg",
+   "street": "Okenstr. 279",
+   "lat": 48.4955515,
+   "lon": 7.9473604,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004011995-S",
+   "posted": "2026-11-13",
+   "desc": "Wir sind ein Familienbetrieb in Offenburg-Bohlsbach und stellen Schwarzwälder Schinken und Salamiprodukte für Metzgereien, Supermärkte, Handel und Großhandel her. Wir suchen eine/n Teilzeitmitarbeiter/in der/die gerne körperlich arbeitet und Vormittags bzw. in dem Zeitraum zwischen 6-13 Uhr arbeiten möchte. Wir arbeiten von Montag bis Freitag ( keine Wochenendarbeit). Die Arbeit an sich ist leicht zu erlernen und variiert produkttechnisch , wiederholt sich jedoch stetig und bedarf körperlicher Fitness, da die rohen oder fertigen Schinkenstücke/Salami die verarbeitet/verpackt werden bis zu 5 kg / Stück schwer sind. Da wir mit Fleischprodukten ( hauptsächlich Schweinefleisch) arbeiten, werden unsere Räumlichkeiten stets gekühlt und die Arbeitstemperatur ist dementsprechend. Wir arbeiten in einem kleinen Team im Familienbetrieb haben somit eine familiäre Atmosphäre und kurze Wege.",
+   "zeit": " / Teilzeit",
+   "schicht": false,
+   "quer": true,
+   "who": "marina",
+   "km": 10.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 30,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:29",
+        "min": 30
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "как в приложении",
+      "min": 53,
+      "changes": 1,
+      "min_wait": 17,
+      "walk_end": 2,
+      "end_stop": "Bohlsbach Am Rosenhag",
+      "dep": "06:32",
+      "arr": "07:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Offenburg",
+        "line": "S4",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Bohlsbach Am Rosenhag",
+        "dep": "07:16",
+        "arr": "07:24",
+        "wait": 17,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bohlsbach Am Rosenhag",
+        "to": "работа",
+        "dep": "07:24",
+        "arr": "07:25",
+        "min": 2
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "велосипед",
+      "min": 61,
+      "changes": 0,
+      "km": 14.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 61
+       }
+      ],
+      "risky": false,
+      "score": 102
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3540624661",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft (w/m/d) in Biberbach",
+   "firma": "Perfekta Unternehmensgruppe",
+   "ort": "Biberach",
+   "plz": "77781",
+   "street": "",
+   "lat": 48.3322296,
+   "lon": 8.0108583,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-w-m-d-in-biberbach/3540624661-109-8049",
+   "posted": "2026-11-13",
+   "posted_time": "10:08",
+   "desc": "Sie lieben Sauberkeit und Hygiene, dann sind Sie genau richtig bei uns! Wir suchen Sie als Reinigungskraft zum schnellstmöglichen Zeitpunkt. Einsatzort: in Biberbach Arbeitszeiten: 1x wöchentlich Dienstags, Arbeitszeiten nach Absprache Ihre Aufgaben Sorgfältige & gründliche Reinigung Anwenden von geeigneten Reinigungsmitteln und -geräten Ihr Profil Praktische Erfahrungen in der Reinigungsbranche, gerne auch Quereinsteiger Motivation & Kundenorientiert Pünktlichkeit, Zuverlässigkeit & Gründlichkeit Teamfähigkeit Wir bieten Bezahlung nach Tarifvertrag strukturierte Einarbeitung Garantierter Arbeitsplatz bezahlte Überstunden ein gutes Arbeitsklima in einem Familienunternehmen kurze Entscheidungswege Haben Sie noch Fragen oder Sie möchten sich bewerben? Gerne können Sie uns ihre Kontaktdaten zukommen lassen, wir melden uns bei Ihnen: NAME: TELEFONNUMMER: ERFAHRUNG IN DER REINIGUNG: Wir freuen uns auf Sie!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 22.7,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 29,
+      "end_stop": "Biberach Volksbank",
+      "dep": "07:23",
+      "arr": "09:03",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "07:23",
+        "arr": "07:34",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "07:34",
+        "arr": "07:43",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Gengenbach",
+        "dep": "07:49",
+        "arr": "08:03",
+        "wait": 6,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7160",
+        "from": "Gengenbach Bahnhofstraße",
+        "to": "Biberach Volksbank",
+        "dep": "08:18",
+        "arr": "08:35",
+        "wait": 15,
+        "min": 17
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Biberach Volksbank",
+        "to": "работа",
+        "dep": "08:35",
+        "arr": "09:03",
+        "min": 29
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 135,
+      "changes": 0,
+      "km": 33.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 135
+       }
+      ],
+      "risky": false,
+      "score": 250
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 300,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 274,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "13:36",
+      "arr": "18:37",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "13:36",
+        "arr": "13:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "13:47",
+        "arr": "14:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "14:03",
+        "arr": "18:37",
+        "min": 274
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 300
+     }
+    ],
+    "best": "транспорт",
+    "min": 100,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569828338",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Reinigung (m/w/d) (Offenburg)",
+   "firma": "my-perfect-job.de",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-reinigung-m-w-d-offenburg-/3569828338-107-9040",
+   "posted": "2026-11-13",
+   "posted_time": "09:04",
+   "desc": "ISS Facility Services Holding GmbH sucht: Mitarbeiter Reinigung (m/w/d) JETZT BEWERBEN unter https://www.stepstone.de/job/14719662/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________ ISS ist ein internationales Facility Management-Unternehmen: Wir erbringen unterschiedliche Dienstleistungen rund um die Bewirtschaftung von Gebäuden, Büros, Produktionsstätten und technischen Anlagen. Unsere Mitarbeitenden leisten Services in den Bereichen Technik, Reinigung, Catering, Security, Bauen im Bestand und Workplace. Wir geben unseren Mitarbeitenden auf der ganzen Welt das Werteversprechen ‚A Place to be You!‘ Denn wir begrüßen Vielfältigkeit in allen Dimensionen und unterstützen Dich bei deiner Weiterentwicklung. Bei ISS bist Du Teil einer globalen Community: Hier kannst Du so sein, wie Du bist. -> Du hast den sicheren Blick für die verschiedenen Reinigungsfeldern und sorgst für die gründliche Reinigung der Fläche, der Büroräume und Sanitäranlagen -> Die Einhaltung von Gesundheits-, Hygiene und Reinigungsrichtlinien liegt dir in Deinem beruflichen Alltag am Herzen -> Die Durchführung von Sonderreinigungen, nach Absprache, stellt für Dich kein Problem dar __________________ Arbeitszeitrahmen: Montag bis Freitag jeweils von15:00 Uhr bis 18:30 Uhr -> Idealerweise hast du bereits Erfahrung in der Unterhalts- oder Gebäudereinigung, aber auch Quereinsteiger sind willkommen -> Der effektive und umweltbewusste Umgang mit Reinigungsmittel und -maschinen ist für Dich ebenso selbstverständlich, wie Pünktlichkeit und Einsatzbereitschaft -> Du arbeitest selbstständig, bist aber trotzdem ein Teamplayer -> Gute Deutschkenntnisse runden Dein Profil ab __________________ -> Branchenkonf. Bezahlung Dein Gehalt richtet sich nach Deiner Erfahrung und Qualifikation. Wir bieten Dir eine faire und transparente Vergütung, die zu deinem Profil passt. -> Onboardingbuddy Dein Buddy kennt den Weg und alle Tricks. Gemeinsam starten . -> Mitarbeitervergünstigungen Du erhältst vielseitige Mitarbeiterrabatte bei verschiedensten Onlineportalen – rund um Bereiche wie Sport, Gesundheit, Lifestyle, Reisen u.v.m. -> Modernes Equipment Profitiere von modernen HP-Laptops, iPhone- oder Android-Smartphones sowie den neuesten Headsets. -> Pünktliche Bezahlung Zuverlässige und pünktliche Gehaltszahlung, weil Wertschätzung auch im Timing steckt. -> Tolles Team Uns prägt eine offene Unternehmenskultur. Dich erwartet ein engagiertes und hilfsbereites Team, wo ihr gemeinsam an einem Strang zieht. __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: https://www.stepstone.de/job/14719662/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse runden Dein Profil ab __________________",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569922700",
+   "src": "Kleinanzeigen",
+   "title": "Sushi-Shop Mitarbeiter (m/w/d) in Offenburg",
+   "firma": "EatHappy GmbH",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sushi-shop-mitarbeiter-m-w-d-in-offenburg/3569922700-110-9039",
+   "posted": "2026-11-13",
+   "posted_time": "10:48",
+   "desc": "☀️ Über uns Superfrisches Sushi bekommst du nicht nur auf dem Fischmarkt in Tokyo, sondern auch direkt im Supermarkt. Denn seit 2013 begeistert EAT HAPPY Sushi-Fans mit einem cleveren Shop-in-Shop-Konzept. Mit mehr als 1,480 Standorten in Deutschland und vielen weiteren in Europa. Und jedes Jahr kommen etwa 150 neue Standorte hinzu – auch in deiner Nähe. Dort wird in liebevoller Handarbeit täglich ein großes Angebot an Asia Snacks und leckerem Sushi frisch zubereitet, damit du in der knappen Mittagspause nicht auch noch auf den Fischmarkt in Tokyo musst. ----- Wir suchen: • Shop-Mitarbeiter (m/w/d). Mit oder ohne Erfahrung. ----- Wer kann sich bewerben: • Alle mit gültigem Visum/Arbeitserlaubnis in Deutschland ----- Aufgaben: • Du bereitest täglich frisch vor Ort Sushi und asiatische Snacks zu • Du verarbeitest unsere Rohwaren (insbesondere Fisch und Gemüse) • Du trägst Verantwortung für die Einhaltung unserer Qualitäts- und Hygienevorgaben • Du nimmst Lieferungen an und achtest dabei auf angemessene Dokumentation (Lieferschein-Prüfung etc.) und Qualität (z.B. durch Temperaturmessung) • Du kümmerst dich um die ordnungsgemäße Lagerung und Verarbeitung unserer Waren • Du berätst unsere Kunden bei Fragen zu unseren Produkten ----- Arbeitszeiten: mo bis sa • Vollzeit: 160 Stunden/ Monat • Teilzeit: 80 - 130 Stunden/ Monat • 2 Schichten: Frühschicht: innerhalb 06:00 - 15:00 Uhr Spätschicht: innerhalb 13:00 - 20:00 Uhr ----- Was wir bieten: • 13,90€ Stundenlohn • Angenehmes und freundliches Arbeitsklima • Mitarbeiter haben eine Einarbeitungszeit (1-2 Monate zum Sushi-Koch) ohne Vorkenntnisse. • Bei entsprechender Motivierung, haben die Mitarbeiter die Möglichkeit zur Beförderung. ----- Noch Fragen? Kontaktiere uns hier: +49 221 669 936 309 (WhatsApp Nummer) -oder besser noch- Bewirb dich schnell und online über diesen Link: https://jobs.eathappy.de ☀️ About us EAT HAPPY is a young company that was founded in 2013. Since then we have grown rapidly. We have opened more than 1,480 shops in many regions in Germany and also expanded in some parts of Europe like Italy, Denmark, Romania, Austria, Luxemburg, and Netherlands. Our shops are usually inside big supermarkets. ----- We are looking for: • Sushi Chef (m/f/d) und Shop Workers. Experience and German language proficiency is good but not a requirement. What's important is you are willing to to be trained and grow with us! ----- Who can apply: • Everyone with a valid visa/working permit in Germany ----- Tasks • Daily fresh preparation of Sushi and Asian snack on site • Support our customers with questions about our products • Compliance with the infection protection act ----- Working Times • Full-timer 160 hours per month • Part-timer 80 - 130 hours per month • 2 different shifts: Early shift: within 6 AM - 3 PM Late shift: within 1 PM - 8 PM ----- We offer • 13.90€ hourly wage • A friendly working environment • Employees have a training period (1-2 months to become a sushi chef) without any prior knowledge. • The employees have the possibility of promotion if they are motivated. ----- Any questions? Contact us here: +49 221 669 936 309 (WhatsApp number) -or better yet- Apply online using this link: https://jobs.eathappy.de",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569890797",
+   "src": "Kleinanzeigen",
+   "title": "Sushi-Shop Mitarbeiter (m/w/d) in Haslach im Kinzigtal",
+   "firma": "EatHappy GmbH",
+   "ort": "Haslach im Kinzigtal",
+   "plz": "77716",
+   "street": "",
+   "lat": 48.2812336,
+   "lon": 8.0903666,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sushi-shop-mitarbeiter-m-w-d-in-haslach-im-kinzigtal/3569890797-110-18880",
+   "posted": "2026-11-13",
+   "posted_time": "10:16",
+   "desc": "☀️ Über uns Superfrisches Sushi bekommst du nicht nur auf dem Fischmarkt in Tokyo, sondern auch direkt im Supermarkt. Denn seit 2013 begeistert EAT HAPPY Sushi-Fans mit einem cleveren Shop-in-Shop-Konzept. Mit mehr als 1,480 Standorten in Deutschland und vielen weiteren in Europa. Und jedes Jahr kommen etwa 150 neue Standorte hinzu – auch in deiner Nähe. Dort wird in liebevoller Handarbeit täglich ein großes Angebot an Asia Snacks und leckerem Sushi frisch zubereitet, damit du in der knappen Mittagspause nicht auch noch auf den Fischmarkt in Tokyo musst. ----- Wir suchen: • Shop-Mitarbeiter (m/w/d). Mit oder ohne Erfahrung. ----- Wer kann sich bewerben: • Alle mit gültigem Visum/Arbeitserlaubnis in Deutschland ----- Aufgaben: • Du bereitest täglich frisch vor Ort Sushi und asiatische Snacks zu • Du verarbeitest unsere Rohwaren (insbesondere Fisch und Gemüse) • Du trägst Verantwortung für die Einhaltung unserer Qualitäts- und Hygienevorgaben • Du nimmst Lieferungen an und achtest dabei auf angemessene Dokumentation (Lieferschein-Prüfung etc.) und Qualität (z.B. durch Temperaturmessung) • Du kümmerst dich um die ordnungsgemäße Lagerung und Verarbeitung unserer Waren • Du berätst unsere Kunden bei Fragen zu unseren Produkten ----- Arbeitszeiten: mo bis sa • Vollzeit: 160 Stunden/ Monat • Teilzeit: 80 - 130 Stunden/ Monat • 2 Schichten: Frühschicht: innerhalb 06:00 - 15:00 Uhr Spätschicht: innerhalb 13:00 - 20:00 Uhr ----- Was wir bieten: • 13,90€ Stundenlohn • Angenehmes und freundliches Arbeitsklima • Mitarbeiter haben eine Einarbeitungszeit (1-2 Monate zum Sushi-Koch) ohne Vorkenntnisse. • Bei entsprechender Motivierung, haben die Mitarbeiter die Möglichkeit zur Beförderung. ----- Noch Fragen? Kontaktiere uns hier: +49 221 669 936 309 (WhatsApp Nummer) -oder besser noch- Bewirb dich schnell und online über diesen Link: https://jobs.eathappy.de ☀️ About us EAT HAPPY is a young company that was founded in 2013. Since then we have grown rapidly. We have opened more than 1,480 shops in many regions in Germany and also expanded in some parts of Europe like Italy, Denmark, Romania, Austria, Luxemburg, and Netherlands. Our shops are usually inside big supermarkets. ----- We are looking for: • Sushi Chef (m/f/d) und Shop Workers. Experience and German language proficiency is good but not a requirement. What's important is you are willing to to be trained and grow with us! ----- Who can apply: • Everyone with a valid visa/working permit in Germany ----- Tasks • Daily fresh preparation of Sushi and Asian snack on site • Support our customers with questions about our products • Compliance with the infection protection act ----- Working Times • Full-timer 160 hours per month • Part-timer 80 - 130 hours per month • 2 different shifts: Early shift: within 6 AM - 3 PM Late shift: within 1 PM - 8 PM ----- We offer • 13.90€ hourly wage • A friendly working environment • Employees have a training period (1-2 months to become a sushi chef) without any prior knowledge. • The employees have the possibility of promotion if they are motivated. ----- Any questions? Contact us here: +49 221 669 936 309 (WhatsApp number) -or better yet- Apply online using this link: https://jobs.eathappy.de",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 7,
+      "end_stop": "Haslach",
+      "dep": "05:21",
+      "arr": "06:21",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Haslach",
+        "dep": "05:54",
+        "arr": "06:14",
+        "wait": 6,
+        "min": 20
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Haslach",
+        "to": "работа",
+        "dep": "06:14",
+        "arr": "06:21",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 393,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 367,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:55",
+        "min": 367
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 393
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569880846",
+   "src": "Kleinanzeigen",
+   "title": "Sushi-Shop Mitarbeiter (m/w/d) in Bühl",
+   "firma": "EatHappy GmbH",
+   "ort": "Bühl",
+   "plz": "77815",
+   "street": "",
+   "lat": 48.7016606,
+   "lon": 8.1350401,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sushi-shop-mitarbeiter-m-w-d-in-buehl/3569880846-110-8746",
+   "posted": "2026-11-13",
+   "posted_time": "10:06",
+   "desc": "☀️ Über uns Superfrisches Sushi bekommst du nicht nur auf dem Fischmarkt in Tokyo, sondern auch direkt im Supermarkt. Denn seit 2013 begeistert EAT HAPPY Sushi-Fans mit einem cleveren Shop-in-Shop-Konzept. Mit mehr als 1,480 Standorten in Deutschland und vielen weiteren in Europa. Und jedes Jahr kommen etwa 150 neue Standorte hinzu – auch in deiner Nähe. Dort wird in liebevoller Handarbeit täglich ein großes Angebot an Asia Snacks und leckerem Sushi frisch zubereitet, damit du in der knappen Mittagspause nicht auch noch auf den Fischmarkt in Tokyo musst. ----- Wir suchen: • Shop-Mitarbeiter (m/w/d). Mit oder ohne Erfahrung. ----- Wer kann sich bewerben: • Alle mit gültigem Visum/Arbeitserlaubnis in Deutschland ----- Aufgaben: • Du bereitest täglich frisch vor Ort Sushi und asiatische Snacks zu • Du verarbeitest unsere Rohwaren (insbesondere Fisch und Gemüse) • Du trägst Verantwortung für die Einhaltung unserer Qualitäts- und Hygienevorgaben • Du nimmst Lieferungen an und achtest dabei auf angemessene Dokumentation (Lieferschein-Prüfung etc.) und Qualität (z.B. durch Temperaturmessung) • Du kümmerst dich um die ordnungsgemäße Lagerung und Verarbeitung unserer Waren • Du berätst unsere Kunden bei Fragen zu unseren Produkten ----- Arbeitszeiten: mo bis sa • Vollzeit: 160 Stunden/ Monat • Teilzeit: 80 - 130 Stunden/ Monat • 2 Schichten: Frühschicht: innerhalb 06:00 - 15:00 Uhr Spätschicht: innerhalb 13:00 - 20:00 Uhr ----- Was wir bieten: • 13,90€ Stundenlohn • Angenehmes und freundliches Arbeitsklima • Mitarbeiter haben eine Einarbeitungszeit (1-2 Monate zum Sushi-Koch) ohne Vorkenntnisse. • Bei entsprechender Motivierung, haben die Mitarbeiter die Möglichkeit zur Beförderung. ----- Noch Fragen? Kontaktiere uns hier: +49 221 669 936 309 (WhatsApp Nummer) -oder besser noch- Bewirb dich schnell und online über diesen Link: https://jobs.eathappy.de ☀️ About us EAT HAPPY is a young company that was founded in 2013. Since then we have grown rapidly. We have opened more than 1,480 shops in many regions in Germany and also expanded in some parts of Europe like Italy, Denmark, Romania, Austria, Luxemburg, and Netherlands. Our shops are usually inside big supermarkets. ----- We are looking for: • Sushi Chef (m/f/d) und Shop Workers. Experience and German language proficiency is good but not a requirement. What's important is you are willing to to be trained and grow with us! ----- Who can apply: • Everyone with a valid visa/working permit in Germany ----- Tasks • Daily fresh preparation of Sushi and Asian snack on site • Support our customers with questions about our products • Compliance with the infection protection act ----- Working Times • Full-timer 160 hours per month • Part-timer 80 - 130 hours per month • 2 different shifts: Early shift: within 6 AM - 3 PM Late shift: within 1 PM - 8 PM ----- We offer • 13.90€ hourly wage • A friendly working environment • Employees have a training period (1-2 months to become a sushi chef) without any prior knowledge. • The employees have the possibility of promotion if they are motivated. ----- Any questions? Contact us here: +49 221 669 936 309 (WhatsApp number) -or better yet- Apply online using this link: https://jobs.eathappy.de",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 19.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 10,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:27",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "велосипед",
+      "min": 117,
+      "changes": 0,
+      "km": 28.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 117
+       }
+      ],
+      "risky": false,
+      "score": 214
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3569877658",
+   "src": "Kleinanzeigen",
+   "title": "Sushi-Shop Mitarbeiter (m/w/d) in Appenweier",
+   "firma": "EatHappy GmbH",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sushi-shop-mitarbeiter-m-w-d-in-appenweier/3569877658-110-9035",
+   "posted": "2026-11-13",
+   "posted_time": "10:03",
+   "desc": "☀️ Über uns Superfrisches Sushi bekommst du nicht nur auf dem Fischmarkt in Tokyo, sondern auch direkt im Supermarkt. Denn seit 2013 begeistert EAT HAPPY Sushi-Fans mit einem cleveren Shop-in-Shop-Konzept. Mit mehr als 1,480 Standorten in Deutschland und vielen weiteren in Europa. Und jedes Jahr kommen etwa 150 neue Standorte hinzu – auch in deiner Nähe. Dort wird in liebevoller Handarbeit täglich ein großes Angebot an Asia Snacks und leckerem Sushi frisch zubereitet, damit du in der knappen Mittagspause nicht auch noch auf den Fischmarkt in Tokyo musst. ----- Wir suchen: • Shop-Mitarbeiter (m/w/d). Mit oder ohne Erfahrung. ----- Wer kann sich bewerben: • Alle mit gültigem Visum/Arbeitserlaubnis in Deutschland ----- Aufgaben: • Du bereitest täglich frisch vor Ort Sushi und asiatische Snacks zu • Du verarbeitest unsere Rohwaren (insbesondere Fisch und Gemüse) • Du trägst Verantwortung für die Einhaltung unserer Qualitäts- und Hygienevorgaben • Du nimmst Lieferungen an und achtest dabei auf angemessene Dokumentation (Lieferschein-Prüfung etc.) und Qualität (z.B. durch Temperaturmessung) • Du kümmerst dich um die ordnungsgemäße Lagerung und Verarbeitung unserer Waren • Du berätst unsere Kunden bei Fragen zu unseren Produkten ----- Arbeitszeiten: mo bis sa • Vollzeit: 160 Stunden/ Monat • Teilzeit: 80 - 130 Stunden/ Monat • 2 Schichten: Frühschicht: innerhalb 06:00 - 15:00 Uhr Spätschicht: innerhalb 13:00 - 20:00 Uhr ----- Was wir bieten: • 13,90€ Stundenlohn • Angenehmes und freundliches Arbeitsklima • Mitarbeiter haben eine Einarbeitungszeit (1-2 Monate zum Sushi-Koch) ohne Vorkenntnisse. • Bei entsprechender Motivierung, haben die Mitarbeiter die Möglichkeit zur Beförderung. ----- Noch Fragen? Kontaktiere uns hier: +49 221 669 936 309 (WhatsApp Nummer) -oder besser noch- Bewirb dich schnell und online über diesen Link: https://jobs.eathappy.de ☀️ About us EAT HAPPY is a young company that was founded in 2013. Since then we have grown rapidly. We have opened more than 1,480 shops in many regions in Germany and also expanded in some parts of Europe like Italy, Denmark, Romania, Austria, Luxemburg, and Netherlands. Our shops are usually inside big supermarkets. ----- We are looking for: • Sushi Chef (m/f/d) und Shop Workers. Experience and German language proficiency is good but not a requirement. What's important is you are willing to to be trained and grow with us! ----- Who can apply: • Everyone with a valid visa/working permit in Germany ----- Tasks • Daily fresh preparation of Sushi and Asian snack on site • Support our customers with questions about our products • Compliance with the infection protection act ----- Working Times • Full-timer 160 hours per month • Part-timer 80 - 130 hours per month • 2 different shifts: Early shift: within 6 AM - 3 PM Late shift: within 1 PM - 8 PM ----- We offer • 13.90€ hourly wage • A friendly working environment • Employees have a training period (1-2 months to become a sushi chef) without any prior knowledge. • The employees have the possibility of promotion if they are motivated. ----- Any questions? Contact us here: +49 221 669 936 309 (WhatsApp number) -or better yet- Apply online using this link: https://jobs.eathappy.de",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T11:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3569796568",
    "src": "Kleinanzeigen",
@@ -3573,6 +5163,156 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ba_15518-0C3MPUXS1VDX62YT-S",
+   "src": "Jobbörse",
+   "title": "Helfer (m/w/d/x) +200€ Startbonus",
+   "firma": "iperdi GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-0C3MPUXS1VDX62YT-S",
+   "posted": "2026-11-12",
+   "desc": "Helfer (m/w/d/x) ab sofort gesucht mit +200€ Startbonus! Das bieten wir: - Startbonus in Höhe von 200,- Euro - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute und übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Bezahlung von Fahrgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Wohnortnahe Arbeitsplätze - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - JobRad Bikeleasing möglich - Mitarbeiter werben Mitarbeiter Bonuszahlungen Deine Aufgaben: - Auf- und Abstecken von Bauteilen - Qualitätskontrolle - Als Helfer (m/w/d/x) arbeitest Du im Team Das bringst Du mit: - Bereitschaft zur 3-Schicht - Grundlegende Deutsch-Kenntnisse - Sorgfalt und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: - 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) - 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x) Kontaktdaten für Stellenanzeige: Fabian Haimerl Telefon 0781 12552280 Mobil 0151 26219802 jobs-OG@iperdi.de",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutsch-Kenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T14:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ba_15518-D9UFG56NOB3SA9DV-S",
    "src": "Jobbörse",
    "title": "Quereinsteiger (m/w/d/x) Lager",
@@ -4076,7 +5816,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-a8171d18-ad12-4e16--S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-a8171d18-ad12-4e16--S",
+    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-17-bis-21-30-uhr-m-w-d-/3569973789-109-8667"
    ],
    "person": "Марина"
   },
@@ -11849,179 +13590,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ka_3566131630",
-   "src": "Kleinanzeigen",
-   "title": "Lahr / Kippenheim / 17€/h / Reinigung v. Ferienwohnungen",
-   "firma": "частное",
-   "ort": "Lahr (Schwarzwald)",
-   "plz": "77933",
-   "street": "",
-   "lat": 48.3355086,
-   "lon": 7.8723584,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lahr-kippenheim-17-h-reinigung-v-ferienwohnungen/3566131630-107-8047",
-   "posted": "2026-11-08",
-   "posted_time": "21:20",
-   "desc": "Zur Erweiterung unseres Teams suchen wir zuverlässige & flexible Mitarbeiter , im Idealfall mit einem Auto. Aufgaben : -Reinigung der Ferienwohnung bei Check-out -Liebevolles Herrichten der Betten -Auffüllen von Verbrauchsmaterialien -Überprüfung auf Schäden -Fotos nach der Reinigung Arbeitszeit : Flexibel zwischen 10 Uhr und 16 Uhr Zeitaufwand : ca. 2-3 Stunden je nach Reinigungsaufwand Ca . 1-5 x pro Woche ( je nachdem wie viel du arbeiten willst ) Bei Interesse bitte folgende Fragen beantworten: 1. wie alt bist du ? 2. männlich oder weiblich (falls man dies anhand des Namens nicht erkennen kann ) 3. Hast du noch einen anderen Job ? 4. Wie bist du zeitlich verfügbar ? 5. Wo wohnst du ? 6. Hast du ein Auto ? Wir zahlen gut & immer pünktlich , dafür erwarten wir eine saubere , zügige & vor allem zuverlässige Arbeit :-)",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 26.6,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-08T22:18",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 70,
-      "changes": 2,
-      "min_wait": 7,
-      "walk_end": 9,
-      "end_stop": "Lahr Goethestraße",
-      "dep": "06:32",
-      "arr": "07:42",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB26",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "07:06",
-        "arr": "07:16",
-        "wait": 7,
-        "min": 10
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Lahr",
-        "line": "105",
-        "from": "Lahr (Schwarzw)",
-        "to": "Lahr Goethestraße",
-        "dep": "07:27",
-        "arr": "07:34",
-        "wait": 11,
-        "min": 7
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Lahr Goethestraße",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:42",
-        "min": 9
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 76
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 273,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 247,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "11:06",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "11:06",
-        "min": 247
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 273
-     },
-     {
-      "kind": "велосипед",
-      "min": 152,
-      "changes": 0,
-      "km": 37.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 152
-       }
-      ],
-      "risky": false,
-      "score": 284
-     }
-    ],
-    "best": "транспорт",
-    "min": 70,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ka_3535236118",
    "src": "Kleinanzeigen",
    "title": "Reinigungskraft (m/w/d) Teilzeit in Hausach",
@@ -12523,284 +14091,6 @@
     "best": "транспорт",
     "min": 71,
     "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3565198011",
-   "src": "Kleinanzeigen",
-   "title": "Reinigungskraft in der Filiale Teilzeit (m/w/d)",
-   "firma": "Stepstone",
-   "ort": "Biberach",
-   "plz": "77781",
-   "street": "",
-   "lat": 48.3322296,
-   "lon": 8.0108583,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-in-der-filiale-teilzeit-m-w-d-/3565198011-109-8049",
-   "posted": "2026-11-08",
-   "posted_time": "12:10",
-   "desc": "Reinigungskraft in der Filiale Teilzeit (m/w/d) bei Lidl Dettingen Nord HIER BEWERBEN: https://www.stepstone.de/job/14124676/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Wir wollen für unsere Kunden nur das Beste. Dich zum Beispiel. Egal, was du bei Lidl machst ─ du machst es mit vollem Einsatz. Zusammen zeigen wir, dass im Einzelhandel zu arbeiten bedeutet, jeden Tag als Team zu arbeiten - und dafür Wertschätzung und ein faires Gehalt zu bekommen Aufgaben ● Als Teil eines engagierten Teams kümmerst du dich um alle anfallenden Reinigungsarbeiten in der Filiale ● Du packst an und bist mit vollem Einsatz dabei, wenn es um Ordnung und Sauberkeit geht ● Mit deinem Auge fürs Detail sorgst du für ein gepflegtes Filialbild und ein gelungenes Einkaufserlebnis für unsere Kunden Profil ● Ausgeprägter Sinn für Ordnung und Sauberkeit ● Schnelle und effiziente Arbeitsweise ● Teamgeist und Zuverlässigkeit ● Zeitliche Flexibilität Wir bieten ● Übertariflicher Mindesteinstiegslohn sowie Urlaubs- und Weihnachtsgeld ● Exklusiver 5 % Einkaufsrabatt in unseren Filialen ● Bezahlte Überstunden bei minutengenauer Zeiterfassung ● Unbefristeter Arbeitsvertrag und 6 Wochen Urlaub/Jahr ● Weitere Leistungen gemäß Tarifvertrag (Zuschläge, Sonderurlaub, u.v.m.) ● Tarifliche Altersvorsorge ● Intensive Einarbeitung mit Begleitung durch einen persönlichen Paten ● Vielfältige betriebliche Gesundheitsangebote und exklusive Sonderkonditionen bei ausgewählten Fitnessanbietern deutschlandweit ● Vergünstigtes Deutschlandticket Wir legen Wert darauf, dass sich dein Einstieg bei uns lohnt! Mit attraktiven Benefits und einer Unternehmenskultur, die auf Zutrauen, Vielfalt und ein transparentes Gehaltssystem unabhängig vom Geschlecht setzt. KLED1_DE",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 22.7,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 100,
-      "changes": 2,
-      "min_wait": 6,
-      "walk_end": 29,
-      "end_stop": "Biberach Volksbank",
-      "dep": "07:23",
-      "arr": "09:03",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "07:23",
-        "arr": "07:34",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "07:34",
-        "arr": "07:43",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Gengenbach",
-        "dep": "07:49",
-        "arr": "08:03",
-        "wait": 6,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7160",
-        "from": "Gengenbach Bahnhofstraße",
-        "to": "Biberach Volksbank",
-        "dep": "08:18",
-        "arr": "08:35",
-        "wait": 15,
-        "min": 17
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Biberach Volksbank",
-        "to": "работа",
-        "dep": "08:35",
-        "arr": "09:03",
-        "min": 29
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 106
-     },
-     {
-      "kind": "велосипед",
-      "min": 135,
-      "changes": 0,
-      "km": 33.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 135
-       }
-      ],
-      "risky": false,
-      "score": 250
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 300,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 274,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "13:36",
-      "arr": "18:37",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "13:36",
-        "arr": "13:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "13:47",
-        "arr": "14:03",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "14:03",
-        "arr": "18:37",
-        "min": 274
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 300
-     }
-    ],
-    "best": "транспорт",
-    "min": 100,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3296677634",
-   "src": "Kleinanzeigen",
-   "title": "Reinigungskraft (m/w/d), Appenweier",
-   "firma": "ray group",
-   "ort": "Appenweier",
-   "plz": "77767",
-   "street": "",
-   "lat": 48.5531521,
-   "lon": 7.9795969,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-appenweier/3296677634-107-9035",
-   "posted": "2026-11-08",
-   "posted_time": "11:04",
-   "desc": "Glänzende Zukunft gesucht? Werde Teil des ray-Teams als Reinigungskraft (m/w/d) in, 77767 Appenweier, Ludwig-Winter-Straße! Arbeitszeit (geringfügig): Mo. - Fr. jeweils 1 Stunde vormittags nach Absprache Über uns: Sauberkeit ist unsere Leidenschaft! Wir sind ein herzliches Team, das gemeinsam dafür sorgt, dass sich Menschen in gepflegten Räumen wohlfühlen. Jetzt suchen wir Verstärkung – vielleicht bist Du genau die richtige Person? Das bieten wir Dir: • Pünktliche und faire Bezahlung nach Tariflohn (15,00 €/Stunde) • Einen sicheren Arbeitsplatz in einem tollen Team • Respekt und Wertschätzung auf allen Ebenen • Ein kollegiales Team mit flachen Hierarchien, in dem Ihre Meinung zählt • Individuelle Aufstiegs- und Weiterbildungsmöglichkeiten, z. B. zum Vorarbeiter (m/w/d) oder zur Assistenz der Objektleitung (m/w/d) Deine Aufgaben: • Reinigung unseres Objektes unter Einhaltung von Hygienestandards • Mit Deinem Einsatz sorgst Du für ein angenehmes Umfeld Das bringst Du mit: • Ein Auge für Ordnung und Sauberkeit • Zuverlässigkeit und Pünktlichkeit • Freundlichkeit und Teamgeist • Erfahrung ist super, aber kein Muss – wir arbeiten Dich gerne ein! Klingt gut? Dann freuen wir uns auf Dich! Bewirb Dich jetzt unter der Telefonnummer: 0162 200 34 20 oder direkt über den Button „Bewerben“. Wir sind von Mo. bis Fr. zwischen 08:00 – 16:00 Uhr erreichbar.",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 7.9,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 35,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Poststraße",
-      "dep": "23:37",
-      "arr": "00:12",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Poststraße",
-        "dep": "23:44",
-        "arr": "23:59",
-        "wait": null,
-        "min": 15
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Poststraße",
-        "to": "работа",
-        "dep": "23:59",
-        "arr": "00:12",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 35
-     },
-     {
-      "kind": "велосипед",
-      "min": 45,
-      "changes": 0,
-      "km": 10.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 45
-       }
-      ],
-      "risky": false,
-      "score": 70
-     }
-    ],
-    "best": "транспорт",
-    "min": 35,
-    "changes": 0
    },
    "status": "open",
    "also_urls": [],
@@ -15653,9 +16943,7 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-nacharbeit-3-schicht/3563837900-111-8670"
-   ],
+   "also_urls": [],
    "person": "Марина"
   },
   {
