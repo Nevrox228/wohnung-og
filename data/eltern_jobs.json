@@ -1,9 +1,606 @@
 {
- "generated": "2026-11-13T15:11",
+ "generated": "2026-11-13T20:07",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 415,
+ "count": 417,
  "items": [
+  {
+   "id": "marina:ba_10001-1004014657-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter (m/w/d) in 3-Schicht",
+   "firma": "AW Personal GmbH & Co. KG",
+   "ort": "Freudenstadt",
+   "street": "",
+   "lat": 48.4771661,
+   "lon": 8.3960275,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004014657-S",
+   "posted": "2026-11-13",
+   "desc": "## WIR SUCHEN DICH! **HIER BIST DU GEFRAGT** - Entgraten von Bauteilen, Optische Kontrolle - Sichtprüfung der bearbeiteten Bauteile - Dokumentieren im Rahmen der Werkerselbstkontrolle **DAMIT ÜBERZEUGST DU UNS** - Berufserfahrung in der Produktion - Systematische Arbeitsweise - Genauigkeit und Qualitätsbewusstsein - Bereitschaft zur Schichtarbeit (3-Schichten) **DAS BIETEN WIR DIR** - Unbefristeter Arbeitsvertrag - Übertarifliche Bezahlung mit Zulagen - Entlohnung nach tariflicher Bindung - Urlaubs- und Weihnachtsgeld - Individuelle, faire und kompetente Beratung & Betreuung durch unser mehrsprachiges Team - Weiterbildungsmöglichkeiten & Qualifizierungsmaßnahmen - Kostenfreie Arbeitskleidung, persönliche Schutzausrüstung und medizinische Betreuung - Betriebliche Altersvorsorge - Corporate Benefits mit attraktiven Mitarbeiterrabatten (z.B. Vergünstigungen in Onlineshops) ## ANDERS. WIR. KONTAKT UND BEWERBUNG: Tel.: 07451-539-138-0 Mobil +49178-6951064 - WhatsApp Mail: mail@aw-personal.de [www.aw-personal.de](https://www.aw-personal.de/jobs) - online bewerben AW Personal GmbH & Co. KG Johanniterstr. 5 72160 Horb am Neckar/Rexingen Die Stelle passt nicht zu dir? Bewirb dich jetzt initiativ - wir beraten dich gerne! ## Finde deinen AWesome Job bei uns!",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": false,
+   "who": "marina",
+   "km": 23.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-13T19:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 142,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 6,
+      "end_stop": "FDS Nordstadt",
+      "dep": "05:21",
+      "arr": "07:43",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Freudenstadt Hauptbahnhof",
+        "dep": "05:54",
+        "arr": "07:09",
+        "wait": 6,
+        "min": 75
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE40",
+        "from": "Freudenstadt Hauptbahnhof",
+        "to": "Freudenstadt Stadtbahnhof",
+        "dep": "07:20",
+        "arr": "07:25",
+        "wait": 11,
+        "min": 5
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7787",
+        "from": "Freudenstadt Stadtbahnhof",
+        "to": "FDS Nordstadt",
+        "dep": "07:35",
+        "arr": "07:38",
+        "wait": 10,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "FDS Nordstadt",
+        "to": "работа",
+        "dep": "07:38",
+        "arr": "07:43",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 151
+     },
+     {
+      "kind": "велосипед",
+      "min": 149,
+      "changes": 0,
+      "km": 36.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 149
+       }
+      ],
+      "risky": false,
+      "score": 278
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 655,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 629,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "16:17",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "16:17",
+        "min": 629
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 655
+     }
+    ],
+    "best": "транспорт",
+    "min": 142,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3570255239",
+   "src": "Kleinanzeigen",
+   "title": "Lagerist / handwerklich begabter Allrounder (m/w/d)",
+   "firma": "max reach HR",
+   "ort": "Baiersbronn",
+   "plz": "72270",
+   "street": "",
+   "lat": 48.5416972,
+   "lon": 8.3252756,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerist-handwerklich-begabter-allrounder-m-w-d-/3570255239-247-8719",
+   "posted": "2026-11-13",
+   "posted_time": "15:52",
+   "desc": "☘️ Bässler GmbH sucht zum nächstmöglichen Zeitpunkt in Baiersbronn ein/e Lagerist / handwerklich begabter Allrounder (m/w/d). Über uns – Bässler GmbH Die Bässler GmbH steht für Innovation, Qualität und Teamgeist im Messebau. Als kreatives und dynamisches Unternehmen planen, gestalten und realisieren wir individuelle Messestände für nationale und internationale Kunden. Neben dem klassischen Messebau bieten wir auch den Verkauf und die Vermietung von Messezubehör wie... (gekürzte Stellenanzeige) ❗️❗️❗️❗️ Wichtiger Hinweis ❗️❗️❗️❗️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Die vollständige Stellenausschreibung, alle Kontaktinformationen sowie die Bewerbungsoption finden Sie unter folgendem Link: ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ▼ jobs4us.de/18w1cqybkyp ▲ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ So funktioniert’s: Klicken Sie auf den Button „Bewerben“ oder Kopieren Sie den Link und fügen Sie ihn in die Adressleiste Ihres Internet-Browsers ein, um den Arbeitgeber zu kontaktieren. ✅",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-13T19:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 190,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 59,
+      "end_stop": "Mitteltal Lamm",
+      "dep": "16:36",
+      "arr": "19:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "16:36",
+        "arr": "16:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "16:47",
+        "arr": "16:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "17:07",
+        "arr": "17:15",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "400",
+        "from": "Achern",
+        "to": "Ruhestein",
+        "dep": "17:21",
+        "arr": "18:00",
+        "wait": 6,
+        "min": 39
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "200",
+        "from": "Ruhestein",
+        "to": "Mitteltal Lamm",
+        "dep": "18:32",
+        "arr": "18:48",
+        "wait": 32,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Mitteltal Lamm",
+        "to": "работа",
+        "dep": "18:48",
+        "arr": "19:46",
+        "min": 59
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 199
+     },
+     {
+      "kind": "велосипед",
+      "min": 121,
+      "changes": 0,
+      "km": 29.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 121
+       }
+      ],
+      "risky": false,
+      "score": 222
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 570,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 544,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "14:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "14:52",
+        "min": 544
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 570
+     }
+    ],
+    "best": "транспорт",
+    "min": 190,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3540547502",
+   "src": "Kleinanzeigen",
+   "title": "Elzach Warenpräsentation im Außendienst I Minijob",
+   "firma": "beeline Concessions GmbH",
+   "ort": "Fischerbach",
+   "plz": "77716",
+   "street": "",
+   "lat": 48.287808,
+   "lon": 8.111432,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/elzach-warenpraesentation-im-aussendienst-i-minijob/3540547502-117-27933",
+   "posted": "2026-11-13",
+   "posted_time": "19:08",
+   "desc": "beeline ist eines der größten internationalen Handelsunternehmen für Modeschmuck. Seit 1990 heißt es bei uns: Gemeinsam erreichen wir mehr! Unsere stilvollen Marken SIX, I AM und TOSH findest du überall – in Fashion-Shops, Drogerien, Parfümerien und Supermärkten weltweit. Suchst du eine Position, die Flexibilität und Eigenverantwortung vereint? Dann haben wir den richtigen Job für dich! Warenpräsentation im Außendienst - Minijob (w/m/d) mit 6,5 Stunden verteilt auf 2 feste Tage in der Woche. Unsere Benefits für dich: • Freie Wochenenden. • Flexible und familienfreundliche Arbeitszeiten. • Deine Arbeitszeit beginnt direkt mit dem Verlassen deiner Wohnung. • Erstattung deiner Fahrtkosten (Kilometerpauschale 0,30 €). • Duz-Kultur und flache Hierarchien. • Eigenverantwortliches Arbeiten. • Arbeiten in einem modernen Umfeld mittels eines von uns zur Verfügung gestellten Smartphone. • Rabatte bei über 700 Kooperationspartnern. • Sportangebote bei über 5000 Kooperationspartnern. • Attraktive betriebliche Altersvorsorge sowie vermögenwirksame Leistungen. • Individuelle und intensive Einarbeitung. Deine Aufgaben bei uns: • Du bist der verantwortliche Ansprechpartner (w/m/d) für unsere Vertriebspartner vor Ort in Elzach, Wolfach sowie Hausach und löst eigenständig oder mit Hilfe deines Teams Herausforderungen. • Du bist als Merchandiser (w/m/d) für die korrekte Warenpräsentation und Warenverräumung unserer Accessoires zuständig und stellst die Ordnung unserer Verkaufsflächen bei unseren Partnern sicher. • Du kümmerst dich um das Warenmanagement; Warenlagerung, Bestellung und Preisauszeichnung. • Du pflegst (kein direkter Verkauf) unsere Warenständer und präsentierst unsere schmucken Accessoires im richtigen Licht. Das bringst du mit: • Idealerweise erste Erfahrung im Einzelhandel, aber auch Quereinsteiger sind willkommen. • Kommunikative, zuverlässige und aufgeschlossene Persönlichkeit. • Geschick für Dekoration und ein Auge fürs Detail. • Sicheren Umgang mit Smartphone Apps. • Einen eigenen PKW & Internetzugang. OUR SPIRIT MAKES THE DIFFERENCE. Sollen wir uns kennenlernen - beeline & du? Wir freuen uns auf dich! Schick uns deine Bewerbung gerne inklusive Gehaltsvorstellung und frühestmöglichem Einstiegstermin. Wir freuen uns auf deine Bewerbung unter: https://jobs.beeline-group.com",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-13T19:38",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 123,
+      "changes": 1,
+      "min_wait": 55,
+      "walk_end": 26,
+      "end_stop": "Haslach",
+      "dep": "14:36",
+      "arr": "16:40",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "14:36",
+        "arr": "14:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "14:47",
+        "arr": "15:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Offenburg Bahnhof",
+        "to": "Haslach",
+        "dep": "15:58",
+        "arr": "16:14",
+        "wait": 55,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Haslach",
+        "to": "работа",
+        "dep": "16:14",
+        "arr": "16:40",
+        "min": 26
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 126
+     },
+     {
+      "kind": "как в приложении",
+      "min": 135,
+      "changes": 2,
+      "min_wait": 21,
+      "walk_end": 1,
+      "end_stop": "Fischerbach Dorf",
+      "dep": "12:36",
+      "arr": "14:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "12:36",
+        "arr": "12:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "12:47",
+        "arr": "13:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Offenburg Bahnhof",
+        "to": "Hausach",
+        "dep": "13:58",
+        "arr": "14:19",
+        "wait": 55,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7151",
+        "from": "Hausach",
+        "to": "Fischerbach Dorf",
+        "dep": "14:40",
+        "arr": "14:51",
+        "wait": 21,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Fischerbach Dorf",
+        "to": "работа",
+        "dep": "14:51",
+        "arr": "14:52",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 141
+     },
+     {
+      "kind": "велосипед",
+      "min": 161,
+      "changes": 0,
+      "km": 39.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 161
+       }
+      ],
+      "risky": false,
+      "score": 302
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 413,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 387,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "12:36",
+      "arr": "19:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "12:36",
+        "arr": "12:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "12:47",
+        "arr": "13:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "13:03",
+        "arr": "19:29",
+        "min": 387
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 413
+     }
+    ],
+    "best": "транспорт",
+    "min": 123,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3570157487",
    "src": "Kleinanzeigen",
@@ -9500,7 +10097,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-in-produktion-fertigung-montage-m-w/3540526545-111-8051"
+   ],
    "person": "Марина"
   },
   {
@@ -14172,190 +14771,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ka_3566344014",
-   "src": "Kleinanzeigen",
-   "title": "Reinigungskraft (m/w/d) in Achern",
-   "firma": "Prior & Peußner GmbH u. Co. KG",
-   "ort": "Achern",
-   "plz": "77855",
-   "street": "",
-   "lat": 48.6340095,
-   "lon": 8.0373249,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-in-achern/3566344014-109-8671",
-   "posted": "2026-11-09",
-   "posted_time": "09:59",
-   "desc": "**15 € Stundenlohn | Montag - Freitag | Morgens | Geringfügige oder sozialversicherungs- und steuerpflichtige Beschäftigung** Du suchst eine zuverlässige Beschäftigung in der Gebäudereinigung mit einem festen Stundenlohn? Dann werde Teil von Prior & Peußner und unterstütze uns bei der Reinigung in **Achern**. **DAS ERWARTET DICH** * 15 Euro pro Stunde * Montag – Freitag * Morgens * Geringfügige oder sozialversicherungs- und steuerpflichtige Beschäftigung * Ein etabliertes, familiengeführtes Unternehmen als Arbeitgeber **WER WIR SIND** Prior & Peußner ist ein familiengeführtes Unternehmen mit langjähriger Erfahrung in der Gebäudereinigung und umfassenden Gebäudedienstleistungen. Seit 1910 stehen wir für Zuverlässigkeit, Innovation und sorgfältige Arbeit. Wir betreuen unsere Kunden an mehr als 2.000 Einsatzorten. **DEINE AUFGABEN** * Reinigung der zugewiesenen Räumlichkeiten * Sorgfältige und zuverlässige Ausführung der Reinigungsarbeiten * Einhaltung der vereinbarten Reinigungsabläufe **DAS BRINGST DU MIT** * Zuverlässigkeit und Sorgfalt * Eine selbstständige und gewissenhafte Arbeitsweise **JETZT TELEFONISCH BEWERBEN!** Du hast Interesse? Dann melde dich unkompliziert telefonisch bei uns. **Mobil: 0163 3494231** Wir freuen uns auf deinen Anruf! Auch passend für folgende Berufsgruppen oder Titel: Gebäudereiniger, Reinigungskraft, Raumpfleger, Reinigungshilfe, Putzkraft, Mitarbeiter Gebäudereinigung, Reinigungspersonal, Reinigungskraft Teilzeit, Reinigungskraft Unterhaltsreinigung, Helfer Gebäudereinigung,",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 11.8,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-09T13:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 70,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 37,
-      "end_stop": "Achern",
-      "dep": "06:25",
-      "arr": "07:35",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Achern",
-        "to": "работа",
-        "dep": "06:58",
-        "arr": "07:35",
-        "min": 37
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 70
-     },
-     {
-      "kind": "велосипед",
-      "min": 62,
-      "changes": 0,
-      "km": 15.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 62
-       }
-      ],
-      "risky": false,
-      "score": 104
-     },
-     {
-      "kind": "как в приложении",
-      "min": 113,
-      "changes": 2,
-      "min_wait": 4,
-      "walk_end": 22,
-      "end_stop": "Großweier Seehotel",
-      "dep": "06:32",
-      "arr": "08:26",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Gamshurst Ziegelhütte",
-        "dep": "07:16",
-        "arr": "07:31",
-        "wait": 4,
-        "min": 15
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Gamshurst Ziegelhütte",
-        "to": "Großweier Seehotel",
-        "dep": "08:02",
-        "arr": "08:04",
-        "wait": null,
-        "min": 2
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Großweier Seehotel",
-        "to": "работа",
-        "dep": "08:04",
-        "arr": "08:26",
-        "min": 22
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 131
-     }
-    ],
-    "best": "транспорт",
-    "min": 70,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ka_3215452338",
    "src": "Kleinanzeigen",
    "title": "Minijob/Teilzeit : Logistik Lager / eCommerce / Lebensmittel",
@@ -14861,7 +15276,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/maschinenbediener-m-w-d-sasbach-vollzeit-adecco-job-produktionshelfer/3540458437-111-8670"
+   ],
    "person": "Марина"
   },
   {
