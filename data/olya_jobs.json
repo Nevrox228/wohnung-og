@@ -1,9 +1,54 @@
 {
- "generated": "2026-11-13T20:07",
+ "generated": "2026-11-14T01:01",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 50,
+ "count": 52,
  "items": [
+  {
+   "id": "li_4482372983",
+   "src": "LinkedIn",
+   "title": "Praxisintegrierte Ausbildung (PiA) zum Erzieher (m/w/d)",
+   "firma": "Stadtverwaltung Lahr Personalamt",
+   "ort": "Lahr/Schwarzwald",
+   "plz": "",
+   "street": "",
+   "lat": 48.338896,
+   "lon": 7.8710825,
+   "url": "https://de.linkedin.com/jobs/view/4482372983",
+   "posted": "2026-09-29",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 16.3,
+   "kind": "Общее / другое",
+   "ausb": true,
+   "first_seen": "2026-11-13T20:37",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "ss_14751090",
+   "src": "StepStone",
+   "title": "Pädagogische Fachkraft (m/w/d) für die deutsch-französische Kinderkrippe",
+   "firma": "Stadt Kehl",
+   "ort": "Kehl",
+   "plz": "",
+   "street": "",
+   "lat": 48.5733977,
+   "lon": 7.8114002,
+   "url": "https://www.stepstone.de/stellenangebote--Paedagogische-Fachkraft-m-w-d-fuer-die-deutsch-franzoesische-Kinderkrippe-Kehl-Stadt-Kehl--14751090-inline.html",
+   "posted": "2026-11-13",
+   "desc": "Die Stadt Kehl betreibt eine deutsch-französische Kinderkrippe in Straßburg für Kinder von zwei Monaten bis drei Jahren. Gesucht wird eine pädagogische Fachkraft (m/w/d) für Betreuung, Erziehung, Bildung und pflegerische Aufgaben der Krippenkinder. Eine abgeschlossene Ausbildung zur staatlich anerkannten Erzieherin oder pädagogischen Fachkraft, hohe soziale Kompetenz und Interesse an interkulturel",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 14.6,
+   "kind": "Kita / Krippe",
+   "ausb": false,
+   "first_seen": "2026-11-13T20:37",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "ba_10001-1004014024-S",
    "src": "Jobbörse",
@@ -236,6 +281,7 @@
    "first_seen": "2026-11-08T22:18",
    "status": "open",
    "also_urls": [
+    "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html",
     "https://de.linkedin.com/jobs/view/4487950738",
     "https://de.linkedin.com/jobs/view/4487134659"
    ]
@@ -1125,6 +1171,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },
