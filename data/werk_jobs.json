@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T01:01",
+ "generated": "2026-11-14T17:43",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -14,7 +14,7 @@
  },
  "counts": {
   "all": 475,
-  "queue": 267,
+  "queue": 266,
   "ai_focus": 249
  },
  "jobs": [
@@ -4849,32 +4849,6 @@
    "description": "Karriere bei novalutions Werkstudent (m/w/d) für Automation, KI und Low-Code-Anwendungen Köln Studentische Hilfskraft Du suchst Innovation, Eigenverantwortung und Gestaltungsspielraum? Dann lass uns gemeinsam Analoges DIGITAL machen. Jetzt bewerben Alle Stellen Über novalutions Bei novalutions gestalten wir die digitale Zukunft! Als wachsendes Tech-Unternehmen sind wir Experten in der Digitalisierung und Automatisierung von Geschäftsprozessen – mit einem besonderen Fokus auf Low-Code-Entwicklung und Künstliche Intelligenz. Unsere Mission: Unternehmen effizienter, nachhaltiger und wettbewerbsfähiger zu machen. Wir arbeiten in einem dynamischen Team, das Innovation und Transparenz lebt, und bieten dir die Möglichkeit, in spannenden Projekten mitzuwirken und gemeinsam mit uns die digitale Transformation zu gestalten. Werde Teil unseres Teams und gestalte mit uns die Zukunft! Die Stelle Studentische Hilfskraft Köln Veröffentlicht vor 9 Monaten Deine Aufgaben Unterstützung bei der Entwicklung und Implementierung von Automatisierungslösungen mit Low-Code-Plattformen. Mitarbeit an KI-gestützten Anwendungen und innovativen Projekten im Bereich der Prozessautomatisierung. Analyse und Optimierung bestehender Workflows mit Fokus auf Effizienzsteigerung durch Automatisierung. Durchführung von Tests, Dokumentation und Qualitätssicherung für neue Anwendungen. Recherche und Identifikation aktueller Technologien, Trends und Best Practices in den Bereichen KI und Low-Code. Enge Zusammenarbeit mit interdisziplinären Teams, um technische Anforderungen zu definieren und kreative Lösungen zu entwickeln. Das bringst du mit Du bist eingeschriebener Student (m/w/d) der Informatik, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs. Begeisterung für Automatisierungstechnologien, künstliche Intelligenz und Low-Code-Plattformen. Idealerweise erste Erfahrungen mit Tools wie Microsoft Power Platform, n8n, Zapier, Make oder ähnlichen Technologien. Grundkenntnisse in mindestens einer Programmiersprache (z. B. Python, JavaScript). Analytische Denkweise und die Fähigkeit, komplexe Problemstellungen strukturiert zu lösen. Eigeninitiative, Teamgeist und eine präzise Arbeitsweise. Gute Deutsch- und Englischkenntnisse in Wort und Schrift. Um sich für diesen Job zu bewerben, sende deine Unterlagen per E-Mail an info@novalutions.de Auf einen Blick Standort Köln Anstellung Studentische Hilfskraft Kevin & Jérémie Antwort innerhalb weniger Tage Jetzt bewerben Fragen? info@novalutions.de Was wir bieten Mehr als nur ein Job. Bei uns bekommst du echte Verantwortung in Kundenprojekten, ein Team, das sich gegenseitig hilft, und die Freiheit, deinen Arbeitsalltag selbst zu gestalten. Innovative Projekte KI, Automatisierung und Low-Code für Konzerne und Mittelstand. Home-Office Flexibel remote oder im Büro mit Domblick. Weiterbildungsbudget Kurse, Zertifizierungen, Konferenzen. Events Teamevents und gemeinsame Abende in Köln. Urban Sports Mitgliedschaft für Sport und Ausgleich. Gleitz"
   },
   {
-   "id": "ss_14612285",
-   "queue": true,
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent (w/m/d) Künstliche Intelligenz",
-   "company": "io-consultants GmbH & Co. KG",
-   "location": "Würzburg",
-   "distance_km": 194.7,
-   "remote": true,
-   "german_level": "sehr gut",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "StepStone",
-   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-w-m-d-Kuenstliche-Intelligenz-Wuerzburg-Heidelberg-Leonberg-Stuttgart-Dortmund-Muenchen-io-consultants-GmbH-Co-KG--14612285-inline.html",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-10-30",
-   "first_seen": "2026-11-04T12:29",
-   "description": "io-consultants GmbH & Co. KG ist ein Beratungsunternehmen mit Fokus auf digitale Transformation und Prozessautomatisierung. Gesucht wird ein Werkstudent (m/w/d) Künstliche Intelligenz zur Identifikation und Umsetzung von KI-gestützten Anwendungsfällen mit Microsoft 365 Copilot und Power Automate. Immatrikulation an einer Hochschule, hohe IT-Affinität, sehr gute Deutsch- und Englischkenntnisse sowie Interesse an KI und Prozessautomatisierung werden vorausgesetzt."
-  },
-  {
    "id": "an_working-student-ai-automation-support-berlin-19369",
    "queue": true,
    "status": "open",
@@ -7567,6 +7541,32 @@
    "posted": "2026-10-27",
    "first_seen": "2026-11-04T12:29",
    "description": "EIN GUTES PRAKTIKUM IST PRAKTISCH NIE THEORETISCH. TEILE DEINE LEIDENSCHAFT. Erfolg ist Teamarbeit. Nur wenn Expert:innen ihr Fachwissen und ihre Begeisterung teilen, entsteht ein Workflow, in dem Ideen fließen. Das nennen wir Innovationskultur. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern vor allem auch zum Mitreden und Weiterdenken. Unser Team bei BMW Motorrad ConnectedRide treibt die kontinuierliche Verbesserung der Prozesse rund um unsere ConnectedRide Produkte voran. Ein zentraler Hebel ist dabei die Agentisierung und Automatisierung von End-to-End-Prozessen mit modernen Tools und KI – wir entwickeln uns zunehmend in Richtung AI Native, mit konkreten AI-Native-Setups, Ingest-Flows und dem Betrieb lokaler LLMs. Im Rahmen deines Werkstudiums unterstützt du als aktive Schnittstelle zwischen Fachbereichen und IT und trägst zur engen Zusammenarbeit mit Product Ownern sowie Business- und Operations-Teams bei. Was erwartet dich? Du unterstützt bei der Analyse und Optimierung bestehender Prozesse im ConnectedRide-Umfeld. Außerdem wirkst du mit bei der Konzeption und Umsetzung von Agentisierungslösungen (z. B. n8n oder Power Automate) sowie bei konkreten AI-Native-Setups und Ingest-Flows. Darüber hinaus unterstützt du beim Aufsetzen und Betrieb lokaler LLMs im Linux-Umfeld (Self-Hosting). Zudem trägst du zum AI-Native-Resetup von Workflows bei, zum Beispiel bei Genehmigungsprozessen, Reporting und Datenflüssen. Außerdem wirkst du mit bei der Schnittstellenarbeit zwischen Business Development, Operations und Product Ownern. Ergänzend hilfst du bei der Identifikation von Effizienzpotenzialen durch den Einsatz von KI und Automatisierung. Zudem unterstützt du bei der Strukturierung und Dokumentation von Prozessen. Was bringst du mit? Studium der (Wirtschafts-)Informatik, BWL mit IT-Bezug oder vergleichbar. Interesse an Digitalisierung, Prozessmanagement und Automatisierung, insbesondere an AI-Native-Ansätzen und Agentisierung statt klassischer Digitalisierung. Erste Erfahrungen mit Tools wie n8n oder Power Automate sowie mit AI-Native-Setups, Ingest-Flows oder lokalen LLMs im Linux-Umfeld von Vorteil. Strukturierte und analytische Vorgehensweise. Verständnis für organisatorische Abläufe und Schnittstellenarbeit. Teamfähigkeit, Eigeninitiative und Anwesenheit vor Ort in München. Sehr gute Deutsch- und Englischkenntnisse. Du bringst Begeisterung für neue Technologien und ein innovatives Umfeld mit? Dann bewirb dich jetzt! Was bieten wir dir? Umfassendes Mentoring & Onboarding. Persönliche & fachliche Weiterentwicklung. Flexible Arbeitszeiten. Mobilarbeit. Attraktive & faire Vergütung. Apartments für Studierende (nach Verfügbarkeit & nur am Standort München). Und vieles mehr siehe bmw.jobs/waswirbieten. Startdatum: ab frühestens 01.12.2026 Dauer: 12 Monate Arbeitszeit: Teilzeit Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier. Wir bei der BMW Group legen großen Wert auf Gleichbehandlung "
+  },
+  {
+   "id": "ss_14752855",
+   "queue": false,
+   "status": "open",
+   "stars": 3,
+   "ai_focus": true,
+   "type": "Junior",
+   "track": "KI / Automatisierung",
+   "title": "Call Center Agent (m/w/d) - 100% Homeoffice - Quereinsteiger gerne",
+   "company": "Visumru.de",
+   "location": "Homeoffice",
+   "distance_km": null,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Call-Center-Agent-m-w-d-100-Homeoffice-Quereinsteiger-gerne-Homeoffice-bundesweit-Berlin-Hamburg-Stuttgart-Wuerzburg-Muenchen-Leipzig-Dresden-Frankfurt-Visumru-de--14752855-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-14",
+   "first_seen": "2026-11-14T12:30",
+   "description": "Visumru.de ist ein Dienstleistungsunternehmen für Visa-Verfahren und Reiseorganisation in die Russische Föderation. Gesucht wird ein Call Center Agent (m/w/d) zur Kundenbetreuung per Telefon, Bearbeitung von Aufträgen und Koordination von Serviceanfragen im 100% Homeoffice. Kundenkontakterfahrung, sehr gute Deutschkenntnisse, Kommunikationsstärke und eigenverantwortliches Arbeiten werden vorausgesetzt."
   },
   {
    "id": "li_4481856625",
