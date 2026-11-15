@@ -1,9 +1,333 @@
 {
- "generated": "2026-11-15T21:31",
+ "generated": "2026-11-15T22:34",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 767,
+ "count": 769,
  "items": [
+  {
+   "id": "mykyta:ba_10001-1001514549-S",
+   "src": "Jobbörse",
+   "title": "Helfer Produktion (m/w/d)",
+   "firma": "HR Management Personaldienstl. GmbH & Co. KG",
+   "ort": "Renchen",
+   "street": "",
+   "lat": 48.5845431,
+   "lon": 8.0231704,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001514549-S",
+   "posted": "2025-06-18",
+   "desc": "HR Management - Ihre Zukunft beginnt heute! Aktuell auf Jobsuche? Sie wollen in einem modernen und renommierten Unternehmen arbeiten und Erfahrung sammeln? Dann suchen wir genau DICH - SIE - EUCH im Auftrag unseres Kunden, ein Unternehmen im Metall-Bereich im Raum Renchen, als Produktionsmitarbeiter (m/w/d). Die Stelle ist ab sofort in Vollzeit zu besetzen und es besteht eine Übernahmeoption. Ihre Aufgaben • Bedienen der Maschine nach Anweisung • Qualitätssicherung durch Prüfen und Messen laut Plan • Dokumentation Ihre Qualifikation • Berufserfahrung im Bereich Metall von Vorteil • Handwerkliches Geschick • Zuverlässige und sorgfältige Arbeitsweise • Einsatzbereitschaft und Teamfähigkeit • Bereitschaft zur 2-Schicht Wir bieten Ihnen • Ein faires und sicheres Einkommen • Übertarifliche Zulagen und Branchenzuschlag • Attraktive Antrittsprämie von 250 € bei Arbeitsbeginn • Je nach Kundenauftrag erhalten Sie Branchenzuschläge, steuerfreies Fahrgeld, Verpflegungsmehraufwand • Zusätzlich bieten wir Vermögenswirksame Leistungen und eine betriebliche Altersvorsorge an • Langfristige oder unbefristete Arbeitsverträge • Wir sind Mitglied im Arbeitgeberverband iGZ und wenden dessen Tarifvertrag an • Wir gewähren Nachtschicht-, Sonn- und Feiertagszuschläge, Weihnachts- und Urlaubsgeld • Persönliche Betreuung und Einsatzbegleitung vor Ort, Einhaltung der Arbeitsschutzbestimmungen • Beste Kontakte zu renommierten, regionalen und überregionalen Unternehmen • Gute Chancen zur Übernahme in das Kundenunternehmen Nutzen Sie die moderne Dienstleistung einer Personalvermittlung für Ihre persönliche Zukunft! HR-Management - Ihr persönliches Karrierenetzwerk! Sie ersparen sich den Bewerbungsmarathon und es entstehen Ihnen keinerlei Kosten. Profitieren Sie von unserer langjährigen Erfahrung und gehen Sie mit uns den nächsten Schritt! Sie interessieren sich für diese Stelle? Dann senden Sie Ihre Bewerbungsunterlagen am besten gleich an HR Management Personaldienstleistungen GmbH & Co.KG Herrn Patrick Ullrich Langmatt 19 77770 Durbach Tel.: 0781-9705940",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 7.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-15T22:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 36,
+      "changes": 0,
+      "km": 8.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 36
+       }
+      ],
+      "risky": false,
+      "score": 52
+     },
+     {
+      "kind": "транспорт",
+      "min": 58,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 24,
+      "end_stop": "Renchen",
+      "dep": "06:32",
+      "arr": "07:30",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Renchen",
+        "dep": "07:03",
+        "arr": "07:07",
+        "wait": 11,
+        "min": 4
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Renchen",
+        "to": "работа",
+        "dep": "07:07",
+        "arr": "07:30",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 61
+     }
+    ],
+    "best": "велосипед",
+    "min": 36,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_13356-105553A37747C45-S",
+   "src": "Jobbörse",
+   "title": "Montagehelfer (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.475895095,
+   "lon": 7.940881327,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105553A37747C45-S",
+   "posted": "2026-11-03",
+   "desc": "**Ort:** Offenburg **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Maschinenbau **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Montagehelfer (m/w/d) Attraktives Vorteilspaket** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Abwechslung**: Vielseitige und spannende Aufgaben * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können**: Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * Eigenständige**Montage**von Kleinteilen aus Metall * Mitwirkung im Bereich **Baugruppenmontage** * **Konfektionierung**sowie Prüfungen an Komponenten * Durchführung von **Funktionskontrollen** an den montierten Teilen * **Technische Dokumentation** derausgeführter Arbeiten Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in einer vergleichbaren Position * **Hard Skills**: Technisches Grundverständnis und handwerkliches Geschick * **Soft Skills**: Teambewusstsein und eine gute Kommunikationsfähigkeit * **Arbeitsweise:**Sorgfältig und strukturiert Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Montagemitarbeiter (m/w/d) in Offenburg und Umgebung!",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-15T22:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 8,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:07",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 72,
+      "changes": 0,
+      "km": 17.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 72
+       }
+      ],
+      "risky": false,
+      "score": 124
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3437588755",
+   "src": "Kleinanzeigen",
+   "title": "DEINE AUFGABEN: * Auf- und Abstecken von Bauteilen * Qualitätskontrolle * Als Helfer...",
+   "firma": "Iperdi GmbH",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437588755-111-9035",
+   "posted": null,
+   "posted_time": null,
+   "desc": "DEINE AUFGABEN: * Auf- und Abstecken von Bauteilen * Qualitätskontrolle * Als Helfer (m/w/d/x) arbeitest Du im Team DAS BRINGST DU MIT: * Grundlegende Deutsch-Kenntnisse * Sorgfalt und Motivation WIR BIETEN DIR: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutsch-Kenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-15T22:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3542230613",
    "src": "Kleinanzeigen",
@@ -24158,6 +24482,102 @@
    "agency": false,
    "kind": "Производство / сборка",
    "first_seen": "2026-11-15T20:24",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 14,
+      "end_stop": "Bühlertal Eichwald",
+      "dep": "06:32",
+      "arr": "07:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "263",
+        "from": "Bühl (Baden)",
+        "to": "Bühlertal Eichwald",
+        "dep": "07:28",
+        "arr": "07:44",
+        "wait": 11,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühlertal Eichwald",
+        "to": "работа",
+        "dep": "07:44",
+        "arr": "07:58",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 107,
+      "changes": 0,
+      "km": 26.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 107
+       }
+      ],
+      "risky": false,
+      "score": 194
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
    "status": "open",
    "also_urls": [],
    "person": "mykyta"
@@ -41161,6 +41581,80 @@
    "agency": true,
    "kind": "Доставка / переезды",
    "first_seen": "2026-11-15T20:24",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 33,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 7,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:59",
+      "arr": "07:32",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "07:26",
+        "arr": "07:32",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 33
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     }
+    ],
+    "best": "транспорт",
+    "min": 33,
+    "changes": 0
+   },
    "status": "open",
    "also_urls": [],
    "person": "mykyta"
@@ -53609,23 +54103,24 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:jw_064946302",
-   "src": "Jobware",
+   "id": "mykyta:ba_10001-1001812782-S",
+   "src": "Jobbörse",
    "title": "Montagehelfer m/w/d",
    "firma": "SOCCO GROUP GmbH NL Offenburg",
+   "ort": "Offenburg",
    "street": "",
-   "lat": 48.4695984,
-   "lon": 7.9429235,
-   "ort": "Offenburg, Lahr, Schwarzwald",
-   "url": "https://www.jobware.de/job/montagehelfer-m-w-d-064946302",
-   "posted": "2026-11-04",
-   "desc": "",
-   "zeit": "",
+   "lat": 48.4966495,
+   "lon": 7.9364095,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001812782-S",
+   "posted": "2025-09-09",
+   "desc": "**Herzlich Willkommen bei der Socco Group Offenburg** **Montagehelfer m/w/d** **IHRE AUFGABEN:** · Aluminiumteile auf- und abstecken, verpacken · Qualitätskontrolle nach Vorgaben **IHR PROFIL** · Sorgfältige und selbstständige Arbeitsweise · Handwerkliches Geschick · Deutschkenntnisse in Wort und Schrift **UNSER ANGEBOT:** · übertarifliche Vergütung + branchenbezogene Zuschläge · Zuschläge für Nacht-, Mehr-, Sonn- und Feiertagsarbeit sowie Weihnachts- und Urlaubsgeld · Bereitstellung persönlicher Arbeitskleidung und Schutzausrüstung · Fahrtkostenzuschüsse · gute Übernahmequote durch unsere namenhaften Kunden · Betreuung durch ein engagiertes Team mit einem angenehmen Arbeitsklima Sollten wir Ihr Interesse geweckt haben, dann freuen wir uns auf Ihre Bewerbungsunterlagen, die Sie an **Socco Group GmbH** **Hauptstraße 57** **77652 Offenburg** senden. Telefonisch erreichen Sie uns unter **0781-93999-0** oder Sie senden uns Ihre Bewerbungsunterlagen an: **offenburg@socco.de** Wir haben für Sie den richtigen Job und freuen uns Sie in kürze als neuen Mitarbeiter begrüßen zu dürfen. Wir weisen Sie darauf hin, dass wir Ihnen keine Fahrtkosten für dieses Vorstellungsgespräch erstatten können.",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": true,
    "who": "mykyta",
-   "approx": true,
-   "km": 12.3,
-   "de": "?",
-   "de_txt": "",
+   "km": 11.4,
+   "de": "нужен",
+   "de_txt": "· Sorgfältige und selbstständige Arbeitsweise · Handwerkliches Geschick · Deutschkenntnisse in Wort und Schrift",
    "help": "",
    "ru": "",
    "prof_txt": "",
@@ -53637,13 +54132,13 @@
     "opts": [
      {
       "kind": "транспорт",
-      "min": 36,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 10,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:09",
+      "min": 45,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 5,
+      "end_stop": "Bühl Talackerweg",
+      "dep": "06:59",
+      "arr": "07:45",
       "legs": [
        {
         "walk": true,
@@ -53651,8 +54146,8 @@
         "line": "",
         "from": "дом",
         "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
+        "dep": "06:59",
+        "arr": "07:10",
         "min": 9
        },
        {
@@ -53661,8 +54156,65 @@
         "line": "RS2",
         "from": "Oberkirch",
         "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Bühl Talackerweg",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": 8,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl Talackerweg",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:45",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 48
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 66,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 40,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
         "wait": null,
         "min": 16
        },
@@ -53672,20 +54224,20 @@
         "line": "",
         "from": "Offenburg Bahnhof",
         "to": "работа",
-        "dep": "06:59",
-        "arr": "07:09",
-        "min": 10
+        "dep": "05:48",
+        "arr": "06:27",
+        "min": 40
        }
       ],
-      "full": true,
+      "full": false,
       "risky": false,
-      "score": 36
+      "score": 66
      },
      {
       "kind": "велосипед",
-      "min": 74,
+      "min": 64,
       "changes": 0,
-      "km": 18.1,
+      "km": 15.6,
       "legs": [
        {
         "walk": false,
@@ -53696,19 +54248,21 @@
         "to": "работа",
         "dep": "",
         "arr": "",
-        "min": 74
+        "min": 64
        }
       ],
       "risky": false,
-      "score": 128
+      "score": 108
      }
     ],
     "best": "транспорт",
-    "min": 36,
-    "changes": 0
+    "min": 45,
+    "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.jobware.de/job/montagehelfer-m-w-d-064946302"
+   ],
    "person": "mykyta"
   },
   {
@@ -58275,168 +58829,6 @@
     ],
     "best": "транспорт",
     "min": 50,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3437591672",
-   "src": "Kleinanzeigen",
-   "title": "Helfer Produktion (M/W/D/X)",
-   "firma": "Iperdi GmbH",
-   "ort": "Haslach im Kinzigtal",
-   "plz": "77716",
-   "street": "",
-   "lat": 48.2812336,
-   "lon": 8.0903666,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3437591672-111-18880",
-   "posted": "2026-11-14",
-   "posted_time": "16:06",
-   "desc": "Tätigkeiten: * Zuhilfsarbeiten in der Produktion * Montieren von Kleinteilen * Verpackung Qualifikation: * Quereinsteiger (m/w/d) herzlich willkommen * Motivation und Lernbereitschaft * Führerschein und Auto von Vorteil Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 27.8,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-14T12:30",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 59,
-      "changes": 1,
-      "min_wait": 6,
-      "walk_end": 7,
-      "end_stop": "Haslach",
-      "dep": "05:21",
-      "arr": "06:21",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS1",
-        "from": "Offenburg Bahnhof",
-        "to": "Haslach",
-        "dep": "05:54",
-        "arr": "06:14",
-        "wait": 6,
-        "min": 20
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Haslach",
-        "to": "работа",
-        "dep": "06:14",
-        "arr": "06:21",
-        "min": 7
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "велосипед",
-      "min": 152,
-      "changes": 0,
-      "km": 37.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 152
-       }
-      ],
-      "risky": false,
-      "score": 284
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 393,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 367,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "11:55",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "11:55",
-        "min": 367
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 393
-     }
-    ],
-    "best": "транспорт",
-    "min": 59,
     "changes": 1
    },
    "status": "open",
