@@ -1,0 +1,153 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Мои деньги — Никита</title>
+<style>
+:root{--bg:#f6f5f2;--card:#fff;--ink:#1d1d1f;--mute:#6b6b70;--line:#e3e1dc;--ok:#1a9850;--bad:#e53935;--acc:#2962ff}
+@media (prefers-color-scheme:dark){:root{--bg:#161618;--card:#222226;--ink:#eee;--mute:#9a9aa0;--line:#333338;--ok:#5cd08a;--bad:#ff6b6b;--acc:#5c8bff}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 -apple-system,system-ui,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:16px}
+.nav{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}.nav a{flex:1;min-width:120px;text-align:center;padding:7px;border-radius:8px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:600;background:var(--card)}.nav a.on{background:var(--ink);color:var(--bg)}
+h1{font-size:22px;margin:4px 0}.sub{color:var(--mute);font-size:13px;margin-bottom:14px}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px}@media (max-width:860px){.grid{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:12px}
+.card h2{font-size:15px;margin:0 0 8px}
+label.r{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:13px;margin:6px 0;color:var(--mute)}
+label.r b{color:var(--ink);font-weight:500}
+input[type=number],select{width:120px;font:inherit;font-size:13px;padding:4px 6px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+select{width:auto;max-width:230px}
+.seg{display:flex;gap:4px;flex-wrap:wrap;margin:4px 0 8px}.seg button{font:inherit;font-size:12px;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:14px;padding:4px 10px;cursor:pointer}.seg button.on{background:var(--ink);color:var(--bg)}
+table{width:100%;border-collapse:collapse;font-size:13px}td{padding:4px 0;vertical-align:top}td.v{text-align:right;white-space:nowrap;padding-left:10px}
+tr.sub td{font-size:11px;color:var(--mute);padding-top:0}tr.sum td{border-top:1px solid var(--line);padding-top:6px;font-weight:600}
+tr.grand td{border-top:2px solid var(--ink);padding-top:8px;font-size:16px;font-weight:800}tr.grand td.v{color:var(--bad);font-size:26px}
+.minus{color:var(--bad)}.plus{color:var(--ok)}
+.warn{background:#fff3e0;color:#8a3b00;border-radius:8px;padding:6px 10px;font-size:12px;margin:6px 0}@media (prefers-color-scheme:dark){.warn{background:#3a2a14;color:#ffcc80}}
+.okb{background:#e8f5e9;color:#1b5e20;border-radius:8px;padding:6px 10px;font-size:12px;margin:6px 0}@media (prefers-color-scheme:dark){.okb{background:#16301c;color:#a5d6a7}}
+.note{font-size:12px;color:var(--mute)}
+.sticky{position:sticky;top:12px}
+.tbl th{font-size:11px;color:var(--mute);text-align:right;font-weight:500;padding:2px 0 4px 8px}.tbl th:first-child{text-align:left}.tbl td{text-align:right;padding-left:8px}.tbl td:first-child{text-align:left;padding-left:0}
+.tbl tr.me td{font-weight:700}
+</style></head><body><div class="wrap">
+<div class="nav"><a href="./">🏠 Квартиры</a><a href="werk.html">💻 Werkstudent</a><a href="nebenjob.html">🔧 Подработка</a><a href="geld.html" class="on">💶 Мои деньги</a></div>
+<h1>💶 Мои деньги: BAföG, Kindergeld, работа, Kleingewerbe</h1>
+<div class="sub">Калькулятор по правилам 2026/27. Все цифры меняются — справа сразу видно, сколько остаётся в месяц. Это оценка, не решение BAföG-Amt: точно считает только Studierendenwerk.</div>
+<div class="grid">
+<div id="in"></div>
+<div><div class="sticky" id="out"></div></div>
+</div>
+<div class="card"><h2>Как считаю и откуда цифры</h2><div class="note" id="how"></div></div>
+</div>
+<script>
+const D={live:'own',ins:'family',kvds:140,parInc:0,parMarried:0,kids:5,kgGive:1,kg:259,jobType:'none',jobBrutto:0,hours:0,
+  gwUms:0,gwCost:0,gwKm:0,fuelL:7,fuelP:1.86,car:'francesco',carPrice:0,carValue:18000,savings:0};
+const store={get(){try{return JSON.parse(localStorage.getItem('geld'))||{}}catch(_){return {}}},set(v){try{localStorage.setItem('geld',JSON.stringify(v))}catch(_){}}};
+let S=Object.assign({},D,store.get());
+const eur=x=>(x<0?'−':'')+Math.round(Math.abs(x)).toLocaleString('de-DE')+' €';
+const R={grund:475,wohnOwn:380,wohnPar:59,kv:102,pv:35,frei:389,wk:1230,soz:0.213,parTog:2540,parOne:1690,kid:730,verm:15000,famIns:565,mini:603,gfb:12348,kleinU:25000,gwSt:24500,kmBiz:0.30};
+
+function calc(s){
+  const o={};
+  // 1) Bedarf
+  const selfIns=s.ins==='self';
+  o.bedarf=R.grund+(s.live==='own'?R.wohnOwn:R.wohnPar)+(selfIns?R.kv+R.pv:0);
+  // 2) работа
+  const b=+s.jobBrutto||0;
+  o.jobNet=s.jobType==='mini'?b:s.jobType==='werk'?b*(1-0.093):0; // Minijob: без взносов (если освобождён от RV); Werkstudent: только пенсионный 9,3 %
+  // 3) Kleingewerbe: прибыль для налога/BAföG = оборот − расходы − 0,30 €/км; в кармане = оборот − расходы − реальный бензин
+  const fuelReal=(+s.gwKm||0)*(+s.fuelL||0)/100*(+s.fuelP||0);
+  o.gwProfit=Math.max(0,(+s.gwUms||0)-(+s.gwCost||0)-(+s.gwKm||0)*R.kmBiz);
+  o.gwCash=(+s.gwUms||0)-(+s.gwCost||0)-fuelReal;
+  // 4) свой доход для BAföG (в год): зарплата − 1 230 € − 21,3 % соцпаушала; прибыль − 21,3 %; минус 389 €/мес
+  const jobYear=s.jobType==='none'?0:b*12, gwYear=o.gwProfit*12;
+  const inc=Math.max(0,jobYear-(jobYear?R.wk:0))*(1-R.soz)+gwYear*(1-R.soz);
+  o.ownAnr=Math.max(0,inc/12-R.frei);
+  if(jobYear<=R.mini*12&&!gwYear)o.ownAnr=0; // до 603 € брутто в месяц — точно без вычета
+  // 5) родители: (доход − свободная сумма − 730 € × дети) × (50 % − 5 % × дети)
+  const fr=(s.parMarried?R.parTog:2*R.parOne)+R.kid*(+s.kids||0), over=Math.max(0,(+s.parInc||0)-fr);
+  o.parAnr=over*Math.max(0,0.5-0.05*(+s.kids||0));
+  // 6) имущество: всё выше 15 000 € делится на 12
+  const verm=(+s.savings||0)+(s.car==='buy'?(+s.carValue||0):0);
+  o.vermAnr=Math.max(0,verm-R.verm)/12;
+  o.baf=Math.max(0,o.bedarf-o.ownAnr-o.parAnr-o.vermAnr); if(o.baf<10)o.baf=0;
+  // 7) страховка: семейная, пока весь доход ≤ 565 € (с Minijob ≤ 603 €)
+  const monthInc=(s.jobType==='none'?0:b)+o.gwProfit, lim=s.jobType==='mini'&&!o.gwProfit?R.mini:R.famIns;
+  o.famOk=monthInc<=lim; o.kvCost=selfIns?(+s.kvds||0):0;
+  // 8) налог: до 12 348 € в год (зарплата + прибыль) — 0
+  const taxable=Math.max(0,jobYear-(jobYear?R.wk:0))+gwYear; o.tax=Math.max(0,taxable-R.gfb)*0.15/12;
+  o.kg=s.kgGive?(+s.kg||0):0;
+  o.total=o.baf+o.kg+o.jobNet+o.gwCash-o.kvCost-o.tax-(s.car==='buy'?0:0);
+  o.verm=verm;o.monthInc=monthInc;o.lim=lim;o.taxable=taxable;o.fuelReal=fuelReal;o.jobYear=jobYear;o.gwYear=gwYear;
+  return o;
+}
+const seg=(k,opts)=>`<div class="seg">${opts.map(([v,t])=>`<button data-k="${k}" data-v="${v}" class="${String(S[k])===String(v)?'on':''}">${t}</button>`).join('')}</div>`;
+const num=(k,t,step=1,hint='')=>`<label class="r"><b>${t}</b>${hint?`<span class="note">${hint}</span>`:''}<input type="number" step="${step}" data-n="${k}" value="${S[k]}"></label>`;
+function buildIn(){
+  document.getElementById('in').innerHTML=`
+  <div class="card"><h2>🏠 Где живу</h2>${seg('live',[['parents','у родителей'],['own','своя квартира (с Олей)']])}
+    <div class="note">С Олей или один — для BAföG без разницы: на жильё дают 380 € фиксированно, у родителей — 59 €.</div></div>
+  <div class="card"><h2>🩺 Медицинская страховка</h2>${seg('ins',[['family','семейная через родителей (0 €)'],['self','сам — студенческая']])}
+    ${num('kvds','студенческая страховка, €/мес',1,'≈ 140 €, точнее — AOK')}
+    <div class="note">До 25 лет можно бесплатно через родителей, пока весь твой доход ≤ 565 € в месяц (только Minijob — ≤ 603 €). Если страхуешься сам — BAföG доплачивает 102 € + 35 €.</div></div>
+  <div class="card"><h2>👨‍👩 Родители</h2>
+    ${num('parInc','их доход для BAföG за 2024, €/мес',50,'Bürgergeld не считается')}
+    ${seg('parMarried',[['1','женаты (2 540 € свободно)'],['0','не женаты (по 1 690 €)']])}
+    ${num('kids','других детей (младше 25)')}
+    <div class="note">У вас: Bürgergeld (не доход) + мини-джоб папы ≈ 490 € → до свободной суммы далеко, родители доплачивать не должны.</div></div>
+  <div class="card"><h2>👶 Kindergeld</h2>${seg('kgGive',[['1','родители отдают мне'],['0','остаётся у родителей']])}${num('kg','Kindergeld, €/мес')}
+    <div class="note">Платится папе. Если ты живёшь отдельно, а родители его не отдают — можно попросить Familienkasse платить тебе напрямую (Abzweigung).</div></div>
+  <div class="card"><h2>💼 Работа</h2>${seg('jobType',[['none','нет'],['mini','Minijob'],['werk','Werkstudent']])}
+    ${num('jobBrutto','брутто в месяц',10)}${num('hours','часов в неделю',1)}
+    <div class="note">Minijob: до 603 € брутто = нетто. Werkstudent: с зарплаты только пенсионный взнос 9,3 %, в семестре не больше 20 ч в неделю.</div></div>
+  <div class="card"><h2>🧽 Kleingewerbe (например, мойка/химчистка с выездом)</h2>
+    ${num('gwUms','оборот (что платят клиенты), €/мес',10)}${num('gwCost','расходы: химия, инструмент, реклама, €/мес',10)}
+    ${num('gwKm','км на машине для работы, в месяц',10)}${num('fuelL','расход, л/100 км',0.1)}${num('fuelP','бензин, €/л',0.01)}
+    <div class="note">Для налога и BAföG из оборота вычитаю расходы и 0,30 € за каждый рабочий км на машине. В карман считаю реальный бензин.</div></div>
+  <div class="card"><h2>🚗 Машина и сбережения</h2>${seg('car',[['francesco','Mazda — Франческо, я только езжу'],['buy','куплю Mazda у Франческо']])}
+    ${num('carPrice','плачу Франческо, €',100)}${num('carValue','рыночная цена машины, €',100,'52 000 км, 2021 ≈ 17–20 тыс.')}
+    ${num('savings','деньги на счетах, €',100)}
+    <div class="note">Если машина твоя — она считается имуществом по рыночной цене. Свободно 15 000 € (вместе со счетами), всё сверху делится на 12 и вычитается из BAföG каждый месяц.</div></div>`;
+}
+function draw(){
+  const o=calc(S), w=[];
+  if(S.jobType!=='none'&&!o.famOk&&S.ins==='family')w.push(`Доход ${eur(o.monthInc)} в месяц больше ${eur(o.lim)} — семейная страховка закончится, нужна студенческая (≈ ${eur(+S.kvds)}). Переключи «страховка: сам».`);
+  if(S.jobType==='mini'&&+S.jobBrutto>R.mini)w.push('Minijob — максимум 603 € в месяц. Больше — это уже Werkstudent или Midijob.');
+  if(S.jobType==='werk'&&+S.hours>20)w.push('Werkstudent: в семестре не больше 20 часов в неделю, иначе пропадает льгота по страховке.');
+  if(o.ownAnr>0)w.push(`Твой заработок больше свободной суммы (603 € брутто в месяц) — BAföG уменьшится на ${eur(o.ownAnr)}.`);
+  if(o.vermAnr>0)w.push(`Имущество ${eur(o.verm)} больше 15 000 € — BAföG меньше на ${eur(o.vermAnr)} в месяц.`);
+  if(o.gwProfit>0)w.push('Kleingewerbe: прибыль считается в BAföG и в лимит семейной страховки (565 €). Gewerbe надо зарегистрировать (Gewerbeamt, ≈ 20–60 €) и сообщить в BAföG.');
+  if(o.tax>0)w.push(`Зарплата + прибыль за год ${eur(o.taxable)} больше 12 348 € — начинается подоходный налог (≈ ${eur(o.tax)}/мес по грубой оценке).`);
+  const r=(t,v,cls='',sub='')=>`<tr><td>${t}${sub?`<div class="note">${sub}</div>`:''}</td><td class="v ${cls}">${v}</td></tr>`;
+  // сценарии заработка
+  const rows=[0,300,603,800,1000,1200].map(b=>{const t=Object.assign({},S,{jobType:b===0?'none':(b<=603?'mini':'werk'),jobBrutto:b});
+    if(b>603&&S.ins==='family')t.ins='self';const x=calc(t);return `<tr class="${Math.round(+S.jobBrutto)===b?'me':''}"><td>${b?eur(b)+(b<=603?' Minijob':' Werkstudent'):'без работы'}</td><td>${eur(x.baf)}</td><td>${eur(x.jobNet)}</td><td>${x.kvCost?'−'+eur(x.kvCost):'0'}</td><td><b>${eur(x.total)}</b></td></tr>`}).join('');
+  document.getElementById('out').innerHTML=`<div class="card"><h2>📊 В месяц у меня будет</h2><table>
+    ${r('BAföG положено',eur(o.bedarf),'',`475 € основа + ${S.live==='own'?380:59} € жильё${S.ins==='self'?' + 137 € страховка':''}`)}
+    ${o.parAnr?r('− доплачивают родители (вычет)','−'+eur(o.parAnr),'minus'):r('− родители','0 €','','их доход ниже свободной суммы')}
+    ${r('− мой заработок (вычет)',o.ownAnr?'−'+eur(o.ownAnr):'0 €',o.ownAnr?'minus':'',o.ownAnr?'':'до 603 € брутто — не трогают')}
+    ${o.vermAnr?r('− имущество выше 15 000 €','−'+eur(o.vermAnr),'minus'):''}
+    <tr class="sum"><td>💶 BAföG</td><td class="v">${eur(o.baf)}</td></tr>
+    <tr class="sub"><td>половина подарок, половина — беспроцентный долг (вернуть максимум 10 010 € за всю учёбу)</td><td class="v">${eur(o.baf/2)} / ${eur(o.baf/2)}</td></tr>
+    ${r('👶 Kindergeld',eur(o.kg),o.kg?'plus':'')}
+    ${S.jobType!=='none'?r(S.jobType==='mini'?'💼 Minijob (нетто)':'💼 Werkstudent (нетто)',eur(o.jobNet),'plus',S.jobType==='werk'?'брутто − 9,3 % пенсионный':''):''}
+    ${o.gwCash?r('🧽 Kleingewerbe (в карман)',eur(o.gwCash),o.gwCash>0?'plus':'minus',`прибыль для налога/BAföG ${eur(o.gwProfit)} · реальный бензин ${eur(o.fuelReal)}`):''}
+    ${o.kvCost?r('🩺 студенческая страховка','−'+eur(o.kvCost),'minus'):''}
+    ${o.tax?r('🧾 налог (грубо)','−'+eur(o.tax),'minus'):''}
+    <tr class="grand"><td>ИТОГО в месяц</td><td class="v">${eur(o.total)}</td></tr>
+    <tr class="sub"><td>в год</td><td class="v">${eur(o.total*12)}</td></tr></table>
+    ${w.map(x=>`<div class="warn">⚠️ ${x}</div>`).join('')||'<div class="okb">✓ Всё в пределах: BAföG полный, страховка не меняется.</div>'}</div>
+  <div class="card"><h2>Сколько выйдет при разной зарплате</h2><table class="tbl"><tr><th>брутто</th><th>BAföG</th><th>работа нетто</th><th>страховка</th><th>ИТОГО</th></tr>${rows}</table>
+    <div class="note">Остальные настройки — как слева. Больше 603 € брутто: семейная страховка заканчивается (−${eur(+S.kvds)}), зато BAföG доплачивает 137 € — поэтому разница меньше, чем кажется.</div></div>`;
+  document.querySelectorAll('.seg button').forEach(b=>b.classList.toggle('on',String(S[b.dataset.k])===b.dataset.v));
+}
+document.getElementById('how').innerHTML=`
+<b>BAföG 2026/27</b>: 475 € основа + 380 € на жильё (у родителей 59 €) + 102 € + 35 € на страховку, если страхуешься сам. Повышение — не раньше апреля 2027 (закон ещё не принят).<br>
+<b>Свой заработок</b>: до 603 € брутто в месяц (7 237 € в год) BAföG не трогают. Выше — из годовой суммы вычитаю 1 230 € (рабочие расходы) и 21,3 % (соцпаушала), делю на 12, свободно 389 € — остальное вычитается из BAföG. Прибыль Kleingewerbe считаю так же. Это приближение — точное правило в § 21–23 BAföG.<br>
+<b>Родители</b>: им оставляют 2 540 € (женаты) или по 1 690 € + 730 € на каждого другого ребёнка; из того, что выше, вычитается 50 % минус 5 % за каждого ребёнка. Bürgergeld доходом не считается. Смотрят доход за 2024 год.<br>
+<b>Имущество</b>: свободно 15 000 € (тебе нет 30). Машина, если она твоя, — по рыночной цене целиком.<br>
+<b>Страховка</b>: семейная до 25 лет, пока доход ≤ 565 € в месяц (только Minijob — ≤ 603 €). Студенческая ≈ 140 € в месяц (у каждой кассы своя).<br>
+<b>Налоги</b>: до 12 348 € в год (зарплата + прибыль) — подоходный 0. Kleingewerbe: оборот до 25 000 € в год — без НДС (Kleinunternehmer), прибыль до 24 500 € — без промыслового налога. Поездки по работе на машине — 0,30 € за км в расходы.<br>
+<b>Если купить Mazda у Франческо</b>: она станет твоим имуществом (18 000 € → BAföG −250 €/мес, пока цена выше 15 000 €). Если машина больше чем наполовину для бизнеса — её можно списывать как расход (AfA, на оставшийся срок), но тогда частные поездки облагаются (1 %-правило или журнал поездок). Пока машина Франческо — для бизнеса просто 0,30 €/км.<br>
+Источники: <a href="https://www.studierenplus.de/bafoeg/bafoeg-2026" target="_blank">BAföG 2026</a> · <a href="https://www.bafoeg-aktuell.de/bafoeg-einkommen/" target="_blank">свой доход</a> · <a href="https://www.gesetze-im-internet.de/baf_g/__29.html" target="_blank">§ 29 имущество</a> · <a href="https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende/einkommensgrenze-1496958" target="_blank">семейная страховка 565/603 €</a> · <a href="https://www.finanz-tools.de/einkommensteuer/grundfreibetrag-tabelle" target="_blank">Grundfreibetrag 2026</a>. Точный расчёт — официальный <a href="https://www.bafög.de/bafoeg/de/antrag-stellen/bafoeg-rechner/bafoeg-rechner.html" target="_blank">BAföG-Rechner</a>.`;
+document.getElementById('in').addEventListener('click',e=>{const b=e.target.closest('.seg button');if(!b)return;const k=b.dataset.k,v=b.dataset.v;S[k]=['parMarried','kgGive'].includes(k)?+v:v;store.set(S);draw()});
+document.getElementById('in').addEventListener('input',e=>{const t=e.target;if(!t.dataset.n)return;S[t.dataset.n]=t.value===''?0:+t.value;store.set(S);draw()});
+buildIn();draw();
+</script></body></html>
