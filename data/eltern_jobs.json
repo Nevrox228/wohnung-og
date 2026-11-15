@@ -1,9 +1,1194 @@
 {
- "generated": "2026-11-14T22:49",
+ "generated": "2026-11-15T11:17",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 413,
+ "count": 421,
  "items": [
+  {
+   "id": "marina:ka_3486764491",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) Bühl - 18,00€/Std.",
+   "firma": "gps GmbH",
+   "ort": "Bühl",
+   "plz": "77815",
+   "street": "",
+   "lat": 48.7016606,
+   "lon": 8.1350401,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-buehl-18-00-std-/3486764491-111-8746",
+   "posted": "2026-11-15",
+   "posted_time": "10:06",
+   "desc": "Wir sind ein Unternehmen des Bildungswerks der Bayrischen Wirtschaft, einem renommierten Arbeitgeber mit über 40 Jahren Erfahrung im Bildungs- und Dienstleistungsbereich. Wir suchen DICH für unseren Kunden in Bühl im Rahmen der gewerblichen Arbeitnehmerüberlassung ab sofort als Produktionsmitarbeiter (m/w/d) in Vollzeit. Benefits: • Übertarifliche Bezahlung ab 18,00 €/Std. • Tarifliche Schichtzuschläge nach GVP • Jahressonderzahlungen (Urlaubs- & Weihnachtsgeld) • Fort- & Weiterbildungsmöglichkeiten in der procedo Akademie • Rundum Service, Transparenz und Unterstützung vor Ort • Einen dauerhaften Einstieg bei einem namhaften Unternehmen Aufgaben: • Bedienen von Maschinen und Anlagen • Bestücken • Papierfügen • Bedienen der Presse • Sichtprüfung durchführen • Messen der Teile Qualifikationen: • Berufserfahrung in der Produktion wünschenswert • Lernbereitschaft • Belastbarkeit • Zuverlässige und sorgfältige Arbeitsweise • Teamfähigkeit • Schichtbereitschaft • Gute Deutschkenntnisse in Wort und Schrift Du fühlst dich angesprochen? Großartig! Sende uns deinen Lebenslauf zu und bewirb dich jetzt.",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 19.3,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Du fühlst dich angesprochen?",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 10,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:27",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "велосипед",
+      "min": 117,
+      "changes": 0,
+      "km": 28.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 117
+       }
+      ],
+      "risky": false,
+      "score": 214
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3571727500",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) (Durbach)",
+   "firma": "JOB RACCOON",
+   "ort": "Durbach",
+   "plz": "77770",
+   "street": "",
+   "lat": 48.4848066,
+   "lon": 8.0287206,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-durbach-/3571727500-111-9034",
+   "posted": "2026-11-15",
+   "posted_time": "05:26",
+   "desc": "JOBRACCOON sucht: Produktionshelfer (m/w/d) JETZT BEWERBEN unter www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUipUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________ Du möchtest in der Umgebung von Durbach als Produktionshelfer (m/w/d), Produktionsmitarbeiter (m/w/d) oder Produktionskraft (m/w/d) beruflich loslegen? Dann bist du bei uns richtig, denn du unterstützt unser Team direkt in der Fertigung. Das bringst du idealerweise mit: -> Starke Motivation und große Einsatzbereitschaft -> Eine gewissenhafte und genaue Arbeitsweise -> Teamgeist und Freude an der Zusammenarbeit -> Bereitschaft zur Arbeit im Schichtbetrieb -> Quereinsteiger sind ebenfalls herzlich willkommen __________________ Als Produktionshelfer (m/w/d) unterstützt du den Fertigungsablauf und sorgst dafür, dass sämtliche Produkte termingerecht hergestellt werden. Dein Arbeitsalltag ist abwechslungsreich und praxisorientiert. -> Unterstützung bei der Bedienung von Maschinen -> Montage und Verpackung der Produkte -> Kontrolle der Qualität der gefertigten Waren -> Bereitstellung und Sortierung der erforderlichen Materialien -> Ausführung allgemeiner unterstützender Tätigkeiten in der Produktion __________________ Du bist in einer modernen Produktionsumgebung mit klaren Abläufen und einem unterstützenden Team tätig. Schichtarbeit gehört zur Position, dafür bieten wir dir eine faire Bezahlung und attraktive Zusatzleistungen. -> Stundenlohn ab 15,33 € -> Arbeit im Schichtmodell (Früh-, Spät- und/oder Nachtschicht) -> Kollegiale Einarbeitung und Unterstützung durch das Team -> Mitarbeiterrabatte und Corporate Benefits -> Modern ausgestatteter Arbeitsplatz __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUipUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 6.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 41,
+      "changes": 0,
+      "km": 9.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 41
+       }
+      ],
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "транспорт",
+      "min": 103,
+      "changes": 1,
+      "min_wait": 26,
+      "walk_end": 30,
+      "end_stop": "Durbach Rebstock",
+      "dep": "06:32",
+      "arr": "08:16",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7142",
+        "from": "Offenburg Bahnhof Ost",
+        "to": "Durbach Rebstock",
+        "dep": "07:25",
+        "arr": "07:46",
+        "wait": 26,
+        "min": 21
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Durbach Rebstock",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:16",
+        "min": 30
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "13:36",
+      "arr": "16:02",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "13:36",
+        "arr": "13:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "13:47",
+        "arr": "14:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "14:03",
+        "arr": "16:02",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "велосипед",
+    "min": 41,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3571727323",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) (Offenburg)",
+   "firma": "JOB RACCOON",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-offenburg-/3571727323-111-9039",
+   "posted": "2026-11-15",
+   "posted_time": "05:22",
+   "desc": "JOBRACCOON sucht: Produktionshelfer (m/w/d) JETZT BEWERBEN unter www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUikUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________ Möchtest du in Offenburg als Produktionshelfer (m/w/d), Produktionsmitarbeiter (m/w/d) oder Produktionskraft (m/w/d) tätig sein? Bei uns wirkst du direkt am Produktionsablauf mit, unterstützt tatkräftig und hilfst dabei, einen reibungslosen Ablauf sicherzustellen. Das solltest du idealerweise mitbringen: -> Motivation und eine hohe Einsatzbereitschaft -> Eine sorgfältige und genaue Arbeitsweise -> Teamfähigkeit und eine kommunikative, offene Persönlichkeit -> Bereitschaft zur Arbeit im Schichtsystem -> Quereinsteiger sind ebenfalls herzlich willkommen __________________ Als Produktionshelfer (m/w/d) unterstützt du die Fertigung und sorgst dafür, dass die Produkte termingerecht hergestellt werden. Dein Arbeitsalltag ist abwechslungsreich und praxisorientiert. -> Bedienen von Maschinen in der Produktion -> Mithilfe bei Montagearbeiten -> Überprüfen der Qualität der gefertigten Produkte -> Verpacken und Vorbereiten der Waren -> Ausführen allgemeiner Tätigkeiten in der Produktion __________________ Dich erwartet ein zeitgemäßes Produktionsumfeld mit klaren Prozessen und einem hilfsbereiten Team. Schichtarbeit gehört zur Position, dafür bieten wir dir faire Bedingungen und eine sorgfältige Einarbeitung. -> Stundenlohn ab 15,33 € -> Koordinierte Schichtmodelle (Frühschicht, Spätschicht und/oder Nachtschicht) -> Unterstützung durch ein kompetentes Team -> Corporate Benefits und attraktive Rabatte -> Moderner Arbeitsplatz mit erstklassiger Ausstattung __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUikUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-offenburg-/3571726154-111-9038"
+   ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3571727314",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) (Appenweier)",
+   "firma": "JOB RACCOON",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-appenweier-/3571727314-111-9035",
+   "posted": "2026-11-15",
+   "posted_time": "05:22",
+   "desc": "JOBRACCOON sucht: Produktionshelfer (m/w/d) JETZT BEWERBEN unter www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUimUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________ Du suchst eine Tätigkeit als Produktionshelfer (m/w/d), Produktionskraft (m/w/d) oder Produktionsmitarbeiter (m/w/d) im Raum Appenweier, bei der du tatkräftig mit anpacken kannst? Dann bist du bei uns richtig. Das solltest du mitbringen: -> Hohe Motivation und ausgeprägtes Engagement -> Sorgfältige sowie zuverlässige Arbeitsweise -> Freude an Teamarbeit und einer offenen Zusammenarbeit -> Bereitschaft, im Schichtbetrieb zu arbeiten -> Quereinsteiger sind ebenfalls herzlich willkommen __________________ Als Produktionshelfer (m/w/d) übernimmst du praktische Tätigkeiten in der Fertigung. Dein abwechslungsreicher Arbeitsalltag trägt dazu bei, dass sämtliche Produkte fristgerecht hergestellt werden. -> Bedienung von Produktionsanlagen -> Unterstützung bei Montage- und Verpackungsarbeiten -> Überprüfung der Produktqualität -> Materialien bereitstellen und sortieren -> Mithilfe bei allgemeinen Aufgaben in der Produktion __________________ Du arbeitest in einem modernen Produktionsbetrieb mit strukturierten Abläufen und einem engagierten Team. Das Schichtmodell ist verbindlich organisiert und bietet dir zugleich faire Rahmenbedingungen. -> Stundenlohn ab 15,33 € -> Planbare Tätigkeit im Schichtsystem (Frühschicht, Spätschicht und/oder Nachtschicht) -> Unterstützung durch Kolleginnen und Kollegen sowie eine umfassende Einarbeitung -> Corporate Benefits und Mitarbeitendenvergünstigungen -> Moderner Arbeitsplatz mit hochwertiger Ausstattung __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUimUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3571727306",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) (Schutterwald)",
+   "firma": "JOB RACCOON",
+   "ort": "Schutterwald",
+   "plz": "77746",
+   "street": "",
+   "lat": 48.4630245,
+   "lon": 7.872718,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-schutterwald-/3571727306-111-9032",
+   "posted": "2026-11-15",
+   "posted_time": "05:22",
+   "desc": "JOBRACCOON sucht: Produktionshelfer (m/w/d) JETZT BEWERBEN unter www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUioUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________ Werde im Raum Schutterwald als Produktionshelfer (m/w/d), Produktionskraft (m/w/d) oder Produktionsmitarbeiter (m/w/d) tätig! Du arbeitest unmittelbar in der Fertigung, unterstützt engagiert das Team und sorgst für einen reibungslosen Produktionsablauf. Das bringst du idealerweise mit: -> Einsatzbereitschaft und Motivation -> Eine sorgfältige und verlässliche Arbeitsweise -> Teamfähigkeit und Freude an der Zusammenarbeit -> Bereitschaft zur Arbeit im Schichtdienst -> Quereinsteiger sind ebenfalls herzlich willkommen __________________ Als Produktionshelfer (m/w/d) übernimmst du verschiedene praktische Aufgaben in der Fertigung. Dich erwartet ein abwechslungsreicher und dynamischer Arbeitsalltag. -> Maschinen bedienen und den Produktionsablauf unterstützen -> Waren montieren und verpacken -> Gefertigte Artikel überprüfen -> Materialien sortieren und zur Verfügung stellen -> Weitere Aufgaben in der Produktion übernehmen __________________ Dich erwartet ein modernes Unternehmen mit klaren Prozessen und einem engagierten Team. Die Position beinhaltet Schichtarbeit, bietet dir dafür faire Arbeitsbedingungen und attraktive Zusatzleistungen. -> Stundenlohn ab 15,33 € -> Planbare Arbeitszeiten im Schichtsystem (Frühschicht, Spätschicht und/oder Nachtschicht) -> Kollegiale Einarbeitung und praktische Unterstützung -> Mitarbeitendenrabatte und Corporate Benefits -> Moderner Arbeitsplatz mit hochwertiger Ausstattung __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUioUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 65,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 11,
+      "end_stop": "Schutterwald Brandhau",
+      "dep": "06:59",
+      "arr": "08:05",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Schutterwald Brandhau",
+        "dep": "07:35",
+        "arr": "07:54",
+        "wait": 9,
+        "min": 19
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Schutterwald Brandhau",
+        "to": "работа",
+        "dep": "07:54",
+        "arr": "08:05",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 68
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 125,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 99,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "20:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "20:42",
+        "min": 99
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 125
+     },
+     {
+      "kind": "велосипед",
+      "min": 106,
+      "changes": 0,
+      "km": 26.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 106
+       }
+      ],
+      "risky": false,
+      "score": 192
+     }
+    ],
+    "best": "транспорт",
+    "min": 65,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3571726143",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) (Ortenberg)",
+   "firma": "JOB RACCOON",
+   "ort": "Ortenberg",
+   "plz": "77799",
+   "street": "",
+   "lat": 48.4494408,
+   "lon": 7.9720423,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-ortenberg-/3571726143-111-9030",
+   "posted": "2026-11-15",
+   "posted_time": "04:54",
+   "desc": "JOBRACCOON sucht: Produktionshelfer (m/w/d) JETZT BEWERBEN unter www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUinUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________ Möchtest du im Raum Ortenberg als Produktionshelfer (m/w/d), Produktionsmitarbeiter (m/w/d) oder Produktionskraft (m/w/d) arbeiten? Dann bist du direkt an der Fertigung beteiligt und unterstützt das Team tatkräftig. Das bringst du mit: -> Selbstständigkeit und Einsatzbereitschaft -> Sorgfalt und eine strukturierte Arbeitsweise -> Teamgeist und ein kollegiales Auftreten -> Bereitschaft zur Arbeit im Schichtsystem -> Quereinsteiger sind herzlich willkommen __________________ Als Produktionshelfer (m/w/d) unterstützt du die tägliche Fertigung und trägst dazu bei, dass sämtliche Abläufe reibungslos funktionieren. Deine Tätigkeit ist abwechslungsreich und praxisorientiert. -> Unterstützung bei der Maschinenbedienung -> Montage und Verpackung von Produkten -> Kontrolle der gefertigten Waren -> Materialien bereitstellen und ordnen -> Allgemeine unterstützende Aufgaben im Produktionsbereich __________________ Dich erwartet ein zeitgemäßer Arbeitsplatz mit klaren Abläufen und einem freundlichen Team. Schichtarbeit ist Teil der Position und wird dafür angemessen vergütet. -> Stundenlohn ab 15,33 € -> Zuverlässige Schichtpläne (Frühschicht, Spätschicht und/oder Nachtschicht) -> Teamorientierte Kolleginnen und Kollegen, die dich unterstützen -> Corporate Benefits und attraktive Vergünstigungen -> Moderne Produktionsanlage __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUinUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 48,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 0,
+      "end_stop": "Ortenberg Schloß/Freudental",
+      "dep": "06:32",
+      "arr": "07:21",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7134",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Ortenberg Schloß/Freudental",
+        "dep": "07:10",
+        "arr": "07:21",
+        "wait": 11,
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 51
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 80,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 54,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:41",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:41",
+        "min": 54
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 80
+     },
+     {
+      "kind": "велосипед",
+      "min": 80,
+      "changes": 0,
+      "km": 19.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 80
+       }
+      ],
+      "risky": false,
+      "score": 140
+     }
+    ],
+    "best": "транспорт",
+    "min": 48,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3571727380",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer (m/w/d) (Schutterwald)",
+   "firma": "JOB RACCOON",
+   "ort": "Schutterwald",
+   "plz": "77746",
+   "street": "",
+   "lat": 48.4630245,
+   "lon": 7.872718,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-schutterwald-/3571727380-247-9032",
+   "posted": "2026-11-15",
+   "posted_time": "05:24",
+   "desc": "JOBRACCOON sucht: Lagerhelfer (m/w/d) JETZT BEWERBEN unter www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUidUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________ Du suchst eine Position als Lagerhelfer (m/w/d), Lagermitarbeiter (m/w/d) oder Lagerkraft (m/w/d) im Raum Schutterwald, bei der du dich unmittelbar engagieren und etwas bewegen kannst? Dann bist du hier richtig – durch deine Tätigkeit im Lager stellst du sicher, dass sämtliche Prozesse reibungslos ablaufen. Das bringst du mit: -> Motivation und Spaß an praktischen Aufgaben -> Sorgfältige sowie genaue Arbeitsweise -> Teamfähigkeit und ein kollegiales Miteinander -> Bereitschaft, im Schichtsystem zu arbeiten -> Auch Quereinsteiger können in dieser Tätigkeit starten __________________ Als Lagerhelfer (m/w/d) unterstützt du engagiert sämtliche Abläufe im Lager. Dein Arbeitsalltag ist abwechslungsreich, da du verschiedene Aufgaben rund um Waren und Versand übernimmst. -> Waren zusammenstellen und Aufträge kommissionieren -> Sendungen verpacken und für den Versand fertig machen -> Eingehende sowie ausgehende Lieferungen kontrollieren -> Artikel sortieren und zur weiteren Bearbeitung bereitstellen -> Bei zusätzlichen Aufgaben im Lager mithelfen __________________ Du bist in einem modernen Umfeld mit klaren Prozessen und einem motivierten Team tätig. Das Schichtmodell umfasst feste Arbeitszeiten und macht die individuelle Planung einfacher. -> Stundenlohn ab 15,33 € -> Arbeiten im Schichtsystem mit festen Zeiten (Frühschicht, Spätschicht und/oder Nachtschicht) -> Kollegiales Arbeitsumfeld und strukturierte Einarbeitung -> Mitarbeitendenrabatte und weitere Vorteile -> Moderner Arbeitsplatz mit zeitgemäßer Ausstattung __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUidUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 65,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 11,
+      "end_stop": "Schutterwald Brandhau",
+      "dep": "06:59",
+      "arr": "08:05",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Schutterwald Brandhau",
+        "dep": "07:35",
+        "arr": "07:54",
+        "wait": 9,
+        "min": 19
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Schutterwald Brandhau",
+        "to": "работа",
+        "dep": "07:54",
+        "arr": "08:05",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 68
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 125,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 99,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "20:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "20:42",
+        "min": 99
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 125
+     },
+     {
+      "kind": "велосипед",
+      "min": 106,
+      "changes": 0,
+      "km": 26.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 106
+       }
+      ],
+      "risky": false,
+      "score": 192
+     }
+    ],
+    "best": "транспорт",
+    "min": 65,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3571727360",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer (m/w/d) (Durbach)",
+   "firma": "JOB RACCOON",
+   "ort": "Durbach",
+   "plz": "77770",
+   "street": "",
+   "lat": 48.4848066,
+   "lon": 8.0287206,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-durbach-/3571727360-247-9034",
+   "posted": "2026-11-15",
+   "posted_time": "05:23",
+   "desc": "JOBRACCOON sucht: Lagerhelfer (m/w/d) JETZT BEWERBEN unter www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUieUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________ Suchst du eine Tätigkeit als Lagerhelfer (m/w/d), Lagermitarbeiter (m/w/d) oder Lagerkraft (m/w/d) im Raum Durbach? Dich erwartet ein abwechslungsreicher Arbeitsalltag, in dem du Waren transportierst, sortierst und das Lagerteam tatkräftig unterstützt. Das solltest du mitbringen: -> Motivation und die Bereitschaft, im Arbeitsalltag aktiv mit anzupacken -> Eine sorgfältige und zuverlässige Arbeitsweise -> Freude an der Teamarbeit und an einem angenehmen Miteinander -> Bereitschaft zur Arbeit im Schichtbetrieb -> Auch Quereinsteiger sind herzlich willkommen __________________ Als Lagerhelfer (m/w/d) arbeitest du unmittelbar im Lagerbereich mit und trägst dazu bei, dass alle Prozesse reibungslos ablaufen. Deine Aufgaben sind abwechslungsreich, und du unterstützt das Team bei sämtlichen anfallenden Arbeiten. -> Waren nach den vorgegebenen Anforderungen zusammenstellen -> Artikel für den Versand vorbereiten und verpacken -> Den Ein- und Ausgang der Waren kontrollieren -> Lagerbestände sortieren und bereitstellen -> Das Lagerteam bei allgemeinen Tätigkeiten unterstützen __________________ Bei uns arbeitest du in einer modernen Lagerumgebung mit klar strukturierten Abläufen und einer gründlichen Einarbeitung. Deine Tätigkeit im Schichtbetrieb wird angemessen vergütet und von einem unterstützenden Team begleitet. -> Stundenlohn ab 15,33 € -> Schichten mit festen Arbeitszeiten, die sich gut planen lassen (Frühschicht, Spätschicht und/oder Nachtschicht) -> Team mit kollegialem Miteinander und umfassender Einarbeitung -> Mitarbeitendenrabatte und Corporate Benefits -> Moderner Arbeitsplatz mit hochwertiger Ausstattung __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: www.jobraccoon.de/stellenangebot/?id=a1WbG000002fUieUAE&utm_source=kleinanzeigen&timepartner_medium=jobraccoon&timepartner_source=kleinanzeigen ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 6.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-14T23:19",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 41,
+      "changes": 0,
+      "km": 9.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 41
+       }
+      ],
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "транспорт",
+      "min": 103,
+      "changes": 1,
+      "min_wait": 26,
+      "walk_end": 30,
+      "end_stop": "Durbach Rebstock",
+      "dep": "06:32",
+      "arr": "08:16",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7142",
+        "from": "Offenburg Bahnhof Ost",
+        "to": "Durbach Rebstock",
+        "dep": "07:25",
+        "arr": "07:46",
+        "wait": 26,
+        "min": 21
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Durbach Rebstock",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:16",
+        "min": 30
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "13:36",
+      "arr": "16:02",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "13:36",
+        "arr": "13:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "13:47",
+        "arr": "14:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "14:03",
+        "arr": "16:02",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "велосипед",
+    "min": 41,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3437596915",
    "src": "Kleinanzeigen",
@@ -15768,7 +16953,10 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-offenburg-/3571727386-247-9038",
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-offenburg-/3571725575-247-9039"
+   ],
    "person": "Марина"
   },
   {
@@ -15873,7 +17061,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-appenweier-/3571727378-247-9035"
+   ],
    "person": "Марина"
   },
   {
@@ -16025,7 +17215,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-ortenberg-/3571726104-247-9030"
+   ],
    "person": "Марина"
   },
   {
@@ -30757,7 +31949,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-XEM2EE-6YK-S"
+   ],
    "person": "Марина"
   },
   {
