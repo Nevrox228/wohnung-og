@@ -1,9 +1,76 @@
 {
- "generated": "2026-11-16T03:36",
+ "generated": "2026-11-16T10:32",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 51,
+ "count": 54,
  "items": [
+  {
+   "id": "li_4461528816",
+   "src": "LinkedIn",
+   "title": "Praktikanten (w/m/d) im Anerkennungsjahr im Rahmen der Ausbildung zum/zur Erzieher/-in 2027",
+   "firma": "Stadt Achern",
+   "ort": "Achern",
+   "plz": "",
+   "street": "",
+   "lat": 48.6300161,
+   "lon": 8.0735581,
+   "url": "https://de.linkedin.com/jobs/view/4461528816",
+   "posted": "2026-09-01",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 19.4,
+   "kind": "Общее / другое",
+   "ausb": true,
+   "first_seen": "2026-11-16T10:06",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "li_4461536152",
+   "src": "LinkedIn",
+   "title": "Auszubildende für die praxisintegrierte Ausbildung zum/zur Erzieher/-in (PiA) (w/m/d) 2027",
+   "firma": "Stadt Achern",
+   "ort": "Achern",
+   "plz": "",
+   "street": "",
+   "lat": 48.6300161,
+   "lon": 8.0735581,
+   "url": "https://de.linkedin.com/jobs/view/4461536152",
+   "posted": "2026-09-01",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 19.4,
+   "kind": "Общее / другое",
+   "ausb": true,
+   "first_seen": "2026-11-16T10:06",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "ss_14755592",
+   "src": "StepStone",
+   "title": "Sozialpädagogen (gn) als Regionalleitung",
+   "firma": "Ohlebusch Gruppe",
+   "ort": "Offenburg",
+   "plz": "",
+   "street": "",
+   "lat": 48.4695984,
+   "lon": 7.9429235,
+   "url": "https://www.stepstone.de/stellenangebote--Sozialpaedagogen-gn-als-Regionalleitung-77652-Offenburg-Ohlebusch-Gruppe--14755592-inline.html",
+   "posted": "2026-11-16",
+   "desc": "Ein Unternehmen der Jugend- und Eingliederungshilfe mit systemisch-familienorientiertem Ansatz sucht Fachkräfte für Leitungsaufgaben. Gesucht wird ein Sozialpädagoge (gn) als Regionalleitung, um die Geschäftsstelle Offenburg zu leiten und ein Team systemisch qualifizierter Fachkräfte zu führen. Ein Studium der Sozialen Arbeit oder Heilpädagogik, eine systemische Ausbildung, ausgewiesene Erfahrung ",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 0.8,
+   "kind": "Jugend / Heim",
+   "ausb": false,
+   "first_seen": "2026-11-16T10:06",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "li_4482372983",
    "src": "LinkedIn",
@@ -47,7 +114,10 @@
    "first_seen": "2026-11-15T19:17",
    "status": "open",
    "also_urls": [
-    "https://www.jobware.de/job/facharzt-kinder-und-jugendpsychiatrie-m-w-d-mvz-ortenaukreis-065100553"
+    "https://www.jobware.de/job/facharzt-kinder-und-jugendpsychiatrie-m-w-d-mvz-ortenaukreis-065100553",
+    "https://www.jobware.de/job/facharzt-kinder-und-jugendpsychiatrie-m-w-d-ambulantes-mvz-ortenaukreis-065115857",
+    "https://www.jobware.de/job/facharzt-kinder-und-jugendpsychiatrie-m-w-d-ambulantes-mvz-in-ortenaukreis-065116227",
+    "https://www.jobware.de/job/facharzt-kinder-und-jugendpsychiatrie-m-w-d-ortenaukreis-mvz-065112968"
    ]
   },
   {
@@ -1146,6 +1216,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },
