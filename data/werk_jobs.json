@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T15:57",
+ "generated": "2026-11-16T18:36",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 478,
-  "queue": 198,
-  "ai_focus": 249
+  "all": 480,
+  "queue": 199,
+  "ai_focus": 250
  },
  "jobs": [
   {
@@ -1632,6 +1632,38 @@
    "posted": "2026-11-03",
    "first_seen": "2026-11-04T12:29",
    "description": "📍 Dorsten, NRW 🕒 Werkstudent (bis zu 20 Std./Woche) ⏰ Arbeitszeit schwerpunktmäßig vormittags unter der Woche 🏁 Start: ab sofort 🏢 Zunächst überwiegend vor Ort in Dorsten, später teilweise Homeoffice denkbar Gestalte mit, wie KI einen Mittelständler verändert – mit Code, Daten und KI. Du baust mit KI lieber echte Lösungen, als nur darüber zu lesen? Dann tu es nicht länger nur für Uni-Projekte. Bei uns entwickelst Du Tools, Automatisierungen und Reportings für ein echtes Unternehmen – mit eigenem Lager, echten Kunden und Daten aus dem Tagesgeschäft. Dafür bekommst Du einen Claude-Zugang im höchsten Tarif, den Du ausreizen darfst. Ob Informatik, Wirtschaftsinformatik oder Data Science: Unser Geschäft erklären wir Dir. Bauen musst Du wollen. Wer wir sind E-M-C-direct ist ein inhabergeführter technischer Großhandel in Dorsten. Wir liefern Kabelschutz, Kabelbinder, Befestigungstechnik und Werkzeuge an Firmenkunden aus Fahrzeugbau, Industrie und Solarbranche, direkt ab unserem eigenen Lager – im DACH-Raum und zunehmend international. KI ist bei uns Chefsache: Die Geschäftsführung treibt das Thema selbst voran, und Du baust direkt mit. Dein Job Du findest gemeinsam mit Vertrieb, Einkauf, Lager und Marketing heraus, wo KI echte Arbeit abnimmt – und setzt es um. Du entwickelst interne Tools, kleine Web-Anwendungen, Skripte und KI-Agenten für EMC. Du verbindest unsere Systeme und ersetzt manuelle Routinen durch stabile, automatisierte Abläufe. Du ziehst Daten aus unserer Warenwirtschaft und weiteren Quellen und baust daraus Dashboards und Kennzahlen, mit denen wir entscheiden. Du hilfst beim Aufbau unserer KI- und Dateninfrastruktur: Schnittstellen, Datenmodelle, Berechtigungen, Dokumentation – sicher und datenschutzkonform. Du zeigst Deinen Kollegen, wie sie KI-Tools gut nutzen, damit Deine Lösungen im Alltag auch ankommen. Was Du mitbringst Du bist als Student eingeschrieben, idealerweise in Informatik, Wirtschaftsinformatik, Data Science oder einem ähnlichen Fach. Du programmierst sicher, am liebsten in Python, und kommst mit SQL, Datenbanken und Excel klar. Du arbeitest täglich mit KI-Tools wie Claude oder ChatGPT und hast schon eigene Projekte damit gebaut. Du packst an, lieferst Ergebnisse und arbeitest Dich selbstständig in neue Systeme ein, auch wenn nicht alles vorgegeben ist. Dich interessiert, wie ein Unternehmen tickt. Erfahrung mit Warenwirtschaft, E-Commerce oder Reporting ist ein Plus. Du gehst verantwortungsvoll mit Daten um und hast ein Gespür für Datenschutz und IT-Sicherheit. Du sprichst gut Deutsch, Englisch ist ein Plus. Du wohnst in Dorsten oder Umgebung und kannst uns gut erreichen. Was Dich hier erwartet Kein Einzelkämpfer-Job: Du arbeitest mit anderen Werkstudenten und Kollegen zusammen, die ebenfalls mit KI bauen. Ihr entwickelt gemeinsam Anwendungen, teilt Prompts und Kniffe und lernt voneinander. Echte Wirkung: Was Du baust, läuft im Tagesgeschäft. Du siehst sofort, ob es hilft. Top-Werkzeuge: Claude im höchsten Tarif und modern"
+  },
+  {
+   "id": "ba_12465-1654131-1-S",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [
+    "C++"
+   ],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (w/m/d) AI Automation",
+   "company": "Siemens AG",
+   "location": "Karlsruhe",
+   "distance_km": 60.6,
+   "remote": false,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1654131-1-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4489581912"
+   ],
+   "salary": "",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16T13:46",
+   "description": "**Art der Anstellung:** Befristet / max. 20 Stunden/Woche Starte als Werkstudent AI Automation (w/m/d) in Karlsruhe durch und tauche ein in die faszinierende Welt von Computer Vision, Robotik und echten Labor-Setups – deine Ideen und Neugier sind bei uns gefragt! Werde Teil unseres Teams und gestalte die Zukunft der AI-Automatisierung aktiv mit. Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet. **Verändere die Welt von morgen:** - Du validierst, bereinigst und labelst Computer-Vision-Datensätze, um die Grundlage für eine zuverlässige KI-Automatisierung zu schaffen- Anschließend testest und evaluierst du systematisch unsere AI-Automatisierungstools, wobei du Optimierungspotenziale identifizierst- Daraufhin unterstützt du das Team bei Frontend- und Backend-Verbesserungen unserer Tools, indem du deine technischen Kenntnisse einbringst- Im weiteren Verlauf führst du kleinere Forschungs- und Entwicklungsaufgaben im Bereich Computer Vision und Robotik durch- Abschließend erhältst du praxisnahe Einblicke in MLOps und agile Softwareentwicklung, indem du bei Laborinfrastruktur, Testnetzwerken und Hardware-Deployments für CV-Projekte mitwirkst **So überzeugst du uns:** - **Ausbildung**: Du studierst derzeit erfolgreich Informatik, Robotik, Elektrotechnik oder einen vergleichbaren Studiengang- **Erfahrungen und Kenntnisse**:- Du hast Interesse und eventuell erste Kenntnisse in den Bereichen Computer Vision, Künstliche Intelligenz und Robotik- Du bist idealerweise vertraut mit gängigen Programmiersprachen wie Python oder C++- Du hast bestenfalls Erfahrung im Umgang mit Datenvalidierung, Labeling und Testing von Softwaretools - **Arbeitsweise**: Du überzeugst durch eine strukturierte, eigenständige und genaue Arbeitsweise- **Sprachkenntnisse**: Du verfügst über fließende Deutsch- und Englischkenntnisse (mindestens B2) Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen! Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden. Wir legen Wert auf [Chancengleichheit ](https://www.siemens.com/de/de/unternehmen/jobs/arbeiten-bei-siemens/inklusion.html)und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung. Bei gleicher Qualifikation werden schwerbehinderte und gleichgestellte Bewerberinnen und Bewerber bevorzugt berücksichtigt. **Über Uns**Wir entwickeln Netzwerke, die unsere Städte schlauer mit Licht und Wärme versorgen und kennen uns in Sachen Automatisierung und Digitalisierung in der Prozess- und Fertigungsi"
   },
   {
    "id": "ss_14746634",
@@ -5679,10 +5711,10 @@
    "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p> <p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><p>Wir bei T&amp;P verstehen uns als datengetriebene Kommunikationsagentur, deren Mission es ist, Kreativität, Technologie und Daten auf neue, aufregende und effektive Weise zu verknüpfen. Wir nennen es das &amp;Modell und die Prämisse ist einfach: Kreation, Strategie, Media und Daten/CRM arbeiten Hand in Hand und lösen Herausforderungen als ein Team, das nah und partnerschaftlich mit dem Kunden zusammenarbeitet.</p> <p>&nbsp;</p> <h2><strong>Das bieten wir dir:</strong></h2> <ul> <li><strong>Work-Life-Balance</strong>: Dank flexibler Arbeitszeiten mit Schwerpunkt auf dem persönlichen Austausch im Office und ergänzender Remote Work passt sich dein Job deinem Leben an. Überstunden kannst du flexible ausgleichen.</li> <li><strong>Vacation mode on</strong>: Du erhältst 30 Urlaubstage plus einen flexiblen Tag – zusätzlich sind der 24. und 31.12. frei.</li> <li><strong>Wellbeing first:&nbsp;</strong>Gesundheitsleistungen, attraktive Altersvorsorge sowie Mental Health Awareness Days stellen deine Gesundheit in den Mittelpunkt.</li> <li><strong>Practice makes perfect</strong>: Entfalte dich mit unseren vielfältigen Weiterbildungen und nutze unsere internen Karriereprogramme für deine Entwicklung im WPP-Netzwerk.</li> <li><strong>More than just a job</strong>: Dich erwarten unvergessliche Events, Mitarbeitendenrabatte und weitere Highlights wie das Job Ticket, Wellhub oder das Job Bike.</li> <li><strong>Be yourself</strong>: Bei uns ist jede:r herzlich willkommen - Vielfalt und Chancengleichheit liegen uns am Herzen.</li> </ul> <p>&nbsp;</p> <h2><strong>Das bewegst du:</strong></h2> <p>Als <strong>Werkstudent Media (Mensch)</strong> magst du große Datenmengen und möchtest aktiv dazu beitragen, die Performance unseres Kunden zu optimieren.</p> <ul> <li><strong>Fundierte Analysen &amp; Reportings:</strong> Du unterstützt uns bei der Erstellung aussagekräftiger Analysen und Reportings, die als wichtige Entscheidungsgrundlage dienen.</li> <li><strong>Performance-Tracking:</strong>&nbsp;Die Aufbereitung und Analyse von kampagnenbezogenen Wochen- und Monatsauswertungen zur Erfolgsmessung gehört zu deinen Kernaufgaben.</li> <li><strong>Datenmanagement &amp; Qualitätssicherung:</strong>&nbsp;Du bist maßgeblich an der prä"
   },
   {
-   "id": "li_4489581912",
+   "id": "ba_13151-1654259-1-S",
    "queue": false,
    "missing_skills": [
-    "C++"
+    "Power BI"
    ],
    "nice_to_have_missing": [],
    "status": "open",
@@ -5690,23 +5722,23 @@
    "ai_focus": true,
    "type": "Werkstudent",
    "track": "KI / Automatisierung",
-   "title": "Werkstudent (w/m/d) AI Automation",
-   "company": "Siemens",
-   "location": "Karlsruhe",
-   "distance_km": 58.2,
-   "remote": true,
-   "german_level": "sehr gut",
+   "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
+   "company": "Mercedes-Benz Group AG",
+   "location": "Sindelfingen",
+   "distance_km": 70.3,
+   "remote": false,
+   "german_level": "normal",
    "german_quote": "",
    "video_in_job": false,
-   "source": "LinkedIn",
-   "url": "https://de.linkedin.com/jobs/view/4489581912",
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654259-1-S",
    "apply_url": "",
    "apply_email": "",
    "also_urls": [],
    "salary": "",
-   "posted": "2026-11-13",
-   "first_seen": "2026-11-16T13:46",
-   "description": "Art der Anstellung: Befristet / max. 20 Stunden/Woche Starte als Werkstudent AI Automation (w/m/d) in Karlsruhe durch und tauche ein in die faszinierende Welt von Computer Vision, Robotik und echten Labor-Setups - deine Ideen und Neugier sind bei uns gefragt! Werde Teil unseres Teams und gestalte die Zukunft der AI-Automatisierung aktiv mit. Werde Teil unseres Working Student Network - einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet. Verändere die Welt von morgen: Du validierst, bereinigst und labelst Computer-Vision-Datensätze, um die Grundlage für eine zuverlässige KI-Automatisierung zu schaffen Anschließend testest und evaluierst du systematisch unsere AI-Automatisierungstools, wobei du Optimierungspotenziale identifizierst Daraufhin unterstützt du das Team bei Frontend- und Backend-Verbesserungen unserer Tools, indem du deine technischen Kenntnisse einbringst Im weiteren Verlauf führst du kleinere Forschungs- und Entwicklungsaufgaben im Bereich Computer Vision und Robotik durch Abschließend erhältst du praxisnahe Einblicke in MLOps und agile Softwareentwicklung, indem du bei Laborinfrastruktur, Testnetzwerken und Hardware-Deployments für CV-Projekte mitwirkst So überzeugst du uns: Ausbildung: Du studierst derzeit erfolgreich Informatik, Robotik, Elektrotechnik oder einen vergleichbaren Studiengang Erfahrungen und Kenntnisse: Du hast Interesse und erste Kenntnisse in den Bereichen Computer Vision, Künstliche Intelligenz und Robotik Du bist vertraut mit gängigen Programmiersprachen wie Python oder C++ Du hast Erfahrung im Umgang mit Datenvalidierung, Labeling und Testing von Softwaretools Arbeitsweise: Du überzeugst durch eine strukturierte, eigenständige und genaue Arbeitsweise Sprachkenntnisse: Du verfügst über fließende Deutsch- und Englischkenntnisse (mindestens B2) Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen! Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden. Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung. Über Uns Wir entwickeln Netzwerke, die unsere Städte schlauer mit Licht und Wärme versorgen und kennen uns in Sachen Automatisierung und Digitalisierung in der Prozess- und Fertigungsindustrie bestens aus. Dafür und für viele weitere Zukunftsprojekte brauchen wir kluge Köpfe, die ihr Können und ihre Kreativität aktiv einbringen. Menschen wie dich! Hilf uns dabei, die spannendsten Herausforderungen gemeinsam anzugehen und umzusetzen, worauf es ankommt. Was wir dir bieten,"
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16T16:28",
+   "description": "Tätigkeitsbereich: Forschung & Entwicklung incl. Design Fachabteilung: MB.OS Integration HW/SW/Car-Package-Mnmt & E/E-Planung Gesellschaft: Mercedes-Benz AG Standort: Sindelfingen Startdatum: 01.02.2027 Veröffentlichungsdatum: 01.02.2027 Stellennummer: MER0004AI2 Arbeitszeit: Teilzeit Aufgaben Wir im Team MB.OS-Integration, HW/SW/Car-Package-Management & E/E-Planung (E/E – Elektrik/Elektronik) verantworten die E/E-Releaseplanung, das E/E-Releasemanagement, die Methodik FiFA@EE, die präventive Prüfung der Codierdatendokumentation (FiFA4QNT) sowie den Gesamt-FROP. Zudem stellen wir die konsistente Dokumentation zwischen verschiedenen IT-Systemen sicher und schaffen damit die Grundlage für nachgelagerte Release-Rollout-Prozesse wie Over-the-Air-Updates (OTA), die Software-Tankstelle und die Fahrzeuginbetriebnahme in der Prototypenproduktion. Zur Analyse und Visualisierung der Daten nutzen wir Power-BI-Dashboards, deren Datenpipeline auf Python, PySpark und Azure Databricks basiert. Für diesen spannenden und zukunftsorientierten Aufgabenbereich suchen wir Dich als Praktikant*in. Deine Aufgaben im Einzelnen: - Entwicklung und Weiterentwicklung von Power-BI-Dashboards zur Analyse und präventiven Prüfung von Hardware- und Codierdatendokumentationen - Nutzung von Python, PySpark und SQL zur Datenaufbereitung, Analyse und Automatisierung von Prozessen - Aufnahme, Analyse und Abstimmung fachlicher Anforderungen in enger Zusammenarbeit mit den Fachbereichen - Umsetzung technischer Lösungen gemeinsam mit teaminternen und teamübergreifenden Entwicklungspartner*innen - Optimierung, Pflege und Weiterentwicklung bestehender Datenmodelle, Dashboards und Berechnungslogiken - Dokumentation von Dashboards, Datenmodellen und Datenverarbeitungsprozessen sowie Sicherstellung der Datenqualität und Datenintegrität Das bieten wir Dir: - Ein offenes und motiviertes Team mit enger Einbindung in aktuelle Projekte - Die Möglichkeit, eigene Ideen einzubringen und aktiv an der Umsetzung neuer Anforderungen mitzuwirken - Ein modernes Arbeitsumfeld mit aktuellen Technologien wie Azure Databricks, Power BI, Python und GitLab - Eigenverantwortliche Aufgaben mit fachlichem Gestaltungsspielraum - Wertvolle Einblicke in die Entwicklung und Absicherung softwarebasierter Fahrzeugfunktionen im MB.OS-Umfeld Die Tätigkeit kann ab Februar 2027 beginnen. Qualifikationen - Studiengang im Bereich (Wirtschafts-)Informatik, IT- und Informationsmanagement, Elektro- und Informationstechnik, Data Science, Statistik, Mathematik oder ein vergleichbarer Studiengang - Praktische Erfahrung mit Python sowie Bibliotheken wie Pandas oder PySpark zur Datenverarbeitung und Datentransformation - Erste Erfahrungen in den Bereichen Big Data, Data Analytics oder Data Science sind von Vorteil - Kenntnisse in SQL sind von Vorteil - Kenntnisse in Power BI, DAX, Power Query, Tableau oder vergleichbaren Business-Intelligence-Lösungen sind wünschenswert - Analytische Denkweise, konzeptionelle Fähigkeiten sowie eine st"
   },
   {
    "id": "li_4475426325",
@@ -10527,6 +10559,34 @@
    "posted": "2026-10-17",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "ba_10001-1004022490-S",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent:in im E-Mail Marketing (m/w/d)",
+   "company": "e-hoi GmbH",
+   "location": "Frankfurt am Main",
+   "distance_km": 181.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004022490-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "STUNDENLOHN",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16T16:28",
+   "description": "**Deine Aufgaben:** Zur Verstärkung unseres Marketingteams suchen wir zum nächstmöglichen Zeitpunkt eine\\*n versierte\\*n **Werkstudent\\*in im E-Mail Marketing (m/w/d).** Die Werkstudententätigkeit ist zu 100% remote und auf 20 Stunden/Woche begrenzt. Während der Semesterferien beschäftigen wir dich gerne in Vollzeit. Im Rahmen deiner Werkstudententätigkeit arbeitest du gemeinsam mit den Kollegen des CRM-Teams an E-Mail Kampagnen. Dabei bist du für die kreative Erstellung von verschiedenen Newslettern verantwortlich und arbeitest im Erstellungsprozess eng mit dem CRM-, Grafik- und Produktteam zusammen. Weiterhin unterstützt du unser CRM-Team nach Bedarf in weiteren Projekten rund um verschiedene Fragestellungen. **Was du mitbringst:** - gutes sprachliches Ausdrucksvermögen und ausgezeichnete Deutschkenntnisse sowie gute Englischkenntnisse - Freude am kreativen Gestalten und am Texten: Fähigkeit Informationen und Angebote aktuell und verkaufsstark aufzubereiten - zügige, präzise und qualitätsbewusste Arbeitsweise - Produktkenntnisse der Tourismus- bzw. Kreuzfahrtbranche sind willkommen, aber keine Voraussetzung - sehr gute Kenntnisse im Umgang mit dem MS Office-Paket und eine Affinität für technische Systeme **Was wir dir bieten:** - Praxiserfahrung durch abwechslungsreiche und verantwortungsvolle Aufgaben in einer zukunftsträchtigen Branche - einen interessanten Arbeitsplatz in einem dynamischen Team - langfristige Entwicklungs- und Gestaltungschancen - regelmäßige Mitarbeiterevents damit auch der Spaß nicht zu kurz kommt - EGYM Wellpass, damit du fit und gesund bleibst - Touristiker-Reisevorteile zu attraktiven Konditionen für dich, deine Freunde und Familie **Wir haben dein Interesse geweckt?** Dann sende uns deine aussagekräftigen Bewerbungsunterlagen und gib uns auch deinen frühestmöglichen Eintrittstermin an. Wir freuen uns auf deine Bewerbung! [JETZT BEWERBEN!](https://www.e-hoi.de/jobs/?fuseaction=job_form.showjobform&jobid=76)"
   },
   {
    "id": "li_4413542826",

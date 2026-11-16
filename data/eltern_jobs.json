@@ -1,9 +1,219 @@
 {
- "generated": "2026-11-16T15:57",
+ "generated": "2026-11-16T18:36",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 846,
+ "count": 848,
  "items": [
+  {
+   "id": "marina:ka_3413781992",
+   "src": "Kleinanzeigen",
+   "title": "!!! Kommissionierer (m/w/d) - Appenweier !!!",
+   "firma": "rt Personal GmbH",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-appenweier-/3413781992-247-9035",
+   "posted": "2026-11-16",
+   "posted_time": "18:05",
+   "desc": "Du bist immer zackig unterwegs? Dann bist du hier genau richtig! ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ Für unseren Auftraggeber in Appenweier sind wir auf der Suche nach einem Kommissionierer (m/w/d) in 3-Schicht Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch, Russisch und Türkisch Deine coolen Aufgaben - Transport der Fertigerzeugnisse - Beförderung von Material mit dem Hubwagen - Umpalettierung Dein Profil - Einschlägige Berufserfahrung von vroteil - Deutsch in Wort und Schrift - Staplerschein nicht notwendig! Das erwartet Dich - Übernahmechancen durch unseren Auftraggeber! - Persönliche, freundliche und professionelle Betreuung durch unsere geschulten Fachkräfte - Beratung und Unterstützung, wann immer Du sie brauchst - Urlaubs- und Weihnachtsgeld - Betriebliche Gesundheitsvorsorge Interesse geweckt? Dann bewirb dich jetzt direkt über WhatsApp oder ruf uns unter 0170 658288787 an!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "нужен",
+   "de_txt": "Deutsch in Wort und Schrift",
+   "help": "Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch,",
+   "ru": "",
+   "prof_txt": "Einschlägige Berufserfahrung von vroteil",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-16T16:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3413781992",
+   "src": "Kleinanzeigen",
+   "title": "!!! Kommissionierer (m/w/d) - Appenweier !!!",
+   "firma": "rt Personal GmbH",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-appenweier-/3413781992-247-9035",
+   "posted": "2026-11-16",
+   "posted_time": "18:05",
+   "desc": "Du bist immer zackig unterwegs? Dann bist du hier genau richtig! ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ Für unseren Auftraggeber in Appenweier sind wir auf der Suche nach einem Kommissionierer (m/w/d) in 3-Schicht Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch, Russisch und Türkisch Deine coolen Aufgaben - Transport der Fertigerzeugnisse - Beförderung von Material mit dem Hubwagen - Umpalettierung Dein Profil - Einschlägige Berufserfahrung von vroteil - Deutsch in Wort und Schrift - Staplerschein nicht notwendig! Das erwartet Dich - Übernahmechancen durch unseren Auftraggeber! - Persönliche, freundliche und professionelle Betreuung durch unsere geschulten Fachkräfte - Beratung und Unterstützung, wann immer Du sie brauchst - Urlaubs- und Weihnachtsgeld - Betriebliche Gesundheitsvorsorge Interesse geweckt? Dann bewirb dich jetzt direkt über WhatsApp oder ruf uns unter 0170 658288787 an!",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "нужен",
+   "de_txt": "Deutsch in Wort und Schrift",
+   "help": "Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch,",
+   "ru": "",
+   "prof_txt": "Einschlägige Berufserfahrung von vroteil",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-16T16:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_14527-k61529.1829-S",
    "src": "Jobbörse",
@@ -67681,7 +67891,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-zustelleraktiv-schwarzwald-13-9-13-9-eur-stunde-/3543402119-247-8038"
+   ],
    "person": "mykyta"
   },
   {
