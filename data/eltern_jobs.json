@@ -1,9 +1,355 @@
 {
- "generated": "2026-11-16T12:21",
+ "generated": "2026-11-16T13:16",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 842,
+ "count": 843,
  "items": [
+  {
+   "id": "marina:ka_3573487412",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer - Lagermitarbeiter - Kommissionierer (Friesenheim)",
+   "firma": "my-perfect-job.de",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "",
+   "lat": 48.3785759,
+   "lon": 7.8951348,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-lagermitarbeiter-kommissionierer-friesenheim-/3573487412-247-8045",
+   "posted": "2026-11-16",
+   "posted_time": "13:04",
+   "desc": "Tempton Personaldienstleistungen GmbH sucht: Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std. JETZT BEWERBEN unter https://www.stepstone.de/job/14726671/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________ **Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std.** Wir suchen ab sofort motivierte Unterstützung als Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std. Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Ihre täglichen Aufgaben: -> **Kommissionieren **und **Einlagern **von Waren -> Unterstützung in der **Produktion **und **Fertigung** -> Mitarbeit bei der **Inventur ** -> Durchführung von **Bestandsprüfungen** -> **Lagerpflege **gemäß betrieblicher Vorgaben __________________ Das bringen Sie mit: -> erste **Berufserfahrung **als Lagerhelfer (m/w/d) -> **EDV-Grundkenntnisse** -> **gute Deutschkenntnisse** -> Bereitschaft zur **Schichtarbeit** -> selbstständige Arbeitsweise, Teamfähigkeit und Zuverlässigkeit __________________ Diese Vorteile erwarten Sie bei Tempton -> **unbefristetes **Arbeitsverhältnis -> **übertarifliche **Bezahlung -> **tarifliche Zuschläge** für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit -> bis zu **30 Tage Urlaub** (je nach Betriebszugehörigkeit) -> **Urlaubs**- und **Weihnachtsgeld** -> Zuschüsse zur **betrieblichen Altersvorsorge** -> attraktive **Mitarbeiterrabatte bis zu 85 %** auf namhafte Produkte -> volle **Lohnauszahlung zum 15. Bankarbeitstag** des Monats mit der Option auf **feste Abschlagszahlungen** zum 01. des Monats -> kostenfreie **arbeitsmedizinische Vorsorgeuntersuchung** -> kostenfreie Stellung von **Arbeitsschutzkleidung** __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: https://www.stepstone.de/job/14726671/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 21.8,
+   "de": "нужен",
+   "de_txt": "gute Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-16T12:51",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 99,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Oberweier Litzengrund",
+      "dep": "06:32",
+      "arr": "08:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "104",
+        "from": "Lahr (Schwarzw)",
+        "to": "Oberweier Litzengrund",
+        "dep": "07:38",
+        "arr": "08:06",
+        "wait": 22,
+        "min": 28
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberweier Litzengrund",
+        "to": "работа",
+        "dep": "08:06",
+        "arr": "08:12",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 105
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 214,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 188,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:07",
+        "min": 188
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 214
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 32.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     }
+    ],
+    "best": "транспорт",
+    "min": 99,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3573487412",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer - Lagermitarbeiter - Kommissionierer (Friesenheim)",
+   "firma": "my-perfect-job.de",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "",
+   "lat": 48.3785759,
+   "lon": 7.8951348,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-lagermitarbeiter-kommissionierer-friesenheim-/3573487412-247-8045",
+   "posted": "2026-11-16",
+   "posted_time": "13:04",
+   "desc": "Tempton Personaldienstleistungen GmbH sucht: Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std. JETZT BEWERBEN unter https://www.stepstone.de/job/14726671/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________ **Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std.** Wir suchen ab sofort motivierte Unterstützung als Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std. Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Ihre täglichen Aufgaben: -> **Kommissionieren **und **Einlagern **von Waren -> Unterstützung in der **Produktion **und **Fertigung** -> Mitarbeit bei der **Inventur ** -> Durchführung von **Bestandsprüfungen** -> **Lagerpflege **gemäß betrieblicher Vorgaben __________________ Das bringen Sie mit: -> erste **Berufserfahrung **als Lagerhelfer (m/w/d) -> **EDV-Grundkenntnisse** -> **gute Deutschkenntnisse** -> Bereitschaft zur **Schichtarbeit** -> selbstständige Arbeitsweise, Teamfähigkeit und Zuverlässigkeit __________________ Diese Vorteile erwarten Sie bei Tempton -> **unbefristetes **Arbeitsverhältnis -> **übertarifliche **Bezahlung -> **tarifliche Zuschläge** für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit -> bis zu **30 Tage Urlaub** (je nach Betriebszugehörigkeit) -> **Urlaubs**- und **Weihnachtsgeld** -> Zuschüsse zur **betrieblichen Altersvorsorge** -> attraktive **Mitarbeiterrabatte bis zu 85 %** auf namhafte Produkte -> volle **Lohnauszahlung zum 15. Bankarbeitstag** des Monats mit der Option auf **feste Abschlagszahlungen** zum 01. des Monats -> kostenfreie **arbeitsmedizinische Vorsorgeuntersuchung** -> kostenfreie Stellung von **Arbeitsschutzkleidung** __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: https://www.stepstone.de/job/14726671/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 21.8,
+   "de": "нужен",
+   "de_txt": "gute Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-16T12:51",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 99,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Oberweier Litzengrund",
+      "dep": "06:32",
+      "arr": "08:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "104",
+        "from": "Lahr (Schwarzw)",
+        "to": "Oberweier Litzengrund",
+        "dep": "07:38",
+        "arr": "08:06",
+        "wait": 22,
+        "min": 28
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberweier Litzengrund",
+        "to": "работа",
+        "dep": "08:06",
+        "arr": "08:12",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 105
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 214,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 188,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:07",
+        "min": 188
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 214
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 32.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     }
+    ],
+    "best": "транспорт",
+    "min": 99,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3543102580",
    "src": "Kleinanzeigen",
@@ -5598,132 +5944,6 @@
     "best": "транспорт",
     "min": 85,
     "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_10001-1003698572-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "firma": "Metall-Concept GmbH",
-   "ort": "Achern",
-   "street": "Am Risisee 7",
-   "lat": 48.6554837,
-   "lon": 8.0283461,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003698572-S",
-   "posted": "2026-09-14",
-   "desc": "Wir sind ein innovatives Unternehmen im Bereich Metall-und Stahlbau. Unser Fertigungsschwerpunkt liegt in der Herstellung von Schweiß- konstruktionen für unsere Kunden aus dem Maschinen- und Anlagenbau. Zur Verstärkung unseres Teams suchen wir einen **-Produktionsmitarbeiter (M/W/D)** **-Produktionshelfer (M/W/D)** **Ihre Aufgaben:** -Mithilfe in der Teilefertigung -Sägen, Fräsen, Biegen, Schweißen -Maschinenbestückung -Qualitätskontrolle **Ihr Profil:** -Handwerkliches Geschick -Technisches Verständnis -gewissenhafte Arbeitsweise **Wir bieten Ihnen:** -Eine abwechslungsreiche Tätigkeit mit Entwicklungspotenzial -Eine leistungsbezogene Vergütung mit Beteiligung am gemeinsamen Unternehmenserfolg -Flexible Arbeitszeiten -Ein familiäres Betriebsklima und ein tolles Team -Eine aktive Mitgestaltung Ihrer persönlichen Arbeitsumgebung -Die Möglichkeit des Fahrradleasings",
-   "zeit": "Vollzeit / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "mykyta",
-   "km": 14.3,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T23:00",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 72,
-      "changes": 2,
-      "min_wait": 5,
-      "walk_end": 8,
-      "end_stop": "Gamshurst Kleinfeld",
-      "dep": "12:36",
-      "arr": "13:49",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "12:36",
-        "arr": "12:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "12:47",
-        "arr": "12:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "13:07",
-        "arr": "13:15",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Gamshurst Kleinfeld",
-        "dep": "13:20",
-        "arr": "13:41",
-        "wait": 5,
-        "min": 21
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Gamshurst Kleinfeld",
-        "to": "работа",
-        "dep": "13:41",
-        "arr": "13:49",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 78
-     },
-     {
-      "kind": "велосипед",
-      "min": 74,
-      "changes": 0,
-      "km": 17.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 74
-       }
-      ],
-      "risky": false,
-      "score": 128
-     }
-    ],
-    "best": "транспорт",
-    "min": 72,
-    "changes": 2
    },
    "status": "open",
    "also_urls": [],
