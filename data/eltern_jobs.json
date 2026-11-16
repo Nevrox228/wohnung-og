@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-16T15:03",
+ "generated": "2026-11-16T15:57",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 848,
+ "count": 846,
  "items": [
   {
    "id": "marina:ba_14527-k61529.1829-S",
@@ -16614,6 +16614,111 @@
     ],
     "best": "транспорт",
     "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3437588755",
+   "src": "Kleinanzeigen",
+   "title": "DEINE AUFGABEN: * Auf- und Abstecken von Bauteilen * Qualitätskontrolle * Als Helfer...",
+   "firma": "Iperdi GmbH",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437588755-111-9035",
+   "posted": null,
+   "posted_time": null,
+   "desc": "DEINE AUFGABEN: * Auf- und Abstecken von Bauteilen * Qualitätskontrolle * Als Helfer (m/w/d/x) arbeitest Du im Team DAS BRINGST DU MIT: * Grundlegende Deutsch-Kenntnisse * Sorgfalt und Motivation WIR BIETEN DIR: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutsch-Kenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-15T22:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
     "changes": 0
    },
    "status": "open",
@@ -61782,168 +61887,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ka_3437596915",
-   "src": "Kleinanzeigen",
-   "title": "Helfer Job (M/W/D/X)",
-   "firma": "Iperdi GmbH",
-   "ort": "Hausach",
-   "plz": "77756",
-   "street": "",
-   "lat": 48.2945442,
-   "lon": 8.1661014,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437596915-111-8533",
-   "posted": "2026-11-14",
-   "posted_time": "20:05",
-   "desc": "AUFGABEN: * Montieren und Verpacken von Produkten * Qualitätskontrolle * Dokumentation ANFORDERUNGEN: * Berufserfahrung in der Produktion ist wünschenswert * 2-Schicht Bereitschaft * Qualitätsbewusstsein und Motivation BENEFITS: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
-   "zeit": "",
-   "who": "mykyta",
-   "approx": true,
-   "km": 27.0,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 86,
-      "changes": 1,
-      "min_wait": 6,
-      "walk_end": 27,
-      "end_stop": "Hausach",
-      "dep": "05:21",
-      "arr": "06:48",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS1",
-        "from": "Offenburg Bahnhof",
-        "to": "Hausach",
-        "dep": "05:54",
-        "arr": "06:21",
-        "wait": 6,
-        "min": 27
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Hausach",
-        "to": "работа",
-        "dep": "06:21",
-        "arr": "06:48",
-        "min": 27
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 89
-     },
-     {
-      "kind": "велосипед",
-      "min": 184,
-      "changes": 0,
-      "km": 45.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 184
-       }
-      ],
-      "risky": false,
-      "score": 348
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 485,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 459,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "13:26",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "13:26",
-        "min": 459
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 485
-     }
-    ],
-    "best": "транспорт",
-    "min": 86,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ka_3570071032",
    "src": "Kleinanzeigen",
    "title": "Lagerist - Lagermitarbeiter - Kommissionierer (Lahr/Schwarzwald",
@@ -72539,168 +72482,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ka_3437596915",
-   "src": "Kleinanzeigen",
-   "title": "Helfer Job (M/W/D/X)",
-   "firma": "Iperdi GmbH",
-   "ort": "Hausach",
-   "plz": "77756",
-   "street": "",
-   "lat": 48.2945442,
-   "lon": 8.1661014,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437596915-111-8533",
-   "posted": "2026-11-14",
-   "posted_time": "20:05",
-   "desc": "AUFGABEN: * Montieren und Verpacken von Produkten * Qualitätskontrolle * Dokumentation ANFORDERUNGEN: * Berufserfahrung in der Produktion ist wünschenswert * 2-Schicht Bereitschaft * Qualitätsbewusstsein und Motivation BENEFITS: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 27.0,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-14T21:42",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 86,
-      "changes": 1,
-      "min_wait": 6,
-      "walk_end": 27,
-      "end_stop": "Hausach",
-      "dep": "05:21",
-      "arr": "06:48",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS1",
-        "from": "Offenburg Bahnhof",
-        "to": "Hausach",
-        "dep": "05:54",
-        "arr": "06:21",
-        "wait": 6,
-        "min": 27
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Hausach",
-        "to": "работа",
-        "dep": "06:21",
-        "arr": "06:48",
-        "min": 27
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 89
-     },
-     {
-      "kind": "велосипед",
-      "min": 184,
-      "changes": 0,
-      "km": 45.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 184
-       }
-      ],
-      "risky": false,
-      "score": 348
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 485,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 459,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "13:26",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "13:26",
-        "min": 459
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 485
-     }
-    ],
-    "best": "транспорт",
-    "min": 86,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ka_3385116836",
    "src": "Kleinanzeigen",
    "title": "Lagermitarbeiter (m/w/d)",
@@ -81341,8 +81122,7 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569012241-107-8088",
-    "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569011479-107-8665"
+    "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569012241-107-8088"
    ],
    "person": "Марина"
   },
@@ -112806,167 +112586,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_11849-P2189037-1-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "firma": "Trenkwalder Personaldienste GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.496649515,
-   "lon": 7.936409392,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11849-P2189037-1-S",
-   "posted": "2026-09-22",
-   "desc": "Als einer der größten Personaldienstleister stehen wir für attraktive Jobs, faire Konditionen, vielfältige Entwicklungsmöglichkeiten und eine persönliche Mitarbeiterbetreuung. Präzision, modernes Arbeiten und hochwertige Technik -- das erwartet Sie bei unserem Kunden in Offenburg! Für ein traditionsreiches, familiengeführtes Industrieunternehmen mit modernster Fertigungstechnik suchen wir zum nächstmöglichen Zeitpunkt einen Mitarbeiter (m/w/d) im Bereich Entgraten. Unser Kunde ist seit über 60 Jahren erfolgreich und beschäftigt rund 480 Mitarbeitende. Das Unternehmen ist auf die Herstellung von hochkomplexen Präzisionsbauteilen und Baugruppen spezialisiert und beliefert unterschiedliche anspruchsvolle Branchen. Dabei stehen Qualität, Genauigkeit und ein hoher technischer Anspruch im Mittelpunkt. Wenn Sie gerne präzise und sorgfältig arbeiten, ein gutes Auge für Details haben und Wert auf einen modernen Arbeitsplatz legen, freuen wir uns auf Ihre Bewerbung! **Ihre Aufgaben** * Entgraten von hochwertigen Präzisionsbauteilen nach vorgegebenen Arbeitsanweisungen * Bearbeitung der Bauteile mit geeigneten Entgratwerkzeugen und Turboschleifer * Durchführung von Sicht- und Qualitätskontrollen * Kontrolle filigraner Bauteile mithilfe moderner Mikroskope * Dokumentation der Arbeitsschritte und Prüfergebnisse im ERP-System * Sicherstellung der geforderten Qualitätsstandards **Ihre Qualifikationen** * Idealerweise erste Erfahrung in der Produktion, Qualitätskontrolle oder Feinbearbeitung * Kenntnisse im Umgang mit Mikroskopen sind von Vorteil, aber keine zwingende Voraussetzung * Sehr gute Fingerfertigkeit und handwerkliches Geschick im Umgang mit kleinen und filigranen Bauteilen * Fähigkeit, Arbeitsanweisungen sicher zu lesen und umzusetzen * Idealerweise Kenntnisse im Lesen technischer Zeichnungen * Eine ruhige, geduldige und äußerst sorgfältige Arbeitsweise * Hohes Qualitätsbewusstsein und ein gutes Auge für Details * Flexibilität und Zuverlässigkeit * Teamfähigkeit **Ihre Benefits** * Unbefristeter Arbeitsvertrag mit übertariflichem Stundenlohn * Onboarding ganz bequem von Zuhause aus * 24/7 Erreichbarkeit unserer Geschäftsstelle * Moderne Arbeitsplätze * Höhenverstellbaren Schreibtische und hochwertige Bürostühle * Kombination aus Sitzen, Stehen und Bewegung für ein angenehmes Arbeiten * Arbeiten mit modernen ZEISS-Mikroskopen und einfacher Bedienung * Eine ruhige und konzentrierte Arbeitsumgebung * Moderne Fertigungstechnik und hochwertige Arbeitsmittel * Ein langfristig orientierter Arbeitsplatz in einem familiengeführten Unternehmen * Teilzeit oder Vollzeit möglich, ganz nach Ihrem Bedürfnis * Ein abwechslungsreiches Aufgabengebiet mit hochwertigen Präzisionsbauteilen Interesse geweckt? Dann freuen wir uns auf Ihre Bewerbung! Bewerben Sie sich jetzt und werden Sie Teil eines modernen Teams in einem traditionsreichen Unternehmen in Offenburg.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 11.4,
-   "de": "?",
-   "de_txt": "",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 45,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 5,
-      "end_stop": "Bühl Talackerweg",
-      "dep": "06:59",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Bühl Talackerweg",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": 8,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl Talackerweg",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:45",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 48
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 66,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 40,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:27",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:27",
-        "min": 40
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 66
-     },
-     {
-      "kind": "велосипед",
-      "min": 64,
-      "changes": 0,
-      "km": 15.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 64
-       }
-      ],
-      "risky": false,
-      "score": 108
-     }
-    ],
-    "best": "транспорт",
-    "min": 45,
-    "changes": 1
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_13356-104240A31043C61-S",
    "src": "Jobbörse",
    "title": "Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d)",
@@ -123648,8 +123267,7 @@
    "ru": "",
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-7BYIQ9JELDAZJNDO-S",
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437586812-111-8088"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-7BYIQ9JELDAZJNDO-S"
    ],
    "person": "Марина"
   },
