@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T19:34",
+ "generated": "2026-11-16T20:29",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -15,7 +15,7 @@
  "counts": {
   "all": 481,
   "queue": 199,
-  "ai_focus": 251
+  "ai_focus": 252
  },
  "jobs": [
   {
@@ -2132,6 +2132,34 @@
    "description": ""
   },
   {
+   "id": "an_praktikum-content-ai-berlin-13325",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikum Content & AI (m/w/d)",
+   "company": "KLUUU",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/kluuu/praktikum-content-ai-berlin-13325",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16T20:04",
+   "description": "Praktikum Media, Content & AI (m/w/d) Remote | Teilzeit oder Vollzeit | Unbezahlt | Bis zu 3 Monate Wir sind KLUUU , ein KI-Startup, das Lernmaterialien in Sekunden in interaktive Quizze verwandelt. Unser Ziel ist es, Lernen effizienter, interaktiver und zugänglicher zu machen. Zur Unterstützung unserer kreativen Produkt- und Markenentwicklung suchen wir einen motivierten Media, Content & AI Intern (m/w/d) , der Lust hat, neue Content-Formate zu entwickeln, mit modernen KI-Tools zu experimentieren und kreative Ideen in die Tat umzusetzen. Du arbeitest direkt mit den Gründern zusammen und bekommst die Möglichkeit, eigene Projekte umzusetzen, neue Technologien auszuprobieren und aktiv mitzugestalten, wie wir KLUUU visuell und inhaltlich präsentieren. Aufgaben Content Creation: Konzeption und Produktion von Videos, Grafiken und weiteren digitalen Inhalten für Social Media und unsere Marketingkanäle Video Editing: Schnitt und Bearbeitung von Kurzvideos, Reels und TikToks sowie Entwicklung kreativer Videoformate AI & Creative Tools: Einsatz von KI-Tools zur Erstellung von Videos, Bildern, Animationen, Texten und weiteren Medieninhalten Creative Experimentation: Ausprobieren neuer Tools, Technologien und Formate, um innovative Möglichkeiten der Content-Produktion zu entdecken Visual Storytelling: Entwicklung kreativer Konzepte, visueller Geschichten und neuer Wege, unsere Produkte und Features zu präsentieren Content Optimization: Analyse bestehender Inhalte und Weiterentwicklung von Formaten auf Basis ihrer Performance Creative Projects: Umsetzung eigener Ideen und kleiner Projekte rund um Medien, Design, Video und künstliche Intelligenz Qualifikation Interesse an Medienproduktion, Content Creation, Design und künstlicher Intelligenz Kreativität und ein gutes Gespür für visuelle Gestaltung und digitale Trends Spaß am Experimentieren mit neuen KI-Tools und Technologien Erste Erfahrungen mit Tools wie CapCut, Canva, Adobe Premiere Pro, Photoshop oder vergleichbaren Anwendungen sind von Vorteil, aber kein Muss Eigeninitiative und die Bereitschaft, neue Dinge auszuprobieren und selbstständig umzusetzen Gute Deutschkenntnisse Motivation, eigene Ideen einzubringen und kreative Lösungen zu entwickeln Benefits Hands-on-Erfahrung: Direkte Zusammenarbeit mit den Gründern und Einblicke in den Aufbau eines KI-Startups Creative Freedom: Raum für eigene Ideen, Experimente und die Umsetzung eigener Projekte Flexible Arbeitszeiten: Arbeite dann, wenn du am produktivsten bist 100 % Remote: Arbeite von überall auf der Welt Flexible Dauer: Teilzeit oder Vollzeit für bis zu 3 Monate Viel Verantwortung: Gestalte aktiv mit, wie wir neue Medienformate entwickeln und KLUUU präsentieren AI First: Die Möglichkeit, moderne KI-Tools kennenzulernen und kreativ in der Praxis einzusetzen Dein Content, deine Ideen: Setze eigene kreative Projekte um und sieh, wie deine Inhalte Menschen erreichen und unsere Marke mitgestalten. Bewirb dich jetzt! Du hast Lust, kreative Inhalte zu produ"
+  },
+  {
    "id": "ba_10001-1004018125-S",
    "queue": true,
    "missing_skills": [],
@@ -2358,34 +2386,6 @@
    "posted": "2026-11-12",
    "first_seen": "2026-11-12T14:38",
    "description": "15 Jahre Erfahrung, über 250 Mitarbeitende, ein Team - wir sind Horn & Company. Mit unserer langjährigen Expertise begleiten wir unsere Partner im Finanzdienstleistungssektor sowie in Industrie & Handel bei aktuellen Herausforderungen. Wir gehen den Dingen auf den Grund - von der Strategie bis zur Umsetzung. Wir beleuchten im Projekt das, WAS zu tun ist, aber auch, WIE es zu tun ist. So stellen wir einen messbaren Return on Consulting sicher. Wir suchen dich ab sofort als WerkstudentIn AI & Consulting Enablement (m/w/d) für unser Competence Center „Industry & Retail“ . Du arbeitest überwiegend remote und kannst alternativ an einem unserer deutschen Standorte tätig sein. Deine Aufgaben Du entwickelst und implementierst praxisnahe KI-Use Cases – von der ersten Idee bis zum produktiven Einsatz Du erstellst Prompts, Workflows und Automatisierungen mit modernen KI-Tools und testest deren Wirksamkeit Du unterstützt bei der Evaluierung neuer KI-Anwendungen sowie deren Integration in bestehende Arbeitsprozesse Du dokumentierst Best Practices und hilfst dabei, den Wissenstransfer innerhalb der Beratung sicherzustellen Du arbeitest eigenverantwortlich an innovativen Themen mit hoher Sichtbarkeit im Unternehmen Dein Profil Du befindest dich in den letzten Zügen deines Bachelorstudiums oder bereits innerhalb deines universitären Masterstudiums idealerweise in Wirtschaftsinformatik, Informatik, Data Science, Wirtschaftsingenieurwesen oder einem vergleichbaren Studiengang Du begeisterst dich für Generative AI, Large Language Models und moderne KI-Tools und verfolgst aktuelle Entwicklungen aktiv Du konntest im Rahmen von Praktika und Werkstudierenden-Tätigkeiten erste Einblicke in unsere Branche gewinnen Du weist fließende Deutsch- und Englischkenntnisse vor; darüber hinaus zeichnest du dich durch deine analytischen Fähigkeiten aus Die Potenzialentfaltung unserer BeraterInnen ist dabei der Schlüsselfaktor unseres Erfolgs : Vom Associate bis zum Partner entwickeln wir uns selbstbestimmt von Top-Talenten zu Top-Management-BeraterInnen. Wir übernehmen Verantwortung und unterstützen uns gegenseitig. Im Projekt, bei der Karriereentwicklung – aber auch weit darüber hinaus. Wir teilen unsere unterschiedlichen Perspektiven und unser Wissen – und wachsen im Ringen um die beste Kundenlösung über uns hinaus: Together we grow. Auf diese Benefits kannst du dich freuen Vom ersten Tag an begleitet dich ein/e KollegIn als „Buddy“ und steht als persönliche/r und fachliche/r AnsprechpartnerIn außerhalb des Projektes bei allen Fragen rund um das Werkstudium zur Verfügung Als Teil des Projektteams bist du nach Möglichkeit bei unseren Kunden vor Ort Quartalsweise stattfindende Consultant Days mit allen Mitarbeitenden sowie regelmäßige Team-Events an unseren Standorten fördern den gemeinsamen Austausch Im Rahmen der regelmäßig stattfinden Fellow und Werkstudierenden-Stammtische erhältst du zudem Gelegenheit, dich mit den Fellows der anderen Standorte auszutauschen Wir freuen uns auf"
-  },
-  {
-   "id": "an_intern-ai-data-transformation-parsdorf-bavaria-148601",
-   "queue": true,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Praktikum",
-   "track": "KI / Automatisierung",
-   "title": "Intern AI & Data Transformation",
-   "company": "isaraerospace",
-   "location": "Parsdorf, Bavaria",
-   "distance_km": 275.1,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "arbeitnow",
-   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/intern-ai-data-transformation-parsdorf-bavaria-148601",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-12",
-   "first_seen": "2026-11-12T12:10",
-   "description": "<p><strong><span data-contrast=\"none\">Mission Brief</span></strong><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:20,&quot;335559740&quot;:235}\">&nbsp;</span></p> <p><span data-contrast=\"none\">Isar Aerospace is building Spectrum, a European launch vehicle. As an Intern in Data Engineering, you help bring engineering, manufacturing, business and operations data into one place, connecting sources to our emerging warehouse, building reliable data models and delivering dashboards that support company decisions.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:90,&quot;335559740&quot;:265}\">&nbsp;</span></p> <p><strong><span data-contrast=\"none\">Your Role in Our Space Mission:</span></strong><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559738&quot;:60,&quot;335559739&quot;:10,&quot;335559740&quot;:235}\">&nbsp;</span></p> <ul> <li data-leveltext=\"·\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Connect data sources.</span></strong><span data-contrast=\"none\"> Integrate APIs, SaaS tools and databases into our warehouse using Python and dlt.</span><span data-ccp-props=\"{}\">&nbsp;</span></li> </ul> <ul> <li data-leveltext=\"·\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Build reliable pipelines.</span></strong><span data-contrast=\"none\"> Develop and maintain scheduled ELT/ETL pipelines, monitor data quality and troubleshoot failures.</span><span data-ccp-props=\"{}\">&nbsp;</span></li> </ul> <ul> <li data-leveltext=\"·\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Create trusted data models.</span></strong><span data-contrast=\"none\"> Clean and transform data with dbt into tested, documented models for team data products.</span><span data-ccp-props=\"{}\">&nbsp;</span></li> </ul> <ul> <l"
   },
   {
    "id": "li_4473653009",
@@ -8017,6 +8017,40 @@
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
   },
   {
+   "id": "li_4490106197",
+   "queue": false,
+   "missing_skills": [
+    "SAP",
+    "Microsoft-Stack"
+   ],
+   "nice_to_have_missing": [
+    "TypeScript",
+    "React"
+   ],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student SAP Engagement Cloud (f/m/d) – AI Product Builder for Product Brain",
+   "company": "SAP",
+   "location": "Walldorf",
+   "distance_km": 95.5,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "to help us rethink how Product Management operates in an AI-native world. Working directly with the Chief",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4490106197",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16T20:04",
+   "description": "Job Description What you bring You're a student ready to contribute alongside your studies. You're curious, adapt quickly, and stay resilient as priorities evolve. You think creatively, communicate clearly, and collaborate well across teams. You're building your foundations in business and AI — and you take initiative to apply them. You bring emotional intelligence and cultural awareness to every interaction. Currently enrolled in Computer Science, Business Informatics, Data Science, Software Engineering, or a related field A builder mindset — you enjoy creating working applications rather than just discussing ideas Practical experience with AI-assisted coding and the ability to independently develop software using modern AI tools Interest in generative AI, LLMs, AI agents, and emerging development approaches Strong product thinking — you care about solving actual user problems, not just implementing technical features Curiosity, initiative, and the confidence to experiment with unfamiliar technologies Very good English communication skills, both written and spoken You don’t need to be an expert in every technology. We care more about your ability to learn quickly, experiment, build, and deliver meaningful results. Experience with Python, TypeScript, React, vector databases, or LLM APIs is a plus. What You’ll Build You'll work on real deliverables, not shadow tasks. Your contributions connect directly to your team's goals. You'll leave with a portfolio of SAP work you can build on. We are looking for a curious, entrepreneurial, and hands-on working student to help us rethink how Product Management operates in an AI-native world. Working directly with the Chief Product Officer and our cross-PM team at SAP Engagement Cloud, you will help design and build Product Brain — an AI-powered intelligence platform that connects product knowledge, decisions, customer insights, strategy, and execution. This is not a traditional working student position. We want you to build things. Develop an AI-powered application connecting information across Jira, Confluence, Slack, SharePoint, and other sources — enabling natural-language discovery of product knowledge, decisions, and customer feedback Prototype AI-native PM workflows for product research, planning, decision support, and stakeholder communication using rapid prototyping and vibe coding Use AI-assisted development tools (Claude Code, Cursor, Codex) to turn ideas into working applications — across frontend, backend, APIs, and AI services Own the full cycle from initial idea through implementation and user validation with ~40 product managers across four locations Where you belong As a working student you will be part of SAP Next Gen, a global network of students and early professionals growing together. You'll access mentors, development programmes, and peers building careers alongside you. It's a place to start something real. SAP Engagement Cloud is part of SAP Customer Experience (CX). We are ~40 product"
+  },
+  {
    "id": "li_4490757007",
    "queue": false,
    "missing_skills": [
@@ -9389,34 +9423,6 @@
    "posted": "2026-10-15",
    "first_seen": "2026-11-13T00:47",
    "description": "Über Edurino EDURINO verbindet digitale Lernwelten mit haptischen Spielfiguren und bereitet Kinder von 3-8 Jahren auf die Zukunft vor. Wir erzielen bereits einen zweistelligen Millionenumsatz, sind in DACH und UK aktiv und haben eine 17-Mio € Series-B abgeschlossen. Unser nächster Meilenstein: nachhaltiges Wachstum. Wir sind ein Team von rund 50 mit hohem Anspruch – Ownership, Speed und KI im Arbeitsalltag sind bei uns Standard, nicht Bonus. Deine Mission Unser Shop-Team bringt übers Jahr eine Kampagne nach der anderen in den Shop, von Seasonal Deals bis Weihnachten, für DACH und UK. Damit das schnell und verlässlich klappt, suchen wir dich als Verstärkung. Du berichtest an unsere Campaign Managerin und arbeitest eng mit unserer Shopify Managerin, unserer Shopify-Agentur, Marketing und Design. Die Rolle ist sehr hands-on und du kannst Schritt für Schritt deinen Einfluss erweitern. Shop-Alltag verantworten: Du setzt Kampagnen operativ in Shopify auf und hältst Produktseiten, Inhalte und Designs aktuell. Shop-Copy schreiben: Mit und ohne KI erstellst und verbesserst du Produktbeschreibungen, Landingpages und Meta-Descriptions, bis sie für Kund:innen und Suchmaschinen funktionieren. Kampagnen umsetzen: Du bringst Seasonal Deals wie BFCM und Weihnachtsaktionen in den DACH- und UK-Shop. Daten auswerten: Du unterstützt bei der Beobachtung von Traffic, Conversion und Umsatz unserer Kampagnen, baust und pflegst einfache Reports und schlägst proaktiv Verbesserungen vor. Team unterstützen: Du stimmst dich mit Marketing, Design und anderen Teams ab und übernimmst kurzfristige Anfragen aus dem Shop-Team. What Success Looks Like Nach der Einarbeitung erledigst du Shop-Updates und Copy-Aufgaben eigenständig, und Anfragen landen bei dir, weil sie dort schnell und verlässlich erledigt werden. Langfristig kannst du eigene Shop-Bereiche komplett verantworten, etwa SEO-Copy oder Kampagnen-Setups, und treibst Verbesserungen voran, die sich in den Shop-KPIs zeigen. Are you a match? Das bringst du mit Feeling für Commercial Brands: Du verstehst unsere Brand-Identity, die Zielgruppe und kannst Texte und Landingpages daran ausrichten. Affinität für Zahlen und Daten: Du willst wissen, warum Seiten konvertieren, und liebst schnelle Iterationen. Du nutzt KI-Tools selbstverständlich im (Arbeits-)Alltag und prüfst den Output kritisch, bevor er live geht. Du bist an einer Universität immatrikuliert und mindestens im 3. Bachelorsemester oder im Master (BWL, Marketing oder verwandte Richtungen). Du bist mindestens 15 Stunden pro Woche verfügbar. Idealerweise an festen Tagen oder flexibler Planung mit mindestens zwei Wochen Vorlauf. Du beherrschst Deutsch auf C2-Niveau, sprichst sehr gutes Englisch (C1) und kommunizierst proaktiv in einem interkulturellen Team. Extrapunkte, wenn.. …du schon mit Shopify gearbeitet hast. …du als Werkstudent:in oder im Praktikum Erfahrung im E-Commerce oder Online Marketing gesammelt hast. …du regelmäßig in unser Münchner Office kommen kannst. Ehrl"
-  },
-  {
-   "id": "an_werkstudent-karriereberatung-coaching-und-marketing-dusseldorf-265164",
-   "queue": false,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "not_interested",
-   "stars": 4,
-   "ai_focus": false,
-   "type": "Werkstudent",
-   "track": "Web / Shop / SEO",
-   "title": "Werkstudent (m/w/d) - Karriereberatung, Coaching und Marketing",
-   "company": "select if Personalberatung",
-   "location": "Düsseldorf",
-   "distance_km": 314.2,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "arbeitnow",
-   "url": "https://www.arbeitnow.com/jobs/companies/select-if-personalberatung/werkstudent-karriereberatung-coaching-und-marketing-dusseldorf-265164",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-09",
-   "first_seen": "2026-11-09T13:31",
-   "description": "Karriereservice,de steht für professionelle Karriereberatung, nachhaltiges Outplacement und praxisorientierte Führungstrainings. Unsere Kunden – von Privatpersonen über Wirtschaftsunternehmen bis hin zu Hochschulen – profitieren von einem vielseitigen Leistungsportfolio: Seminare, Webinare und Coachings, ergänzt durch individuelle Services wie die Entwicklung und Moderation von Assessment Centern sowie gezielte Outplacement-Begleitung. Zur Unterstützung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt eine/n Werkstudent (m/w/d) - Karriereberatung, Coaching und Marketing Arbeitsort: Du unterstützt unser Team, aus dem Homeoffice, regelmäßig vor Ort in unseren Büros in Kaarst oder Düsseldorf und bei gemeinsamen Außenterminen. Start & Dauer: Gerne ab sofort. Wir wünschen uns eine langfristige Zusammenarbeit, in der Du Dich einbringen, weiterentwickeln und mit uns wachsen kannst. Aufgaben Lust auf ein modernes Arbeitsumfeld mit einem offenen Team? Bei uns kannst Du richtig was bewegen – das sind Deine Aufgaben: Du arbeitest aktiv an der Konzeptionierung von kundenspezifischen Führungstrainings mit (Erarbeitung von didaktischen Konzepten, Präsensationen, Übungen) Du machst unseren Karriereblog zur ersten Anlaufstelle für Berufseinsteiger*innen und Aufsteige*rinnen: Mit Themen, die bewegen, und Texten, die hängen bleiben. Dies wird in den nächsten Monaten zu Deinen festen Aufgaben gehören. (noch ist der Blog im Aufbau und nicht sichtbar). Du tauchst tief in aktuelle Trends ein, führst Benchmarks durch und hilfst mit, neue Angebote zu entwickeln, die unsere Kundschaft begeistert. Hierbei arbeitest Du eng mit den Kolleg*innen zusammen. Website, LinkedIn, Instagram? Du gestaltest mit und sorgst dafür, dass unser digitales Gesicht genauso stark ist wie unsere Inhalte. Hierbei kannst Du Deine Ideen einbringen und verwirklichen. Du erstellst und optimierst Bewerbungsunterlagen im Kundenauftrag und arbeitest hierbei mit den Kolleg*innen zusammen. Du wirkst bei Potenzialanalysen, Trainings und Coachings mit – lernst dabei jede Menge über Methoden, Persönlichkeitsprofile und wie man Entwicklung richtig begleitet. Unser Team unterstützt Du in vielfältigen administrativen Aufgaben, wie Korrespondenz, Terminplanung, vorbereitende Buchhaltung und vielem mehr. Qualifikation Du absolvierst einen kaufmännischen Studiengang wie z. B. Wirtschaftswissenschaften oder Wirtschaftspsychologie und bist interessiert an dem Thema Personalentwicklung, Coaching und Marketing. Außerdem bringst Du folgende Kenntnisse und Fähigkeiten mit: Du überzeugst uns mit Deiner offenen und sympathischen Persönlichkeit. An Dein vielseitiges Aufgabengebiet gehst Du motiviert und zielstrebig heran. Zudem besitzt Du ein gutes Organisationstalent. Du bringst eine hohe Begeisterungs- und Lernfähigkeit mit und arbeitest Dich selbständig in neue Themen ein. Der Umgang mit KI ist Dir nicht fremd – Du nutzt sie, um Inhalte effizient zu erstellen, Aufgaben smart zu lösen und kreative Prozesse zu unt"
   },
   {
    "id": "li_4488135620",

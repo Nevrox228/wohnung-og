@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-16T19:34",
+ "generated": "2026-11-16T20:29",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 847,
+ "count": 846,
  "items": [
   {
    "id": "marina:ka_3413781992",
@@ -15719,9 +15719,7 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569012241-107-8088"
-   ],
+   "also_urls": [],
    "person": "mykyta"
   },
   {
@@ -80928,160 +80926,6 @@
     "best": "транспорт",
     "min": 70,
     "changes": 0
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/tchibo-job-im-supermarkt-minijob-aushilfe-nebenjob/3569012241-107-8088"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3568940403",
-   "src": "Kleinanzeigen",
-   "title": "Job als Reinigungskraft in Ortenberg, Baden (Ortenberg)",
-   "firma": "my-perfect-job.de",
-   "ort": "Ortenberg",
-   "plz": "77799",
-   "street": "",
-   "lat": 48.4494408,
-   "lon": 7.9720423,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/job-als-reinigungskraft-in-ortenberg-baden-ortenberg-/3568940403-107-9030",
-   "posted": "2026-11-12",
-   "posted_time": "08:10",
-   "desc": "Job als Reinigungskraft in Ortenberg, Baden Württemberg – 14 € /Std. JETZT BEWERBEN unter https://putzperle.de/de/jobs/6257316?utm_source=ebay ___________________________________________ **Reinigungskraft (m/w/d) gesucht** -> 77799 Ortenberg, Baden Württemberg -> Privathaushalt -> Stundenlohn: 16 € EUR -> Teilzeit __________________ Interessiert? Alle Infos zu Aufgaben und Arbeitszeiten finden Sie unter: https://putzperle.de/de/jobs/6257316?utm_source=ebay Tipp: Diesen Link einfach kopieren und im Browser suchen ___________________________________________ **Warum Putzperle.de die beste Wahl ist für einen Zusatzverdienst:** -> Schnell passende Jobs in Ihrer Nähe finden -> Sie entscheiden, welche Jobs Sie annehmen -> Ihre Arbeit, Ihr Lohn – zu 100 % __________________",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 12.2,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-12T08:05",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 48,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 0,
-      "end_stop": "Ortenberg Schloß/Freudental",
-      "dep": "06:32",
-      "arr": "07:21",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7134",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Ortenberg Schloß/Freudental",
-        "dep": "07:10",
-        "arr": "07:21",
-        "wait": 11,
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 80,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 54,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:41",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:41",
-        "min": 54
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 80
-     },
-     {
-      "kind": "велосипед",
-      "min": 80,
-      "changes": 0,
-      "km": 19.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 80
-       }
-      ],
-      "risky": false,
-      "score": 140
-     }
-    ],
-    "best": "транспорт",
-    "min": 48,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
