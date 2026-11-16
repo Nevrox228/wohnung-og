@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T14:10",
+ "generated": "2026-11-16T15:03",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,8 +13,8 @@
   ]
  },
  "counts": {
-  "all": 477,
-  "queue": 197,
+  "all": 479,
+  "queue": 198,
   "ai_focus": 249
  },
  "jobs": [
@@ -5369,6 +5369,34 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "an_werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-462160",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote möglich, 10–20 Std./Woche",
+   "company": "F& | Focus & Flow GmbH",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-462160",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16T14:40",
+   "description": "Wer wir sind F& | FOCUS & FLOW ist ein Beratungs-Hub für Transformation und Prozessverbesserung. Wir arbeiten vor allem mit Unternehmen aus dem produzierenden Mittelstand: mit Geschäftsführer:innen und Führungsteams, die ihre Organisation wirksamer aufstellen wollen, ohne sich im Methoden-Dschungel zu verlieren. Daraus entwickeln wir Beratungsprodukte, Trainings und Workshops, vor Ort und virtuell. Unser Anspruch dabei ist, Wirtschaftlichkeit und Gemeinwohl zusammenzudenken. Unser Team ist klein, die Wege sind kurz. Wer bei uns mitarbeitet, sieht schnell, was die eigene Arbeit bewirkt. Aufgaben WAS DICH BEI UNS ERWARTET: Im Mittelpunkt steht die LinkedIn-Präsenz unseres Geschäftsführers. Er ist das Gesicht von FOCUS & FLOW und für viele unserer Kund:innen der erste Berührungspunkt mit uns. Deine Aufgabe ist es, diese Präsenz mit ihm gemeinsam aufzubauen und weiterzuentwickeln. Du schreibst LinkedIn-Beiträge in seiner Stimme. Dafür lernst du, wie er denkt, argumentiert und formuliert, und triffst seine Tonalität so, dass seine Beiträge nach ihm klingen und nicht nach Marketing. Du entwickelst mit ihm Themen und Formate, planst die Veröffentlichungen und hältst den Redaktionsplan am Laufen. Du baust sein Netzwerk strategisch aus: Du identifizierst relevante Entscheider:innen aus dem Mittelstand, bereitest Vernetzungen vor und behältst im Blick, wer auf seine Inhalte reagiert. Interessante Kontakte übergibst du strukturiert an unser Pre-Sales-Team und stimmst dich eng mit den Kolleg:innen ab. So wird aus Reichweite echtes Geschäft. Du wertest aus, welche Inhalte funktionieren, und leitest daraus Verbesserungen ab. Daneben unterstützt du bei der Unternehmensseite, erstellst Grafiken, Karussells und kurze Videos und arbeitest an Landingpages und Website-Inhalten mit, inklusive Optimierung für Suchmaschinen (SEO) und KI-gestützte Suchsysteme wie ChatGPT, Perplexity oder Google AI Overviews (GEO). Qualifikation WAS DU MITBRINGST: Du bist an einer Hochschule eingeschrieben, ab dem 3. Semester oder im Master, idealerweise in Marketing, Kommunikations- oder Medienwissenschaften, Journalismus, Germanistik, Wirtschaftspsychologie oder einem vergleichbaren Fach. Du schreibst richtig gut. Du kannst dich in andere Menschen hineindenken und ihre Sprache treffen, statt überall deinen eigenen Stil durchzuziehen. Du hast erste Erfahrung mit Copywriting oder Content-Erstellung, ob im Praktikum, im Studium, für einen eigenen Kanal oder im Ehrenamt. LinkedIn kennst du nicht nur als Nutzer:in, sondern hast ein Gespür dafür, was dort im B2B-Bereich funktioniert. Du interessierst dich für Unternehmen und Wirtschaftsthemen und hast keine Scheu, mit Geschäftsführer:innen auf Augenhöhe zu kommunizieren. Du gehst vertraulich mit Informationen um und arbeitest selbstständig und verlässlich. Tools wie Canva, CapCut oder Kenntnisse in SEO/GEO sind ein Plus, aber kein Muss. Benefits WAS WIR DIR BIETEN: 10 bis 20 Stunden pro Woche, flexibel um Vorlesungen und Prüfungsphasen herum"
   },
   {
    "id": "li_4489748340",
@@ -13136,6 +13164,34 @@
    "posted": "2026-11-06",
    "first_seen": "2026-11-04T12:29",
    "description": "SMIGHT GmbH Werkstudent:in Marketing (m/w/d) Karlsruhe Branche Wirtschaft; Kommunikation, Medien; BWL; Marketing Art Des Angebots Werkstudent / Job Fachrichtungen Marketing; Betriebswirtschaftslehre Die vollständige Anzeige finden Sie beim Klick auf den Onlinebewerbungs-Button oder unter folgendem Link: https://jobs.jobware.net/Studentenjob/064451236?jw_chl_seg=NLINKEDIN"
+  },
+  {
+   "id": "ba_10001-1004020305-S",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 1,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent*in Social Media und Digital Marketing (m/w/d)",
+   "company": "DIE GYN-PRAXIS MVZ GmbH",
+   "location": "Alzey",
+   "distance_km": 135.0,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004020305-S",
+   "apply_url": "",
+   "apply_email": "bewerbung@diegyn-praxis.de",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-16T14:40",
+   "description": "DIE GYN-PRAXIS MVZ GmbH ist ein familiengeführtes Unternehmen mit über 30 Jahren Erfahrung im Bereich Frauengesundheit. An acht Standorten in Rheinland-Pfalz und Hessen bieten wir moderne medizinische Versorgung mit Schwerpunkten wie: - ambulante Chemotherapie - Postpartales Beckenbodenzentrum - Brustsprechstunde - Dysplasiesprechstunde - Pränataldiagnostik - eigenes zytologisches Labor Was uns auszeichnet: - moderne Technik - flache Hierarchien - familiäres und positives Miteinander ### Das bieten wir Dir - 30 Urlaubstage (auch für Werkstudent\\*innen!) - Homeoffice nach Absprache - flexible Arbeitszeiten, die sich gut mit Deinem Studium vereinbaren lassen - Arbeit in einem regionalen und familiären Unternehmen - interne & externe Weiterbildungsmöglichkeiten - faire und gute Bezahlung - Raum für Deine Ideen: Bei uns setzt Du eigene Projekte um ### Deine Aufgaben - Du wirst Teil unseres kleinen, kreativen, Marketing-Teams und unterstützt uns dabei, unsere digitalen Kanäle lebendig, informativ und authentisch zu gestalten - Planung, Erstellung und Veröffentlichung von Social Media Beiträgen, Reels & Stories (Instagram, perspektivisch auch LinkedIn) - Dreh und Schnitt von Reels, z.B. mit Capcut - Weiterentwicklung unserer Instagram-Formate rundum Frauengesundheit - Beschaffung & Bearbeitung von Bild- und Videomaterial - Verfassen redaktioneller Texte für unsere Website, Flyer und Informationsmaterialien - Entwicklung kreativer Formate & Social-Media-Kampagnen - Analyse & Auswertung von Kampagnen-Performance - Pflege & Weiterentwicklung der Website - Gestaltung von Grafiken & Printmaterialien mit Canva - Organisation und Begleitung von Veranstaltungen, Kongressen & Messen, auch für Social Media - Wettbewerbsanalyse & Trend-Recherche im digitalen Bereich ### Dein Profil - Du bist eingeschriebene\\*r Student\\*in im Bereich Marketing, Kommunikation, Medien, Design oder einem vergleichbaren Studiengang - Du hast sehr gute Deutschkentnisse in Wort und Schrift und schreibst gerne und stilsicher - Du kennst Dich sicher mit MS Office aus und hast Erfahrung mit Canva - Du hast ein gutes Gespür für Gestaltung, Typografie und Bildsprache - Du hast erste Erfahrung im Schneiden von Reels und Videos - Social Media ist Dein Zuhause – Du weißt, wie digitale Kommunikation funktioniert - Du hast ein Auge für Fotos & Videos und Lust, Storytelling auszuprobieren - Du interessierst Dich für Gesundheitsthemen und gehst sensibel mit ihnen um - Du bist zuverlässig, kreativ und hast Spaß daran, Dinge selbst in die Hand zu nehmen ### Neugierig geworden? Dann freuen wir uns auf Deine Bewerbung mit kurzem Motivationsschreiben, Lebenslauf und – falls vorhanden – gerne Arbeitsproben, z.B. Social-Media-Beiträge, Reels und Grafiken, an: [bewerbung@diegyn-praxis.de ](mailto:bewerbung@diegyn-praxis.de)"
   },
   {
    "id": "li_4491260341",
