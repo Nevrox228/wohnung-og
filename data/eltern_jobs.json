@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-16T18:36",
+ "generated": "2026-11-16T19:34",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 848,
+ "count": 847,
  "items": [
   {
    "id": "marina:ka_3413781992",
@@ -5372,6 +5372,168 @@
     ],
     "best": "транспорт",
     "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3376769243",
+   "src": "Kleinanzeigen",
+   "title": "Werde jetzt Paketzusteller(m/w/d) bei Master Class mit überdurchschnittlichem...",
+   "firma": "Master Class GmbH",
+   "ort": "Offenburg",
+   "plz": "77654",
+   "street": "",
+   "lat": 48.4755964,
+   "lon": 7.9828459,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/paketzusteller-in-tz-m-w-d-start-14-00-uhr/3376769243-247-9038",
+   "posted": null,
+   "posted_time": null,
+   "desc": "Werde jetzt Paketzusteller(m/w/d) bei Master Class mit überdurchschnittlichem Gehalt Teilzeit: 32h pro Woche Zur Stelle *********** - Auslieferung von Paketen und Briefen für die Deutsche Post (Gewicht: leicht bis sehr leicht) - feste Tour, gleiche Stopps jeden Tag (ca 20 Stopps) - Arbeitsbeginn in Offenburg - Einsatzort rund um Offenburg - Elektro Fahrzeug der neusten Generation - genaue und zuverlässige Abrechnung durch exakte Arbeitszeiterfassung - Arbeitsfahrzeug, Arbeitshandy und Arbeitskleidung werden gestellt Bewerberprofil **************** - Führerschein Kl. B seit mehr als 3 Jahren wünschenswert - Erfahrung in der KEP Branche empfehlenswert - Deutschkenntnisse - Körperliche Fitness Wenn Sie sich für diese Stelle interessieren, kontaktieren Sie uns über WhatsApp oder Telegram: +49 15201488811 deutsch, englisch & russisch +49 17630025684 deutsch, arabisch & französisch Es werden nur Bewerbungen mit passendem Bewerberprofil beantwortet. Wir freuen uns auf Ihre Bewerbung! *Gehaltsangaben sind brutto*",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 9.6,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Доставка / переезды",
+   "first_seen": "2026-11-16T10:06",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 1,
+      "min_wait": 16,
+      "walk_end": 4,
+      "end_stop": "Zell-Weierbach Abtsberghalle",
+      "dep": "06:32",
+      "arr": "07:31",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Offenburg",
+        "line": "S1",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Zell-Weierbach Abtsberghalle",
+        "dep": "07:15",
+        "arr": "07:28",
+        "wait": 16,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Zell-Weierbach Abtsberghalle",
+        "to": "работа",
+        "dep": "07:28",
+        "arr": "07:31",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 68,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 42,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:29",
+        "min": 42
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 68
+     },
+     {
+      "kind": "велосипед",
+      "min": 66,
+      "changes": 0,
+      "km": 16.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 66
+       }
+      ],
+      "risky": false,
+      "score": 112
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
     "changes": 1
    },
    "status": "open",
@@ -63363,168 +63525,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ka_3559424362",
-   "src": "Kleinanzeigen",
-   "title": "Kommissionierer (m/w/d) Marburg",
-   "firma": "TimePartner Personalmanagement GmbH",
-   "ort": "Offenburg",
-   "plz": "77656",
-   "street": "",
-   "lat": 48.4594035,
-   "lon": 7.9234795,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-marburg/3559424362-247-9039",
-   "posted": "2026-11-02",
-   "posted_time": null,
-   "desc": "TimePartner Personalmanagement GmbH sucht: Kommissionierer (m/w/d) Marburg JETZT BEWERBEN unter https://www.timepartner.com/jobboerse/job/102026271133?utm_source=kleinanzeigen&timepartner_medium=timepartner&timepartner_source=kleinanzeigen ___________________________________________ Als Kommissionierer (m/w/d) im Raum Marburg stellst Du Waren zuverlässig zusammen und machst sie für den anschließenden Versand bereit. Sorgfalt, zügiges Arbeiten und ein sicherer Umgang mit der Warenkommissionierung bilden dabei den Schwerpunkt. -> Du kommissionierst Waren gemäß den Aufträgen vollständig und ohne Fehler. -> Zu Deinen täglichen Tätigkeiten zählt es, die Sendungen für die folgenden Bearbeitungsschritte vorzubereiten. -> Du überprüfst Positionen, Stückzahlen und Artikel sorgfältig, damit die Waren korrekt zusammengestellt weitergegeben werden. -> Durch Deine organisierte Arbeitsweise gewährleistest Du langfristig Ordnung und eine klare Übersicht an Deinem Arbeitsplatz. -> Im Raum Marburg arbeitest Du in einer klar strukturierten Umgebung mit festgelegten Abläufen. -> Die Position als Kommissionierer (m/w/d) in Neustadt (Hessen) bietet Dir einen unmittelbaren Einstieg in den Lagerbereich sowie vielseitige Aufgaben. -> Zusammen mit Deinem Team stellst Du eine schnelle und zuverlässige Bearbeitung aller Aufträge sicher. __________________ Für die Tätigkeit als Kommissionierer (m/w/d) passt Du besonders gut, wenn Du zuverlässig und konzentriert arbeitest und praktische Aufgaben gerne übernimmst. Wichtig sind ein sicherer Umgang mit vorgegebenen Abläufen sowie Deine Bereitschaft, das Team tatkräftig zu unterstützen. -> Du verfügst über Deutschkenntnisse auf mindestens B1-Niveau und kannst dadurch Arbeitsanweisungen sowie Prozesse sicher nachvollziehen. -> Erfahrungen in der Warenkommissionierung sind von Vorteil, für den Einstieg im Raum Marburg jedoch keine Voraussetzung. -> Du arbeitest sorgfältig und dabei trotzdem schnell. -> Dank Deiner Teamfähigkeit und Zuverlässigkeit findest Du Dich im Arbeitsalltag rasch zurecht. -> Das Arbeiten im 3-Schicht-System lässt sich für Dich gut in Deinen Alltag einplanen. -> Die genannte Arbeitszeit und das Schichtmodell passen zu Deinen Vorstellungen, und Du bist bereit, Dich darauf einzustellen. -> Du gehst verantwortungsbewusst mit Waren und Arbeitsmitteln um. __________________ Freu Dich auf einen fairen Einstieg mit transparenten Rahmenbedingungen, eindeutig geregelten Abläufen und einem Arbeitsumfeld, in dem Du Dich rasch zurechtfindest. Neben Deinem Stundenlohn erwarten Dich weitere Vorteile, die diese Tätigkeit im Raum Marburg besonders attraktiv machen. -> Attraktive Vergütung von bis zu 15,67 € pro Stunde. -> Gute Übernahmechancen bei überzeugenden Leistungen und zuverlässigem Einsatz. -> Kollegiales und hilfsbereites Team, das Dich während der Einarbeitung begleitet. -> Persönliche Betreuung, die individuell auf Dich abgestimmt ist und Dich während des gesamten Einsatzes unterstützt. -> Corporate Benefits mit zusätzlichen Rabatten für Deinen Alltag. -> Tarifvertragliche Bezahlung als verlässliche Basis Deiner Beschäftigung. -> Strukturierte Einarbeitung durch ein unterstützendes Team. __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: https://www.timepartner.com/jobboerse/job/102026271133?utm_source=kleinanzeigen&timepartner_medium=timepartner&timepartner_source=kleinanzeigen ___________________________________________",
-   "zeit": "",
-   "who": "mykyta",
-   "approx": true,
-   "km": 14.1,
-   "de": "нужен",
-   "de_txt": "Du verfügst über Deutschkenntnisse auf mindestens B1-Niveau und kannst dadurch Arbeitsanweisungen sowie Prozesse sicher nachvollziehen.",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 50,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 4,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:49",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:49",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 53
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 65,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 39,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:38",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:38",
-        "min": 39
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 65
-     },
-     {
-      "kind": "велосипед",
-      "min": 83,
-      "changes": 0,
-      "km": 20.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 83
-       }
-      ],
-      "risky": false,
-      "score": 146
-     }
-    ],
-    "best": "транспорт",
-    "min": 50,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ka_3514130588",
    "src": "Kleinanzeigen",
    "title": "Montagehelfer (m/w/d) bei Grohe | Lahr | Vollzeit | Adecco | Job",
@@ -68064,168 +68064,6 @@
     "best": "транспорт",
     "min": 99,
     "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ka_3568104132",
-   "src": "Kleinanzeigen",
-   "title": "Zusteller! Samstagszustellung in Offenburg & Umgebung",
-   "firma": "Joblicant GmbH",
-   "ort": "Offenburg",
-   "plz": "77654",
-   "street": "",
-   "lat": 48.4755964,
-   "lon": 7.9828459,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-offenburg-umgebung/3568104132-107-9038",
-   "posted": "2026-11-11",
-   "posted_time": null,
-   "desc": "⚡️Jetzt in 2 Minuten online und ohne Unterlagen direkt bei STAZ + GULLER Vertriebsgesellschaft mbH bewerben! Verdient euch euer erstes Taschengeld direkt vor der Haustür! Am Samstagmorgen - für maximal zwei Stunden - flexibel einteilbar! ✅ Klick einfach auf den Bewerben-Button auf der rechten Seite oder kopiere den folgenden Link in deine Browser-Adresszeile: https://jobli.me/ntsctvniuc Für die zuverlässige Zustellung unserer Wochenendzeitung DER GULLER suchen wir engagierte Zusteller auf Basis einer gerinfügigen Beschäftigung. Was wir Ihnen bieten: ● Attraktiver Nebenverdienst mit leistungsorientierter Vergütung (Minijob) ● Bezahlten Urlaub ● Eigenständiges Arbeiten an der frischen Luft ● Anlieferung der Zeitungen direkt nach Hause oder an eine zentrale Ablagestelle ● Ein Zustellgebiet in Wohnortnähe – keine (lange) Anfahrt ● Zustellung von der Wochenendzeitung unter Einsatz geeigneter Hilfsmittel wie Handrollwagen, Bollerwagen oder Fahrradtaschen ● Es sind keine Vorkenntnisse erforderlich! ● Wir freuen uns auf ein persönliches Kennenlernen und ein offenes Gespräch – ganz ohne Verpflichtungen ● Eine faire Bezahlung: ca. 80€/Monat Das bringen Sie mit: ● Zuverlässigkeit und Verantwortungsbewusstsein ● Gute Ortskenntnisse von Vorteil ● Die Vergütung erfolgt im Rahmen einer vertraglich geregelten geringfügigen Beschäftigung und richtet sich nach dem tatsächlichen Zustellumfang. Jetzt bewerben und Teil unseres Teams werden! ✅ Bewirb dich direkt online: Auf dem Bewerben-Button oder unter https://jobli.me/ntsctvniuc",
-   "zeit": "",
-   "who": "mykyta",
-   "approx": true,
-   "km": 9.6,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Доставка / переезды",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 59,
-      "changes": 1,
-      "min_wait": 16,
-      "walk_end": 4,
-      "end_stop": "Zell-Weierbach Abtsberghalle",
-      "dep": "06:32",
-      "arr": "07:31",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Offenburg",
-        "line": "S1",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Zell-Weierbach Abtsberghalle",
-        "dep": "07:15",
-        "arr": "07:28",
-        "wait": 16,
-        "min": 13
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Zell-Weierbach Abtsberghalle",
-        "to": "работа",
-        "dep": "07:28",
-        "arr": "07:31",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 68,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 42,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:29",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:29",
-        "min": 42
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 68
-     },
-     {
-      "kind": "велосипед",
-      "min": 66,
-      "changes": 0,
-      "km": 16.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 66
-       }
-      ],
-      "risky": false,
-      "score": 112
-     }
-    ],
-    "best": "транспорт",
-    "min": 59,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -80643,247 +80481,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-a8171d18-ad12-4e16--S",
     "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-17-bis-21-30-uhr-m-w-d-/3569973789-109-8667"
    ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ka_3569126603",
-   "src": "Kleinanzeigen",
-   "title": "Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15...",
-   "firma": "Stepstone",
-   "ort": "Seelbach",
-   "plz": "77960",
-   "street": "",
-   "lat": 48.3049855,
-   "lon": 7.9427212,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-lagermitarbeiter-kommissionierer-m-w-d-ab-15-/3569126603-247-8037",
-   "posted": "2026-11-12",
-   "posted_time": "11:51",
-   "desc": "Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15... bei Tempton Personaldienstleistungen GmbH HIER BEWERBEN: https://www.stepstone.de/job/14727325/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std. Wir suchen ab sofort motivierte Unterstützung als Lagerhelfer - Lagermitarbeiter - Kommissionierer (m/w/d) ab 15,50€ / Std. Wenn Sie flexibel sind, gerne Verantwortung übernehmen und in einem abwechslungsreichen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben Ihre täglichen Aufgaben: ● Zusammenstellung von Waren gemäß Auftrag ● Überwachung und Optimierung der Lagerbestände ● Einlagern von Waren ● Durchführung von Bestandsprüfungen und - abgleichen ● Versorgung der Produktionsbereiche mit Material ● Durchführung interner Transporte Profil Das bringen Sie mit: ● Erfahrung im Lager aber Quereinsteiger sind herzlich Willkommen ● Staplerschein ist wünschenswert ● PKW-Führerschein von Vorteil, da der Kunde mit den öffentlichen Verkehrsmitteln nicht erreichbar ist ● Team- und Kommunikationsfähigkeit ● gute Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton ● unbefristetes Arbeitsverhältnis ● übertarifliche Bezahlung ● tarifliche Zuschläge für Überstunden, Nachtschicht, Sonn- und Feiertagsarbeit ● bis zu 30 Tage Urlaub (je nach Betriebszugehörigkeit) ● Urlaubs- und Weihnachtsgeld ● Zuschüsse zur betrieblichen Altersvorsorge ● attraktive Mitarbeiterrabatte bis zu 85 % auf namhafte Produkte ● volle Lohnauszahlung zum 15. Bankarbeitstag des Monats mit der Option auf feste Abschlagszahlungen zum 01. des Monats ● kostenfreie arbeitsmedizinische Vorsorgeuntersuchung ● kostenfreie Stellung von Arbeitsschutzkleidung KLED1_DE",
-   "zeit": "",
-   "who": "marina",
-   "approx": true,
-   "km": 27.2,
-   "de": "нужен",
-   "de_txt": "gute Deutschkenntnisse Wir bieten Diese Vorteile erwarten Sie bei Tempton",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-12T12:10",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 100,
-      "changes": 2,
-      "min_wait": 14,
-      "walk_end": 3,
-      "end_stop": "Seelbach Dautenstein",
-      "dep": "06:59",
-      "arr": "08:39",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE7",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "07:40",
-        "arr": "07:51",
-        "wait": 14,
-        "min": 11
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "106",
-        "from": "Lahr (Schwarzw)",
-        "to": "Seelbach Dautenstein",
-        "dep": "08:06",
-        "arr": "08:37",
-        "wait": 15,
-        "min": 31
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Seelbach Dautenstein",
-        "to": "работа",
-        "dep": "08:37",
-        "arr": "08:39",
-        "min": 3
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 106
-     },
-     {
-      "kind": "как в приложении",
-      "min": 89,
-      "changes": 2,
-      "min_wait": 4,
-      "walk_end": 3,
-      "end_stop": "Seelbach Dautenstein",
-      "dep": "05:21",
-      "arr": "06:50",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB27",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "05:52",
-        "arr": "06:03",
-        "wait": 4,
-        "min": 11
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "106",
-        "from": "Lahr (Schwarzw)",
-        "to": "Seelbach Dautenstein",
-        "dep": "06:19",
-        "arr": "06:48",
-        "wait": 16,
-        "min": 29
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Seelbach Dautenstein",
-        "to": "работа",
-        "dep": "06:48",
-        "arr": "06:50",
-        "min": 3
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 107
-     },
-     {
-      "kind": "велосипед",
-      "min": 180,
-      "changes": 0,
-      "km": 44.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 180
-       }
-      ],
-      "risky": false,
-      "score": 340
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 340,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 314,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "19:36",
-      "arr": "01:16",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "19:36",
-        "arr": "19:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "19:47",
-        "arr": "20:03",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "20:03",
-        "arr": "01:16",
-        "min": 314
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 340
-     }
-    ],
-    "best": "транспорт",
-    "min": 100,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "Марина"
   },
   {
@@ -94174,7 +93771,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-minijob-morgens-in-buehl/3515073469-107-8746"
+   ],
    "person": "Марина"
   },
   {
@@ -112795,6 +112394,167 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14471-FR25WMJEZ94S10AO-S"
    ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_11849-P2189037-1-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "firma": "Trenkwalder Personaldienste GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.496649515,
+   "lon": 7.936409392,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11849-P2189037-1-S",
+   "posted": "2026-09-22",
+   "desc": "Als einer der größten Personaldienstleister stehen wir für attraktive Jobs, faire Konditionen, vielfältige Entwicklungsmöglichkeiten und eine persönliche Mitarbeiterbetreuung. Präzision, modernes Arbeiten und hochwertige Technik -- das erwartet Sie bei unserem Kunden in Offenburg! Für ein traditionsreiches, familiengeführtes Industrieunternehmen mit modernster Fertigungstechnik suchen wir zum nächstmöglichen Zeitpunkt einen Mitarbeiter (m/w/d) im Bereich Entgraten. Unser Kunde ist seit über 60 Jahren erfolgreich und beschäftigt rund 480 Mitarbeitende. Das Unternehmen ist auf die Herstellung von hochkomplexen Präzisionsbauteilen und Baugruppen spezialisiert und beliefert unterschiedliche anspruchsvolle Branchen. Dabei stehen Qualität, Genauigkeit und ein hoher technischer Anspruch im Mittelpunkt. Wenn Sie gerne präzise und sorgfältig arbeiten, ein gutes Auge für Details haben und Wert auf einen modernen Arbeitsplatz legen, freuen wir uns auf Ihre Bewerbung! **Ihre Aufgaben** * Entgraten von hochwertigen Präzisionsbauteilen nach vorgegebenen Arbeitsanweisungen * Bearbeitung der Bauteile mit geeigneten Entgratwerkzeugen und Turboschleifer * Durchführung von Sicht- und Qualitätskontrollen * Kontrolle filigraner Bauteile mithilfe moderner Mikroskope * Dokumentation der Arbeitsschritte und Prüfergebnisse im ERP-System * Sicherstellung der geforderten Qualitätsstandards **Ihre Qualifikationen** * Idealerweise erste Erfahrung in der Produktion, Qualitätskontrolle oder Feinbearbeitung * Kenntnisse im Umgang mit Mikroskopen sind von Vorteil, aber keine zwingende Voraussetzung * Sehr gute Fingerfertigkeit und handwerkliches Geschick im Umgang mit kleinen und filigranen Bauteilen * Fähigkeit, Arbeitsanweisungen sicher zu lesen und umzusetzen * Idealerweise Kenntnisse im Lesen technischer Zeichnungen * Eine ruhige, geduldige und äußerst sorgfältige Arbeitsweise * Hohes Qualitätsbewusstsein und ein gutes Auge für Details * Flexibilität und Zuverlässigkeit * Teamfähigkeit **Ihre Benefits** * Unbefristeter Arbeitsvertrag mit übertariflichem Stundenlohn * Onboarding ganz bequem von Zuhause aus * 24/7 Erreichbarkeit unserer Geschäftsstelle * Moderne Arbeitsplätze * Höhenverstellbaren Schreibtische und hochwertige Bürostühle * Kombination aus Sitzen, Stehen und Bewegung für ein angenehmes Arbeiten * Arbeiten mit modernen ZEISS-Mikroskopen und einfacher Bedienung * Eine ruhige und konzentrierte Arbeitsumgebung * Moderne Fertigungstechnik und hochwertige Arbeitsmittel * Ein langfristig orientierter Arbeitsplatz in einem familiengeführten Unternehmen * Teilzeit oder Vollzeit möglich, ganz nach Ihrem Bedürfnis * Ein abwechslungsreiches Aufgabengebiet mit hochwertigen Präzisionsbauteilen Interesse geweckt? Dann freuen wir uns auf Ihre Bewerbung! Bewerben Sie sich jetzt und werden Sie Teil eines modernen Teams in einem traditionsreichen Unternehmen in Offenburg.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 11.4,
+   "de": "?",
+   "de_txt": "",
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-04T13:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 45,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 5,
+      "end_stop": "Bühl Talackerweg",
+      "dep": "06:59",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Bühl Talackerweg",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": 8,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl Talackerweg",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:45",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 48
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 66,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 40,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:27",
+        "min": 40
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 66
+     },
+     {
+      "kind": "велосипед",
+      "min": 64,
+      "changes": 0,
+      "km": 15.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 64
+       }
+      ],
+      "risky": false,
+      "score": 108
+     }
+    ],
+    "best": "транспорт",
+    "min": 45,
+    "changes": 1
+   },
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "status": "open",
+   "also_urls": [],
    "person": "Марина"
   },
   {
