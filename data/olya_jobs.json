@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T00:35",
+ "generated": "2026-11-17T01:27",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
  "count": 54,
@@ -235,9 +235,7 @@
    "ausb": false,
    "first_seen": "2026-11-13T20:37",
    "status": "open",
-   "also_urls": [
-    "https://www.stepstone.de/stellenangebote--Paedagogische-Fachkraft-m-w-d-fuer-die-deutsch-franzoesische-Kinderkrippe-Kehl-meinestadt-de--14758625-inline.html"
-   ]
+   "also_urls": []
   },
   {
    "id": "ba_10001-1004014024-S",
@@ -1221,6 +1219,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },
