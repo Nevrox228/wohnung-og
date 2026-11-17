@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T22:48",
+ "generated": "2026-11-17T23:43",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 501,
-  "queue": 204,
-  "ai_focus": 265
+  "all": 503,
+  "queue": 206,
+  "ai_focus": 266
  },
  "jobs": [
   {
@@ -673,7 +673,9 @@
    "url": "https://de.linkedin.com/jobs/view/4488116888",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4491740433"
+   ],
    "salary": "",
    "posted": "2026-11-06",
    "first_seen": "2026-11-06T11:20",
@@ -2270,6 +2272,34 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "an_werkstudent-automatisierung-ki-tools-10h-woche-bremen-234323",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) Automatisierung / KI-Tools 10h / Woche",
+   "company": "Clostermann & Jasper Partnerschaft",
+   "location": "Bremen",
+   "distance_km": 507.6,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/clostermann-jasper-partnerschaft/werkstudent-automatisierung-ki-tools-10h-woche-bremen-234323",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-17T23:18",
+   "description": "Du willst KI nicht nur verstehen - Du willst sie einsetzen. Wir suchen eine engagierte Persönlichkeit, die unser Team dabei unterstützt, den Kanzleialltag mit modernen KI-Lösungen smarter zu gestalten - von der Idee bis zur Umsetzung. Aufgaben Unterstützung bei der Identifikation und Umsetzung von KI-Anwendungsfällen im Kanzleialltag Mitarbeit an Projekten zur Automatisierung von Prozessen Recherche und Bewertung von aktuellen KI-Tools und Technologien Unterstützung bei der Einführung und Integration neuer Systeme Erstellung von Präsentationen, Konzepten und Leitfäden für interne Anwendungen Zusammenarbeit mit verschiedenen Fachbereichen Qualifikation Du studierst in einem einschlägigen Studiengang Begeisterung für Technologien und deren Anwendung im wirtschaftlichen Kontext Erste Berührungspunkte mit KI oder Automatisierung von Vorteil Analytisches Denkvermögen und strukturierte Arbeitsweise Eigeninitiative und Lust, KI-Themen aktiv voranzutreiben Benefits einen modernen Arbeitsplatz mit attraktiven Karriereperspektiven anspruchsvolle und abwechslungsreiche Aufgaben ein gutes Betriebsklima in einem motivierten, qualifizierten Team mit flachen Hierarchien und direkten Ansprechpartnern persönliche Vorteile wie Homeoffice, flexible Arbeitszeiten, aktuelles iPhone und Warengutscheine Bereit, die Zukunft der Kanzlei aktiv mitzugestalten? Dann bewirb Dich jetzt. Find Jobs in Germany on Arbeitnow"
   },
   {
    "id": "li_4490186989",
@@ -4383,6 +4413,34 @@
    "posted": "2026-02-06",
    "first_seen": "2026-11-04T12:29",
    "description": "Deine Aufgaben • Du bist mittendrin statt nur dabei: Planung & Umsetzung von digitalen Marketing-Maßnahmen (SEO, SEA & Social Media) • Du packst bei coolen Online-Kampagnen mit an – von der Idee bis zum Go-Live • Zahlen schrecken dich nicht ab – du zauberst Reportings, die wirklich was aussagen • Webseiten? Klar! Du pflegst die Seiten unserer Kunden • Recherchen, Analysen & Insights – hier darfst du in die Tasten hauen • Du bringst deine Ideen in Präsentationen für Kundentermine & Seminare ein Dein ProfilDu studierst mit Schwerpunkt Marketing, digitale Medien oder ähnliches mindestens im 3. Semester und bringst folgende Punkte mit: • Begeisterung für Digitales Marketing (SEO, Onlinewerbung, Social Media, Webanalyse) und digitale Medien • Empathie, Warmherzigkeit und Achtsamkeit zeichnen dich aus • Teamwork ist für dich mehr als ein Buzzword. • Du bist begeisterungsfähig und motiviert dich in großartige Projekte zu stürzen • Selbstständige und eigenverantwortliche Arbeitsweise • Du kommst aus der Nähe und kannst bei uns im Büro arbeiten Warum wir?Wohlfühl-Job mit allem Drum und Dran: tolle Kollegen, Kaffee-Bar, gefüllter Getränkekühlschrank, frisches Obst und was man dazu noch so braucht. Vielseitige Projekte, die dich fordern. Voll und ganz kannst du dich auf deine Leidenschaft und Stärken fokussieren und diese bei und mit uns ausbauen"
+  },
+  {
+   "id": "an_werkstudent-e-commerce-backoffice-mannheim-174001",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Web / Shop / SEO",
+   "title": "Werkstudent E-Commerce & Backoffice",
+   "company": "More Taste (Quality Pizza GmbH)",
+   "location": "Mannheim",
+   "distance_km": 110.4,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/more-taste-quality-pizza-gmbh/werkstudent-e-commerce-backoffice-mannheim-174001",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-17T23:18",
+   "description": "Bist du bereit, deine Karriere im Bereich E-Commerce zu starten und gleichzeitig tief in die Welt der Pizza einzutauchen? Bei More Taste suchen wir eine:n motivierte:n Werkstudent:in, der unsere E-Commerce und Backoffice Prozesse begleitet. Wir bieten dir die Chance, in einem kleinen Team eng zusammen zu arbeiten, wo deine Ideen gehört werden und du direkt Einfluss nehmen kannst. Du wirst nicht nur die Möglichkeit haben, wertvolle Erfahrungen in der E-Commerce Branche zu sammeln, sondern auch das tägliche Geschäft hinter den Kulissen kennenzulernen. Wenn du Spaß an Herausforderungen hast und die Begeisterung für Pizza mit uns teilst, dann bist du bei uns genau richtig! Aufgaben Unterstützung bei der Pflege des Online-Shops Mitwirkung bei der Planung und Durchführung Kampagnen und Aktionen Mitarbeit bei der Erstellung und Optimierung von Assets Allgemeine administrative Aufgaben im Backoffice Qualifikation Du bist immatrikulierter Student, idealerweise in einem wirtschaftsnahen Studiengang. Du hast ggf. erste Erfahrungen im E-Commerce, sei es durch Praktika oder Nebenjobs - nicht zwingend erforderlich! Du bist technikaffin und gehst sicher mit MS Office und idealerweise auch mit E-Commerce-Tools wie Shopify und Klaviyo um. Du bringst eine strukturierte und selbstständige Arbeitsweise mit. Du verfügst über sehr gute Deutschkenntnisse. Benefits Bis zu 20 Wochenstunden möglich Flexible Arbeitszeiten Flexibler Arbeitsort (100% remote) Find Jobs in Germany on Arbeitnow"
   },
   {
    "id": "an_werkstudent-seo-product-marketing-100-remote-berlin-351971",
