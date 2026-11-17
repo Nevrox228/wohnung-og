@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:06",
+ "generated": "2026-11-17T04:59",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
  "count": 844,
@@ -5372,6 +5372,168 @@
     ],
     "best": "транспорт",
     "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3376769243",
+   "src": "Kleinanzeigen",
+   "title": "Werde jetzt Paketzusteller(m/w/d) bei Master Class mit überdurchschnittlichem...",
+   "firma": "Master Class GmbH",
+   "ort": "Offenburg",
+   "plz": "77654",
+   "street": "",
+   "lat": 48.4755964,
+   "lon": 7.9828459,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/paketzusteller-in-tz-m-w-d-start-14-00-uhr/3376769243-247-9038",
+   "posted": null,
+   "posted_time": null,
+   "desc": "Werde jetzt Paketzusteller(m/w/d) bei Master Class mit überdurchschnittlichem Gehalt Teilzeit: 32h pro Woche Zur Stelle *********** - Auslieferung von Paketen und Briefen für die Deutsche Post (Gewicht: leicht bis sehr leicht) - feste Tour, gleiche Stopps jeden Tag (ca 20 Stopps) - Arbeitsbeginn in Offenburg - Einsatzort rund um Offenburg - Elektro Fahrzeug der neusten Generation - genaue und zuverlässige Abrechnung durch exakte Arbeitszeiterfassung - Arbeitsfahrzeug, Arbeitshandy und Arbeitskleidung werden gestellt Bewerberprofil **************** - Führerschein Kl. B seit mehr als 3 Jahren wünschenswert - Erfahrung in der KEP Branche empfehlenswert - Deutschkenntnisse - Körperliche Fitness Wenn Sie sich für diese Stelle interessieren, kontaktieren Sie uns über WhatsApp oder Telegram: +49 15201488811 deutsch, englisch & russisch +49 17630025684 deutsch, arabisch & französisch Es werden nur Bewerbungen mit passendem Bewerberprofil beantwortet. Wir freuen uns auf Ihre Bewerbung! *Gehaltsangaben sind brutto*",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 9.6,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Доставка / переезды",
+   "first_seen": "2026-11-16T10:06",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 1,
+      "min_wait": 16,
+      "walk_end": 4,
+      "end_stop": "Zell-Weierbach Abtsberghalle",
+      "dep": "06:32",
+      "arr": "07:31",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Offenburg",
+        "line": "S1",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Zell-Weierbach Abtsberghalle",
+        "dep": "07:15",
+        "arr": "07:28",
+        "wait": 16,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Zell-Weierbach Abtsberghalle",
+        "to": "работа",
+        "dep": "07:28",
+        "arr": "07:31",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 68,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 42,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:29",
+        "min": 42
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 68
+     },
+     {
+      "kind": "велосипед",
+      "min": 66,
+      "changes": 0,
+      "km": 16.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 66
+       }
+      ],
+      "risky": false,
+      "score": 112
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
     "changes": 1
    },
    "status": "open",
@@ -67728,179 +67890,6 @@
    "also_urls": [
     "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-zustelleraktiv-schwarzwald-13-9-13-9-eur-stunde-/3543402119-247-8038"
    ],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ka_3568109781",
-   "src": "Kleinanzeigen",
-   "title": "Zeitungszusteller (w/m/d) (ZustellerAktiv - Schwarzwald)",
-   "firma": "HeyJobs",
-   "ort": "Friesenheim",
-   "plz": "77948",
-   "street": "",
-   "lat": 48.3785759,
-   "lon": 7.8951348,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-zustelleraktiv-schwarzwald-/3568109781-247-8045",
-   "posted": "2026-11-11",
-   "posted_time": null,
-   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/_7uZZ13fG08K ⭐ Zeitungszusteller (m/w/d) in Teilzeit oder als Minijob ⭐ Das bieten wir Dir: - Einsatz in Wohnortnähe ohne langen Anfahrtsweg - geregelte Arbeitszeiten - verschiedene Arbeitszeitmodelle möglich, ideal auch als Nebenverdienst zum Hauptjob oder zur Rente - attraktive Zusatzleistungen - Lohnfortzahlung bei Krankheit und Urlaub Das sind Deine Hauptaufgaben: - Du arbeitest täglich von Montag bis Samstag in den frühen Morgenstunden, jeweils bis 6 Uhr - nach einer Einarbeitungsphase übernimmst Du selbstständig und eigenverantwortlich Deine eigene Tour Das bringst Du mit: - Du bist zuverlässig, motiviert und pünktlich - Ein Fahrzeug ist von Vorteil, aber nicht Voraussetzung (Fahrtkostenerstattung) - Aufgrund des Jugendschutzgesetzes können wir keine Bewerbungen seitens Minderjähriger berücksichtigen Interessiert? Wir freuen uns auf Deine Bewerbung. Bei Fragen steht Dir unser Recruiting-Team gerne zur Verfügung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/_7uZZ13fG08K",
-   "zeit": "",
-   "who": "mykyta",
-   "approx": true,
-   "km": 21.8,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Доставка / переезды",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 99,
-      "changes": 2,
-      "min_wait": 7,
-      "walk_end": 6,
-      "end_stop": "Oberweier Litzengrund",
-      "dep": "06:32",
-      "arr": "08:12",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB26",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "07:06",
-        "arr": "07:16",
-        "wait": 7,
-        "min": 10
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "104",
-        "from": "Lahr (Schwarzw)",
-        "to": "Oberweier Litzengrund",
-        "dep": "07:38",
-        "arr": "08:06",
-        "wait": 22,
-        "min": 28
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oberweier Litzengrund",
-        "to": "работа",
-        "dep": "08:06",
-        "arr": "08:12",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 105
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 214,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 188,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "10:07",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "10:07",
-        "min": 188
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 214
-     },
-     {
-      "kind": "велосипед",
-      "min": 130,
-      "changes": 0,
-      "km": 32.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 130
-       }
-      ],
-      "risky": false,
-      "score": 240
-     }
-    ],
-    "best": "транспорт",
-    "min": 99,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "mykyta"
   },
   {
