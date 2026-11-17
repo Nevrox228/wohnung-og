@@ -1,9 +1,596 @@
 {
- "generated": "2026-11-17T15:12",
+ "generated": "2026-11-17T17:33",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 864,
+ "count": 868,
  "items": [
+  {
+   "id": "marina:ba_10001-1004029401-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft (m/w/d) für unsere Ferienhäuser",
+   "firma": "IMPREZZO GmbH",
+   "ort": "Baiersbronn",
+   "street": "",
+   "lat": 48.54634,
+   "lon": 8.3518841,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004029401-S",
+   "posted": "2026-11-17",
+   "desc": "Zur Verstärkung unseres Reinigungsteams suchen wir eine zuverlässige Reinigungskraft (m/w/d) für unsere hochwertigen Ferienhäuser. Die Stelle ist in Teilzeit (50 %) oder auf Minijob-Basis möglich. Voraussetzung sind ein Führerschein der Klasse B sowie ein eigener Pkw. Idealerweise wohnen Sie im Raum Baiersbronn (Röt). Bewerbungen aus dem Landkreis Freudenstadt sowie aus der Umgebung des Kniebis sind ebenfalls herzlich willkommen. Wir freuen uns auf Ihre Bewerbung.",
+   "zeit": " / Teilzeit / Minijob",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 19.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-17T17:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 138,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Tonbach Traube/Tanne",
+      "dep": "16:12",
+      "arr": "18:30",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Ruhestein",
+        "dep": "16:38",
+        "arr": "17:15",
+        "wait": 6,
+        "min": 37
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "200",
+        "from": "Ruhestein",
+        "to": "Baiersbronn Wilh.-Münster-Pl.",
+        "dep": "17:32",
+        "arr": "17:53",
+        "wait": 17,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Freizeitbus",
+        "line": "F 16",
+        "from": "Baiersbronn Wilh.-Münster-Pl.",
+        "to": "Tonbach Traube/Tanne",
+        "dep": "18:06",
+        "arr": "18:15",
+        "wait": 13,
+        "min": 9
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Tonbach Traube/Tanne",
+        "to": "работа",
+        "dep": "18:15",
+        "arr": "18:30",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 147
+     },
+     {
+      "kind": "велосипед",
+      "min": 140,
+      "changes": 0,
+      "km": 34.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 140
+       }
+      ],
+      "risky": false,
+      "score": 260
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 635,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 609,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:56",
+        "min": 609
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 635
+     }
+    ],
+    "best": "транспорт",
+    "min": 138,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10001-1004029345-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft (m/w/d) in Lahr",
+   "firma": "Prior & Peußner GmbH u. Co. KG",
+   "ort": "Lahr",
+   "street": "",
+   "lat": 48.339735198,
+   "lon": 7.872018726,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004029345-S",
+   "posted": "2026-11-17",
+   "desc": "**15 € Stundenlohn | Montags, Mittwochs, Freitags | 17.00 bis 19.00 Uhr| Geringfügige Beschäftigung** Du suchst eine zuverlässige Beschäftigung in der Gebäudereinigung mit einem festen Stundenlohn? Dann werde Teil von **Prior & Peußner** und unterstütze uns bei der Reinigung in **Lahr (Ortenaukreis)**. **Das erwartet Dich** - **15 Euro pro Stunde** - **Montags, Mittwochs, Freitags** - **17.00 bis 19.00 Uhr** - Geringfügige Beschäftigung - Ein etabliertes, familiengeführtes Unternehmen als Arbeitgeber **Wer wir sind** Prior & Peußner ist ein familiengeführtes Unternehmen mit langjähriger Erfahrung in der Gebäudereinigung und umfassenden Gebäudedienstleistungen. Seit 1910 stehen wir für Zuverlässigkeit, Innovation und sorgfältige Arbeit. Wir betreuen unsere Kunden an mehr als 2.000 Einsatzorten. **Deine Aufgaben** - Reinigung der zugewiesenen Räumlichkeiten - Sorgfältige und zuverlässige Ausführung der Reinigungsarbeiten - Einhaltung der vereinbarten Reinigungsabläufe **Das bringst Du mit** - Zuverlässigkeit und Sorgfalt - Eine selbstständige und gewissenhafte Arbeitsweise **Jetzt telefonisch bewerben!** Du hast Interesse? Dann melde dich unkompliziert telefonisch bei uns. **Mobil:** 0163 3494231 Wir freuen uns auf deinen Anruf! **Auch passend für folgende Berufsgruppen oder Titel:** Gebäudereiniger, Reinigungskraft, Raumpfleger, Reinigungshilfe, Putzkraft, Mitarbeiter Gebäudereinigung, Reinigungspersonal, Reinigungskraft Teilzeit, Reinigungskraft Unterhaltsreinigung, Helfer Gebäudereinigung, Hauswirtschaftskraft",
+   "zeit": " / Minijob",
+   "schicht": false,
+   "quer": true,
+   "who": "marina",
+   "km": 26.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-17T17:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 66,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 3,
+      "end_stop": "Lahr Lammstraße",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Lammstraße",
+        "dep": "07:27",
+        "arr": "07:35",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Lammstraße",
+        "to": "работа",
+        "dep": "07:35",
+        "arr": "07:38",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 72
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 266,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 240,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:58",
+        "min": 240
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 266
+     },
+     {
+      "kind": "велосипед",
+      "min": 146,
+      "changes": 0,
+      "km": 35.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 146
+       }
+      ],
+      "risky": false,
+      "score": 272
+     }
+    ],
+    "best": "транспорт",
+    "min": 66,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3387904386",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer (m/w/d)_Oppenau_SW_4146",
+   "firma": "Randstad Deutschland GmbH & Co. KG",
+   "ort": "Oppenau",
+   "plz": "77728",
+   "street": "",
+   "lat": 48.4828605,
+   "lon": 8.1804316,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-oppenau-sw-4146/3387904386-247-8225",
+   "posted": "2026-11-17",
+   "posted_time": "17:04",
+   "desc": "Lagerarbeiter in Oppenau gesucht – Verstärken Sie die Produktion von Spezialfahrzeugen Nicht irgendein Job – sondern Ihrer! Für unseren Kunden, einen führenden europäischen Hersteller von Spezialfahrzeugen in den Bereichen Defence und Schwertransport in Oppenau, suchen wir einen motivierten Lagerarbeiter. Finden Sie bei uns Ihren Platz und bewegen Sie etwas. Randstad unterstützt Sie mit neuen Perspektiven und bewertet Ihre Bewerbung rein nach Qualifikation und Persönlichkeit. Ihre Aufgaben: Fachgerechtes Kommissionieren von Aufträgen Aktive Mithilfe im Versandbereich Zuverlässige Abwicklung des Wareneingangs Sicherstellung eines reibungslosen Materialflusses Unsere Anforderungen: Erfahrung im Wareneingang und in der Kommissionierung Einverständnis zur Arbeit in Tagschicht (bei Bedarf auch 2-Schicht) Gute Deutschkenntnisse für die tägliche Abstimmung Genauigkeit, Verantwortungsbewusstsein und Teamgeist Gültige Arbeitserlaubnis für das Bundesgebiet Wir bieten Ihnen: Faire Bezahlung nach DGB/GVP-Tarifvertrag Zukunftsperspektive mit konkreter Übernahmemöglichkeit durch den Kunden Attraktive Prämien: 250 € für jede erfolgreiche Mitarbeiterempfehlung Verpflegung vor Ort in der leckeren Kantine Ausbau Ihrer Berufserfahrung in verschiedenen Aufgabenbereichen Kostenlose Weiterbildung durch vielfältige e.Learning-Angebote",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 9.0,
+   "de": "нужен",
+   "de_txt": "Ihre Aufgaben: Fachgerechtes Kommissionieren von Aufträgen Aktive Mithilfe im Versandbereich Zuverlässige Abwicklung des Wareneingangs Sicherstellung eines reib",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-17T17:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 57,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 28,
+      "end_stop": "Oppenau Oberes Stadttor",
+      "dep": "16:12",
+      "arr": "17:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Oppenau Oberes Stadttor",
+        "dep": "16:38",
+        "arr": "16:41",
+        "wait": 6,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oppenau Oberes Stadttor",
+        "to": "работа",
+        "dep": "16:41",
+        "arr": "17:09",
+        "min": 28
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 60
+     },
+     {
+      "kind": "велосипед",
+      "min": 53,
+      "changes": 0,
+      "km": 12.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 53
+       }
+      ],
+      "risky": false,
+      "score": 86
+     }
+    ],
+    "best": "транспорт",
+    "min": 57,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3387904386",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer (m/w/d)_Oppenau_SW_4146",
+   "firma": "Randstad Deutschland GmbH & Co. KG",
+   "ort": "Oppenau",
+   "plz": "77728",
+   "street": "",
+   "lat": 48.4828605,
+   "lon": 8.1804316,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-oppenau-sw-4146/3387904386-247-8225",
+   "posted": "2026-11-17",
+   "posted_time": "17:04",
+   "desc": "Lagerarbeiter in Oppenau gesucht – Verstärken Sie die Produktion von Spezialfahrzeugen Nicht irgendein Job – sondern Ihrer! Für unseren Kunden, einen führenden europäischen Hersteller von Spezialfahrzeugen in den Bereichen Defence und Schwertransport in Oppenau, suchen wir einen motivierten Lagerarbeiter. Finden Sie bei uns Ihren Platz und bewegen Sie etwas. Randstad unterstützt Sie mit neuen Perspektiven und bewertet Ihre Bewerbung rein nach Qualifikation und Persönlichkeit. Ihre Aufgaben: Fachgerechtes Kommissionieren von Aufträgen Aktive Mithilfe im Versandbereich Zuverlässige Abwicklung des Wareneingangs Sicherstellung eines reibungslosen Materialflusses Unsere Anforderungen: Erfahrung im Wareneingang und in der Kommissionierung Einverständnis zur Arbeit in Tagschicht (bei Bedarf auch 2-Schicht) Gute Deutschkenntnisse für die tägliche Abstimmung Genauigkeit, Verantwortungsbewusstsein und Teamgeist Gültige Arbeitserlaubnis für das Bundesgebiet Wir bieten Ihnen: Faire Bezahlung nach DGB/GVP-Tarifvertrag Zukunftsperspektive mit konkreter Übernahmemöglichkeit durch den Kunden Attraktive Prämien: 250 € für jede erfolgreiche Mitarbeiterempfehlung Verpflegung vor Ort in der leckeren Kantine Ausbau Ihrer Berufserfahrung in verschiedenen Aufgabenbereichen Kostenlose Weiterbildung durch vielfältige e.Learning-Angebote",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 9.0,
+   "de": "нужен",
+   "de_txt": "Ihre Aufgaben: Fachgerechtes Kommissionieren von Aufträgen Aktive Mithilfe im Versandbereich Zuverlässige Abwicklung des Wareneingangs Sicherstellung eines reib",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-17T17:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 57,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 28,
+      "end_stop": "Oppenau Oberes Stadttor",
+      "dep": "16:12",
+      "arr": "17:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Oppenau Oberes Stadttor",
+        "dep": "16:38",
+        "arr": "16:41",
+        "wait": 6,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oppenau Oberes Stadttor",
+        "to": "работа",
+        "dep": "16:41",
+        "arr": "17:09",
+        "min": 28
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 60
+     },
+     {
+      "kind": "велосипед",
+      "min": 53,
+      "changes": 0,
+      "km": 12.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 53
+       }
+      ],
+      "risky": false,
+      "score": 86
+     }
+    ],
+    "best": "транспорт",
+    "min": 57,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_10001-1004028025-S",
    "src": "Jobbörse",
@@ -185,6 +772,158 @@
    },
    "status": "open",
    "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_12739-G8CMQ1YGAU2G1QZ6-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie",
+   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-G8CMQ1YGAU2G1QZ6-S",
+   "posted": "2026-11-17",
+   "desc": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie Standort: Appenweier Anstellungsart(en): Vollzeit Produktionshelfer (m/w/d) - Appenweier - 16,00 € / Std. - 2 Schicht Sie suchen nach einer neuen beruflichen Herausforderung? Dann werden Sie Teil unseres Teams! Für ein namhaftes Kundenunternehmen im Raum Appenweier suchen wir motivierte Produktionshelfer (m/w/d) – auch Quereinsteiger sind herzlich willkommen! - Einsatzort: Appenweier - Vollzeit | 2-Schicht-Betrieb - Start: ab sofort möglich Deine Aufgaben als Produktionshelfer (m/w/d) in Appenweier: - Unterstützung im Bereich Kunststoffspritzguss in der Produktion - Entnahme und Bearbeitung von Bauteilen vom Förderband - Nachbearbeitung (Entgraten, Schleifen, Oberflächenbearbeitung) - Durchführung von Sicht- und Qualitätskontrollen - Schnelles und präzises Arbeiten unter Einhaltung der Produktionsvorgaben Ihr Profil: - Gute Deutschkenntnisse in Wort und Schrift - Erfahrung in der Produktion oder Oberflächenbearbeitung von Vorteil - Handwerkliches Geschick und sorgfältige Arbeitsweise - Zuverlässigkeit sowie Teamfähigkeit - Bereitschaft zur Schichtarbeit Unser Angebot - Unbefristeter Arbeitsvertrag mit Weihnachts- & Urlaubsgeld - 200 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Jetzt bewerben und mit uns durchstarten! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich, Lahr Prio Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-17T14:46",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-W80K7GTPZRG3YRSZ-S"
+   ],
    "person": "Марина"
   },
   {
@@ -782,6 +1521,158 @@
    "status": "open",
    "also_urls": [],
    "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_12739-G8CMQ1YGAU2G1QZ6-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie",
+   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-G8CMQ1YGAU2G1QZ6-S",
+   "posted": "2026-11-17",
+   "desc": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie Standort: Appenweier Anstellungsart(en): Vollzeit Produktionshelfer (m/w/d) - Appenweier - 16,00 € / Std. - 2 Schicht Sie suchen nach einer neuen beruflichen Herausforderung? Dann werden Sie Teil unseres Teams! Für ein namhaftes Kundenunternehmen im Raum Appenweier suchen wir motivierte Produktionshelfer (m/w/d) – auch Quereinsteiger sind herzlich willkommen! - Einsatzort: Appenweier - Vollzeit | 2-Schicht-Betrieb - Start: ab sofort möglich Deine Aufgaben als Produktionshelfer (m/w/d) in Appenweier: - Unterstützung im Bereich Kunststoffspritzguss in der Produktion - Entnahme und Bearbeitung von Bauteilen vom Förderband - Nachbearbeitung (Entgraten, Schleifen, Oberflächenbearbeitung) - Durchführung von Sicht- und Qualitätskontrollen - Schnelles und präzises Arbeiten unter Einhaltung der Produktionsvorgaben Ihr Profil: - Gute Deutschkenntnisse in Wort und Schrift - Erfahrung in der Produktion oder Oberflächenbearbeitung von Vorteil - Handwerkliches Geschick und sorgfältige Arbeitsweise - Zuverlässigkeit sowie Teamfähigkeit - Bereitschaft zur Schichtarbeit Unser Angebot - Unbefristeter Arbeitsvertrag mit Weihnachts- & Urlaubsgeld - 200 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Jetzt bewerben und mit uns durchstarten! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich, Lahr Prio Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 6.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-17T14:46",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-W80K7GTPZRG3YRSZ-S"
+   ],
+   "person": "mykyta"
   },
   {
    "id": "mykyta:ba_14471-PVOXJIG3WPE5IDXB-S",
@@ -28833,160 +29724,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_12739-3Z2XEUZHOFWQ8IX6-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie",
-   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-3Z2XEUZHOFWQ8IX6-S",
-   "posted": "2026-10-18",
-   "desc": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie Standort: Appenweier Anstellungsart(en): Vollzeit Produktionshelfer (m/w/d) - Appenweier - 16,00 € / Std. - 2 Schicht Sie suchen nach einer neuen beruflichen Herausforderung? Dann werden Sie Teil unseres Teams! Für ein namhaftes Kundenunternehmen im Raum Appenweier suchen wir motivierte Produktionshelfer (m/w/d) – auch Quereinsteiger sind herzlich willkommen! - Einsatzort: Appenweier - Vollzeit | 2-Schicht-Betrieb - Start: ab sofort möglich Deine Aufgaben als Produktionshelfer (m/w/d) in Appenweier: - Unterstützung im Bereich Kunststoffspritzguss in der Produktion - Entnahme und Bearbeitung von Bauteilen vom Förderband - Nachbearbeitung (Entgraten, Schleifen, Oberflächenbearbeitung) - Durchführung von Sicht- und Qualitätskontrollen - Schnelles und präzises Arbeiten unter Einhaltung der Produktionsvorgaben Ihr Profil: - Gute Deutschkenntnisse in Wort und Schrift - Erfahrung in der Produktion oder Oberflächenbearbeitung von Vorteil - Handwerkliches Geschick und sorgfältige Arbeitsweise - Zuverlässigkeit sowie Teamfähigkeit - Bereitschaft zur Schichtarbeit Unser Angebot - Unbefristeter Arbeitsvertrag mit Weihnachts- & Urlaubsgeld - 200 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Jetzt bewerben und mit uns durchstarten! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich, Lahr Prio Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 6.8,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-HBRG7XBWOPRUZ25R-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-G8CMQ1YGAU2G1QZ6-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-W80K7GTPZRG3YRSZ-S"
-   ],
    "person": "mykyta"
   },
   {
@@ -109234,160 +109971,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_12739-3Z2XEUZHOFWQ8IX6-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie",
-   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-3Z2XEUZHOFWQ8IX6-S",
-   "posted": "2026-10-18",
-   "desc": "Produktionshelfer (m/w/d) in 2 - Schicht 200€ Willkommensprämie Standort: Appenweier Anstellungsart(en): Vollzeit Produktionshelfer (m/w/d) - Appenweier - 16,00 € / Std. - 2 Schicht Sie suchen nach einer neuen beruflichen Herausforderung? Dann werden Sie Teil unseres Teams! Für ein namhaftes Kundenunternehmen im Raum Appenweier suchen wir motivierte Produktionshelfer (m/w/d) – auch Quereinsteiger sind herzlich willkommen! - Einsatzort: Appenweier - Vollzeit | 2-Schicht-Betrieb - Start: ab sofort möglich Deine Aufgaben als Produktionshelfer (m/w/d) in Appenweier: - Unterstützung im Bereich Kunststoffspritzguss in der Produktion - Entnahme und Bearbeitung von Bauteilen vom Förderband - Nachbearbeitung (Entgraten, Schleifen, Oberflächenbearbeitung) - Durchführung von Sicht- und Qualitätskontrollen - Schnelles und präzises Arbeiten unter Einhaltung der Produktionsvorgaben Ihr Profil: - Gute Deutschkenntnisse in Wort und Schrift - Erfahrung in der Produktion oder Oberflächenbearbeitung von Vorteil - Handwerkliches Geschick und sorgfältige Arbeitsweise - Zuverlässigkeit sowie Teamfähigkeit - Bereitschaft zur Schichtarbeit Unser Angebot - Unbefristeter Arbeitsvertrag mit Weihnachts- & Urlaubsgeld - 200 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Jetzt bewerben und mit uns durchstarten! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich, Lahr Prio Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-HBRG7XBWOPRUZ25R-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-G8CMQ1YGAU2G1QZ6-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-W80K7GTPZRG3YRSZ-S"
-   ],
    "person": "Марина"
   },
   {
