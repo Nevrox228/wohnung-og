@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T14:16",
+ "generated": "2026-11-17T15:12",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 492,
+  "all": 493,
   "queue": 201,
-  "ai_focus": 258
+  "ai_focus": 259
  },
  "jobs": [
   {
@@ -5767,6 +5767,36 @@
    "posted": "2026-11-02",
    "first_seen": "2026-11-04T12:29",
    "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p> <p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><p>Wir bei T&amp;P verstehen uns als datengetriebene Kommunikationsagentur, deren Mission es ist, Kreativität, Technologie und Daten auf neue, aufregende und effektive Weise zu verknüpfen. Wir nennen es das &amp;Modell und die Prämisse ist einfach: Kreation, Strategie, Media und Daten/CRM arbeiten Hand in Hand und lösen Herausforderungen als ein Team, das nah und partnerschaftlich mit dem Kunden zusammenarbeitet.</p> <p>&nbsp;</p> <h2><strong>Das bieten wir dir:</strong></h2> <ul> <li><strong>Work-Life-Balance</strong>: Dank flexibler Arbeitszeiten mit Schwerpunkt auf dem persönlichen Austausch im Office und ergänzender Remote Work passt sich dein Job deinem Leben an. Überstunden kannst du flexible ausgleichen.</li> <li><strong>Vacation mode on</strong>: Du erhältst 30 Urlaubstage plus einen flexiblen Tag – zusätzlich sind der 24. und 31.12. frei.</li> <li><strong>Wellbeing first:&nbsp;</strong>Gesundheitsleistungen, attraktive Altersvorsorge sowie Mental Health Awareness Days stellen deine Gesundheit in den Mittelpunkt.</li> <li><strong>Practice makes perfect</strong>: Entfalte dich mit unseren vielfältigen Weiterbildungen und nutze unsere internen Karriereprogramme für deine Entwicklung im WPP-Netzwerk.</li> <li><strong>More than just a job</strong>: Dich erwarten unvergessliche Events, Mitarbeitendenrabatte und weitere Highlights wie das Job Ticket, Wellhub oder das Job Bike.</li> <li><strong>Be yourself</strong>: Bei uns ist jede:r herzlich willkommen - Vielfalt und Chancengleichheit liegen uns am Herzen.</li> </ul> <p>&nbsp;</p> <h2><strong>Das bewegst du:</strong></h2> <p>Als <strong>Werkstudent Media (Mensch)</strong> magst du große Datenmengen und möchtest aktiv dazu beitragen, die Performance unseres Kunden zu optimieren.</p> <ul> <li><strong>Fundierte Analysen &amp; Reportings:</strong> Du unterstützt uns bei der Erstellung aussagekräftiger Analysen und Reportings, die als wichtige Entscheidungsgrundlage dienen.</li> <li><strong>Performance-Tracking:</strong>&nbsp;Die Aufbereitung und Analyse von kampagnenbezogenen Wochen- und Monatsauswertungen zur Erfolgsmessung gehört zu deinen Kernaufgaben.</li> <li><strong>Datenmanagement &amp; Qualitätssicherung:</strong>&nbsp;Du bist maßgeblich an der prä"
+  },
+  {
+   "id": "li_4485339248",
+   "queue": false,
+   "missing_skills": [
+    "C++"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Intern (m/f/d) – AI-Driven Optimization & Generative 3D MODSIM (Master's Thesis Option)",
+   "company": "Dassault Systèmes",
+   "location": "Karlsruhe (Landkreis)",
+   "distance_km": 58.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4485339248",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-30",
+   "first_seen": "2026-11-17T14:46",
+   "description": "We are hiring an Intern (m/f/d) – AI-Driven Optimization to join our Generative 3D MODSIM R&D team. In this role, you will help shape the next generation of Generative Design technology within Dassault Systèmes. You will bridge cutting-edge AI techniques with finite element simulation and multiphysics optimization, driving innovation that redefines how engineers design the products of tomorrow. Starting date for the internship is 01st of April 2027 in Karlsruhe. Role Description And Responsibilities Research and develop AI/ML multi-fidelity approaches for non-parametric optimization processes (e.g., enabling the generation of highly detailed structures based on coarser finite element meshes). Participate in the development and implementation of structural optimization algorithms. Prototype and test implementation of algorithmic routines in a C++ and Python environment. Perform modeling within the context of the Finite Element Method (FEM). Investigate, evaluate, and test cutting-edge methods in the fast-moving field of AI and Machine Learning. Optionally, combine your internship with a subsequent Master's Thesis on advanced Generative Design topics. Qualifications Currently pursuing a Master's degree in Mechanical Engineering, Civil Engineering, Aerospace, Computational Engineering, or a related field. First practical or theoretical experience with CAE (Computer-Aided Engineering) and FEM. Initial experience with AI, Machine Learning, or related data science technologies is preferred. Solid understanding of structural mechanics, mathematics, and numerical methods. Programming skills in Python and/or C++ are advantageous. Strong fascination for simulation-based optimization and generative engineering. Self-motivated, goal-oriented mindset with high team spirit. Very good communication skills in English and German (both written and spoken). What’s In It For You Deep insights and practical hands-on training with industry-leading CAE solutions, including 3DEXPERIENCE MODSIM, Tosca Structure, Abaqus, fe-safe, and CATIA. Flexible working hours. Collaborative environment working alongside highly qualified, dedicated, and diverse engineering teams. Clear opportunities for professional development, including access to our 3DEXPERIENCE University and LinkedIn Learning programs. Additional benefits & perks (e.g., Urban Sports Club membership discounts, fresh fruit, drinks, and coffee at the office). Inclusion statement As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future."
   },
   {
    "id": "ba_13644-314332-S",
