@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T01:27",
+ "generated": "2026-11-17T02:20",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 484,
-  "queue": 201,
-  "ai_focus": 253
+  "all": 485,
+  "queue": 202,
+  "ai_focus": 254
  },
  "jobs": [
   {
@@ -192,6 +192,36 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "li_4490978009",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [
+    "Kubernetes"
+   ],
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent KI / LLM-Entwicklung (m/w/d) mit flexiblen Arbeitszeiten",
+   "company": "ZIRNGIBL Rechtsanwälte Partnerschaft mbB",
+   "location": "Frankfurt",
+   "distance_km": 181.1,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4490978009",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-17T01:57",
+   "description": "Bruski Smeet & Lange Rechtsanwälte Partnerschaft mbB Wir bauen in unserer Kanzlei eine eigene, datenschutzkonforme KI-Umgebung auf – von der Architektur bis zum laufenden Betrieb. Dafür suchen wir eine:n technisch versierte:n Werkstudent:in, der/die dieses Projekt maßgeblich mitgestaltet und unsere KI-Landschaft mit uns aufbaut. Wir denken dabei nicht in einem befristeten Projekt, sondern suchen jemanden für eine langfristige Zusammenarbeit Deine Aufgaben Entwicklung eines Zielbildes und einer Roadmap. Aufbau und Betrieb einer KI-Umgebung (Infra, Datenpipelines, Interfaces für Kolleg:innen). Konzeption und Umsetzung von RAG-Pipelines auf Basis kanzleieigener Dokumente. Entwicklung von Ingestion-Pipelines (PDF-Parsing, OCR, Chunking, Embeddings). Anbindung von LLMs über APIs und selbst gehostete Open-Source-Modelle. Mitarbeit an einer DSGVO-konformen, vertraulichen Architektur („Datenschutz by Design“). Evaluation, Monitoring, Logging sowie Dokumentation und Schulung der Kolleg:innen. Dein Profil Master-Studium in Informatik, Data Science, KI/ML, Wirtschaftsinformatik, Mathematik o. Ä.; guter Bachelorabschluss an einer deutschen Universität. Sichere Python-Kenntnisse und erste praktische Erfahrung mit LLM-Projekten (z. B. LangChain/LlamaIndex/Haystack). Verständnis von Embeddings, semantischer Suche und RAG. Eigenverantwortliche, strukturierte Arbeitsweise und Freude an verständlicher Kommunikation mit Nicht-Techies. Hohe Sensibilität für Datenschutz und Vertraulichkeit; sehr gutes Deutsch, gutes Englisch. Relevante Frameworks & Konzepte Wichtig: Du musst nicht jedes genannte Tool kennen. Wenn du mit ähnlichen Technologien gearbeitet hast, ist das genauso gut – Hauptsache, du kannst dich schnell in neue Tools einarbeiten. Grundkenntnisse in mehreren der folgenden Bereiche wären optimal, den Rest lernst du bei uns: Vektordatenbanken: z. B. pgvector, Qdrant, Weaviate oder Chroma – inkl. Verständnis von semantischer Suche und Hybrid Search. Modelle & Bereitstellung: kommerzielle APIs (z. B. Anthropic Claude, OpenAI / Azure OpenAI) sowie selbst gehostete Open-Source-Modelle (z. B. Llama, Mistral) über Ollama oder vLLM; Verständnis der Abwägung RAG vs. Fine-Tuning. Infrastruktur & (LLM-)Ops: Docker (und idealerweise erste Berührung mit Kubernetes), Cloud- oder On-Premise-Betrieb (in der EU, z. B. Azure/AWS EU-Region oder eigene Server), Grundlagen von CI/CD. Evaluation & Monitoring: strukturierte Bewertung von LLM-Outputs (z. B. RAGAS, „LLM-as-a-judge“), Kosten- und Latenz-Tracking. Datenschutz & rechtlicher Rahmen: DSGVO, anwaltliche Verschwiegenheit ( 43a BRAO), Privacy by Design, Anonymisierung/Pseudonymisierung, Auftragsverarbeitung. Deine Vorteile Flexible Arbeitszeiten bei einem Umfang von etwa 15 bis 20 Stunden pro Woche Attraktive Vergütung für Ihre Werkstudententätigkeit Technische Mitgestaltung einer eigenen KI-Umgebung von der ersten Idee bis zum laufenden Betrieb Viel Eigenverantwortung und Raum für eigene technische Lösungsansätze Direkte "
   },
   {
    "id": "li_4490594966",
