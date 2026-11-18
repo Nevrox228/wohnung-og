@@ -1,9 +1,32 @@
 {
- "generated": "2026-11-18T15:53",
+ "generated": "2026-11-18T16:49",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 52,
+ "count": 53,
  "items": [
+  {
+   "id": "ss_14653653",
+   "src": "StepStone",
+   "title": "Ausbildung zur Heilerziehungsassistentin (m/w/d), Beginn Mai 2027",
+   "firma": "Diakonie Kork",
+   "ort": "Kehl",
+   "plz": "",
+   "street": "",
+   "lat": 48.5733977,
+   "lon": 7.8114002,
+   "url": "https://www.stepstone.de/stellenangebote--Ausbildung-zur-Heilerziehungsassistentin-m-w-d-Beginn-Mai-2027-77694-Kehl-Diakonie-Kork--14653653-inline.html",
+   "posted": "2026-11-02",
+   "desc": "Ausbildung zur Heilerziehungsassistentin (m/w/d) in Gesundheitseinrichtungen mit pädagogischer Begleitung von Menschen mit Unterstützungsbedarf. Gesucht wird ein Auszubildender (m/w/d), um bei der pflegerischen Versorgung und pädagogischen Begleitung mitzuwirken. Ein Hauptschulabschluss, B1 Sprachzertifikat, soziale Kompetenz und Teamfähigkeit werden vorausgesetzt.",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 14.6,
+   "kind": "Hort / Schule",
+   "ausb": true,
+   "first_seen": "2026-11-18T16:23",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "li_4361574268",
    "src": "LinkedIn",
@@ -1172,6 +1195,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },
