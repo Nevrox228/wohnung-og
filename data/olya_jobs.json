@@ -1,9 +1,33 @@
 {
- "generated": "2026-11-18T17:48",
+ "generated": "2026-11-18T18:44",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 54,
+ "count": 53,
  "items": [
+  {
+   "id": "ba_10001-1004036603-S",
+   "src": "Jobbörse",
+   "title": "Betreuungskraft (m/w/d)",
+   "firma": "Gemeinde Friesenheim",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "Friesenheimer Hauptstr 71-73",
+   "lat": 48.3734729,
+   "lon": 7.8820853,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004036603-S",
+   "posted": "2026-11-18",
+   "ab": "2026-11-18",
+   "zeit": " / Teilzeit",
+   "befristet": true,
+   "quer": true,
+   "beruf": "Erzieher/in",
+   "km": 12.4,
+   "kind": "Jugend / Heim",
+   "ausb": false,
+   "first_seen": "2026-11-18T18:18",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "ss_14622824",
    "src": "StepStone",
@@ -24,29 +48,6 @@
    "kind": "Общее / другое",
    "ausb": false,
    "first_seen": "2026-11-18T17:19",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "ss_14653653",
-   "src": "StepStone",
-   "title": "Ausbildung zur Heilerziehungsassistentin (m/w/d), Beginn Mai 2027",
-   "firma": "Diakonie Kork",
-   "ort": "Kehl",
-   "plz": "",
-   "street": "",
-   "lat": 48.5733977,
-   "lon": 7.8114002,
-   "url": "https://www.stepstone.de/stellenangebote--Ausbildung-zur-Heilerziehungsassistentin-m-w-d-Beginn-Mai-2027-77694-Kehl-Diakonie-Kork--14653653-inline.html",
-   "posted": "2026-11-02",
-   "desc": "Ausbildung zur Heilerziehungsassistentin (m/w/d) in Gesundheitseinrichtungen mit pädagogischer Begleitung von Menschen mit Unterstützungsbedarf. Gesucht wird ein Auszubildender (m/w/d), um bei der pflegerischen Versorgung und pädagogischen Begleitung mitzuwirken. Ein Hauptschulabschluss, B1 Sprachzertifikat, soziale Kompetenz und Teamfähigkeit werden vorausgesetzt.",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 14.6,
-   "kind": "Hort / Schule",
-   "ausb": true,
-   "first_seen": "2026-11-18T16:23",
    "status": "open",
    "also_urls": []
   },
@@ -803,29 +804,6 @@
    "also_urls": []
   },
   {
-   "id": "ss_14629123",
-   "src": "StepStone",
-   "title": "Praxisintegrierte Ausbildung (PiA) zum Erzieher (m/w/d)",
-   "firma": "Stadt Ettenheim",
-   "ort": "Ettenheim",
-   "plz": "",
-   "street": "",
-   "lat": 48.2487345,
-   "lon": 7.8539263,
-   "url": "https://www.stepstone.de/stellenangebote--Praxisintegrierte-Ausbildung-PiA-zum-Erzieher-m-w-d-77955-Ettenheim-Stadt-Ettenheim--14629123-inline.html",
-   "posted": "2026-10-31",
-   "desc": "Die Stadt Ettenheim ist eine Barockstadt im Ortenaukreis mit moderner Verwaltung. Gesucht wird ein Erzieher (m/w/d) in praxisintegrierter Ausbildung (PiA) zur Begleitung und Unterstützung im Kindergarten oder in der Kita. Ein mittlerer Bildungsabschluss oder Fachhochschulreife, Freude am Umgang mit Kindern, pädagogisches Interesse und Teamfähigkeit werden vorausgesetzt.",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 26.2,
-   "kind": "Hort / Schule",
-   "ausb": true,
-   "first_seen": "2026-11-03T19:16",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "ba_10001-1003816039-S",
    "src": "Jobbörse",
    "title": "Erzieher (m/w/d)",
@@ -1095,7 +1073,9 @@
    "ausb": false,
    "first_seen": "2026-11-03T17:32",
    "status": "open",
-   "also_urls": []
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4482330431"
+   ]
   },
   {
    "id": "ba_10001-1003807157-S",

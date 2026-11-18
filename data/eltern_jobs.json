@@ -1,9 +1,482 @@
 {
- "generated": "2026-11-18T17:48",
+ "generated": "2026-11-18T18:44",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 881,
+ "count": 883,
  "items": [
+  {
+   "id": "marina:ba_14385-403-2659267-26-S",
+   "src": "Jobbörse",
+   "title": "Kommissionierer Lagerhelfer (m/w/d) dringend",
+   "firma": "ARWA Personaldienstleistungen GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-403-2659267-26-S",
+   "posted": "2026-11-18",
+   "desc": "Starte jetzt erfolgreich bei uns als Kommissionierer Lagerhelfer (m/w/d) im Rahmen der Arbeitnehmerüberlassung durch! Freue Dich auf eine attraktive Vergütung: 15,33 € pro Stunde! Dein neuer Job ist in Vollzeit in Appenweier im Bereich Lager & Logistik. Deine Vorteile in diesem Job - Abschlagszahlungen - Arbeitsplatz in einem modernen Unternehmen - Freundliche und sympathische Kollegen/innen vor Ort - Übertarifliche Bezahlung Diese Aufgaben erwarten Dich - Kommissionieren von Versandaufträgen - Ware Scannen - Führen von Flurförderfahrzeugen - Allgemeine Kommissioniertätigkeiten - Tätigkeiten im Warenein-/ausgang - Palettieren - Warenbereitstellung - Be- und Entladung von LKW`s - Retourenbearbeitung - Einhaltung von QM-Richtlinien Du bringst diese Kenntnisse und Fähigkeiten mit - Deutsch (A1-A2 / Grundkenntnisse) - Berufseinsteiger - Organisationsfähigkeit - Zuverlässigkeit - Sorgfalt/Genauigkeit - Teamfähigkeit - Zielstrebigkeit/Ergebnisorientierung Du hast noch Fragen zum Job? Kontaktiere uns unter 0721 / 9 84 75 - 0 oder per E-Mail an karlsruhe@arwa.de von Montag bis Donnerstag zwischen 08:00 und 17:00 Uhr und am Freitag zwischen 08:00 und 15:00 Uhr, oder besuche uns persönlich in der Niederlassung. Mit Deiner Bewerbung erklärst Du Dich mit den Datenschutzrichtlinien der Firma ARWA Personaldienstleistungen GmbH einverstanden (zu finden auf unserer Homepage unter „Datenschutz“).",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 6.8,
+   "de": "немного",
+   "de_txt": "Deutsch (A1-A2 / Grundkenntnisse)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-18T18:18",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_14385-403-2659267-26-S",
+   "src": "Jobbörse",
+   "title": "Kommissionierer Lagerhelfer (m/w/d) dringend",
+   "firma": "ARWA Personaldienstleistungen GmbH",
+   "ort": "Appenweier",
+   "street": "",
+   "lat": 48.542563334,
+   "lon": 7.990583587,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-403-2659267-26-S",
+   "posted": "2026-11-18",
+   "desc": "Starte jetzt erfolgreich bei uns als Kommissionierer Lagerhelfer (m/w/d) im Rahmen der Arbeitnehmerüberlassung durch! Freue Dich auf eine attraktive Vergütung: 15,33 € pro Stunde! Dein neuer Job ist in Vollzeit in Appenweier im Bereich Lager & Logistik. Deine Vorteile in diesem Job - Abschlagszahlungen - Arbeitsplatz in einem modernen Unternehmen - Freundliche und sympathische Kollegen/innen vor Ort - Übertarifliche Bezahlung Diese Aufgaben erwarten Dich - Kommissionieren von Versandaufträgen - Ware Scannen - Führen von Flurförderfahrzeugen - Allgemeine Kommissioniertätigkeiten - Tätigkeiten im Warenein-/ausgang - Palettieren - Warenbereitstellung - Be- und Entladung von LKW`s - Retourenbearbeitung - Einhaltung von QM-Richtlinien Du bringst diese Kenntnisse und Fähigkeiten mit - Deutsch (A1-A2 / Grundkenntnisse) - Berufseinsteiger - Organisationsfähigkeit - Zuverlässigkeit - Sorgfalt/Genauigkeit - Teamfähigkeit - Zielstrebigkeit/Ergebnisorientierung Du hast noch Fragen zum Job? Kontaktiere uns unter 0721 / 9 84 75 - 0 oder per E-Mail an karlsruhe@arwa.de von Montag bis Donnerstag zwischen 08:00 und 17:00 Uhr und am Freitag zwischen 08:00 und 15:00 Uhr, oder besuche uns persönlich in der Niederlassung. Mit Deiner Bewerbung erklärst Du Dich mit den Datenschutzrichtlinien der Firma ARWA Personaldienstleistungen GmbH einverstanden (zu finden auf unserer Homepage unter „Datenschutz“).",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 6.8,
+   "de": "немного",
+   "de_txt": "Deutsch (A1-A2 / Grundkenntnisse)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-18T18:18",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Oberkircher Straße",
+      "dep": "23:37",
+      "arr": "00:10",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Oberkircher Straße",
+        "dep": "23:44",
+        "arr": "23:58",
+        "wait": null,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Oberkircher Straße",
+        "to": "работа",
+        "dep": "23:58",
+        "arr": "00:10",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     },
+     {
+      "kind": "велосипед",
+      "min": 38,
+      "changes": 0,
+      "km": 9.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 38
+       }
+      ],
+      "risky": false,
+      "score": 56
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:46",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "транспорт",
+    "min": 34,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3575697810",
+   "src": "Kleinanzeigen",
+   "title": "Lagermitarbeiter / Kommissionierer (m/w/d) in Dauerspätschicht...",
+   "firma": "Smash Jobs",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-kommissionierer-m-w-d-in-dauerspaetschicht-/3575697810-109-8088",
+   "posted": "2026-11-18",
+   "posted_time": "18:39",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/EjGT7NdtgAKc ⭐ Lagermitarbeiter / Kommissionierer (m/w/d) ⭐ Wir suchen zur Erweiterung unseres Teams einen Lagermitarbeiter / Kommissionierer (m/w/d) in der Dauerspätschicht in Kehl-Goldscheuer. Deine Benefits: - Urlaubs-/ Weihnachtsgeld - Betriebliche Altersvorsorge - 30 Tage Urlaub - Unkomplizierte Aufstiegschancen innerhalb des Teams - Personalrabatte für den eigenen Gebrauch - Geregelte Arbeitszeiten / keine Nachtschicht - Möglichkeiten eines E-Bike-Leasings - Stellung von Arbeitskleidung - Unternehmensfeiern (z. B. Sommerfest/ Weihnachtsfeier) Deine Hauptaufgaben: - Sach- und Mengengerechte Auslagerung von Haustechnikartikeln im Kleinteile und Palettenlager - Kommissionieren von Waren mithilfe von Scannertechnik - Verpacken und versandfertige Bereitstellung von Waren auf den Versandplätzen - Qualitäts-/ Bestandskontrolle der Ware Dein Profil: - Freude an praktischer Arbeit und der Zusammenarbeit im Team - Freundlichkeit, Gewissenhaftigkeit und Freude an körperlicher Arbeit - Erste Erfahrungen in der Arbeit in einem Großlager und bestenfalls ein Staplerschein - Idealerweise hast Du bereits mit Handscannern gearbeitet Wir freuen uns auf Deine Bewerbung! Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/EjGT7NdtgAKc",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 17.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Großlager und bestenfalls ein Staplerschein",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-18T18:18",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3361175448",
    "src": "Kleinanzeigen",
@@ -37175,158 +37648,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_14385-403-2645653-26-S",
-   "src": "Jobbörse",
-   "title": "Kommissionierer Lagerhelfer (m/w/d) sofort",
-   "firma": "ARWA Personaldienstleistungen GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-403-2645653-26-S",
-   "posted": "2026-10-20",
-   "desc": "Wir bei ARWA Personaldienstleistungen GmbH haben Deinen neuen Traumjob als Kommissionierer Lagerhelfer (m/w/d) für Dich! In Appenweier wartet bereits im Rahmen der Arbeitnehmerüberlassung Dein neues Team auf Dich! Unser Kunde aus dem Bereich Lager & Logistik sucht Dich ab sofort in Vollzeit. On Top kannst Du diese Vorteile erwarten - Abschlagszahlungen - Arbeitsplatz in einem modernen Unternehmen - Freundliche und sympathische Kollegen/innen vor Ort - Übertarifliche Bezahlung Außerdem erhältst Du eine Vergütung von 15,33 € pro Stunde! Dich erwarten abwechslungsreiche Aufgaben - Kommissionieren von Versandaufträgen - Ware Scannen - Führen von Flurförderfahrzeugen - Allgemeine Kommissioniertätigkeiten - Tätigkeiten im Warenein-/ausgang - Palettieren - Warenbereitstellung - Be- und Entladung von LKW`s - Retourenbearbeitung - Einhaltung von QM-Richtlinien Dein Profil - Deutsch (A1-A2 / Grundkenntnisse) - Berufseinsteiger - Organisationsfähigkeit - Zuverlässigkeit - Sorgfalt/Genauigkeit - Teamfähigkeit - Zielstrebigkeit/Ergebnisorientierung Bewerbe Dich jetzt! Bei Fragen stehen wir Dir gerne persönlich, telefonisch unter 0721 / 9 84 75 - 0 oder per E-Mail an karlsruhe@arwa.de von Montag bis Donnerstag zwischen 08:00 und 17:00 Uhr und am Freitag zwischen 08:00 und 15:00 Uhr zur Verfügung. Mit Deiner Bewerbung erklärst Du Dich mit den Datenschutzrichtlinien der Firma ARWA Personaldienstleistungen GmbH einverstanden (zu finden auf unserer Homepage www.arwa.de unter „Datenschutz“).",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 6.8,
-   "de": "немного",
-   "de_txt": "Deutsch (A1-A2 / Grundkenntnisse)",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/kommissionierer-lagerhelfer-m-w-d-sofort-064716115"
-   ],
    "person": "mykyta"
   },
   {
@@ -77843,6 +78164,120 @@
     "best": "транспорт",
     "min": 99,
     "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:jw_064716115",
+   "src": "Jobware",
+   "title": "Kommissionierer Lagerhelfer (m/w/d) sofort",
+   "firma": "ARWA Personaldienstleistungen GmbH",
+   "street": "",
+   "lat": 48.5605374,
+   "lon": 7.9778001,
+   "ort": "Appenweier, Bühl, Baden",
+   "url": "https://www.jobware.de/job/kommissionierer-lagerhelfer-m-w-d-sofort-064716115",
+   "posted": "2026-10-21",
+   "desc": "",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 8.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-15T20:24",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 40,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 7,
+      "end_stop": "Urloffen Zimmern",
+      "dep": "05:21",
+      "arr": "06:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "05:32",
+        "arr": "05:41",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7135",
+        "from": "Appenweier",
+        "to": "Urloffen Zimmern",
+        "dep": "05:52",
+        "arr": "05:55",
+        "wait": 11,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Urloffen Zimmern",
+        "to": "работа",
+        "dep": "05:55",
+        "arr": "06:01",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 43
+     },
+     {
+      "kind": "велосипед",
+      "min": 52,
+      "changes": 0,
+      "km": 12.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 52
+       }
+      ],
+      "risky": false,
+      "score": 84
+     }
+    ],
+    "best": "транспорт",
+    "min": 40,
+    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -120900,156 +121335,6 @@
     "min": 76,
     "changes": 2
    },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_14385-403-2645653-26-S",
-   "src": "Jobbörse",
-   "title": "Kommissionierer Lagerhelfer (m/w/d) sofort",
-   "firma": "ARWA Personaldienstleistungen GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-403-2645653-26-S",
-   "posted": "2026-10-20",
-   "desc": "Wir bei ARWA Personaldienstleistungen GmbH haben Deinen neuen Traumjob als Kommissionierer Lagerhelfer (m/w/d) für Dich! In Appenweier wartet bereits im Rahmen der Arbeitnehmerüberlassung Dein neues Team auf Dich! Unser Kunde aus dem Bereich Lager & Logistik sucht Dich ab sofort in Vollzeit. On Top kannst Du diese Vorteile erwarten - Abschlagszahlungen - Arbeitsplatz in einem modernen Unternehmen - Freundliche und sympathische Kollegen/innen vor Ort - Übertarifliche Bezahlung Außerdem erhältst Du eine Vergütung von 15,33 € pro Stunde! Dich erwarten abwechslungsreiche Aufgaben - Kommissionieren von Versandaufträgen - Ware Scannen - Führen von Flurförderfahrzeugen - Allgemeine Kommissioniertätigkeiten - Tätigkeiten im Warenein-/ausgang - Palettieren - Warenbereitstellung - Be- und Entladung von LKW`s - Retourenbearbeitung - Einhaltung von QM-Richtlinien Dein Profil - Deutsch (A1-A2 / Grundkenntnisse) - Berufseinsteiger - Organisationsfähigkeit - Zuverlässigkeit - Sorgfalt/Genauigkeit - Teamfähigkeit - Zielstrebigkeit/Ergebnisorientierung Bewerbe Dich jetzt! Bei Fragen stehen wir Dir gerne persönlich, telefonisch unter 0721 / 9 84 75 - 0 oder per E-Mail an karlsruhe@arwa.de von Montag bis Donnerstag zwischen 08:00 und 17:00 Uhr und am Freitag zwischen 08:00 und 15:00 Uhr zur Verfügung. Mit Deiner Bewerbung erklärst Du Dich mit den Datenschutzrichtlinien der Firma ARWA Personaldienstleistungen GmbH einverstanden (zu finden auf unserer Homepage www.arwa.de unter „Datenschutz“).",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "немного",
-   "de_txt": "Deutsch (A1-A2 / Grundkenntnisse)",
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
    "status": "open",
    "also_urls": [],
    "person": "Марина"
