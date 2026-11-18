@@ -1,9 +1,171 @@
 {
- "generated": "2026-11-18T18:44",
+ "generated": "2026-11-18T19:41",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 883,
+ "count": 884,
  "items": [
+  {
+   "id": "marina:ka_3361180678",
+   "src": "Kleinanzeigen",
+   "title": "Montagehelfer (m/w/d)",
+   "firma": "orizon GmbH",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagehelfer-m-w-d-/3361180678-111-8670",
+   "posted": "2026-11-18",
+   "posted_time": "19:05",
+   "desc": "Montagehelfer (m/w/d) – 17,00 bis 19,00 € / Stunde – Sasbach ✓ Sie haben Erfahrung in der Montage oder möchten in diesem Bereich starten? ✓ Sie arbeiten sorgfältig und zuverlässig? Dann ist das genau Ihr Job! Wir suchen für ein Unternehmen im Raum Sasbach einen Montagehelfer / Produktionshelfer (m/w/d) im Rahmen der Arbeitnehmerüberlassung. Ihre Aufgaben: ✓ Montage von Baugruppen nach Anweisung ✓ Einbau von Baugruppen in Schaltanlagen ✓ Durchführung von Qualitätskontrollen Ihr Profil: ✓ Erste Erfahrung in der Montage von Vorteil ✓ Gute Deutschkenntnisse ✓ Bereitschaft zur Arbeit im Schichtsystem (1–3 Schichten) Das erwartet Sie: ✓ Stundenlohn: 17,00 – 19,00 € ✓ Tarifliche Bezahlung nach iGZ/DGB zzgl. Branchenzuschlägen ✓ Attraktives Arbeitsumfeld mit guten Perspektiven ✓ Persönliche Betreuung und Beratung ✓ Mitarbeiter-Benefit-Programm ✓ Bis zu 30 Tage Urlaub Einsatzort: Sasbach Interesse? Einfach melden – schnell und unkompliziert! Telefon: 07222 40380 (Herr Schick)",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.0,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-18T19:15",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_14385-403-2659267-26-S",
    "src": "Jobbörse",

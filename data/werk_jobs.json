@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T18:45",
+ "generated": "2026-11-18T19:41",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 518,
-  "queue": 208,
-  "ai_focus": 276
+  "all": 522,
+  "queue": 209,
+  "ai_focus": 280
  },
  "jobs": [
   {
@@ -220,6 +220,34 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "an_working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
+   "company": "AgentixLake GmbH",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-402834",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T19:15",
+   "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected international opportunities. Your role Build AI application components that are ready to be tested, deployed and maintained. You will take ownership of defined engineering work within our generative AI projects, collaborating with colleagues on implementation, review and operational quality. Our team builds enterprise AI solutions that connect models with useful data and tools. Your work may contribute to document intelligence, knowledge assistants, governed analytics or AI agents that support engineering and operational workflows. What you will do Develop Python services and integrations connecting language models to enterprise data, APIs and tools. Implement document ingestion, chunking, embeddings and retrieval, with source references that users can inspect. Build structured extraction and validation workflows for complex documents and downstream business systems. Implement defined agent steps, including tool calls, permission checks, error handling and human approval. Maintain evaluation cases and compare retrieval quality, answer usefulness, latency and cost as the application changes. Contribute automated tests, deployment configuration, logging and documentation through reviewed pull requests. What you bring Current university enrolment in computer science, AI, data science or a related technical discipline. Strong practical Python skills and evidence of software you have delivered for actual users, including responsibility for testing and deployment. Hands-on experience with an LLM application involving retrieval, tool use or structured outputs, and the ability to explain its limitations. Comfort working with APIs, JSON, Git and code review, and taking a defined task from an agreed requirement to a maintainable implementation. Clear English communication and an evidence-based approach to debugging and evaluating system behaviour. Experience with Amazon Bedrock, Anthropic Claude, FastAPI, Docker, vector databases or self-hosted models is valuable. We value sound implementation decisions more than the number of frameworks on your CV. What you can expect You will contribute to real delivery work with direct access to experienced engineers and the founders. Expect clear ownership, thoughtful code review and a part-time scope planned around your studies. How to apply Use the Apply button on this page to submit your C"
   },
   {
    "id": "li_4487682306",
@@ -5228,7 +5256,9 @@
    "url": "https://de.linkedin.com/jobs/view/4469208346",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4492067957"
+   ],
    "salary": "",
    "posted": "2026-11-01",
    "first_seen": "2026-11-04T12:29",
@@ -6240,6 +6270,96 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "STAR werden. Zukunft machen. Für den STAR-Bereich | Böblingen | Teilzeit, Werkstudenten Gestalte mit uns intelligente Software, die in der Praxis etwas bewegt! Du möchtest nicht nur über Künstliche Intelligenz sprechen, sondern sie selbst entwickeln? In unserem AI-Team arbeitest Du an innovativen AI-Lösungen für internationale Top-Unternehmen. Gemeinsam mit erfahrenen AI-, Cloud- und Software-Experten entwickelst Du Prototypen, integrierst moderne KI-Modelle in Anwendungen und bringst neue Ideen von der ersten Skizze bis zum funktionierenden Use Case. Dabei erhältst Du echte Einblicke in anspruchsvolle Kundenprojekte und kannst Deine technischen Fähigkeiten direkt in der Praxis einsetzen. Statt klassischer Werkstudentenaufgaben erwarten Dich relevante Fragestellungen, moderne Technologien und viel Raum zum Ausprobieren. Deine Aufgaben Entwicklung von AI-Anwendungen: Du unterstützt bei der Konzeption und Umsetzung innovativer Anwendungen von Künstlicher Intelligenz und Generative AI. Prototyping und Proof of Concepts: Du entwickelst funktionsfähige Prototypen und demonstrierst, wie sich neue AI-Technologien in konkreten Business-Anwendungen einsetzen lassen Integration von AI-Modellen: Du bindest Large Language Models und weitere AI-Services über APIs in bestehende oder neu entwickelte Anwendungen ein. AI Agents und intelligente Workflows: Du wirkst bei der Entwicklung agentenbasierter Lösungen mit, die auf Informationen, Anwendungen und Unternehmensprozesse zugreifen können Backend- und Anwendungsentwicklung: Du entwickelst Softwarekomponenten, Schnittstellen und Services, beispielsweise mit Python oder JavaScript beziehungsweise TypeScript RAG und Unternehmenswissen: Du unterstützt bei der Entwicklung von Anwendungen, die Sprachmodelle sicher und gezielt mit Dokumenten, Datenbanken oder anderen Wissensquellen verbinden Testing und Qualitätssicherung: Du testest AI-Anwendungen systematisch und hilfst dabei, Qualität, Zuverlässigkeit und Nachvollziehbarkeit der Ergebnisse zu verbessern. Technologie-Scouting: Du analysierst neue Frameworks, Modelle und Entwicklungsmethoden und bewertest, wie sie sich sinnvoll in unseren Projekten einsetzen lassen Mitarbeit in Kundenprojekten: Du arbeitest eng mit unserem Team an realen AI-Projekten und bringst Deine technischen Ideen aktiv in die Lösungsentwicklung ein Dein Profil Du bist eingeschriebener Student (m/w/d), beispielsweise in Informatik, Wirtschaftsinformatik, Data Science, Software Engineering, Künstlicher Intelligenz oder einem vergleichbaren StudiengangDu verfügst über erste praktische Programmiererfahrung, idealerweise mit Python oder JavaScript beziehungsweise TypeScript Du hast ein ausgeprägtes Interesse an Artificial Intelligence, insbesondere an Generative AI, Large Language Models und AI Agents Du kennst grundlegende Konzepte der Softwareentwicklung und hast idealerweise bereits eigene Anwendungen, Studienprojekte oder Prototypen umgesetzt. Erste Erfahrungen mit APIs, Git, Datenbanken, Cloud-"
+  },
+  {
+   "id": "li_4491303993",
+   "queue": false,
+   "missing_skills": [
+    "SAP"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student (f/m/d) - Multimodal AI Interaction Alignment Research",
+   "company": "SAP",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4491303993",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T19:15",
+   "description": "Job Description What you'll bring You're studying Computer Science, Artificial Intelligence, Data Science, or a related field. You're drawn to the frontiers of human-AI interaction and want to work on real research problems. Solid Python skills, including Jupyter Notebooks, Pandas, NumPy, and Matplotlib Practical experience with LLM APIs and modern AI/ML frameworks A foundational understanding of speech-to-text, text-to-speech, or real-time speech systems Genuine curiosity about how people interact with AI and what makes those experiences work well for them A collaborative, detail-oriented approach to research and experimentation Fluency in English is required for this role. We also look for people who communicate clearly, keep the customer in mind, and enjoy finding smart solutions to problems - whatever stage of your career you're at. In addition to the role-specific skills above, all student and early talent positions at SAP look for candidates who are open to working with AI tools - including agentic AI - to automate everyday tasks, prototype ideas, and build confidence in AI-assisted ways of working from day one. What You'll Build You'll work at the intersection of applied AI research and real-world product development - contributing to projects that shape next-generation enterprise software. Build and test voice-enabled AI applications and real-time conversational systems Develop dynamically generated user interfaces for AI-driven interactions Generate, collect, and curate multimodal datasets and evaluation scenarios Design and run experiments to benchmark speech models and interaction architectures Analyse results and document findings with academic and industry researchers Contribute to a joint research initiative between SAP and the Technical University of Munich (TUM) Where you belong SAP Research & Innovation partners with leading universities to explore technologies before they reach the market. This role sits within a joint initiative with the Technical University of Munich (TUM), focused on human-AI alignment in multimodal interactions. Day-to-day work centres on experimentation, prototype-building, and systematic evaluation. When you join SAP, you'll be a part of SAP Next Gen - a global community of students and early professionals with access to mentors, development programmes, and peers. Additional Information About SAP With a global network of customers, partners, employees, and thought leaders, SAP helps the world run better and improves people’s lives. As a leader in enterprise applications and business AI, SAP stands at the nexus of business and technology. For over 50 years, organizations have trusted SAP to bring out their best by uniting business-critical operations spanning finance, procurement, HR, supply chain, and customer experience. We win with inclusion SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can"
+  },
+  {
+   "id": "an_working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+   "queue": false,
+   "missing_skills": [
+    "Terraform"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student Data Engineer – Python, SQL & Cloud Platforms",
+   "company": "AgentixLake GmbH",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-data-engineer-python-sql-cloud-platforms-berlin-454463",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T19:15",
+   "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected international opportunities. Your role Build the pipelines and data models that people can depend on. You will own defined components of our data engineering projects, from understanding a source system to delivering tested transformations and monitoring how they run. Our data platform engineering work connects operational systems with analytics and AI applications. Depending on the project, you will work with cloud warehouses, lakehouse architectures and the data quality and reliability practices that support production use. What you will do Build Python and SQL pipelines to ingest and transform data from APIs, databases, files or event sources. Develop data models and dbt transformations with clear definitions, tests and documentation. Implement incremental processing, schema checks and reconciliation so changes and data issues are visible. Configure orchestration and monitoring; investigate failed runs and improve recovery and troubleshooting. Contribute to cloud data platform components, infrastructure configuration and deployment workflows. Use Git, pull requests and code review to deliver maintainable changes and explain their impact on downstream users. What you bring Current university enrolment in computer science, data science, business informatics or a related technical discipline. Strong SQL and practical Python, supported by pipelines or data models you have built and maintained for actual users or team workflows. A sound understanding of data modelling, incremental loads, data quality and the operational behaviour of scheduled pipelines. Experience with version control and testing, plus practical exposure to a cloud platform, warehouse or orchestration tool. The ability to own a well-scoped deliverable, investigate problems systematically and communicate clearly in English. Experience with dbt, Airflow, Dagster, AWS, Snowflake, Databricks, BigQuery, Apache Iceberg or Terraform is valuable. You do not need experience with every technology; show us where you have developed depth. What you can expect You will work on data systems with clear users and delivery requirements, collaborate directly with experienced engineers and the founders, and receive substantive code review. Your part-time responsibilities and schedule will be planned around your studies. How to apply Use the Apply button on this page to submi"
+  },
+  {
+   "id": "an_working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
+   "queue": false,
+   "missing_skills": [
+    "Terraform"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
+   "company": "AgentixLake GmbH",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-292864",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T19:15",
+   "description": "IMPORTANT Application note Please apply only through this job portal. Kindly do not send applications or recruitment messages by email or LinkedIn. Only applications submitted through the portal will be considered. Thank you. About AgentixLake AgentixLake GmbH is a Data and AI engineering consultancy based in Hamburg, Germany. We design, build and operate production-grade data platforms and AI systems in our customers’ cloud accounts or on-premises environments. We are an AWS Services Partner and a Certified Services Partner in Anthropic’s Claude Partner Network. Our commercial focus is DACH and the Gulf region, alongside selected international opportunities. Your role Design the path from a business requirement to a working data and AI system. You will work directly with our founders and engineers to turn discovery findings into architecture decisions, implementation plans and tested components. Our architecture and advisory work connects enterprise data platforms with generative AI, AI agents and business applications. Depending on the engagement, solutions run on AWS, Snowflake, Databricks, Google Cloud or customer-managed infrastructure. What you will do Translate business workflows, existing systems and data constraints into clear solution designs, with explicit assumptions and acceptance criteria. Design data flows connecting ingestion, storage, retrieval, model inference, APIs and downstream enterprise systems. Evaluate trade-offs across cloud services, open-source components and on-premises deployment, including security, reliability, cost and maintainability. Create architecture diagrams, technical decision records and delivery estimates; contribute to discovery workshops and design reviews. Validate important assumptions with Python, SQL, API integrations or infrastructure prototypes, then work with engineers on implementation. Specify access controls, evaluation, observability and human approval steps for enterprise RAG and agentic workflows. What you bring Current university enrollment in a relevant technical discipline, combined with substantial hands-on experience building software or data systems. Evidence that you have delivered systems used by others and can explain your own design choices, implementation and operational lessons. Strong Python and SQL skills, practical cloud experience and an understanding of APIs, data modeling and deployment. Applied understanding of large language models, retrieval-augmented generation and the data foundations these systems require. The judgement to own a defined workstream, surface risks early and communicate technical decisions clearly in English. Experience with Amazon Bedrock, Anthropic Claude, Terraform, Lakehouse architecture or technical discovery with business stakeholders is valuable. Depth in one relevant environment matters more than familiarity with every platform. What you can expect You will contribute to customer-facing architecture and implementation, work closely with the foun"
   },
   {
    "id": "li_4478869543",
