@@ -1,9 +1,31 @@
 {
- "generated": "2026-11-18T10:41",
+ "generated": "2026-11-18T11:57",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
  "count": 55,
  "items": [
+  {
+   "id": "li_4492006407",
+   "src": "LinkedIn",
+   "title": "Pädagogische Fachkraft (w/m/d) für die Kindertageseinrichtung St. Michael",
+   "firma": "Stadt Achern",
+   "ort": "Achern",
+   "plz": "",
+   "street": "",
+   "lat": 48.6300161,
+   "lon": 8.0735581,
+   "url": "https://de.linkedin.com/jobs/view/4492006407",
+   "posted": "2026-11-18",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 19.4,
+   "kind": "Kita / Krippe",
+   "ausb": false,
+   "first_seen": "2026-11-18T11:11",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "li_4461528816",
    "src": "LinkedIn",
@@ -976,30 +998,6 @@
    "also_urls": []
   },
   {
-   "id": "ba_10001-1003940305-S",
-   "src": "Jobbörse",
-   "title": "Pädagogische Fackraft als stellv. Leitung (m/w/d) für Kindergarten & Kinderkrippe",
-   "firma": "Malusila Kinderbetreuung GmbH",
-   "ort": "Offenburg",
-   "plz": "77652",
-   "street": "Hubert-Burda-Platz 2a",
-   "lat": 48.463551,
-   "lon": 7.9402275,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003940305-S",
-   "posted": "2026-10-30",
-   "ab": "2026-11-02",
-   "zeit": "Vollzeit / Teilzeit",
-   "befristet": false,
-   "quer": false,
-   "beruf": "Erzieher/in",
-   "km": 1.5,
-   "kind": "Kita / Krippe",
-   "ausb": false,
-   "first_seen": "2026-11-03T17:32",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "ba_10000-1204217712-S",
    "src": "Jobbörse",
    "title": "Pädagogische Fachkräfte (m/w/d) oder Ausbildung (ab September 2027)",
@@ -1246,6 +1244,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },

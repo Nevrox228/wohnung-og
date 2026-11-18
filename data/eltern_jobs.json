@@ -1,9 +1,1482 @@
 {
- "generated": "2026-11-18T10:41",
+ "generated": "2026-11-18T11:57",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 864,
+ "count": 873,
  "items": [
+  {
+   "id": "marina:ba_14527-k61529.1838-S",
+   "src": "Jobbörse",
+   "title": "Qualitätsmitarbeiter (m/w/d)",
+   "firma": "acrobat Personaldienstleistungen GmbH",
+   "ort": "Achern",
+   "street": "",
+   "lat": 48.6337461,
+   "lon": 8.0388651,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1838-S",
+   "posted": "2026-11-18",
+   "desc": "# Wir bringen zusammen, was zusammen gehört! Die acrobat GmbH bringt seit über 28 Jahren Mitarbeiter und Unternehmen erfolgreich zusammen. Mit uns gemeinsam finden Sie den perfekten Job! Einen, bei dem Sie Ihre persönlichen Fähigkeiten einsetzen können und bei dem Sie sich richtig wohl fühlen. \\# Jobs mit Aussicht # Qualitätsmitarbeiter (m/w/d) in Achern # Ihre Aufgaben: - Maschinenbedienung - Sichtkontrolle - Endkontrolle # Ihr Profil: - Sie bringen Erfahrung in der Produktion mit. - Sie verfügen über handwerkliches Geschick. - Sie sind motiviert und leistungsbereit. - Sie sind bereit in 2 - 3 Schichten zu arbeiten. # Das bieten wir Ihnen: - Bei unserem Kunden haben Sie die Möglichkeit, Ihre Erfahrungen und Kenntnisse einzubringen und Ihr Wissen zu erweitern. - Es erwartet Sie ein freundliches Team sowie eine persönliche Betreuung bei acrobat und bei unseren Kunden. - Sie erhalten Urlaubs- und Weihnachtsgeld nach der Probezeit sowie eine leistungsgerechte Bezahlung gemäß dem GVP-Tarifvertrag. - Wir stellen Ihnen kostenlose Arbeitskleidung zur Verfügung.",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": false,
+   "who": "marina",
+   "km": 11.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Achern",
+      "dep": "06:25",
+      "arr": "07:36",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Achern",
+        "to": "работа",
+        "dep": "06:58",
+        "arr": "07:36",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 71
+     },
+     {
+      "kind": "велосипед",
+      "min": 62,
+      "changes": 0,
+      "km": 15.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 62
+       }
+      ],
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 115,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 24,
+      "end_stop": "Großweier Seehotel",
+      "dep": "06:32",
+      "arr": "08:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Gamshurst Ziegelhütte",
+        "dep": "07:16",
+        "arr": "07:31",
+        "wait": 4,
+        "min": 15
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Gamshurst Ziegelhütte",
+        "to": "Großweier Seehotel",
+        "dep": "08:02",
+        "arr": "08:04",
+        "wait": null,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Großweier Seehotel",
+        "to": "работа",
+        "dep": "08:04",
+        "arr": "08:27",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 133
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3440492266",
+   "src": "Kleinanzeigen",
+   "title": "Minijob Teilzeitjob Allrounder Maurer, Trockenbauer, Fliesenleger",
+   "firma": "Santo Homecompany",
+   "ort": "Bühlertal",
+   "plz": "77830",
+   "street": "",
+   "lat": 48.6829831,
+   "lon": 8.1971214,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/minijob-teilzeitjob-allrounder-maurer-trockenbauer-fliesenleger/3440492266-107-8750",
+   "posted": "2026-11-18",
+   "posted_time": "11:05",
+   "desc": "Wir suchen Verstärkung! Minijob - Teilzeit - Vollzeit Hausmeister und Allround-Handwerker (m/w/d) das solltest du können: - ausführen handwerklicher Reparaturen jeglicher Art - Reinigung von Außenanlagen - Winterdienst - Pflege von Grünanlagen wenn du das noch kannst: - Trockenbau - Tapezieren - Garten- Landschaftsbauer - Bodenlegen was wir von dir erwarten: -belastbar und flexibel - handwerkliches Geschick in Renovierung und Sanierung - Sorgfalt, Zuverlässigkeit und Teamfähigkeit sind keine Fremdworte. was wir bieten - Vergütung - Stets fair und leistungsgerecht - Tolles Arbeitsklima - Viel Abwechslung was du jetzt tun musst ist keine Bewerbung zu schreiben. Mich interessieren nicht dein Lebenslauf und auch nicht deine Noten. Unser Interesse sind deine Hände die künstlerisch arbeiten können. Du willst dich bei uns bewerben? Dann ruf mich einfach persönlich an unter der Nummer 015257306918 an Bei weiteren Fragen stehe ich sehr gerne zur Verfügung",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 18.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 77,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 8,
+      "end_stop": "Bühlertal Post",
+      "dep": "06:32",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "263",
+        "from": "Bühl (Baden)",
+        "to": "Bühlertal Post",
+        "dep": "07:28",
+        "arr": "07:42",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühlertal Post",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:49",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 83
+     },
+     {
+      "kind": "велосипед",
+      "min": 108,
+      "changes": 0,
+      "km": 26.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 108
+       }
+      ],
+      "risky": false,
+      "score": 196
+     }
+    ],
+    "best": "транспорт",
+    "min": 77,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3575177512",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Lagersteuerung (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lagersteuerung-m-w-d-/3575177512-247-8047",
+   "posted": "2026-11-18",
+   "posted_time": "10:52",
+   "desc": "Mitarbeiter Lagersteuerung (m/w/d) bei FIEGE Logistik Stiftung & Co. KG HIER BEWERBEN: https://www.stepstone.de/job/14738123/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Wir sind FIEGE. Ein Familienunternehmen, das innovative Geschäftsmodelle in den Bereichen Logistik, Digital, Real Estate und Ventures vorantreibt - und das seit über 150 Jahren. Als Innovationsführer in der Branche beschäftigen wir bei FIEGE mehr als 22.000 Mitarbeitende an rund 136 Standorten in 14 Ländern. Unsere Unternehmenskultur und der FIEGE-Erfolgsspirit machen uns einzigartig und verbinden alle unsere Kolleginnen und Kollegen. Denn wir leben familiäre Werte und ein respektvolles Miteinander. Die gemeinsame Basis dafür bildet der FIEGE Kompass mit unseren Grundsätzen für eine wertschätzende Zusammenarbeit und gute Führung. Damit legen wir den Grundstein für eine starke Gemeinschaft heute, morgen und für zukünftige Generationen. Wir suchen für unser Team Lager im Geschäftsbereich Executive Board am Standort Lahr zum nächstmöglichen Zeitpunkt Unterstützung als Mitarbeiter Lagersteuerung (m/w/d). Standort Lahr Anstellungsart Vollzeit Ab sofort Mitarbeiter Lagersteuerung (m/w/d) Aufgaben ● Du überwachst und steuerst, mit Hilfe des Stapler Leitsystems, die termingerechte Abwicklung von Aufträgen und Prozessen im Lager. ● Du berücksichtigst die Staplerauslastungen und Produktivität in der Einlagerung und Kommissionierung. ● Du erstellst Liefer- und Begleitdokumente (z. B. Lieferscheine, Kommissionierscheine) und übernimmst die Abfertigung von Fahrern. ● Du koordinierst Warenein- und -ausgänge, Rampenprozesse und Auftragslisten. ● Du bearbeitest KPIs, führst einfache Auswertungen durch und bereitest Daten für Statistiken auf. ● Du führst Systembuchungen durch und pflegst relevante Daten im Warenwirtschaftssystem. ● Du kommunizierst regelmäßig mit Kunden, Fahrern, Teamleitern und internen Abteilungen. ● Du unterstützt bei Prozessoptimierungen und hältst betriebliche Richtlinien sowie Qualitäts- und Sicherheitsvorgaben ein. ● Du übernimmst Sonderkontrollen, Platzkontrollen oder Aufgaben im Lagerbereich, wenn nötig. Profil ● Du hast eine Ausbildung im kaufmännischen Bereich oder in der Logistik - Quereinsteiger*innen sind je nach Standort ebenfalls willkommen. ● Du bringst Erfahrung in der Lagerlogistik, Auftragssteuerung oder einem ähnlichen Bereich mit - oder arbeitest dich schnell ein. ● Du kennst dich gut mit MS Office aus und kannst mit Lager- oder Warenwirtschaftssystemen arbeiten. ● Du arbeitest genau, zuverlässig und behältst den Überblick - auch bei vielen parallelen Aufgaben. ● Du kommunizierst sicher in Deutsch; weitere Sprachen sind von Vorteil. ● Du bist flexibel, teamfähig und kannst gut mit unterschiedlichen Ansprechpartnern umgehen. ● Du handelst lösungsorientiert und gehst mit Störungen oder Abweichungen souverän um. ● Du bist bereit zur Schichtarbeit (Früh/Spät/Wechsel) und hast idealerweise einen Staplerschein. Wir bieten ● spannende Aufgaben in internationalen Märkten ● Karrierechancen ohne Umwege ● frühe Übernahme von Verantwortung mit viel Freiraum ● exzellente Perspektiven durch individuelle Förderung ● ein sicherer Arbeitsplatz in einem familiären Umfeld ● Spaß und Begeisterung im Team KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast eine Ausbildung im kaufmännischen Bereich oder in der Logistik",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3575185474",
+   "src": "Kleinanzeigen",
+   "title": "Assembly & Production Assistant (m/f/d) - Minijob",
+   "firma": "Stepstone",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/assembly-production-assistant-m-f-d-minijob/3575185474-107-9040",
+   "posted": "2026-11-18",
+   "posted_time": "10:59",
+   "desc": "Assembly & Production Assistant (m/f/d) - Minijob bei HyperHeat HIER BEWERBEN: https://www.stepstone.de/job/14698866/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Hi there, and welcome!HyperHeat is building electric high-temperature heating systems to replace fossil burners in the most demanding industrial processes, transforming an industry responsible for roughly 20% of global CO₂ emissions. We are at a point where it is about making hard technology work in real plants, under real economic constraints. We are looking for an Assembly & Production Assistant (m/f/d) to join our team in Offenburg. This flexible seasonal role is focused on practical craftsmanship and hands-on manufacturing support, specifically wire assembly and component preparation. Aufgaben What you'll be doing: ● Assemble wires and prepare small parts by hand. ● Do accurate, high-quality work on daily tasks. ● Keep the workshop clean and tidy. ● Label storage locations, containers and materials. ● Sort incoming material and consumables. ● Note improvement ideas (handling aids, fixtures, layouts) and discuss them with the team. ● Support updates of work instructions with photos and short descriptions. Profil What you'll bring to the team:Must-have: ● Good spoken German and/or English. ● Good manual skills and attention to detail. ● Organized, dependable, and detail-oriented. ● Sense for order and cleanliness ● Ability to work onsite in Offenburg, Germany. ● Flexible availability for ~4-8 hours per week. Even better if you have: ● Past experience with cables, basic electronics, or craft work. ● Basic knowledge of 5S or lean methods. Wir bieten Working at HyperHeatWhat's in It for You & Working at HyperHeat ● Direct Climate Impact: The opportunity to support hands-on hardware development solving one of the hardest industrial decarbonization problems of this decade. ● High Flexibility: High flexibility in how you schedule your ~4-8 weekly working hours to fit around your studies or personal commitments. ● Great Team Culture: A friendly, supportive workshop environment with high trust, low politics, and direct collaboration with our engineering team. ● Perks & Safety: Onsite workshop setup with all necessary tools and safety gear provided, plus team activities and annual Christmas dinner. ● We speak English at HyperHeat to collaborate smoothly across backgrounds Hiring Process Our hiring process is designed to be fast, structured, and close to real work. ● Intro call 15-20 minutes to align on motivation, practical fit, and weekly schedule availability. ● Workshop Visit 30-45 minutes onsite in Offenburg to view the workshop, try sample wire assembly, and meet the team. ● Decision We move quickly and communicate clearly at every step. We are building a team with diverse perspectives and backgrounds and we welcome applications from underrepresented groups. Note: We currently do not offer visa sponsorships or relocation support. You must already have the legal right to work in the EU in order to apply. KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_16388-ZFGF9HEY3DWTBKPQ-S",
+   "src": "Jobbörse",
+   "title": "Kommissionierer (m/w/d) mit Staplerschein in Gengenbach",
+   "firma": "Fahrner Network GmbH Niederlassung Horb",
+   "ort": "Gengenbach",
+   "street": "",
+   "lat": 48.401978158,
+   "lon": 8.024364357,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16388-ZFGF9HEY3DWTBKPQ-S",
+   "posted": "2026-11-18",
+   "desc": "###### Zusammenfassung Wir suchen ab sofort Kommissionier \\(m/w/d\\) mit Staplerschein in Vollzeit für unseren Kunden in Gengenbach im 2-Schichtsystem. ###### Über den Kunden **FAHRNER GRUPPE** Gegründet im Jahr 1923 steht Fahrner seit über 100 Jahren auf dem Gebiet der Logistik für inhabergeführtes Unternehmertum – persönlich, zuverlässig, kompetent. Die Fahrner Network GmbH als Teil der Fahrner Gruppe ist ein starkes und international agierendes Unternehmen. Die Schwerpunkte liegen in der Übernahme komplexer Dienstleistungen entlang einer Wertschöpfungskette. ###### Beschreibung **Ihre Aufgaben** - Kommissionieren von Waren nach Auftrag - Scannen und Verpacken von Artikeln - Bedienung von Flurförderfahrzeugen - Unterstützung bei Lagerorganisation und Bestandskontrollen ###### Anforderungen **Ihre Qualifikation** - Gültiger Staplerschein und Erfahrung im Umgang mit Flurförderzeugen - Erfahrung im Lager- und Logistikbereich von Vorteil - Zuverlässige und sorgfältige Arbeitsweise - Körperliche Belastbarkeit und Teamfähigkeit - Bereitschaft zur Schichtarbeit \\(2-Schicht\\) ###### Was wir bieten **Ihre Vorteile** - unbefristeter Arbeitsvertrag mit attraktiver Vergütung und Sozialleistungen, sowie übertarifliche Bezahlung - Lohnsteigerung durch tarifliche Branchenzuschläge - Urlaubs- und Weihnachtsgeld - Zuschläge für Mehr-, Schicht-, Sonn- und Feiertagsarbeit Möglichkeit von Abschlagszahlungen zur finanziellen Flexibilität - Bis zu 30 Urlaubstage pro Jahr - Kostenfreie Vorsorgeuntersuchungen sowie Bereitstellung von Arbeitskleidung - Professionelle Betreuung durch das gesamte Fahrner Network Team – von der Bewerbung bis zum Vertragsabschluss - Gute Übernahmechancen bei renommierten Unternehmen ###### Mehr Informationen **Werden Sie Teil unseres Teams!** Wir nehmen uns die Zeit, Sie persönlich kennenzulernen und einen für Sie passenden Job zu finden. Auf Basis Ihres individuellen Werdegangs, Ihrer Ambitionen sowie Fähigkeiten entwickeln wir gemeinsam den besten Weg für Ihre Karriere. In unserer Stellenbörse finden Sie unsere aktuellen Jobangebote **www.fahrner-job.com**. Wir haben Ihr Interesse geweckt? Dann bewerben Sie sich noch heute. Gerne können Sie uns wie folgt kontaktieren: - Telefon: +49 7443 96 76 80 15 - WhatsApp: +49 174 34 29 301 - E-Mail: personal@fahrnernetwork.com **Wir freuen uns, bald von Ihnen zu hören!**",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 15.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Kommissionierer (m/w/d) mit Staplerschein in Gengenbach",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 94,
+      "changes": 0,
+      "km": 22.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 94
+       }
+      ],
+      "risky": false,
+      "score": 168
+     }
+    ],
+    "best": "велосипед",
+    "min": 94,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_14527-k61529.1838-S",
+   "src": "Jobbörse",
+   "title": "Qualitätsmitarbeiter (m/w/d)",
+   "firma": "acrobat Personaldienstleistungen GmbH",
+   "ort": "Achern",
+   "street": "",
+   "lat": 48.6337461,
+   "lon": 8.0388651,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1838-S",
+   "posted": "2026-11-18",
+   "desc": "# Wir bringen zusammen, was zusammen gehört! Die acrobat GmbH bringt seit über 28 Jahren Mitarbeiter und Unternehmen erfolgreich zusammen. Mit uns gemeinsam finden Sie den perfekten Job! Einen, bei dem Sie Ihre persönlichen Fähigkeiten einsetzen können und bei dem Sie sich richtig wohl fühlen. \\# Jobs mit Aussicht # Qualitätsmitarbeiter (m/w/d) in Achern # Ihre Aufgaben: - Maschinenbedienung - Sichtkontrolle - Endkontrolle # Ihr Profil: - Sie bringen Erfahrung in der Produktion mit. - Sie verfügen über handwerkliches Geschick. - Sie sind motiviert und leistungsbereit. - Sie sind bereit in 2 - 3 Schichten zu arbeiten. # Das bieten wir Ihnen: - Bei unserem Kunden haben Sie die Möglichkeit, Ihre Erfahrungen und Kenntnisse einzubringen und Ihr Wissen zu erweitern. - Es erwartet Sie ein freundliches Team sowie eine persönliche Betreuung bei acrobat und bei unseren Kunden. - Sie erhalten Urlaubs- und Weihnachtsgeld nach der Probezeit sowie eine leistungsgerechte Bezahlung gemäß dem GVP-Tarifvertrag. - Wir stellen Ihnen kostenlose Arbeitskleidung zur Verfügung.",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": false,
+   "who": "mykyta",
+   "km": 11.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Achern",
+      "dep": "06:25",
+      "arr": "07:36",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Achern",
+        "to": "работа",
+        "dep": "06:58",
+        "arr": "07:36",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 71
+     },
+     {
+      "kind": "велосипед",
+      "min": 62,
+      "changes": 0,
+      "km": 15.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 62
+       }
+      ],
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 115,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 24,
+      "end_stop": "Großweier Seehotel",
+      "dep": "06:32",
+      "arr": "08:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Gamshurst Ziegelhütte",
+        "dep": "07:16",
+        "arr": "07:31",
+        "wait": 4,
+        "min": 15
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Gamshurst Ziegelhütte",
+        "to": "Großweier Seehotel",
+        "dep": "08:02",
+        "arr": "08:04",
+        "wait": null,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Großweier Seehotel",
+        "to": "работа",
+        "dep": "08:04",
+        "arr": "08:27",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 133
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3575177512",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Lagersteuerung (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lagersteuerung-m-w-d-/3575177512-247-8047",
+   "posted": "2026-11-18",
+   "posted_time": "10:52",
+   "desc": "Mitarbeiter Lagersteuerung (m/w/d) bei FIEGE Logistik Stiftung & Co. KG HIER BEWERBEN: https://www.stepstone.de/job/14738123/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Wir sind FIEGE. Ein Familienunternehmen, das innovative Geschäftsmodelle in den Bereichen Logistik, Digital, Real Estate und Ventures vorantreibt - und das seit über 150 Jahren. Als Innovationsführer in der Branche beschäftigen wir bei FIEGE mehr als 22.000 Mitarbeitende an rund 136 Standorten in 14 Ländern. Unsere Unternehmenskultur und der FIEGE-Erfolgsspirit machen uns einzigartig und verbinden alle unsere Kolleginnen und Kollegen. Denn wir leben familiäre Werte und ein respektvolles Miteinander. Die gemeinsame Basis dafür bildet der FIEGE Kompass mit unseren Grundsätzen für eine wertschätzende Zusammenarbeit und gute Führung. Damit legen wir den Grundstein für eine starke Gemeinschaft heute, morgen und für zukünftige Generationen. Wir suchen für unser Team Lager im Geschäftsbereich Executive Board am Standort Lahr zum nächstmöglichen Zeitpunkt Unterstützung als Mitarbeiter Lagersteuerung (m/w/d). Standort Lahr Anstellungsart Vollzeit Ab sofort Mitarbeiter Lagersteuerung (m/w/d) Aufgaben ● Du überwachst und steuerst, mit Hilfe des Stapler Leitsystems, die termingerechte Abwicklung von Aufträgen und Prozessen im Lager. ● Du berücksichtigst die Staplerauslastungen und Produktivität in der Einlagerung und Kommissionierung. ● Du erstellst Liefer- und Begleitdokumente (z. B. Lieferscheine, Kommissionierscheine) und übernimmst die Abfertigung von Fahrern. ● Du koordinierst Warenein- und -ausgänge, Rampenprozesse und Auftragslisten. ● Du bearbeitest KPIs, führst einfache Auswertungen durch und bereitest Daten für Statistiken auf. ● Du führst Systembuchungen durch und pflegst relevante Daten im Warenwirtschaftssystem. ● Du kommunizierst regelmäßig mit Kunden, Fahrern, Teamleitern und internen Abteilungen. ● Du unterstützt bei Prozessoptimierungen und hältst betriebliche Richtlinien sowie Qualitäts- und Sicherheitsvorgaben ein. ● Du übernimmst Sonderkontrollen, Platzkontrollen oder Aufgaben im Lagerbereich, wenn nötig. Profil ● Du hast eine Ausbildung im kaufmännischen Bereich oder in der Logistik - Quereinsteiger*innen sind je nach Standort ebenfalls willkommen. ● Du bringst Erfahrung in der Lagerlogistik, Auftragssteuerung oder einem ähnlichen Bereich mit - oder arbeitest dich schnell ein. ● Du kennst dich gut mit MS Office aus und kannst mit Lager- oder Warenwirtschaftssystemen arbeiten. ● Du arbeitest genau, zuverlässig und behältst den Überblick - auch bei vielen parallelen Aufgaben. ● Du kommunizierst sicher in Deutsch; weitere Sprachen sind von Vorteil. ● Du bist flexibel, teamfähig und kannst gut mit unterschiedlichen Ansprechpartnern umgehen. ● Du handelst lösungsorientiert und gehst mit Störungen oder Abweichungen souverän um. ● Du bist bereit zur Schichtarbeit (Früh/Spät/Wechsel) und hast idealerweise einen Staplerschein. Wir bieten ● spannende Aufgaben in internationalen Märkten ● Karrierechancen ohne Umwege ● frühe Übernahme von Verantwortung mit viel Freiraum ● exzellente Perspektiven durch individuelle Förderung ● ein sicherer Arbeitsplatz in einem familiären Umfeld ● Spaß und Begeisterung im Team KLED1_DE",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast eine Ausbildung im kaufmännischen Bereich oder in der Logistik",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3440492266",
+   "src": "Kleinanzeigen",
+   "title": "Minijob Teilzeitjob Allrounder Maurer, Trockenbauer, Fliesenleger",
+   "firma": "Santo Homecompany",
+   "ort": "Bühlertal",
+   "plz": "77830",
+   "street": "",
+   "lat": 48.6829831,
+   "lon": 8.1971214,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/minijob-teilzeitjob-allrounder-maurer-trockenbauer-fliesenleger/3440492266-107-8750",
+   "posted": "2026-11-18",
+   "posted_time": "11:05",
+   "desc": "Wir suchen Verstärkung! Minijob - Teilzeit - Vollzeit Hausmeister und Allround-Handwerker (m/w/d) das solltest du können: - ausführen handwerklicher Reparaturen jeglicher Art - Reinigung von Außenanlagen - Winterdienst - Pflege von Grünanlagen wenn du das noch kannst: - Trockenbau - Tapezieren - Garten- Landschaftsbauer - Bodenlegen was wir von dir erwarten: -belastbar und flexibel - handwerkliches Geschick in Renovierung und Sanierung - Sorgfalt, Zuverlässigkeit und Teamfähigkeit sind keine Fremdworte. was wir bieten - Vergütung - Stets fair und leistungsgerecht - Tolles Arbeitsklima - Viel Abwechslung was du jetzt tun musst ist keine Bewerbung zu schreiben. Mich interessieren nicht dein Lebenslauf und auch nicht deine Noten. Unser Interesse sind deine Hände die künstlerisch arbeiten können. Du willst dich bei uns bewerben? Dann ruf mich einfach persönlich an unter der Nummer 015257306918 an Bei weiteren Fragen stehe ich sehr gerne zur Verfügung",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 18.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Другое",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 77,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 8,
+      "end_stop": "Bühlertal Post",
+      "dep": "06:32",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "263",
+        "from": "Bühl (Baden)",
+        "to": "Bühlertal Post",
+        "dep": "07:28",
+        "arr": "07:42",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühlertal Post",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:49",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 83
+     },
+     {
+      "kind": "велосипед",
+      "min": 108,
+      "changes": 0,
+      "km": 26.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 108
+       }
+      ],
+      "risky": false,
+      "score": 196
+     }
+    ],
+    "best": "транспорт",
+    "min": 77,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3575185474",
+   "src": "Kleinanzeigen",
+   "title": "Assembly & Production Assistant (m/f/d) - Minijob",
+   "firma": "Stepstone",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/assembly-production-assistant-m-f-d-minijob/3575185474-107-9040",
+   "posted": "2026-11-18",
+   "posted_time": "10:59",
+   "desc": "Assembly & Production Assistant (m/f/d) - Minijob bei HyperHeat HIER BEWERBEN: https://www.stepstone.de/job/14698866/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Hi there, and welcome!HyperHeat is building electric high-temperature heating systems to replace fossil burners in the most demanding industrial processes, transforming an industry responsible for roughly 20% of global CO₂ emissions. We are at a point where it is about making hard technology work in real plants, under real economic constraints. We are looking for an Assembly & Production Assistant (m/f/d) to join our team in Offenburg. This flexible seasonal role is focused on practical craftsmanship and hands-on manufacturing support, specifically wire assembly and component preparation. Aufgaben What you'll be doing: ● Assemble wires and prepare small parts by hand. ● Do accurate, high-quality work on daily tasks. ● Keep the workshop clean and tidy. ● Label storage locations, containers and materials. ● Sort incoming material and consumables. ● Note improvement ideas (handling aids, fixtures, layouts) and discuss them with the team. ● Support updates of work instructions with photos and short descriptions. Profil What you'll bring to the team:Must-have: ● Good spoken German and/or English. ● Good manual skills and attention to detail. ● Organized, dependable, and detail-oriented. ● Sense for order and cleanliness ● Ability to work onsite in Offenburg, Germany. ● Flexible availability for ~4-8 hours per week. Even better if you have: ● Past experience with cables, basic electronics, or craft work. ● Basic knowledge of 5S or lean methods. Wir bieten Working at HyperHeatWhat's in It for You & Working at HyperHeat ● Direct Climate Impact: The opportunity to support hands-on hardware development solving one of the hardest industrial decarbonization problems of this decade. ● High Flexibility: High flexibility in how you schedule your ~4-8 weekly working hours to fit around your studies or personal commitments. ● Great Team Culture: A friendly, supportive workshop environment with high trust, low politics, and direct collaboration with our engineering team. ● Perks & Safety: Onsite workshop setup with all necessary tools and safety gear provided, plus team activities and annual Christmas dinner. ● We speak English at HyperHeat to collaborate smoothly across backgrounds Hiring Process Our hiring process is designed to be fast, structured, and close to real work. ● Intro call 15-20 minutes to align on motivation, practical fit, and weekly schedule availability. ● Workshop Visit 30-45 minutes onsite in Offenburg to view the workshop, try sample wire assembly, and meet the team. ● Decision We move quickly and communicate clearly at every step. We are building a team with diverse perspectives and backgrounds and we welcome applications from underrepresented groups. Note: We currently do not offer visa sponsorships or relocation support. You must already have the legal right to work in the EU in order to apply. KLED1_DE",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 10.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "alexey:ka_3575192207",
+   "src": "Kleinanzeigen",
+   "title": "Saisonkraft (m/w/d) für die Grünpflege mit 10,0 Wochenstunden",
+   "firma": "Ergebnisse",
+   "ort": "Oberkirch",
+   "plz": "77704",
+   "street": "",
+   "lat": 48.5216194,
+   "lon": 8.0670732,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/saisonkraft-m-w-d-fuer-die-gruenpflege-mit-10-0-wochenstunden/3575192207-123-8226",
+   "posted": "2026-11-18",
+   "posted_time": "11:05",
+   "desc": "Saisonkraft (m/w/d) für die Grünpflege mit 10,0 Wochenstunden bei Stadt Oberkirch Stadtverwaltung KöR HIER BEWERBEN: https://www.stepstone.de/job/14739023/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Die Stadt Oberkirch im Mittleren Schwarzwald - 20 Kilometer von Straßburg entfernt - verfügt über eine gesunde Wirtschaftsstruktur. Mit der Stadt Renchen und der Gemeinde Lautenbach besteht eine vereinbarte Verwaltungsgemeinschaft. Neben allen weiterführenden Schulen bietet Oberkirch ein großes Kultur-, Sport- und Freizeitangebot. Mit rund 500 Mitarbeiterinnen und Mitarbeitern ist die Stadtverwaltung einer der größten Arbeitgeber in Oberkirch. In den unterschiedlichsten Bereichen bieten wir einen umfassenden Service. Wir verstehen uns als ein modernes und leistungsfähiges Dienstleistungsunternehmen mit einem breiten Leistungsspektrum. Wir suchen Fachleute verschiedenster Ausrichtungen und bieten eine große berufliche Vielfalt und Perspektive. Bei uns gibt es variable Arbeitszeitmodelle, sehr gute Fort- und Weiterbildungsmöglichkeiten und eine Perspektive für Ihre Zukunft. Aufgaben ● Mithilfe in der Grünflächenpflege der Ortschaft Zusenhofen ● Reinigungsarbeiten, Sauberhaltung der Grünanlagen, Spielflächen, Rathausareal etc. in der Ortschaft Zusenhofen. Profil ● Freude an einem sauberen Erscheinungsbild der Ortschaft Zusenhofen Wir bieten ● eine befristete Anstellung als Saisonkraft vom 1. April 2027 bis zum 31. Oktober 2027 mit 10,0 Wochenstunden ● bei entsprechender Leistung kann ein Dauersaisonvertrag in Aussicht gestellt werden ● einen abwechslungsreichen Arbeitsplatz mit geregelten Arbeitszeiten ● Ihr Einsatz zahlt sich aus: Wir belohnen Ihr Engagement mit leistungsgerechter Eingruppierung in Entgeltgruppe 3 TVöD (je nach Erfahrung von 760 € bis 900 €). KLED1_DE",
+   "zeit": "",
+   "who": "alexey",
+   "approx": true,
+   "km": 1.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уход за зеленью",
+   "first_seen": "2026-11-18T11:11",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 11,
+      "changes": 0,
+      "km": 2.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 11
+       }
+      ],
+      "risky": false,
+      "score": 11
+     },
+     {
+      "kind": "транспорт",
+      "min": 26,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 12,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:26",
+      "arr": "07:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:26",
+        "arr": "07:34",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": null,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:52",
+        "min": 12
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 26
+     },
+     {
+      "kind": "пешком",
+      "min": 29,
+      "changes": 0,
+      "km": 2.2,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 29
+       }
+      ],
+      "risky": false,
+      "score": 29
+     }
+    ],
+    "best": "велосипед",
+    "min": 11,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Алексей"
+  },
   {
    "id": "marina:ba_13356-105550A38971C50-S",
    "src": "Jobbörse",
@@ -95099,167 +96572,6 @@
     "min": 40,
     "changes": 0
    },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_11119-4972276532-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d)",
-   "firma": "DEKRA Arbeit GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.4728461,
-   "lon": 7.974223,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4972276532-S",
-   "posted": "2026-10-20",
-   "desc": "Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Wir suchen eine zuverlässige Reinigungskraft (m/w/d) für ca. 2-3 Stunden pro Woche für die Reinigung unserer Büroräume in Offenburg während unserer Öffnungszeiten (08:00 bis 17:00 Uhr). Aufgaben: - Durchführung von Reinigungsarbeiten in verschiedenen Bereichen - Reinigung der Sanitärräume - Reinigung der Teeküche - Sicherstellung der Sauberkeit und Hygiene gemäß den vorgegebenen Standards Anforderungen: - Erfahrung im Bereich Reinigung ist wünschenswert, aber nicht zwingend erforderlich - Zuverlässigkeit und Pünktlichkeit - Flexibilität hinsichtlich Arbeitszeiten Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 10.2,
-   "de": "?",
-   "de_txt": "",
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 57,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 31,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:19",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:19",
-        "min": 31
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 57
-     },
-     {
-      "kind": "как в приложении",
-      "min": 60,
-      "changes": 1,
-      "min_wait": 12,
-      "walk_end": 11,
-      "end_stop": "Offenburg Zur Lindenhöhe",
-      "dep": "05:21",
-      "arr": "06:22",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Offenburg",
-        "line": "S5",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Zur Lindenhöhe",
-        "dep": "06:00",
-        "arr": "06:11",
-        "wait": 12,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Zur Lindenhöhe",
-        "to": "работа",
-        "dep": "06:11",
-        "arr": "06:22",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 63
-     },
-     {
-      "kind": "велосипед",
-      "min": 67,
-      "changes": 0,
-      "km": 16.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 67
-       }
-      ],
-      "risky": false,
-      "score": 114
-     }
-    ],
-    "best": "транспорт",
-    "min": 57,
-    "changes": 0
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
    "status": "open",
    "also_urls": [],
    "person": "Марина"
