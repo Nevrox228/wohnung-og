@@ -1,9 +1,32 @@
 {
- "generated": "2026-11-18T16:49",
+ "generated": "2026-11-18T17:48",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 53,
+ "count": 54,
  "items": [
+  {
+   "id": "ss_14622824",
+   "src": "StepStone",
+   "title": "Betreuungs- und Assistenzkräfte (w/m/d)",
+   "firma": "Hygge Betreuung M & F Betreuung und Pflege GmbH",
+   "ort": "Lahr",
+   "plz": "",
+   "street": "",
+   "lat": 48.338896,
+   "lon": 7.8710825,
+   "url": "https://www.stepstone.de/stellenangebote--Betreuungs-und-Assistenzkraefte-w-m-d-Lahr-Hygge-Betreuung-M-F-Betreuung-und-Pflege-GmbH--14622824-inline.html",
+   "posted": "2026-11-16",
+   "desc": "Hygge Betreuung GmbH schafft Sicherheit und Wohlbefinden für ältere und erkrankte Menschen in ihrem eigenen Zuhause. Gesucht wird eine Betreuungs- und Assistenzkraft (w/m/d) zur vollumfänglichen Unterstützung von Kunden im Alltag, bei Haushaltsaufgaben und Arztbesuchen. Engagement, Zuverlässigkeit, Respekt, Empathie und Kommunikationsfreudigkeit werden vorausgesetzt; ein Führerschein und Auto sind",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 16.3,
+   "kind": "Общее / другое",
+   "ausb": false,
+   "first_seen": "2026-11-18T17:19",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "ss_14653653",
    "src": "StepStone",
@@ -407,7 +430,9 @@
    "ausb": false,
    "first_seen": "2026-11-11T10:11",
    "status": "open",
-   "also_urls": []
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Verwaltungsmitarbeiterin-fuer-die-Ganztagsbetreuung-an-Grundschulen-Offenburg-Stadt-Offenburg--14741010-inline.html"
+   ]
   },
   {
    "id": "ss_14739059",

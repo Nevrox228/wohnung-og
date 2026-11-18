@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T16:49",
+ "generated": "2026-11-18T17:48",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 511,
-  "queue": 207,
-  "ai_focus": 270
+  "all": 518,
+  "queue": 208,
+  "ai_focus": 276
  },
  "jobs": [
   {
@@ -1720,6 +1720,34 @@
    "posted": "2026-11-03",
    "first_seen": "2026-11-04T12:29",
    "description": "📍 Dorsten, NRW 🕒 Werkstudent (bis zu 20 Std./Woche) ⏰ Arbeitszeit schwerpunktmäßig vormittags unter der Woche 🏁 Start: ab sofort 🏢 Zunächst überwiegend vor Ort in Dorsten, später teilweise Homeoffice denkbar Gestalte mit, wie KI einen Mittelständler verändert – mit Code, Daten und KI. Du baust mit KI lieber echte Lösungen, als nur darüber zu lesen? Dann tu es nicht länger nur für Uni-Projekte. Bei uns entwickelst Du Tools, Automatisierungen und Reportings für ein echtes Unternehmen – mit eigenem Lager, echten Kunden und Daten aus dem Tagesgeschäft. Dafür bekommst Du einen Claude-Zugang im höchsten Tarif, den Du ausreizen darfst. Ob Informatik, Wirtschaftsinformatik oder Data Science: Unser Geschäft erklären wir Dir. Bauen musst Du wollen. Wer wir sind E-M-C-direct ist ein inhabergeführter technischer Großhandel in Dorsten. Wir liefern Kabelschutz, Kabelbinder, Befestigungstechnik und Werkzeuge an Firmenkunden aus Fahrzeugbau, Industrie und Solarbranche, direkt ab unserem eigenen Lager – im DACH-Raum und zunehmend international. KI ist bei uns Chefsache: Die Geschäftsführung treibt das Thema selbst voran, und Du baust direkt mit. Dein Job Du findest gemeinsam mit Vertrieb, Einkauf, Lager und Marketing heraus, wo KI echte Arbeit abnimmt – und setzt es um. Du entwickelst interne Tools, kleine Web-Anwendungen, Skripte und KI-Agenten für EMC. Du verbindest unsere Systeme und ersetzt manuelle Routinen durch stabile, automatisierte Abläufe. Du ziehst Daten aus unserer Warenwirtschaft und weiteren Quellen und baust daraus Dashboards und Kennzahlen, mit denen wir entscheiden. Du hilfst beim Aufbau unserer KI- und Dateninfrastruktur: Schnittstellen, Datenmodelle, Berechtigungen, Dokumentation – sicher und datenschutzkonform. Du zeigst Deinen Kollegen, wie sie KI-Tools gut nutzen, damit Deine Lösungen im Alltag auch ankommen. Was Du mitbringst Du bist als Student eingeschrieben, idealerweise in Informatik, Wirtschaftsinformatik, Data Science oder einem ähnlichen Fach. Du programmierst sicher, am liebsten in Python, und kommst mit SQL, Datenbanken und Excel klar. Du arbeitest täglich mit KI-Tools wie Claude oder ChatGPT und hast schon eigene Projekte damit gebaut. Du packst an, lieferst Ergebnisse und arbeitest Dich selbstständig in neue Systeme ein, auch wenn nicht alles vorgegeben ist. Dich interessiert, wie ein Unternehmen tickt. Erfahrung mit Warenwirtschaft, E-Commerce oder Reporting ist ein Plus. Du gehst verantwortungsvoll mit Daten um und hast ein Gespür für Datenschutz und IT-Sicherheit. Du sprichst gut Deutsch, Englisch ist ein Plus. Du wohnst in Dorsten oder Umgebung und kannst uns gut erreichen. Was Dich hier erwartet Kein Einzelkämpfer-Job: Du arbeitest mit anderen Werkstudenten und Kollegen zusammen, die ebenfalls mit KI bauen. Ihr entwickelt gemeinsam Anwendungen, teilt Prompts und Kniffe und lernt voneinander. Echte Wirkung: Was Du baust, läuft im Tagesgeschäft. Du siehst sofort, ob es hilft. Top-Werkzeuge: Claude im höchsten Tarif und modern"
+  },
+  {
+   "id": "ba_10001-1004036469-S",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent / Berufseinsteiger: eCommerce, AI Tools, Productmanagement",
+   "company": "Schaufler GmbH",
+   "location": "Offenburg",
+   "distance_km": 11.3,
+   "remote": false,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004036469-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "STUNDENLOHN",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T17:19",
+   "description": "Unsere Passion ist es, den Schwarzwald und dessen Spezialitäten zu den Menschen nach Hause zu bringen - in ganz Europa. Wir suchen Dich, wenn Du Freude hast, uns bei der Steuerung unseres Business zu unterstützen. Wir geben Dir ein großes Netzwerk, viel Erfahrung, Coaching und die Möglichkeit zur persönlichen Weiterentwicklung. Wir sind ein kleiner Familien-Betrieb im Bereich Lebensmittel/Speazialitätenprodukte. Das ganze Jahr über verschicken wir täglich Spezialitäten aus unserer Region. Bestellungen bekommen wir von vielen Online Portalen, richten alles zusammen, verpacken es mit Liebe und sorgen dafür, dass es perfekt bei unseren begeisterten Kunden ankommt. Wir bieten: - Teilzeit / Vollzeit in Offenburg nähe Bahnhof (fußläufig) - Freundliches Arbeitsumfeld mit guter Laune - Arbeitszeit: Mo-Sa flexibel - Der Stundenlohn beginnt bei 16 Euro pro Stunde und entwickelt sich mit der Qualifikation Interesse geweckt? Dann melde Dich bitte unter 0151-67156812 (Telefon oder WhatsApp)."
   },
   {
    "id": "ss_14629424",
@@ -6022,7 +6050,9 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654259-1-S",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Werkstudentin-E-Systemintegration-fuer-Data-Engineering-und-Analytics-Sindelfingen-Mercedes-Benz-AG--14752250-inline.html"
+   ],
    "salary": "",
    "posted": "2026-11-16",
    "first_seen": "2026-11-16T16:28",
@@ -7781,6 +7811,37 @@
    "description": "Tätigkeitsbereich: Forschung & Entwicklung incl. Design Fachabteilung: MB.OS Software Provisioning Gesellschaft: Mercedes-Benz AG Standort: Sindelfingen Startdatum: 07.12.2026 Veröffentlichungsdatum: 07.12.2026 Stellennummer: MER000492O Arbeitszeit: Teilzeit Aufgaben Wir sind Teil der MB.OS (Mercedes-Benz Operating System) Developer Journey und entwickeln die PMT (Product Methods & Tools) Solution, die zentrale Plattform, die Fahrzeugentwickler*innen bei Mercedes-Benz die Prozesse, Methoden und Werkzeuge für ihre tägliche Arbeit bereitstellt. Unser Ziel ist es, komplexe Entwicklungsprozesse durch schlanke, toolgestützte Abläufe zu ersetzen und damit die Fahrzeugentwicklung effizienter zu gestalten. Dafür suchen wir eine Person, die KI (Künstliche Intelligenz) nicht nur nutzt, sondern versteht. Diese Herausforderungen kommen u. a. auf Dich zu: - Entwicklung und Integration von KI (Künstliche Intelligenz) -Komponenten (LLM-Agents, RAG-Pipelines, API-Anbindungen) in bestehende Plattformen - Softwareentwicklung mit TypeScript in modernen Technologie-Stacks (NestJS, Vue 3) einschließlich Testing und Code Reviews - Eigenverantwortliche Umsetzung abgegrenzter Features vom technischen Design bis zum Deployment - Mitarbeit bei Architektur- und Technologieentscheidungen als vollwertiges Teammitglied Du arbeitest direkt im Produktteam, nicht in einer Sandbox – Dein Code geht in Produktion. Wir erwarten, dass Du Entscheidungen begründen kannst, nicht nur prompten. Die Tätigkeit kann ab Dezember 2026 beginnen. Qualifikationen - Studiengang im Bereich Informatik, Wirtschaftsinformatik, Data Science oder ein vergleichbarer Studiengang - Sichere Deutsch- und Englischkenntnisse in Wort und Schrift - Engagement und Teamfähigkeit - Analytische Denkweise und strategische Arbeitsweise - Solide TypeScript-Kenntnisse – Du weißt, was Du tust, auch ohne KI (Künstliche Intelligenz) -Assistent - Grundkenntnisse in mindestens einem KI ((Künstliche Intelligenz) -Framework oder einer KI (Künstliche Intelligenz)-API (Application Programming Interface) (z. B. OpenAI API, LangChain, Hugging Face) - Verständnis von Software-Engineering-Grundsätzen wie Testing, Clean Code und Git-Workflows Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachte die maximale Dateigröße von 5 MB. Weiterführende Informationen zu den Einstellkriterien findest Duhier . Schwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess. People Solutions hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr "
   },
   {
+   "id": "ss_14763311",
+   "queue": false,
+   "missing_skills": [
+    "Java",
+    "C++"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)",
+   "company": "Mercedes-Benz Tech Innovation",
+   "location": "Ulm",
+   "distance_km": 140.9,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Praktikant-Software-Engineering-AI-Defect-Analysis-m-w-d-x-Ulm-Stuttgart-Mercedes-Benz-Tech-Innovation--14763311-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-18T17:19",
+   "description": "Mercedes-Benz ist ein globaler Automobilhersteller, der innovative Fahrzeuge und Softwarelösungen entwickelt. Gesucht wird ein Praktikant Software Engineering – AI Defect Analysis (m/w/d/x) zur Entwicklung von KI-gestützten Fehleranalyseprodukten. Ein Studium der Informatik oder eines vergleichbaren Studiengangs, Kenntnisse in Python, Java oder C++, Git-Erfahrung sowie Interesse an Cloud-Technologien und Generative AI werden vorausgesetzt."
+  },
+  {
    "id": "li_4477101658",
    "queue": false,
    "missing_skills": [
@@ -8310,6 +8371,36 @@
    "description": "Du hast bereits mit WordPress gearbeitet und Lust, Deine Web-Development-Skills in echten Projekten weiterzuentwickeln? In unserem Marketing-Team arbeitest Du an Websites und Landingpages mit und findest gemeinsam mit uns heraus, wo KI den Entwicklungsalltag noch ein bisschen smarter machen kann. ### Wo Du mit anpacken kannst - Du entwickelst und pflegst unsere WordPress-Websites und Landingpages und setzt kleinere Frontend-Anpassungen um. - Mit Tools wie Claude Code oder Codex holst Du Dir Unterstützung beim Coden, Troubleshooting und Lernen. Neue KI-Tools und Prompts probierst Du gerne aus. Was gut funktioniert, landet nicht in Deiner persönlichen Trickkiste, sondern direkt bei uns im Team. - Deine Code-Anpassungen hältst Du mit Git sauber auf Kurs. - Wenn irgendwo etwas hakt, gehst Du auf Fehlersuche und unterstützt bei kleineren Performance-Optimierungen. - Eigene Ideen für unsere Webauftritte sind ausdrücklich willkommen – schließlich sitzt Du nicht nur zum Zuschauen mit am Tisch. - Werkstudent:in bedeutet bei uns nicht nur zuschauen: Du bekommst echte Projekte, Raum zum Ausprobieren und eine Lernkurve, die Dich fordert, aber nicht ins kalte Wasser wirft. - Du arbeitest 20 Stunden pro Woche mit flexiblen Arbeitszeiten rund um Studium und Prüfungsphasen. Auch Homeoffice ist möglich, sodass sich der Job auch räumlich gut mit Deinem Studium verbinden lässt. ### Was Du mitbringen solltest - WordPress ist für Dich kein Neuland: Du hast bereits praktische Erfahrung damit gesammelt und kannst bestehende Websites eigenständig bearbeiten. Auch HTML, CSS und JavaScript sind Dir vertraut. - Page Builder wie Bricks Builder kennst Du vielleicht schon. Erste Berührungspunkte mit PHP und MySQL sind ebenfalls ein Plus, aber kein Muss. - KI musst Du bei uns nicht heimlich im zweiten Tab öffnen. Claude Code, Codex & Co. nutzt Du bereits im Studium oder privat und hast Lust, mit Prompting und neuen KI-Workflows zu experimentieren. - Mit Git und den Grundlagen der Versionsverwaltung bist Du bereits vertraut. - Du packst gerne selbst mit an, stellst Fragen und hast Lust, Deine Ideen in unser Marketing-Team einzubringen. - Um bei uns richtig Fuß zu fassen, beherrschst Du Deutsch fließend auf mindestens C1-Niveau. ### Warum wir? Wir sind ein offenes und ambitioniertes Team von über 600 Mitarbeitern, das Kundenorientierung wirklich lebt und gleichzeitig Spaß hat. Bei uns herrscht auch nach über 10 Jahren eine Startup-Atmosphäre, die neben dem legendären Obstkorb auch vielseitige Perks wie eine steuerfreie Shoppingkarte, Dienstrad-Leasing und Gesundheitskurse (z.B. Yoga, Rückentraining und mental Health) anbietet - sowohl online als auch im Büro. Je nach Einsatzgebiet (und das sind mindestens 75% aller Unternehmensbereiche) bieten wir all unseren Kollegen flexible Arbeitszeiten und Home Office an. Wir verstehen uns als eng zusammenhaltendes Team mit Kooperations- statt Wettbewerbs-Atmosphäre. Außerhalb der Arbeit organisieren wir Events wie Beachvolleyball im Sommer"
   },
   {
+   "id": "ba_13151-1655131-1-S",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Intern Digital Product & AI Engineering for Version Management",
+   "company": "Mercedes-Benz Group AG",
+   "location": "Sindelfingen",
+   "distance_km": 70.3,
+   "remote": false,
+   "german_level": "C1+",
+   "german_quote": "oned planning. The eVMS structures planning baselines, alternative scenarios, check requests and shop-spec",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655131-1-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Intern-Digital-Product-AI-Engineering-for-Version-Management-Sindelfingen-Mercedes-Benz-AG--14763481-inline.html"
+   ],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T17:19",
+   "description": "Tätigkeitsbereich: IT/Telekommunikation Fachabteilung: MO360 Engineering AI & Data Management Gesellschaft: Mercedes-Benz AG Standort: Sindelfingen Startdatum: 01.01.2027 Veröffentlichungsdatum: 01.01.2027 Stellennummer: MER00049MT Arbeitszeit: Teljes munkaidő Aufgaben Production Planning at Mercedes-Benz designs and industrializes the production systems required for future vehicle architectures. Its responsibilities span factory, logistics, body, paint and assembly planning. Teams coordinate changing vehicle requirements, production scenarios, investment decisions and planning results across multiple engineering disciplines and IT applications. The Engineering Version Management System, eVMS, supports this work through the concept of versioned planning. The eVMS structures planning baselines, alternative scenarios, check requests and shop-specific results. It provides traceable links between decisions, premises and engineering documents while leaving detailed planning work in the established specialist applications. Currently, we are in a phase of transitioning from software testing into operational rollout. At the same time, the project is extending the platform with AI-supported workflows, an internal agent, system connectors and integration with the broader engineering toolchain. Your Internship As an intern in the eVMS project, you will work at the intersection of production planning, digital product management, software development and applied artificial intelligence. You will help introduce eVMS into operational planning processes, shape the internal eVMS agent and translate user needs into structured requirements for the development team. This is not a purely administrative rollout role. You will work directly with users, developers and technical experts and contribute tangible improvements to the product. Tasks and Responsibilities Support the eVMS rollout: - Support the preparation and execution of rollout activities with production-planning projects and specialist departments - Help onboard key users and guide them through the versioned-planning methodology and the eVMS application - Prepare concise training materials, demonstrations, user guides and rollout communications - Facilitate testing sessions, interviews and feedback workshops with project managers, shop project leads and production-planning engineers - Document user feedback, usability issues, process gaps and rollout dependencies in a structured format - Support the definition of adoption indicators and evaluate how eVMS affects user experience, traceability and planning coordination - Help establish a scalable rollout approach that can be transferred to further projects, plants and planning units The current rollout approach deliberately combines practical user testing with structured feedback so that unclear functions and usability problems can be identified and transferred into product improvements. Guide the development of the internal eVMS agent: - Analyze user activit"
+  },
+  {
    "id": "ss_14627607",
    "queue": false,
    "missing_skills": [
@@ -8427,6 +8518,68 @@
    "posted": "2026-07-03",
    "first_seen": "2026-11-04T18:01",
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
+  },
+  {
+   "id": "ba_13151-1654989-1-S",
+   "queue": false,
+   "missing_skills": [
+    "Java",
+    "C++"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)",
+   "company": "Mercedes-Benz Group AG",
+   "location": "Stuttgart",
+   "distance_km": 78.5,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654989-1-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T17:19",
+   "description": "Tätigkeitsbereich: IT/Telekommunikation Gesellschaft: Mercedes-Benz Tech Innovation GmbH Standort: Stuttgart Startdatum: 01.01.2027 Veröffentlichungsdatum: 2027-01-01 Stellennummer: V000080978 Aufgaben Welche Aufgaben erwarten dich? - Als Praktikant Software Engineering – AI Defect Analysis (m/w/d/x) unterstützt du das Team bei der Entwicklung eines innovativen Softwareprodukts zur KI-gestützten Fehleranalyse. - Du wirkst bei der Entwicklung und Weiterentwicklung moderner Web-UIs und nutzerorientierter Funktionen mit. - Zudem unterstützt du bei der Entwicklung REST-basierter Backend-Komponenten und arbeitest mit containerisierten Softwarearchitekturen. - Du unterstützt beim Aufbau und der Weiterentwicklung der Cloud-Infrastruktur auf Microsoft Azure, beispielsweise mithilfe von Infrastructure-as-Code. - Du entwickelst und erprobst KI-, LLM- und AI-Agent-basierte Lösungen zur Analyse und Automatisierung. - Darüber hinaus arbeitest du aktiv am gesamten Entwicklungsprozess mit – von der Idee über die Implementierung und das Testing bis hin zur Integration – und bringst deine eigenen Ideen ein. Qualifikationen Wie passt du in unser Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt. Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions! - Du studierst Informatik, Software Engineering oder einen vergleichbaren Studiengang. - Du bringst Kenntnisse in Python, Java oder C++ sowie grundlegende Erfahrungen mit Git und Softwareentwicklungsprozessen mit. - Du interessierst dich für moderne Web- und UI-Entwicklung und hast idealerweise bereits erste praktische Erfahrungen in diesem Bereich gesammelt. - Du begeisterst dich für Cloud-Technologien wie Microsoft Azure, Infrastructure-as-Code oder REST-basierte Backend-Entwicklung. - Idealerweise bringst du erste Erfahrungen mit Generative AI, Large Language Models (LLMs) oder AI Agents mit. - Du arbeitest selbstständig, bist motiviert, Neues zu lernen, und bringst eine ausgeprägte Leidenschaft für Software und Technologie mit. Benefits - Barriere­frei­heit - Kantine, Café - Coaching - Mobilitäts­angebote - Mit­arbeiter Events - Mit­arbeiter­rabatte möglich - Mit­arbeiter­beteili­gung möglich - Mit­arbeiter­handy möglich - Essens­zulagen - Gesund­heits­maß­nahmen - Hybrides Arbeiten möglich - Lebens­langes Lernen - Betrieb­liche Alters­ver­sorgung - Park­platz - Gute An­bindung - Flexible Arbeits­zeit möglich Kontakt Gropiusplatz 10 70563 Stuttgart Wilhelm-Runge-Str. 11 89081 Ulm"
+  },
+  {
+   "id": "ss_14763312",
+   "queue": false,
+   "missing_skills": [
+    "Java",
+    "C++"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Intern Software Engineering - AI Defect Analysis (m/f/d/x)",
+   "company": "Mercedes-Benz Tech Innovation",
+   "location": "Ulm",
+   "distance_km": 140.9,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Intern-Software-Engineering-AI-Defect-Analysis-m-f-d-x-Ulm-Stuttgart-Mercedes-Benz-Tech-Innovation--14763312-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-18T17:19",
+   "description": "Mercedes-Benz Tech Innovation GmbH entwickelt innovative Softwareprodukte für die Automobilindustrie. Gesucht wird ein Intern Software Engineering – AI Defect Analysis (m/w/d), um an KI-gestützten Defektanalysesystemen mitzuwirken. Ein laufendes Studium in Informatik oder Software Engineering, Kenntnisse in Python, Java oder C++, Grundlagen in Git und Interesse an Cloud-Technologien wie Microsoft Azure werden vorausgesetzt."
   },
   {
    "id": "li_4491796927",
@@ -9008,7 +9161,9 @@
    "url": "https://de.linkedin.com/jobs/view/4478607055",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4491305747"
+   ],
    "salary": "",
    "posted": "2026-10-19",
    "first_seen": "2026-11-04T18:01",
@@ -9576,6 +9731,37 @@
    "posted": "2026-10-27",
    "first_seen": "2026-11-04T12:29",
    "description": "Wir suchen einen Werkstudenten Online-Redaktion (m/w/d) in München, der nicht davor zurückschreckt, mit KI zu arbeiten – sondern sie zu beherrschen. Bei uns schreibst du keine Texte im klassischen Sinne: Du entwickelst Inhalte, die durch die perfekte Kombination von kreativer Strategie, datenbasierter SEO und KI-unterstütztem Prompting glänzen. Gemeinsam mit unseren Account Managern und dem SEO-Team verbindest du Redaktion und Technologie, um für unsere Kunden echten Mehrwert zu schaffen. Das erwartet dich bei uns KI-gestützte Content-Kreation: Du nutzt KI nicht nur als Hilfsmittel, sondern als kreativen Sparringspartner. Du beherrschst das Prompting, optimierst Inhalte durch KI-Unterstützung und testest unsere selbst entwickelten KI-Tools auf Herz und Nieren. Redaktion & SEO: Du schreibst und strukturierst Texte für Websites, Blogs und Landingpages. Dabei hast du immer im Blick, wie Suchmaschinen und KI-Systeme Inhalte verstehen und ausspielen. Inhaltliche Kundenabstimmung: Du bist die fachliche Ansprechperson für unsere Kunden, wenn es um Feedback, Textanpassungen und Content-Details geht – unterstützt und entlastet durch unsere Account Manager. UX & Conversion-Fokus: Du lernst und verstehst, wie Inhalte aufgebaut sein müssen, damit sie Nutzer nicht nur sprachlich, sondern auch visuell und strukturell überzeugen. Technik & Tool-Verständnis: Du arbeitest intensiv mit unserer eigenen Performance Suite und erfährst hautnah, wie SEO-Daten erhoben, analysiert und für erfolgreichen Content genutzt werden. Das bringst du mit Studium: Du studierst vorzugsweise (Online-)Journalismus, Technische Redaktion, Medienwirtschaft, Kommunikationswissenschaften, Media Technology & Management oder einen vergleichbaren Studiengang. Digital & Tech-Affinität: Du hast großes Interesse an künstlicher Intelligenz (z. B. ChatGPT, Copilot), SEO und gängigen Content-Management-Systemen. Sprachgefühl & Präzision: Hervorragende Deutschkenntnisse in Wort und Schrift sowie eine strukturierte und eigenständige Arbeitsweise. Kommunikationsstärke: Keine Scheu vor direktem, fachlichem Austausch mit Kunden und Teammitgliedern. Was wir dir bieten Hybrides Arbeitsmodell: Flexibel und eigenverantwortlich – mit bis zu 4 Tagen Homeoffice pro Woche und einem modernen Arbeitsplatz in München für den kreativen Teamaustausch. Echte AI- & SEO-Praxis: Du arbeitest direkt mit unserer selbstentwickelten Performance Suite (All-in-One-SEO-Tool) und lernst datenbasiertes Arbeiten von den Profis. Stabilität & Impact: Eine spannende Mischung aus Agentur- und Tech-Welt mit vielseitigen Kunden – vom innovativen Start-up bis zur bekannten Marke. Faire Vergütung & Benefits: Neben einer attraktiven Stundenvergütung profitierst du von internen Weiterbildungsangeboten und echten Entwicklungschancen (z. B. für einen späteren Berufseinstieg nach dem Studium). Starkes Team: Flache Hierarchien, offene Feedbackkultur und ein Umfeld, in dem du dich fachlich wie persönlich weiterentwickeln kannst."
+  },
+  {
+   "id": "ss_14161660",
+   "queue": false,
+   "missing_skills": [
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 1,
+   "ai_focus": true,
+   "type": "Junior",
+   "track": "KI / Automatisierung",
+   "title": "Junior Machine Learning Engineer (m/w/d) · AMAI GmbH",
+   "company": "AMAI GmbH",
+   "location": "Karlsruhe",
+   "distance_km": 58.2,
+   "remote": false,
+   "german_level": "C1+",
+   "german_quote": "Software Engineering und fließende Deutschkenntnisse (mind. C1-Level) werden vorausgesetzt.",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Junior-Machine-Learning-Engineer-m-w-d-·-AMAI-GmbH-Karlsruhe-AMAI-GmbH--14161660-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-03",
+   "first_seen": "2026-11-18T17:19",
+   "description": "AMAI ist ein Spezialist für maßgeschneiderte KI-Beratung und -Lösungen in Europa. Gesucht wird ein Junior Machine Learning Engineer (m/w/d) zur Entwicklung und Implementierung von KI-Lösungen sowie zum Training und zur Optimierung von Modellen. Ein abgeschlossenes Studium in Informatik oder einem ähnlichen Fachbereich, erste Erfahrungen mit Machine-Learning-Frameworks wie TensorFlow oder PyTorch, Grundkenntnisse im Software Engineering und fließende Deutschkenntnisse (mind. C1-Level) werden vorausgesetzt."
   },
   {
    "id": "ba_15986-REF296008N-171cc98-S",
@@ -11232,6 +11418,34 @@
    "posted": "2026-10-17",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "ss_14082054",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Praktikant / Werkstudent Erneuerbare Prozesswärme, Power-to-Heat und Thermische Energiespeicherung (m/w/d)",
+   "company": "FICHTNER GmbH & Co. KG",
+   "location": "Stuttgart",
+   "distance_km": 85.3,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Praktikant-Werkstudent-Erneuerbare-Prozesswaerme-Power-to-Heat-und-Thermische-Energiespeicherung-m-w-d-Stuttgart-FICHTNER-GmbH-Co-KG--14082054-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T17:19",
+   "description": "Fichtner ist ein unabhängiges Ingenieur- und Beratungsunternehmen mit über 100 Jahren Erfahrung in Energie- und Umweltlösungen. Gesucht wird ein Praktikant Erneuerbare Prozesswärme, Power-to-Heat und Thermische Energiespeicherung (m/w/d) für Projektbewertungen, Marktrecherchen und Konzeptentwicklung. Immatrikulation in einem relevanten Studiengang, sichere MS-Office-Kenntnisse, sehr gute Deutsch- und Englischkenntnisse sowie mindestens 6 Semester Studienerfahrung werden vorausgesetzt."
   },
   {
    "id": "an_werkstudent-operations-automation-no-code-low-code-prozesse-berlin-315136",
@@ -13635,32 +13849,36 @@
    "description": "Sie haben Interesse daran, Praxisluft im Marketing zu schnuppern und aktiv an der Weiterentwicklung des Online-Marketings eines familiengeführten Konzerns mitzuwirken? Wir suchen Sie! Unterstützen Sie uns als Werkstudent (m/w/d) in 20 Stunden pro Woche nach Absprache. Das Marketingteam besteht aktuell aus 4 Mitarbeitenden. Eintrittstermin: ab sofort möglich Gute Gründe für diesen Job Arbeitszeiten, die sich in Ihren Studienalltag integrieren lassen Berufliche Einblicke: Lernen Sie die Arbeitsweise eines internationalen Unternehmens mit über 46.000 Mitarbeitenden weltweit kennen Eine spannende Position in einem schnell wachsenden Unternehmen Ausgezeichnete Verkehrsanbindung und keine Reisetätigkeit Ein motiviertes und engagiertes Team sowie eine offene Unternehmenskultur Unterstützung bei Abschlussarbeiten: Profitieren Sie von unserer fachlichen Expertise Corporate Benefits (Hohe Rabatte in über 700 Markenshops) Vielseitige Weiterbildungsangebote in unserer hausinternen, TÜV-zertifizierten Klüh-Akademie Was zu tun ist Sie unterstützen bei der Weiterentwicklung der Inhalte unserer Corporate Website mit Blick auf SEO und GEO Sie führen toolgestützte Keyword-Recherchen zur Identifikation und Bewertung von Potenzialen für unsere Landingpages durch Sie arbeiten an der Ableitung und Umsetzung von Maßnahmen zur Verbesserung der Sichtbarkeit in klassischen und KI-basierten Suchmaschinen Sie helfen bei der SEO-/GEO-Optimierung bestehender Website-Inhalte hinsichtlich Struktur, Keywords und Nutzerrelevanz Sie übernehmen das Monitoring und die Auswertung von relevanten SEO-/GEO-Kennzahlen mithilfe geeigneter Analyse-Tools Sie beobachten aktuelle Entwicklungen und Trends rund um Search Engine Optimization, Generative Engine Optimization und KI-basierten Suchen Was uns überzeugt Laufendes Studium im Bereich Marketing, Kommunikation, Medien oder vergleichbar vorausgesetzt Erste praktische Erfahrungen im Bereich SEO/GEO und der Nutzung von SEO-Tools (wie z. B. Conductor) erforderlich Grundkenntnisse in der Content-Erstellung und den Content-Management-Systemen (TYPO3, Canto) sind wünschenswert Gute EDV-Kenntnisse (MS Office) erforderlich Verhandlungssichere Deutsch- und sehr gute Englischkenntnisse in Wort und Schrift zwingend notwendig"
   },
   {
-   "id": "ss_14763490",
+   "id": "ba_13151-1655180-1-S",
    "queue": false,
    "missing_skills": [],
-   "nice_to_have_missing": [],
+   "nice_to_have_missing": [
+    "Power BI"
+   ],
    "status": "open",
    "stars": 1,
    "ai_focus": false,
    "type": "Werkstudent",
    "track": "Online-Marketing",
    "title": "Werkstudent*in Digitale Betriebsanleitung",
-   "company": "Mercedes-Benz AG",
+   "company": "Mercedes-Benz Group AG",
    "location": "Böblingen",
-   "distance_km": 70.5,
+   "distance_km": 72.0,
    "remote": false,
    "german_level": "C1+",
-   "german_quote": "ormatik, Wirtschaftsinformatik oder vergleichbarem Bereich, verhandlungssichere Englischkenntnisse und sicherer Umgang",
-   "video_in_job": false,
-   "source": "StepStone",
-   "url": "https://www.stepstone.de/stellenangebote--Werkstudentin-Digitale-Betriebsanleitung-Boeblingen-Mercedes-Benz-AG--14763490-inline.html",
+   "german_quote": "k, Computerlinguistik oder ein vergleichbarer Studiengang - Verhandlungssichere Englischkenntnisse in Wort und Schrift",
+   "video_in_job": true,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655180-1-S",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Werkstudentin-Digitale-Betriebsanleitung-Boeblingen-Mercedes-Benz-AG--14763490-inline.html"
+   ],
    "salary": "",
-   "posted": "2026-11-17",
+   "posted": "2026-11-18",
    "first_seen": "2026-11-18T15:24",
-   "description": "Mercedes-Benz AG entwickelt Kundeninformationen und digitale Betriebsanleitungen für Fahrzeuge weltweit. Gesucht wird ein Werkstudent (m/w/d) in der Digitalen Betriebsanleitung zur Unterstützung bei der Konzeption digitaler Informationsprodukte und Datenbereitstellung. Ein Studium in Medieninformatik, Wirtschaftsinformatik oder vergleichbarem Bereich, verhandlungssichere Englischkenntnisse und sicherer Umgang mit MS Office werden vorausgesetzt."
+   "description": "Tätigkeitsbereich: Sonstiges Fachabteilung: Produktentwicklung Betriebsanleitungen Gesellschaft: Mercedes-Benz AG Standort: Böblingen Startdatum: 01.02.2027 Veröffentlichungsdatum: 01.02.2027 Stellennummer: MER0004A0K Arbeitszeit: Részmunkaidő Aufgaben Innerhalb der Mercedes-Benz AG verantwortet unsere Abteilung die Konzeption, Entwicklung und weltweite Bereitstellung von Kundinnen- und Kundeninformationen rund um unsere Fahrzeuge. Im Mittelpunkt steht die Mercedes-Benz Betriebsanleitung, die unseren Kundinnen und Kunden relevante Informationen zu Fahrzeugfunktionen und deren Bedienung über verschiedene analoge und digitale Kanäle zugänglich macht. Unser Team gestaltet die Betriebsanleitung von morgen und entwickelt bestehende Produkte, Prozesse und Systeme kontinuierlich weiter. Dabei beschäftigen wir uns unter anderem mit neuen digitalen Nutzungskonzepten, datengetriebenen Services sowie der Bereitstellung von Fahrzeuginformationen für innovative Anwendungen und Künstliche Intelligenz. Von der ersten Idee bis zur weltweiten Bereitstellung arbeiten wir eng mit den Bereichen Fahrzeugentwicklung, IT, internationalen Märkten sowie internen und externen Partnerinnen und Partnern zusammen. Werde Teil unseres Teams und unterstütze uns dabei, das digitale Kundinnen- und Kundenerlebnis bei Mercedes-Benz aktiv mitzugestalten. Diese Herausforderungen kommen u. a. auf Dich zu: - Unterstützung bei der Konzeption neuer digitaler Informationsprodukte und innovativer Nutzungsmöglichkeiten von Betriebsanleitungsdaten - Unterstützung bei der Bereitstellung und Qualitätssicherung von Daten für interne und externe Anwendungen, insbesondere für KI-Anwendungen - Mitarbeit bei der Analyse und Optimierung bestehender Prozesse, beispielsweise im Zusammenhang mit How-to-Videos, Sprachen und digitalen Publikationen - Unterstützung im Anforderungsmanagement sowie bei der Koordination verschiedener Fachbereiche, Märkte und weiterer Stakeholder - Erstellung und Aufbereitung von Konzepten, Analysen, Entscheidungsvorlagen und Präsentationen - Mitwirkung bei Markt- und Wettbewerbsanalysen sowie bei der Identifikation neuer Trends und Kundenbedarfe Die Tätigkeit kann ab Februar 2027 beginnen. Qualifikationen - Studiengang im Bereich Medieninformatik, Wirtschaftsinformatik, Computerlinguistik oder ein vergleichbarer Studiengang - Verhandlungssichere Englischkenntnisse in Wort und Schrift; weitere Sprachkenntnisse sind von Vorteil - Sicherer Umgang mit MS Office (Word, Excel und PowerPoint) - Idealerweise erste Erfahrungen mit Power BI, Jira, Confluence oder vergleichbaren Tools - Hohe Affinität zu digitalen Produkten, Technologien und innovativen Lösungen - Ausgeprägte analytische Fähigkeiten sowie eine strukturierte und eigenverantwortliche Arbeitsweise - Kommunikationsstärke, Teamfähigkeit und hohe Eigeninitiative - Schnelle Auffassungsgabe sowie Freude daran, eigene Ideen aktiv einzubringen Zusätzliche Informationen: Wir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Z"
   },
   {
    "id": "li_4489244533",
