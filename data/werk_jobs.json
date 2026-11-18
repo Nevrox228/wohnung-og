@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T08:07",
+ "generated": "2026-11-18T10:41",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 505,
+  "all": 507,
   "queue": 207,
-  "ai_focus": 267
+  "ai_focus": 268
  },
  "jobs": [
   {
@@ -6208,6 +6208,34 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "STAR werden. Zukunft machen. Für den STAR-Bereich | Böblingen | Teilzeit, Werkstudenten Gestalte mit uns intelligente Software, die in der Praxis etwas bewegt! Du möchtest nicht nur über Künstliche Intelligenz sprechen, sondern sie selbst entwickeln? In unserem AI-Team arbeitest Du an innovativen AI-Lösungen für internationale Top-Unternehmen. Gemeinsam mit erfahrenen AI-, Cloud- und Software-Experten entwickelst Du Prototypen, integrierst moderne KI-Modelle in Anwendungen und bringst neue Ideen von der ersten Skizze bis zum funktionierenden Use Case. Dabei erhältst Du echte Einblicke in anspruchsvolle Kundenprojekte und kannst Deine technischen Fähigkeiten direkt in der Praxis einsetzen. Statt klassischer Werkstudentenaufgaben erwarten Dich relevante Fragestellungen, moderne Technologien und viel Raum zum Ausprobieren. Deine Aufgaben Entwicklung von AI-Anwendungen: Du unterstützt bei der Konzeption und Umsetzung innovativer Anwendungen von Künstlicher Intelligenz und Generative AI. Prototyping und Proof of Concepts: Du entwickelst funktionsfähige Prototypen und demonstrierst, wie sich neue AI-Technologien in konkreten Business-Anwendungen einsetzen lassen Integration von AI-Modellen: Du bindest Large Language Models und weitere AI-Services über APIs in bestehende oder neu entwickelte Anwendungen ein. AI Agents und intelligente Workflows: Du wirkst bei der Entwicklung agentenbasierter Lösungen mit, die auf Informationen, Anwendungen und Unternehmensprozesse zugreifen können Backend- und Anwendungsentwicklung: Du entwickelst Softwarekomponenten, Schnittstellen und Services, beispielsweise mit Python oder JavaScript beziehungsweise TypeScript RAG und Unternehmenswissen: Du unterstützt bei der Entwicklung von Anwendungen, die Sprachmodelle sicher und gezielt mit Dokumenten, Datenbanken oder anderen Wissensquellen verbinden Testing und Qualitätssicherung: Du testest AI-Anwendungen systematisch und hilfst dabei, Qualität, Zuverlässigkeit und Nachvollziehbarkeit der Ergebnisse zu verbessern. Technologie-Scouting: Du analysierst neue Frameworks, Modelle und Entwicklungsmethoden und bewertest, wie sie sich sinnvoll in unseren Projekten einsetzen lassen Mitarbeit in Kundenprojekten: Du arbeitest eng mit unserem Team an realen AI-Projekten und bringst Deine technischen Ideen aktiv in die Lösungsentwicklung ein Dein Profil Du bist eingeschriebener Student (m/w/d), beispielsweise in Informatik, Wirtschaftsinformatik, Data Science, Software Engineering, Künstlicher Intelligenz oder einem vergleichbaren StudiengangDu verfügst über erste praktische Programmiererfahrung, idealerweise mit Python oder JavaScript beziehungsweise TypeScript Du hast ein ausgeprägtes Interesse an Artificial Intelligence, insbesondere an Generative AI, Large Language Models und AI Agents Du kennst grundlegende Konzepte der Softwareentwicklung und hast idealerweise bereits eigene Anwendungen, Studienprojekte oder Prototypen umgesetzt. Erste Erfahrungen mit APIs, Git, Datenbanken, Cloud-"
+  },
+  {
+   "id": "li_4478869543",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Junior",
+   "track": "KI / Automatisierung",
+   "title": "Junior Data Scientist",
+   "company": "Seedtag",
+   "location": "Hamburg",
+   "distance_km": 575.0,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4478869543",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-15",
+   "first_seen": "2026-11-18T09:40",
+   "description": "We’re looking for a Junior Data Scientist to join our tech team and help build the future of neuro-contextual advertising at global scale. Who We Are At Seedtag, our mission is to transform advertising by proving that effectiveness and user privacy can truly coexist. As the leading Neuro-Contextual Advertising Company, we combine Artificial Intelligence, Natural Language Processing, Computer Vision, and neuroscience to understand not only what content is about, but how it makes people feel and what they intend to do next. Our proprietary AI, Liz, enables brands to connect with audiences across the open web and Connected TV without cookies or user tracking. Founded in 2014 by two ex-Googlers, Seedtag has grown to 500+ Seedtaggers in 17 countries, backed by €250M in funding, and operates today as a global ad-tech leader. If you enjoy solving complex engineering challenges and building AI-driven systems at scale, you’ll feel right at home here. Your Challenge As our Junior Data Scientist, you will join our Insights team to transform contextual, audience, and campaign data into actionable insights for clients and commercial teams, leveraging Liz, Seedtag's AI. Your Main Responsibilities Will Include Data Pipelines & Analytics: Build and maintain pipelines to analyse campaign performance, audience behaviour, and contextual data across the open web and CTV. Analytical Models: Develop models for audience profiling, content analysis, campaign comparisons, and pre-campaign planning. Data Products: Turn analyses into scalable data products using tools such as dbt, Trino, and Airflow, ensuring data quality and reliability. AI Agents & Automation: Prototype LLM-based agents and workflows using techniques such as embeddings, classification, clustering, and summarisation. Experimentation & Evaluation: Design and evaluate experiments to ensure automated insights are accurate, reliable, and actionable. Data Quality & Troubleshooting: Investigate data anomalies, identify root causes, and improve pipeline reliability. Data Storytelling: Communicate findings through clear visualisations and actionable recommendations for Product, Sales, and clients. Our Core Values Outcome over Output We measure success by impact and value, not by volume of features or lines of code. Failure Is Allowed, Learning Is a Must Experimentation is key to innovation. We test early, iterate often, and learn fast. We Are All Scouts We take ownership and leave things better than we found them. We Are Data-Driven Data informs our decisions and helps us continuously improve our systems and results. Tech Stack You'll work with modern data and AI technologies to build scalable insights products. Our Stack Includes Languages & Libraries: Python, SQL, pandas, NumPy, scikit-learn. Data Engineering: dbt, Trino, Airflow. AI & Machine Learning: LLMs, AI agents, embeddings, classification, clustering, NLP. Agent Frameworks: LangGraph, PydanticAI, MCP, OpenAI and Claude Agent SDKs. Cloud & Data Platforms"
   },
   {
    "id": "li_4490456512",
@@ -13890,6 +13918,34 @@
    "posted": "2026-11-06",
    "first_seen": "2026-11-04T12:29",
    "description": "SMIGHT GmbH Werkstudent:in Marketing (m/w/d) Karlsruhe Branche Wirtschaft; Kommunikation, Medien; BWL; Marketing Art Des Angebots Werkstudent / Job Fachrichtungen Marketing; Betriebswirtschaftslehre Die vollständige Anzeige finden Sie beim Klick auf den Onlinebewerbungs-Button oder unter folgendem Link: https://jobs.jobware.net/Studentenjob/064451236?jw_chl_seg=NLINKEDIN"
+  },
+  {
+   "id": "an_werkstudent-content-management-remote-14434",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 1,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent Content Management (m/w/d) · Remote",
+   "company": "Evolve Digital GmbH",
+   "location": "Homeoffice",
+   "distance_km": null,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "T oder Claude sicher im Alltag ein. Du sprichst Deutsch auf C2-Niveau und hast gute Englischkenntnisse",
+   "video_in_job": true,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-content-management-remote-14434",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T09:40",
+   "description": "Du studierst Marketing, Medien oder etwas Ähnliches, hast Spaß an Social Media und Creator-Content und behältst auch bei vielen Themen gleichzeitig den Überblick? Bei uns koordinierst du die Zusammenarbeit mit unseren Content Creatorn von der Auswahl bis zur fertigen Lieferung. Du findest passende Creator, verschickst Briefings, prüfst die eingehenden Inhalte und sorgst dafür, dass alles pünktlich und in hoher Qualität bei unseren Videocuttern ankommt. Über EVOLVE Wir sind ein ganzheitlicher Wachstumspartner für E-Commerce-Brands im DACH-Raum. Für unsere Kunden entstehen jede Woche neue Werbeanzeigen, und Content von Creatorn spielt dabei eine immer größere Rolle. Wir arbeiten datenbasiert und setzen konsequent auf AI, damit Inhalte schnell entstehen und trotzdem auf den Punkt sind. Das wirst du tun Creator Sourcing: Du recherchierst passende Content Creator für unsere Kundenprojekte und nimmst Kontakt mit ihnen auf. Briefings: Du verschickst die Briefings an die Creator, beantwortest ihre Rückfragen und behältst Deadlines im Blick. Qualitätskontrolle: Du prüfst die gelieferten Inhalte darauf, ob sie zum Briefing passen und unseren Qualitätsanspruch erfüllen, und forderst bei Bedarf Anpassungen an. Schnittstelle zum Videoschnitt : Du stellst sicher, dass Briefing-Dokumente und Rohmaterial vollständig bei unseren Videocuttern ankommen, und verfolgst den Fortschritt nach. Organisation: Du pflegst unsere Übersichten zu Creatorn, Projekten und Lieferungen und sorgst dafür, dass nichts liegen bleibt Das bringst du mit Du bist an einer Hochschule oder Universität eingeschrieben und studierst einen passenden Studiengang, z. B. Marketing, Kommunikations- oder Medienwissenschaften oder BWL. Du hast erste Erfahrungen mit Social Media, Influencer Marketing oder UGC gesammelt. Du hast ein Gespür für guten Content und erkennst, ob ein Video funktioniert. Du arbeitest sehr strukturiert, behältst bei vielen parallelen Aufgaben den Überblick und hakst zuverlässig nach. Du kommunizierst gern und souverän, auch mit externen Partnern. Du setzt AI-Tools wie ChatGPT oder Claude sicher im Alltag ein. Du sprichst Deutsch auf C2-Niveau und hast gute Englischkenntnisse. Was wir dir bieten 100 % Remote, kein Hybrid-Kompromiss Werkstudententätigkeit mit 10 bis 20 Stunden pro Woche, in den Semesterferien gern auch mehr Flexible Zeiteinteilung, die sich nach deinem Studium richtet, solange Deadlines und Veröffentlichungstermine stehen Voller Zugriff auf unseren internen AI-Stack Kollegiale und wertschätzende Arbeitsatmosphäre mit flachen Hierarchien und offener Feedbackkultur Umfangreiche Fortbildungs- und Weiterentwicklungsmöglichkeiten Langfristige Perspektive, auch nach deinem Studienabschluss Deine Ansprechpartnerin Vanessa, unsere HR Managerin, ist dein erster Kontakt und freut sich auf deine Bewerbung. Find Jobs in Germany on Arbeitnow"
   },
   {
    "id": "li_4491468544",
