@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T23:32",
+ "generated": "2026-11-19T00:27",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 52,
+ "count": 51,
  "items": [
   {
    "id": "ba_10001-1004036603-S",
@@ -48,28 +48,6 @@
    "kind": "Общее / другое",
    "ausb": false,
    "first_seen": "2026-11-18T17:19",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4361574268",
-   "src": "LinkedIn",
-   "title": "Arbeitserzieher, Erzieher, Erzieher - Jugend- und Heimerziehung (m/w/d) in der Eingliederungshilfe",
-   "firma": "AWO Bezirksverband Baden e.V.",
-   "ort": "Lahr/Schwarzwald",
-   "plz": "",
-   "street": "",
-   "lat": 48.338896,
-   "lon": 7.8710825,
-   "url": "https://de.linkedin.com/jobs/view/4361574268",
-   "posted": "2026-01-13",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 16.3,
-   "kind": "Jugend / Heim",
-   "ausb": false,
-   "first_seen": "2026-11-18T15:24",
    "status": "open",
    "also_urls": []
   },
