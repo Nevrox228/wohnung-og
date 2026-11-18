@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T11:58",
+ "generated": "2026-11-18T14:54",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 506,
+  "all": 507,
   "queue": 207,
-  "ai_focus": 268
+  "ai_focus": 269
  },
  "jobs": [
   {
@@ -1802,7 +1802,8 @@
    "apply_url": "",
    "apply_email": "",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4489581912"
+    "https://de.linkedin.com/jobs/view/4489581912",
+    "https://www.jobware.de/job/werkstudent-w-m-d-ai-automation-065160884"
    ],
    "salary": "",
    "posted": "2026-11-16",
@@ -2521,7 +2522,9 @@
    "url": "https://de.linkedin.com/jobs/view/4488915345",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitnow.com/jobs/companies/sightwise-gmbh/werkstudent-computer-vision-machine-learning-hanover-155631"
+   ],
    "salary": "",
    "posted": "2026-11-13",
    "first_seen": "2026-11-13T11:36",
@@ -9570,6 +9573,34 @@
    "posted": "2026-09-10",
    "first_seen": "2026-11-04T18:01",
    "description": "Job Title: Pflichtpraktikum Data Engineering & Data Analytics im Akustik-Testing Job Description: • Während deines Praktikums treibst du die Digitalisierung im Testing-Bereich voran und optimierst Auswertemöglichkeiten für Messdaten in der Cloud. • Du konzipierst, trainierst und verbesserst eigenverantwortlich Machine-Learning-Modelle zur präzisen Analyse akustischer Messsignale. • Darüber hinaus arbeitest du eng mit verschiedenen Teams zusammen an der Schnittstelle von Versuch sowie Datenverarbeitung und bringst deine Expertise ein. • Nicht zuletzt gewinnst du tiefe Einblicke in moderne Mess- und Analyseverfahren der technischen Akustik und wendest diese gezielt an. Qualifications: • Ausbildung: technisches Studium im Bereich Mechatronik, Elektro-technik, Maschinenbau, Data Science, Informatik, Physik oder vergleichbar • Erfahrungen und Know-how: gute Programmierkenntnisse in Python; erste Erfahrungen in der Cloud-Datenverarbeitung (Databricks), sowie Machine-Learning von Vorteil • Persönlichkeit und Arbeitsweise: du arbeitest selbstständig und motiviert an deinen Aufgaben, bringst dich ins Team ein und gehst technikbegeistert an neue Herausforderungen heran • Arbeitsalltag: Anwesenheit im Büro erforderlich • Sprachen: verhandlungssicheres Deutsch und Englisch Additional Information: Beginn: nach Absprache Dauer: 4 - 6 Monate (ausschließlich Pflichtpraktikum gem. SPO möglich) Voraussetzung für das Praktikum ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung, deine Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei. Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität. Du hast fachliche Fragen zum Job? Christian Allgeier (Fachabteilung) +49 7223 82 2651 Philipp Huber (Fachabteilung) +49 7223 82 51217 Work #LikeABosch beginnt hier: Jetzt bewerben! Street Address: Hauptstraße 34"
+  },
+  {
+   "id": "an_graduate-junior-data-scientist-manchester-193556",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 1,
+   "ai_focus": true,
+   "type": "Junior",
+   "track": "KI / Automatisierung",
+   "title": "Graduate / Junior Data Scientist",
+   "company": "Thgingenuity",
+   "location": "Manchester",
+   "distance_km": 267.4,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "-level=\"1\"> THG Commerce: A cloud-native technology stack enabling retailers and",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/graduate-junior-data-scientist-manchester-193556",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T12:51",
+   "description": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About THG Ingenuity</span></strong><span data-ccp-props=\"{}\">&nbsp;</span></p> <p><span data-contrast=\"none\">THG Ingenuity is a proprietary Software-as-a-Service (SaaS) technology, robotics, and operations platform built for global ecommerce. Developed through more than two decades of operating ecommerce and retail services at scale, its software and automation capabilities have been engineered, tested, and refined through the real-world demands of managing complex commerce operations. Today, THG Ingenuity provides an integrating operating environment that enables brands to intelligently optimise the entire commerce lifecycle from browsing and checkout to AI inventory management and forecasting, automated fulfilment, carrier control, and customer experience. The platform comprises:</span><span data-ccp-props=\"{&quot;335551550&quot;:6,&quot;335551620&quot;:6}\">&nbsp;</span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">THG Fulfil: The fulfilment operating system for global ecommerce. Delivered via a proprietary SaaS and Robotics-as-a-Service (RaaS) model, THG Fulfil orchestrates every stage of checkout, fulfilment, delivery, and customer experience through an integrated system.</span><span data-ccp-props=\"{&quot;335551550&quot;:6,&quot;335551620&quot;:6}\">&nbsp;</span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">THG Studios: The UK's most innovative creative hub, helping brands create content that connects, experiences that engage, and IP that scales, all from its end-to-end, in-house facilities.&nbsp;</span><span data-ccp-props=\"{&quot;335551550&quot;:6,&quot;335551620&quot;:6}\">&nbsp;</span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"none\">THG Commerce: A cloud-native technology stack enabling retailers and brands to create int"
   },
   {
    "id": "an_junior-bi-consultant-planung-100-ch-hybrid-ermatingen-452462",
