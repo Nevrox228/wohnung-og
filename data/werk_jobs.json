@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T14:54",
+ "generated": "2026-11-18T15:53",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 507,
+  "all": 511,
   "queue": 207,
-  "ai_focus": 269
+  "ai_focus": 270
  },
  "jobs": [
   {
@@ -4240,7 +4240,8 @@
    "apply_url": "",
    "apply_email": "",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4478292060"
+    "https://de.linkedin.com/jobs/view/4478292060",
+    "https://de.linkedin.com/jobs/view/4490889639"
    ],
    "salary": "",
    "posted": "2026-05-12",
@@ -7771,7 +7772,9 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1647543-1-S",
    "apply_url": "",
    "apply_email": "sbv-sindelfingen@mercedes-benz.com",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Werkstudentin-Softwareentwicklung-Kuenstliche-Intelligenz-Systeme-Sindelfingen-Mercedes-Benz-AG--14686828-inline.html"
+   ],
    "salary": "",
    "posted": "2026-10-27",
    "first_seen": "2026-11-04T12:29",
@@ -8424,6 +8427,34 @@
    "posted": "2026-07-03",
    "first_seen": "2026-11-04T18:01",
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
+  },
+  {
+   "id": "li_4491796927",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Customs Compliance, Digitalisierung & KI (w/m/d)",
+   "company": "OTTO",
+   "location": "Hamburg",
+   "distance_km": 575.0,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "über sehr gute Excel Kenntnisse. Dein Sprachniveau: Deutsch C1 (Sachkundige Sprachverwendung) und Engl",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4491796927",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18T15:24",
+   "description": "Wir sind 9 Kolleg*innen und entwickeln standortübergreifend gemeinsam unser Customs Compliance System weiter. Dabei setzen wir zunehmend auf digitale und KI-basierte Lösungen. Wir unterstützen uns gegenseitig und sind Ansprechpartner*innen für Zoll- und Außenhandelsfragen bei OTTO und im Konzern. Viele sprechen von „Homeoffice“ - wir von „hybrid oder mobile Work“: Du kannst bis zu 50 % deiner monatlichen Arbeitszeit remote arbeiten. Unsere Teams entscheiden dabei gemeinsam mit ihrer Führungskraft, wie sie das Gleichgewicht aus Präsenzzeiten vor Ort und mobilem Arbeiten gestalten. Dein Impact Du unterstützt unser Team bei Zoll- und Außenhandelsfragen. Du arbeitest aktiv an der Einführung und Weiterentwicklung unseres Customs Compliance Management Systems mit. Du entwickelst mit uns KI-Anwendungsfälle und testest, wie wir Prozesse damit intelligenter und effizienter gestalten können. Du analysierst Daten und entwickelst Dashboards und Kennzahlen für unser Customs Compliance Controlling. Du bist dir nicht sicher, ob die Stelle zu dir passt? - Gerne stellen wir den Kontakt zu Sven Steinau aus dem Team her. Dein Profil Must-have: Eingeschriebene*r Vollzeit-Student*in mit Studienschwerpunkt BWL, Logistik, Supply Chain Management, Wirtschaftsrecht, Wirtschaftsinformatik oder einem vergleichbaren Studiengang Verfügbar ab sofort für mindestens 12 Monate (15-18 h/Woche) Du nutzt KI-Tools wie Microsoft Copilot oder ChatGPT bereits in deinem Alltag. Du verfügst über sehr gute Excel Kenntnisse. Dein Sprachniveau: Deutsch C1 (Sachkundige Sprachverwendung) und Englisch B1 (Fortgeschrittene Sprachverwendung) Nice-to-have: Du hast bereits Praxiskenntnisse in Handelsumfeld. Du hast erste Erfahrungen mit Power-BI. Deine Benefits Fachliche & persönliche Entwicklung Weiterbildungsangebote wie z. B. die OTTO-Akademie, digitale Lernplattformen (u. a. Masterplan), Mentoring, Hospitationen, offene Feedbackkultur, Formate zur beruflichen Orientierung, Kooperation bei Abschlussarbeiten, feste*n Betreuer*in und direkte Ansprechpersonen im HR-Bereich Kultur & Zusammenarbeit Students@OTTO Community & Netzwerke, Coworking & Social Spaces, Führung auf Augenhöhe, flache Hierarchien, selbstständiges & eigenverantwortliches Arbeiten, regelmäßige Mitarbeiterbefragungen, Leading Principles, kostenfreie Heißgetränke und vielfältiges - auch veganes - Essensangebot Vergütung & Zusatzleistungen Attraktive Vergütung (ab 17,74 € pro Stunde), 15 % Personalrabatt (auf OTTO-Artikel) sowie zahlreiche Benefits & Mitarbeiterangebote (z. B. Events, Reisen), 30 Urlaubstage p. a., technische Grundausstattung Students@OTTO Onboarding Einwöchiges Onboarding Programm für Studierende bestehend aus: Welcome Session, Impulsvorträgen, Get-Together & Vorstandstalk Work-Life-Balance Hybrides Arbeitsmodell mit bis zu 50 % remote work im Monat, flexible Arbeitszeiten (Gleitzeit) & Stundenaufteilung (bis zu 18 h pro Woche und volle 37,5 h in den Semesterferien möglich) Gesundheit & Wohlbefinden Achtsamkeits- "
   },
   {
    "id": "li_4491135529",
@@ -11203,6 +11234,62 @@
    "description": ""
   },
   {
+   "id": "li_4487737290",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent:in Marketing (Organic): Design & Content",
+   "company": "Speekly",
+   "location": "Köln",
+   "distance_km": 279.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4487737290",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-18T15:24",
+   "description": "📍 Köln | Werkstudent:in Speekly ist Europas größter Marktplatz für Creator Content. Wir bringen Brands und Content Creators auf einer Plattform zusammen und helfen Unternehmen dabei, die passenden Creators für ihren Content zu finden und erfolgreiche UGC-Kollaborationen umzusetzen. Mittlerweile arbeiten über 100.000 Creators und 12.000 Brands mit Speekly. Unser Ziel ist klar: Wir wollen der führende Online-Marktplatz für Creator Content in Europa werden. Dafür braucht es nicht nur eine starke Plattform, sondern vor allem Marketing, das unsere Marke sichtbar macht und Speekly nachhaltig wachsen lässt. Wenn du Lust hast, mit deinen kreativen Ideen etwas zu bewegen und gemeinsam mit uns zu wachsen, dann bist du bei uns genau richtig! 💜 Worum es geht Als Werkstudent:in im Organic Marketing unterstützt du uns bei Website, Blog, E-Mail und Social Media. Dein Schwerpunkt liegt auf Design und Umsetzung. Du verwandelst Briefings eigenständig in kreative Assets, die zu unserer Brand Identity passen. Wenn du zusätzlich gerne mit Texten arbeitest, kannst du auch beim Redigieren von Blogartikeln und bei Landingpage-Texten unterstützen. Deine Aufgaben Du gestaltest kreative Grafiken und Visuals für unsere Website, Blogartikel und E-Mails. Du erstellst Social-Media-Content, z. B. Carousels für Instagram und LinkedIn. Du unterstützt bei der Pflege unserer Website und unseres Blogs sowie bei der Umsetzung von E-Mail-Kampagnen. Wenn du gerne schreibst, kannst du dich auch bei Blogartikeln und Landingpage-Texten einbringen. Das bringst du mit Du bist eingeschriebene Student:in und hast 16–20 Stunden pro Woche Zeit. Du hast ein gutes Gespür für Design und Erfahrung mit Figma, Canva oder Adobe. Du hast idealerweise erste Erfahrungen im Marketing gesammelt. Du arbeitest eigenständig, bist offen für Feedback und sprichst sehr gutes Deutsch sowie gutes Englisch. Das wäre ein Plus Du hast Spaß am Schreiben und ein gutes Gefühl für Texte. Du kennst dich mit CMS-, CRM- oder E-Mail-Tools aus. Du interessierst dich für Social Media und nutzt gerne KI-Tools für kreative Projekte. 💌 Wir würden uns freuen, wenn du deiner Bewerbung ein Portfolio oder ein paar Arbeitsproben beifügst, die uns einen Einblick in deine bisherigen Designs und Projekte geben. Wir sind gespannt auf dich und deine kreativen Ideen!"
+  },
+  {
+   "id": "ss_14756997",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent Content Management (m/w/d)",
+   "company": "toom Baumarkt GmbH (Ein Unternehmen der REWE Group)",
+   "location": "Köln",
+   "distance_km": 279.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-Content-Management-m-w-d-51149-Koeln-toom-Baumarkt-GmbH-Ein-Unternehmen-der-REWE-Group--14756997-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-18T15:24",
+   "description": "toom ist Teil der REWE Group und betreibt bundesweit über 300 Märkte. Gesucht wird ein Werkstudent Content Management (m/w/d) zur Unterstützung bei der Erstellung und Verwaltung von Inhalten. Konkrete Anforderungen werden in der Anzeige nicht genannt."
+  },
+  {
    "id": "li_4461298222",
    "queue": false,
    "missing_skills": [
@@ -13548,6 +13635,34 @@
    "description": "Sie haben Interesse daran, Praxisluft im Marketing zu schnuppern und aktiv an der Weiterentwicklung des Online-Marketings eines familiengeführten Konzerns mitzuwirken? Wir suchen Sie! Unterstützen Sie uns als Werkstudent (m/w/d) in 20 Stunden pro Woche nach Absprache. Das Marketingteam besteht aktuell aus 4 Mitarbeitenden. Eintrittstermin: ab sofort möglich Gute Gründe für diesen Job Arbeitszeiten, die sich in Ihren Studienalltag integrieren lassen Berufliche Einblicke: Lernen Sie die Arbeitsweise eines internationalen Unternehmens mit über 46.000 Mitarbeitenden weltweit kennen Eine spannende Position in einem schnell wachsenden Unternehmen Ausgezeichnete Verkehrsanbindung und keine Reisetätigkeit Ein motiviertes und engagiertes Team sowie eine offene Unternehmenskultur Unterstützung bei Abschlussarbeiten: Profitieren Sie von unserer fachlichen Expertise Corporate Benefits (Hohe Rabatte in über 700 Markenshops) Vielseitige Weiterbildungsangebote in unserer hausinternen, TÜV-zertifizierten Klüh-Akademie Was zu tun ist Sie unterstützen bei der Weiterentwicklung der Inhalte unserer Corporate Website mit Blick auf SEO und GEO Sie führen toolgestützte Keyword-Recherchen zur Identifikation und Bewertung von Potenzialen für unsere Landingpages durch Sie arbeiten an der Ableitung und Umsetzung von Maßnahmen zur Verbesserung der Sichtbarkeit in klassischen und KI-basierten Suchmaschinen Sie helfen bei der SEO-/GEO-Optimierung bestehender Website-Inhalte hinsichtlich Struktur, Keywords und Nutzerrelevanz Sie übernehmen das Monitoring und die Auswertung von relevanten SEO-/GEO-Kennzahlen mithilfe geeigneter Analyse-Tools Sie beobachten aktuelle Entwicklungen und Trends rund um Search Engine Optimization, Generative Engine Optimization und KI-basierten Suchen Was uns überzeugt Laufendes Studium im Bereich Marketing, Kommunikation, Medien oder vergleichbar vorausgesetzt Erste praktische Erfahrungen im Bereich SEO/GEO und der Nutzung von SEO-Tools (wie z. B. Conductor) erforderlich Grundkenntnisse in der Content-Erstellung und den Content-Management-Systemen (TYPO3, Canto) sind wünschenswert Gute EDV-Kenntnisse (MS Office) erforderlich Verhandlungssichere Deutsch- und sehr gute Englischkenntnisse in Wort und Schrift zwingend notwendig"
   },
   {
+   "id": "ss_14763490",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 1,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent*in Digitale Betriebsanleitung",
+   "company": "Mercedes-Benz AG",
+   "location": "Böblingen",
+   "distance_km": 70.5,
+   "remote": false,
+   "german_level": "C1+",
+   "german_quote": "ormatik, Wirtschaftsinformatik oder vergleichbarem Bereich, verhandlungssichere Englischkenntnisse und sicherer Umgang",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudentin-Digitale-Betriebsanleitung-Boeblingen-Mercedes-Benz-AG--14763490-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-18T15:24",
+   "description": "Mercedes-Benz AG entwickelt Kundeninformationen und digitale Betriebsanleitungen für Fahrzeuge weltweit. Gesucht wird ein Werkstudent (m/w/d) in der Digitalen Betriebsanleitung zur Unterstützung bei der Konzeption digitaler Informationsprodukte und Datenbereitstellung. Ein Studium in Medieninformatik, Wirtschaftsinformatik oder vergleichbarem Bereich, verhandlungssichere Englischkenntnisse und sicherer Umgang mit MS Office werden vorausgesetzt."
+  },
+  {
    "id": "li_4489244533",
    "queue": false,
    "missing_skills": [],
@@ -14628,7 +14743,9 @@
    "url": "https://de.linkedin.com/jobs/view/4478266992",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4490877897"
+   ],
    "salary": "",
    "posted": "2026-10-19",
    "first_seen": "2026-11-04T12:29",

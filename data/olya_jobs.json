@@ -1,9 +1,55 @@
 {
- "generated": "2026-11-18T14:54",
+ "generated": "2026-11-18T15:53",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
  "count": 52,
  "items": [
+  {
+   "id": "li_4361574268",
+   "src": "LinkedIn",
+   "title": "Arbeitserzieher, Erzieher, Erzieher - Jugend- und Heimerziehung (m/w/d) in der Eingliederungshilfe",
+   "firma": "AWO Bezirksverband Baden e.V.",
+   "ort": "Lahr/Schwarzwald",
+   "plz": "",
+   "street": "",
+   "lat": 48.338896,
+   "lon": 7.8710825,
+   "url": "https://de.linkedin.com/jobs/view/4361574268",
+   "posted": "2026-01-13",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 16.3,
+   "kind": "Jugend / Heim",
+   "ausb": false,
+   "first_seen": "2026-11-18T15:24",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "ba_10001-1004035148-S",
+   "src": "Jobbörse",
+   "title": "Betreuungskräfte (m/w/d) für die Verlässliche Grundschule",
+   "firma": "Gemeinde Hohberg    ",
+   "ort": "Hohberg bei Offenburg",
+   "plz": "77749",
+   "street": "Freiburger Str. 32",
+   "lat": 48.4238388,
+   "lon": 7.9076074,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004035148-S",
+   "posted": "2026-11-18",
+   "ab": "2026-11-18",
+   "zeit": " / Teilzeit",
+   "befristet": false,
+   "quer": true,
+   "beruf": "Pädagogische Fachkraft - Grundschulkindbetreuung",
+   "km": 6.5,
+   "kind": "Hort / Schule",
+   "ausb": false,
+   "first_seen": "2026-11-18T15:24",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "li_4492006407",
    "src": "LinkedIn",
@@ -69,28 +115,6 @@
    "kind": "Hort / Schule",
    "ausb": false,
    "first_seen": "2026-11-18T09:40",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4462605353",
-   "src": "LinkedIn",
-   "title": "Sozialpädagogen (gn) Familienprojekt",
-   "firma": "Ohlebusch Baden-Baden GmbH",
-   "ort": "Offenburg",
-   "plz": "",
-   "street": "",
-   "lat": 48.4695984,
-   "lon": 7.9429235,
-   "url": "https://de.linkedin.com/jobs/view/4462605353",
-   "posted": "2026-08-11",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 0.8,
-   "kind": "Общее / другое",
-   "ausb": false,
-   "first_seen": "2026-11-17T21:27",
    "status": "open",
    "also_urls": []
   },
@@ -336,9 +360,7 @@
    "ausb": false,
    "first_seen": "2026-11-12T16:40",
    "status": "open",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4489538517"
-   ]
+   "also_urls": []
   },
   {
    "id": "ba_13635-c9469775_JB5295525-S",
@@ -410,8 +432,7 @@
    "first_seen": "2026-11-08T22:18",
    "status": "open",
    "also_urls": [
-    "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html",
-    "https://de.linkedin.com/jobs/view/4487950738"
+    "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html"
    ]
   },
   {
@@ -734,29 +755,6 @@
    "also_urls": []
   },
   {
-   "id": "ss_14653653",
-   "src": "StepStone",
-   "title": "Ausbildung zur Heilerziehungsassistentin (m/w/d), Beginn Mai 2027",
-   "firma": "Diakonie Kork",
-   "ort": "Kehl",
-   "plz": "",
-   "street": "",
-   "lat": 48.5733977,
-   "lon": 7.8114002,
-   "url": "https://www.stepstone.de/stellenangebote--Ausbildung-zur-Heilerziehungsassistentin-m-w-d-Beginn-Mai-2027-77694-Kehl-Diakonie-Kork--14653653-inline.html",
-   "posted": "2026-11-02",
-   "desc": "Ausbildung zur Heilerziehungsassistentin (m/w/d) in Gesundheitseinrichtungen mit pädagogischer Begleitung von Menschen mit Unterstützungsbedarf. Gesucht wird ein Auszubildender (m/w/d), um bei der pflegerischen Versorgung und pädagogischen Begleitung mitzuwirken. Ein Hauptschulabschluss, B1 Sprachzertifikat, soziale Kompetenz und Teamfähigkeit werden vorausgesetzt.",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 14.6,
-   "kind": "Hort / Schule",
-   "ausb": true,
-   "first_seen": "2026-11-03T19:16",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "ss_14629123",
    "src": "StepStone",
    "title": "Praxisintegrierte Ausbildung (PiA) zum Erzieher (m/w/d)",
@@ -1049,9 +1047,7 @@
    "ausb": false,
    "first_seen": "2026-11-03T17:32",
    "status": "open",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4482330431"
-   ]
+   "also_urls": []
   },
   {
    "id": "ba_10001-1003807157-S",
@@ -1176,7 +1172,6 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },
