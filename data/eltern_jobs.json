@@ -1,9 +1,1542 @@
 {
- "generated": "2026-11-19T14:55",
+ "generated": "2026-11-19T20:12",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 907,
+ "count": 915,
  "items": [
+  {
+   "id": "marina:ka_3490281361",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft Housekeeping (m/w/d)",
+   "firma": "частное",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-housekeeping-m-w-d-/3490281361-109-8088",
+   "posted": "2026-11-19",
+   "posted_time": "16:06",
+   "desc": "Für unsere Objekte in Kehl suchen wir ab sofort zuverlässige Mitarbeiter (m/w/d) im Bereich Housekeeping. Ihre Aufgaben: * Reinigung von Gästezimmern und Badezimmern * Reinigung von Fluren und Treppenhäusern * Staubsaugen und Bodenpflege * Reinigung und Pflege der öffentlichen Bereiche * Sicherstellung von Sauberkeit und Ordnung Wir bieten: * Stundenlohn von 15,00 € brutto * Flexible Arbeitszeiten * Teilzeitbeschäftigung * Arbeitszeiten zwischen 08:30 Uhr und 15:00 Uhr * Freundliches Arbeitsumfeld Ihr Profil: * Zuverlässigkeit und Sorgfalt * Selbstständige Arbeitsweise * Erfahrung im Housekeeping von Vorteil, aber nicht erforderlich * Grundkenntnisse Deutsch von Vorteil Arbeitsort: Kehl Interessiert? Wir freuen uns auf Ihre Bewerbung. Arbeitsort: Vor Ort",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3576341420",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter / in / Produktion / Fertigung / Montage (m",
+   "firma": "max reach HR",
+   "ort": "Zell am Harmersbach",
+   "plz": "77736",
+   "street": "",
+   "lat": 48.3435884,
+   "lon": 8.0828409,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-in-produktion-fertigung-montage-m/3576341420-111-8051",
+   "posted": "2026-11-19",
+   "posted_time": "14:59",
+   "desc": "☘️ Aebi Schmidt Deutschland GmbH sucht zum nächstmöglichen Zeitpunkt in Zell am Harmersbach ein/e Produktionsmitarbeiter / in / Produktion / Fertigung / Montage (m/w/d). Die Aebi Schmidt Group ist ein börsennotierter, weltweit führender Hersteller von Spezialfahrzeugen. Unter dem Dach der Gruppe operieren 20 Marken in 11 Ländern Europas sowie in den USA, Kanada und Mexiko. Die Vielfalt an Standorten und Produkten macht uns so einzigartig wie die Vielfalt an Berufen und Karrieremöglichkeiten, die wir anbieten.... (gekürzte Stellenanzeige) ❗️❗️❗️❗️ Wichtiger Hinweis ❗️❗️❗️❗️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Die vollständige Stellenausschreibung, alle Kontaktinformationen sowie die Bewerbungsoption finden Sie unter folgendem Link: ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ▼ jobs4us.de/1a4ajttn9ky ▲ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ So funktioniert’s: Klicken Sie auf den Button „Bewerben“ oder Kopieren Sie den Link und fügen Sie ihn in die Adressleiste Ihres Internet-Browsers ein, um den Arbeitgeber zu kontaktieren. ✅",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 20.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 73,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:35",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 79
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 345,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 319,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:06",
+        "min": 319
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 345
+     }
+    ],
+    "best": "транспорт",
+    "min": 73,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3518036195",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeitende Containervorbereitung / Bauhelfer (m/w/d) in Tag...",
+   "firma": "Stepstone",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeitende-containervorbereitung-bauhelfer-m-w-d-in-tag-/3518036195-111-8088",
+   "posted": "2026-11-19",
+   "posted_time": "19:07",
+   "desc": "Mitarbeitende Containervorbereitung / Bauhelfer (m/w/d) in Tag... bei BauGPT HIER BEWERBEN: https://www.stepstone.de/job/14510224/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Wenn du lieber machst statt redest - starte jetzt bei Du packst an, wo andere noch überlegen? Dann bist du hier richtig. Ob Containerwand, Bodenbelag oder 360°-Modul: Bei ALGECO sorgst du dafür, dass aus Raum eine Lösung wird. Du gestaltest, baust um, bereitest vor - und bringst Ordnung in Systeme, bevor sie auf Reisen gehen. ● Du übernimmst den Umbau von Containern und passt Wände, Decken und Böden nach Plan und individuellem Bedarf an ● Dabei stattest du die Module mit den firmeneigenen 360°-Produkten aus und sorgst so für eine qualitativ hochwertige und einsatzbereite Lösung ● Zu deinen Aufgaben gehört auch die Vorbereitung der Containerwände, die Einrichtung der Anlagen und die Bereitstellung der Module für den nächsten Einsatz ● In enger Abstimmung mit der Containerreinigung stellst du sicher, dass alle Einheiten sauber, vollständig und technisch einsatzbereit sind ● Darüber hinaus trägst du Verantwortung für einen aufgeräumten, gepflegten und gut strukturierten Hof sowie ein ordentliches Materiallager ● Du bringst handwerkliches Geschick mit - Erfahrung ist willkommen, entscheidend ist jedoch deine Motivation und dein Wille, Neues zu lernen ● Sichere Deutschkenntnisse auf mindestens B2-Niveau ermöglichen dir eine klare und verlässliche Kommunikation im Team und mit anderen Abteilungen ● Du bist lernbereit und gehst auch technische Aufgaben mit Interesse und Sorgfalt an ● Zuverlässigkeit, Eigenständigkeit und eine strukturierte Arbeitsweise zeichnen dich aus - du packst an und behältst auch bei anspruchsvollen Aufgaben den Überblick ● Teamfähigkeit und Flexibilität sind für dich selbstverständlich, und du passt dich schnell an neue Abläufe oder Anforderungen an ● Ein hoher Qualitätsanspruch treibt dich an - für dich ist eine Aufgabe erst dann erledigt, wenn sie wirklich sauber und ordentlich ausgeführt ist Weil du nicht nur einen Job suchst, sondern Teil eines Unternehmens werden möchtest, das modulare Raumlösungen europaweit vorantreibt. Mit über 150 Standorten, 330.000 Raumeinheiten und einem Anspruch auf Qualität und Sicherheit gestalten wir gemeinsam Zukunft - nicht nur Container. KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.6,
+   "de": "нужен",
+   "de_txt": "Sichere Deutschkenntnisse auf mindestens B2-Niveau ermöglichen dir eine klare und verlässliche Kommunikation im Team und mit anderen Abteilungen",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3576493414",
+   "src": "Kleinanzeigen",
+   "title": "Medizinische Fachangestellte (m/w/d), Medizinische/r Fachangestellte/r, Arzthelfer/in",
+   "firma": "HeyJobs",
+   "ort": "Ottenhöfen",
+   "plz": "77883",
+   "street": "",
+   "lat": 48.5574165,
+   "lon": 8.1595176,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/medizinische-fachangestellte-m-w-d-medizinische-r-fachangestellte-r-arzthelfer-in/3576493414-123-8222",
+   "posted": "2026-11-19",
+   "posted_time": "17:28",
+   "desc": "⭐ Deine Benefits: Mitarbeiter-Rabatt, Betriebliche Altersvorsorge, Mitarbeiter-Events ✅ Direkt bewerben: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/zVpPitPkV13g ⭐ Medizinische Fachangestellte (MFA) / Arzthelfer:in ⭐ Ihre Aufgabenschwerpunkte - Verwaltungs- und Abrechnungsaufgaben - auch Rezepterstellung und Entlassberichte nach Diktat - Injektionen und Blutabnahmen - Ansprechperson für Terminvergabe und Anrufverwaltung - Patientenaufnahne und Entlassung Ihr Profil - Abgeschlossene Ausbildung als Medizinische Fachangestellte, MFA (m/w/d) oder Arzthelfer:in - Gute Kennnisse des MS-Office-Paketes - Soziale Kompetenz, Verantwortungsbewusstsein und Freude am Umgang mit Menschen - Team- und Kopperationsfähigkeit - Freundliches und engagiertes Auftreten - Sichere Deutschkenntnisse Wir bieten Ihnen die Vorteile eines Marktführers - Zahlreiche Mitarbeitervorteile für bekannte Marken (Corporate Benefits) - Geregelte Arbeitszeiten - Leistungsgerechte Vergütung - Intensive Einarbeitung in ein kollegiales Team - Abwechslungsreiches Tätigkeitsfeld - Betriebliche Altersvorsorge - Fort- und Weiterbildungsmöglichkeiten über die MEDIAN Akademie Wir haben Ihr Interesse geweckt? Dann freuen wir uns auf Ihre Online-Bewerbung. Wir schätzen Vielfalt und fördern Chancengleichheit, unabhängig von Alter, Herkunft, Geschlecht, Behinderung oder Religion. Bei uns zählt der Mensch mit seiner Persönlichkeit und seinen Kompetenzen. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/zVpPitPkV13g",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 6.4,
+   "de": "нужен",
+   "de_txt": "Sichere Deutschkenntnisse Wir bieten Ihnen die Vorteile eines Marktführers",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Ausbildung als Medizinische Fachangestellte, MFA (m/w/d) oder Arzthelf",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 49,
+      "changes": 0,
+      "km": 11.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 49
+       }
+      ],
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "транспорт",
+      "min": 91,
+      "changes": 2,
+      "min_wait": 8,
+      "walk_end": 26,
+      "end_stop": "Ottenhöfen",
+      "dep": "06:32",
+      "arr": "08:03",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS3",
+        "from": "Achern",
+        "to": "Ottenhöfen",
+        "dep": "07:20",
+        "arr": "07:38",
+        "wait": 8,
+        "min": 18
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Ottenhöfen",
+        "to": "работа",
+        "dep": "07:38",
+        "arr": "08:03",
+        "min": 26
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 97
+     }
+    ],
+    "best": "велосипед",
+    "min": 49,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3576409941",
+   "src": "Kleinanzeigen",
+   "title": "Zeitungszusteller (m/w/d) in Teilzeit oder als Minijob, Zeitungszusteller/in, Briefzusteller/in, Postbote/-botin",
+   "firma": "HeyJobs",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-briefzusteller-in-postbote-botin/3576409941-247-8047",
+   "posted": "2026-11-19",
+   "posted_time": "16:07",
+   "desc": "⭐ Deine Benefits: Mitarbeiter-Rabatt, Coaching, Mitarbeiter-Events ✅ Direkt bewerben: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/b8e_uhZdRUn3 ⭐ Zeitungszusteller (m/w/d) in Teilzeit oder als Minijob ⭐ Auch Quereinsteiger ohne Zustell-Erfahrung sind bei uns herzlich willkommen! Das bieten wir Dir: - Einsatz in Wohnortnähe ohne langen Anfahrtsweg - geregelte Arbeitszeiten - verschiedene Arbeitszeitmodelle möglich, ideal auch als Nebenverdienst zum Hauptjob oder zur Rente - attraktive Zusatzleistungen - Lohnfortzahlung bei Krankheit und Urlaub Das sind Deine Hauptaufgaben: - Du arbeitest täglich von Montag bis Samstag in den frühen Morgenstunden, jeweils bis 6 Uhr - nach einer Einarbeitungsphase übernimmst Du selbstständig und eigenverantwortlich Deine eigene Tour Das bringst Du mit: - Du bist zuverlässig, motiviert und pünktlich - Ein Fahrzeug ist von Vorteil, aber nicht Voraussetzung (Fahrtkostenerstattung) - Aufgrund des Jugendschutzgesetzes können wir keine Bewerbungen seitens Minderjähriger berücksichtigen Interessiert? Wir freuen uns auf Deine Bewerbung. Bei Fragen steht Dir unser Recruiting-Team gerne zur Verfügung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/b8e_uhZdRUn3",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3465938810",
+   "src": "Kleinanzeigen",
+   "title": "Maschinenbediener (m/w/d) mit Schichtbereitschaft (29150270)",
+   "firma": "hokify GmbH",
+   "ort": "Seelbach",
+   "plz": "77960",
+   "street": "",
+   "lat": 48.3049855,
+   "lon": 7.9427212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/maschinenbediener-m-w-d-mit-schichtbereitschaft-29150270-/3465938810-111-8037",
+   "posted": "2026-11-19",
+   "posted_time": "17:06",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/94W72Q2 ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Maschinenbediener (m/w/d) für unseren Kunden in Seelbach. In dieser Rolle tragen Sie zur effizienten Produktion und Planung der hochwertigen Produkte bei. Wenn Sie eine Leidenschaft für Technik haben und gerne in einem dynamischen Umfeld arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Bedienen und Überwachen von Produktionsanlagen - Programmieren von Anlagen im Bereich Mechanik - Durchführen von Qualitätskontrollen während des Produktionsprozesses - Warten und Pflegen der Maschinen gemäß den Vorgaben - Dokumentieren der Produktionsdaten sowie Störungen oder Abweichungen - Zusammenarbeiten mit anderen Abteilungen zur Optimierung der Produktionsabläufe Anforderungen: - Abgeschlossene Ausbildung als Industriemechaniker, Werkzeugmechaniker oder vergleichbar - Erfahrung im Umgang mit Produktionsanlagen ist wünschenswert - Langjährige Erfahrung in der Blechverarbeitung - Technisches Verständnis und handwerkliches Geschick - Bereitschaft zur Schichtarbeit - Schnelle Auffassungsgabe - Teamfähigkeit sowie eigenverantwortliche Arbeitsweise Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/94W72Q2",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 27.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Ausbildung als Industriemechaniker, Werkzeugmechaniker oder vergleichb",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 14,
+      "walk_end": 3,
+      "end_stop": "Seelbach Dautenstein",
+      "dep": "06:59",
+      "arr": "08:39",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE7",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:40",
+        "arr": "07:51",
+        "wait": 14,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Seelbach Dautenstein",
+        "dep": "08:06",
+        "arr": "08:37",
+        "wait": 15,
+        "min": 31
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Seelbach Dautenstein",
+        "to": "работа",
+        "dep": "08:37",
+        "arr": "08:39",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 3,
+      "end_stop": "Seelbach Dautenstein",
+      "dep": "05:21",
+      "arr": "06:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB27",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "05:52",
+        "arr": "06:03",
+        "wait": 4,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Seelbach Dautenstein",
+        "dep": "06:19",
+        "arr": "06:48",
+        "wait": 16,
+        "min": 29
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Seelbach Dautenstein",
+        "to": "работа",
+        "dep": "06:48",
+        "arr": "06:50",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 180,
+      "changes": 0,
+      "km": 44.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 180
+       }
+      ],
+      "risky": false,
+      "score": 340
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 340,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 314,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "19:36",
+      "arr": "01:16",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "19:36",
+        "arr": "19:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "19:47",
+        "arr": "20:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "20:03",
+        "arr": "01:16",
+        "min": 314
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 340
+     }
+    ],
+    "best": "транспорт",
+    "min": 100,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3576341420",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter / in / Produktion / Fertigung / Montage (m",
+   "firma": "max reach HR",
+   "ort": "Zell am Harmersbach",
+   "plz": "77736",
+   "street": "",
+   "lat": 48.3435884,
+   "lon": 8.0828409,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-in-produktion-fertigung-montage-m/3576341420-111-8051",
+   "posted": "2026-11-19",
+   "posted_time": "14:59",
+   "desc": "☘️ Aebi Schmidt Deutschland GmbH sucht zum nächstmöglichen Zeitpunkt in Zell am Harmersbach ein/e Produktionsmitarbeiter / in / Produktion / Fertigung / Montage (m/w/d). Die Aebi Schmidt Group ist ein börsennotierter, weltweit führender Hersteller von Spezialfahrzeugen. Unter dem Dach der Gruppe operieren 20 Marken in 11 Ländern Europas sowie in den USA, Kanada und Mexiko. Die Vielfalt an Standorten und Produkten macht uns so einzigartig wie die Vielfalt an Berufen und Karrieremöglichkeiten, die wir anbieten.... (gekürzte Stellenanzeige) ❗️❗️❗️❗️ Wichtiger Hinweis ❗️❗️❗️❗️ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Die vollständige Stellenausschreibung, alle Kontaktinformationen sowie die Bewerbungsoption finden Sie unter folgendem Link: ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ▼ jobs4us.de/1a4ajttn9ky ▲ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ So funktioniert’s: Klicken Sie auf den Button „Bewerben“ oder Kopieren Sie den Link und fügen Sie ihn in die Adressleiste Ihres Internet-Browsers ein, um den Arbeitgeber zu kontaktieren. ✅",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 20.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 73,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:35",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 79
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 345,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 319,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:06",
+        "min": 319
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 345
+     }
+    ],
+    "best": "транспорт",
+    "min": 73,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3518036195",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeitende Containervorbereitung / Bauhelfer (m/w/d) in Tag...",
+   "firma": "Stepstone",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeitende-containervorbereitung-bauhelfer-m-w-d-in-tag-/3518036195-111-8088",
+   "posted": "2026-11-19",
+   "posted_time": "19:07",
+   "desc": "Mitarbeitende Containervorbereitung / Bauhelfer (m/w/d) in Tag... bei BauGPT HIER BEWERBEN: https://www.stepstone.de/job/14510224/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Wenn du lieber machst statt redest - starte jetzt bei Du packst an, wo andere noch überlegen? Dann bist du hier richtig. Ob Containerwand, Bodenbelag oder 360°-Modul: Bei ALGECO sorgst du dafür, dass aus Raum eine Lösung wird. Du gestaltest, baust um, bereitest vor - und bringst Ordnung in Systeme, bevor sie auf Reisen gehen. ● Du übernimmst den Umbau von Containern und passt Wände, Decken und Böden nach Plan und individuellem Bedarf an ● Dabei stattest du die Module mit den firmeneigenen 360°-Produkten aus und sorgst so für eine qualitativ hochwertige und einsatzbereite Lösung ● Zu deinen Aufgaben gehört auch die Vorbereitung der Containerwände, die Einrichtung der Anlagen und die Bereitstellung der Module für den nächsten Einsatz ● In enger Abstimmung mit der Containerreinigung stellst du sicher, dass alle Einheiten sauber, vollständig und technisch einsatzbereit sind ● Darüber hinaus trägst du Verantwortung für einen aufgeräumten, gepflegten und gut strukturierten Hof sowie ein ordentliches Materiallager ● Du bringst handwerkliches Geschick mit - Erfahrung ist willkommen, entscheidend ist jedoch deine Motivation und dein Wille, Neues zu lernen ● Sichere Deutschkenntnisse auf mindestens B2-Niveau ermöglichen dir eine klare und verlässliche Kommunikation im Team und mit anderen Abteilungen ● Du bist lernbereit und gehst auch technische Aufgaben mit Interesse und Sorgfalt an ● Zuverlässigkeit, Eigenständigkeit und eine strukturierte Arbeitsweise zeichnen dich aus - du packst an und behältst auch bei anspruchsvollen Aufgaben den Überblick ● Teamfähigkeit und Flexibilität sind für dich selbstverständlich, und du passt dich schnell an neue Abläufe oder Anforderungen an ● Ein hoher Qualitätsanspruch treibt dich an - für dich ist eine Aufgabe erst dann erledigt, wenn sie wirklich sauber und ordentlich ausgeführt ist Weil du nicht nur einen Job suchst, sondern Teil eines Unternehmens werden möchtest, das modulare Raumlösungen europaweit vorantreibt. Mit über 150 Standorten, 330.000 Raumeinheiten und einem Anspruch auf Qualität und Sicherheit gestalten wir gemeinsam Zukunft - nicht nur Container. KLED1_DE",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 17.6,
+   "de": "нужен",
+   "de_txt": "Sichere Deutschkenntnisse auf mindestens B2-Niveau ermöglichen dir eine klare und verlässliche Kommunikation im Team und mit anderen Abteilungen",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3576493414",
+   "src": "Kleinanzeigen",
+   "title": "Medizinische Fachangestellte (m/w/d), Medizinische/r Fachangestellte/r, Arzthelfer/in",
+   "firma": "HeyJobs",
+   "ort": "Ottenhöfen",
+   "plz": "77883",
+   "street": "",
+   "lat": 48.5574165,
+   "lon": 8.1595176,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/medizinische-fachangestellte-m-w-d-medizinische-r-fachangestellte-r-arzthelfer-in/3576493414-123-8222",
+   "posted": "2026-11-19",
+   "posted_time": "17:28",
+   "desc": "⭐ Deine Benefits: Mitarbeiter-Rabatt, Betriebliche Altersvorsorge, Mitarbeiter-Events ✅ Direkt bewerben: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/zVpPitPkV13g ⭐ Medizinische Fachangestellte (MFA) / Arzthelfer:in ⭐ Ihre Aufgabenschwerpunkte - Verwaltungs- und Abrechnungsaufgaben - auch Rezepterstellung und Entlassberichte nach Diktat - Injektionen und Blutabnahmen - Ansprechperson für Terminvergabe und Anrufverwaltung - Patientenaufnahne und Entlassung Ihr Profil - Abgeschlossene Ausbildung als Medizinische Fachangestellte, MFA (m/w/d) oder Arzthelfer:in - Gute Kennnisse des MS-Office-Paketes - Soziale Kompetenz, Verantwortungsbewusstsein und Freude am Umgang mit Menschen - Team- und Kopperationsfähigkeit - Freundliches und engagiertes Auftreten - Sichere Deutschkenntnisse Wir bieten Ihnen die Vorteile eines Marktführers - Zahlreiche Mitarbeitervorteile für bekannte Marken (Corporate Benefits) - Geregelte Arbeitszeiten - Leistungsgerechte Vergütung - Intensive Einarbeitung in ein kollegiales Team - Abwechslungsreiches Tätigkeitsfeld - Betriebliche Altersvorsorge - Fort- und Weiterbildungsmöglichkeiten über die MEDIAN Akademie Wir haben Ihr Interesse geweckt? Dann freuen wir uns auf Ihre Online-Bewerbung. Wir schätzen Vielfalt und fördern Chancengleichheit, unabhängig von Alter, Herkunft, Geschlecht, Behinderung oder Religion. Bei uns zählt der Mensch mit seiner Persönlichkeit und seinen Kompetenzen. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/zVpPitPkV13g",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 6.4,
+   "de": "нужен",
+   "de_txt": "Sichere Deutschkenntnisse Wir bieten Ihnen die Vorteile eines Marktführers",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Ausbildung als Medizinische Fachangestellte, MFA (m/w/d) oder Arzthelf",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-19T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 49,
+      "changes": 0,
+      "km": 11.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 49
+       }
+      ],
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "транспорт",
+      "min": 91,
+      "changes": 2,
+      "min_wait": 8,
+      "walk_end": 26,
+      "end_stop": "Ottenhöfen",
+      "dep": "06:32",
+      "arr": "08:03",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS3",
+        "from": "Achern",
+        "to": "Ottenhöfen",
+        "dep": "07:20",
+        "arr": "07:38",
+        "wait": 8,
+        "min": 18
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Ottenhöfen",
+        "to": "работа",
+        "dep": "07:38",
+        "arr": "08:03",
+        "min": 26
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 97
+     }
+    ],
+    "best": "велосипед",
+    "min": 49,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_17710-0068846600-S",
    "src": "Jobbörse",
@@ -14929,180 +16462,10 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ka_3566732073",
-   "src": "Kleinanzeigen",
-   "title": "Zeitungszusteller (m/w/d) in Teilzeit oder als Minijob, Zeitungszusteller/in, Briefzusteller/in, Postbote/-botin",
-   "firma": "Ergebnisse",
-   "ort": "Lahr (Schwarzwald)",
-   "plz": "77933",
-   "street": "",
-   "lat": 48.3355086,
-   "lon": 7.8723584,
-   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-briefzusteller-in-postbote-botin/3566732073-247-8047",
-   "posted": "2026-11-09",
-   "posted_time": null,
-   "desc": "⭐ Deine Benefits: Mitarbeiter-Rabatt, Coaching, Mitarbeiter-Events ✅ Direkt bewerben: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/b8e_uhZdRUn3 ⭐ Zeitungszusteller (m/w/d) in Teilzeit oder als Minijob ⭐ Auch Quereinsteiger ohne Zustell-Erfahrung sind bei uns herzlich willkommen! Das bieten wir Dir: - Einsatz in Wohnortnähe ohne langen Anfahrtsweg - geregelte Arbeitszeiten - verschiedene Arbeitszeitmodelle möglich, ideal auch als Nebenverdienst zum Hauptjob oder zur Rente - attraktive Zusatzleistungen - Lohnfortzahlung bei Krankheit und Urlaub Das sind Deine Hauptaufgaben: - Du arbeitest täglich von Montag bis Samstag in den frühen Morgenstunden, jeweils bis 6 Uhr - nach einer Einarbeitungsphase übernimmst Du selbstständig und eigenverantwortlich Deine eigene Tour Das bringst Du mit: - Du bist zuverlässig, motiviert und pünktlich - Ein Fahrzeug ist von Vorteil, aber nicht Voraussetzung (Fahrtkostenerstattung) - Aufgrund des Jugendschutzgesetzes können wir keine Bewerbungen seitens Minderjähriger berücksichtigen Interessiert? Wir freuen uns auf Deine Bewerbung. Bei Fragen steht Dir unser Recruiting-Team gerne zur Verfügung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/b8e_uhZdRUn3",
-   "zeit": "",
-   "who": "mykyta",
-   "approx": true,
-   "km": 26.6,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Почта / DHL / доставка",
-   "first_seen": "2026-11-17T13:49",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 70,
-      "changes": 2,
-      "min_wait": 7,
-      "walk_end": 9,
-      "end_stop": "Lahr Goethestraße",
-      "dep": "06:32",
-      "arr": "07:42",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB26",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "07:06",
-        "arr": "07:16",
-        "wait": 7,
-        "min": 10
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Lahr",
-        "line": "105",
-        "from": "Lahr (Schwarzw)",
-        "to": "Lahr Goethestraße",
-        "dep": "07:27",
-        "arr": "07:34",
-        "wait": 11,
-        "min": 7
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Lahr Goethestraße",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:42",
-        "min": 9
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 76
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 273,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 247,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "11:06",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "11:06",
-        "min": 247
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 273
-     },
-     {
-      "kind": "велосипед",
-      "min": 152,
-      "changes": 0,
-      "km": 37.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 152
-       }
-      ],
-      "risky": false,
-      "score": 284
-     }
-    ],
-    "best": "транспорт",
-    "min": 70,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-briefzusteller-in-postbote-botin/3566732073-247-8047",
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-briefzusteller-in-postbote-botin/3576409941-247-8047"
+   ],
    "person": "mykyta"
   },
   {
@@ -26892,6 +28255,9 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr706581_19-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr706581_44-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_14-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_15-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_31-S",
     "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029842-107-8038",
     "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029833-107-8045",
     "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029823-107-9032",
@@ -91159,6 +92525,180 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ba_12951-a8171d18-ad12-4e16--S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 17 bis 21.30 Uhr (m/w/d)",
+   "firma": "Klüh Cleaning GmbH",
+   "ort": "Rheinau",
+   "street": "Am Erlenpark",
+   "lat": 48.6230233,
+   "lon": 7.8872059,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-a8171d18-ad12-4e16--S",
+   "posted": "2026-11-13",
+   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH und Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 4,5 Stunden täglich von 17.00 bis 21.30 Uhr. Werden auch Sie Teil des Klüh-Teams! Ihre Vorteile ✓ 30 Tage Urlaub/Jahr✓ Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit✓ Pünktliche und sichere Vergütung nach Tarifvertrag✓ Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen✓ Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl)✓ Kostenloser Parkplatz✓ Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie✓ Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr Ihre Aufgaben ✓ Reinigung von Büros✓ Reinigung von Sanitärräumen✓ Reinigung von Ausstellungsflächen Ihr Profil ✓ Erfahrung als Reinigungskraft von Vorteil✓ Zuverlässigkeit✓ Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "zeit": " / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.5,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-13T08:03",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 112,
+      "changes": 1,
+      "min_wait": 15,
+      "walk_end": 9,
+      "end_stop": "Linx Süd",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Kehl Rathaus",
+        "dep": "06:03",
+        "arr": "06:47",
+        "wait": 15,
+        "min": 44
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Kehl Rathaus",
+        "to": "Linx Süd",
+        "dep": "06:50",
+        "arr": "07:05",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Linx Süd",
+        "to": "работа",
+        "dep": "07:05",
+        "arr": "07:14",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 115
+     },
+     {
+      "kind": "велосипед",
+      "min": 107,
+      "changes": 0,
+      "km": 26.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 107
+       }
+      ],
+      "risky": false,
+      "score": 194
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 112,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-17-bis-21-30-uhr-m-w-d-/3569973789-109-8667"
+   ],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ka_3569796568",
    "src": "Kleinanzeigen",
    "title": "Job als Reinigungskraft in Hohberg – 14 € /Std.",
@@ -94889,181 +96429,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_17710-0068701903-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 17 bis 21.30 Uhr (m/w/d)",
-   "firma": "Klüh Cleaning GmbH",
-   "ort": "Rheinau",
-   "street": "Am Erlenpark",
-   "lat": 48.6230233,
-   "lon": 7.8872059,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17710-0068701903-S",
-   "posted": "2026-11-12",
-   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH & Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 4,5 Stunden täglich von 17.00 bis 21.30 Uhr. Werden auch Sie Teil des Klüh-Teams! **Ihre Vorteile** * 30 Tage Urlaub/Jahr * Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit * Pünktliche und sichere Vergütung nach Tarifvertrag * Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen * Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl) * Kostenloser Parkplatz * Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie * Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr **Ihre Aufgaben** * Reinigung von Büros * Reinigung von Sanitärräumen * Reinigung von Ausstellungsflächen **Ihr Profil** * Erfahrung als Reinigungskraft von Vorteil * Zuverlässigkeit * Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.5,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-12T12:10",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 112,
-      "changes": 1,
-      "min_wait": 15,
-      "walk_end": 9,
-      "end_stop": "Linx Süd",
-      "dep": "05:21",
-      "arr": "07:14",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Kehl Rathaus",
-        "dep": "06:03",
-        "arr": "06:47",
-        "wait": 15,
-        "min": 44
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Kehl Rathaus",
-        "to": "Linx Süd",
-        "dep": "06:50",
-        "arr": "07:05",
-        "wait": null,
-        "min": 15
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Linx Süd",
-        "to": "работа",
-        "dep": "07:05",
-        "arr": "07:14",
-        "min": 9
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 115
-     },
-     {
-      "kind": "велосипед",
-      "min": 107,
-      "changes": 0,
-      "km": 26.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 107
-       }
-      ],
-      "risky": false,
-      "score": 194
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 303,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 277,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:24",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:24",
-        "min": 277
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 303
-     }
-    ],
-    "best": "транспорт",
-    "min": 112,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-a8171d18-ad12-4e16--S",
-    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-17-bis-21-30-uhr-m-w-d-/3569973789-109-8667"
-   ],
    "person": "Марина"
   },
   {
@@ -103806,7 +105171,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-984825298-S"
+   ],
    "person": "Марина"
   },
   {
@@ -104812,7 +106179,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-/3546347398-109-8047"
+   ],
    "person": "Марина"
   },
   {
