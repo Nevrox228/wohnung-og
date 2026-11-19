@@ -1,9 +1,77 @@
 {
- "generated": "2026-11-19T09:17",
+ "generated": "2026-11-19T10:34",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 51,
+ "count": 54,
  "items": [
+  {
+   "id": "ss_14629123",
+   "src": "StepStone",
+   "title": "Praxisintegrierte Ausbildung (PiA) zum Erzieher (m/w/d)",
+   "firma": "Stadt Ettenheim",
+   "ort": "Ettenheim",
+   "plz": "",
+   "street": "",
+   "lat": 48.2487345,
+   "lon": 7.8539263,
+   "url": "https://www.stepstone.de/stellenangebote--Praxisintegrierte-Ausbildung-PiA-zum-Erzieher-m-w-d-77955-Ettenheim-Stadt-Ettenheim--14629123-inline.html",
+   "posted": "2026-11-16",
+   "desc": "Die Stadt Ettenheim ist eine Barockstadt im Ortenaukreis mit moderner Verwaltung. Gesucht wird ein Erzieher (m/w/d) in praxisintegrierter Ausbildung (PiA) zur Begleitung und Unterstützung im Kindergarten oder in der Kita. Ein mittlerer Bildungsabschluss oder Fachhochschulreife, Freude am Umgang mit Kindern, pädagogisches Interesse und Teamfähigkeit werden vorausgesetzt.",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 26.2,
+   "kind": "Hort / Schule",
+   "ausb": true,
+   "first_seen": "2026-11-19T10:04",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "li_4462605353",
+   "src": "LinkedIn",
+   "title": "Sozialpädagogen (gn) Familienprojekt",
+   "firma": "Ohlebusch Baden-Baden GmbH",
+   "ort": "Offenburg",
+   "plz": "",
+   "street": "",
+   "lat": 48.4695984,
+   "lon": 7.9429235,
+   "url": "https://de.linkedin.com/jobs/view/4462605353",
+   "posted": "2026-08-11",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 0.8,
+   "kind": "Общее / другое",
+   "ausb": false,
+   "first_seen": "2026-11-19T10:04",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "ss_14618263",
+   "src": "StepStone",
+   "title": "Betreuungskraft (m/w/d)",
+   "firma": "Gemeindeverwaltung Bühlertal",
+   "ort": "Bühlertal",
+   "plz": "",
+   "street": "",
+   "lat": 48.6868867,
+   "lon": 8.1872676,
+   "url": "https://www.stepstone.de/stellenangebote--Betreuungskraft-m-w-d-77830-Buehlertal-Gemeindeverwaltung-Buehlertal--14618263-inline.html",
+   "posted": "2026-11-15",
+   "desc": "Gemeinde Bühlertal betreibt eine Pflegeeinrichtung mit stationären Plätzen und betreuten Seniorenwohnungen. Gesucht wird eine Betreuungskraft (m/w/d) gem. § 43b, 53b SGB XI für die aktivierende Betreuung von Bewohnern und die Erstellung von Betreuungsplänen. Soziale und fachliche Kompetenz, Verantwortungsbereitschaft, Selbstständigkeit und Organisationsfähigkeit werden vorausgesetzt.",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 29.3,
+   "kind": "Jugend / Heim",
+   "ausb": false,
+   "first_seen": "2026-11-19T10:04",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "ba_10001-1004036603-S",
    "src": "Jobbörse",
@@ -363,7 +431,9 @@
    "ausb": false,
    "first_seen": "2026-11-12T16:40",
    "status": "open",
-   "also_urls": []
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4489538517"
+   ]
   },
   {
    "id": "ba_13635-c9469775_JB5295525-S",
@@ -437,7 +507,8 @@
    "first_seen": "2026-11-08T22:18",
    "status": "open",
    "also_urls": [
-    "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html"
+    "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html",
+    "https://de.linkedin.com/jobs/view/4487950738"
    ]
   },
   {
