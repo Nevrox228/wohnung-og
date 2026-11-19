@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T22:05",
+ "generated": "2026-11-19T23:02",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -15,7 +15,7 @@
  "counts": {
   "all": 537,
   "queue": 217,
-  "ai_focus": 287
+  "ai_focus": 286
  },
  "jobs": [
   {
@@ -8695,34 +8695,6 @@
    "description": "Deine Rolle Du studierst Informatik, Wirtschaftsinformatik, Data Science oder ein verwandtes Fach und willst neben dem Studium nicht nur zuarbeiten, sondern deine Skills praktisch anwenden? Du hast schon eigene Projekte umgesetzt und interessierst dich dafür, wie KI in der Softwareentwicklung eingesetzt wird? Als Werkstudent unterstützt du unser Team in Kundenprojekten und bei der Entwicklung eigener KI-Tools und übernimmst eigene Aufgaben. Über DataClue DataClue ist eine Unternehmensberatungs-Boutique mit Fokus auf Applied AI & Data Analytics und Execution & Transformation. Wir entwickeln maßgeschneiderte Lösungen mit messbarem Mehrwert. Unser interdisziplinäres Team vereint Business- und Entwicklungs-Know-how und begleitet Kunden: von Konzeption und Strategie über Projektmanagement bis zur Umsetzung. Aufgaben Deine Aufgaben Unterstützung bei der Entwicklung von Backend-Services und Datenpipelines in Python Umsetzung Frontend-Komponenten und interner Tools mit TypeScript und React Arbeit mit relationalen Datenbanken: SQL-Abfragen, Datenmodelle und Datenaufbereitung Prototyping mit LLM-APIs und KI-Agenten, z. B. für Automatisierungen für Kunden oder unser Team Mitarbeit an Tests, Dokumentation und Code-Reviews Nach der Einarbeitung: eigenständige Teilaufgaben in Kundenprojekten Qualifikation Dein Profil Laufendes Studium in Informatik, Wirtschaftsinformatik, Data Science oder einem verwandten Fach Gute Grundlagen in Python und erste Erfahrung mit TypeScript und React Grundkenntnisse in SQL und relationalen Datenbanken Eigene Projekte über das Studium hinaus (z. B. Hobby-Tool, Bot, Web-App) Interesse an KI und erste praktische Erfahrung mit KI-Modellen oder LLM-APIs Grundlegendes betriebswirtschaftliches Verständnis oder Interesse daran Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift 15–20 Stunden pro Woche im Semester, in der vorlesungsfreien Zeit gern mehr Benefits Unser Angebot Echte Projektarbeit statt Zuarbeit: Deine Lösungen kommen direkt beim Kunden zum Einsatz Enge Betreuung durch erfahrene Entwickler und Berater Moderne Entwicklungstools inkl. KI-gestützter Entwicklung Flexible Arbeitszeiten rund um deinen Stundenplan, Home-Office möglich Perspektive auf Abschlussarbeit oder Übernahme nach dem Studium Offene Unternehmenskultur mit Raum für Eigeninitiative und Wachstum Interessiert? Wir freuen uns auf deinen CV und ein Projekt, auf das du stolz bist (GitHub-Link, Screenshots)"
   },
   {
-   "id": "an_junior-pricing-data-scientist-london-492244",
-   "queue": false,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 3,
-   "ai_focus": true,
-   "type": "Junior",
-   "track": "KI / Automatisierung",
-   "title": "Junior Pricing Data Scientist",
-   "company": "Marshmallow",
-   "location": "London",
-   "distance_km": 113.8,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "arbeitnow",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/junior-pricing-data-scientist-london-492244",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-03",
-   "first_seen": "2026-11-04T18:01",
-   "description": "We started building Marshmallow in 2017. Since then, we’ve grown from 3 to 700+ people, gained unicorn status, raised ~£140M over three funding rounds, turned profitable, insured millions of drivers and lent millions in car loans. But we’re only just getting started. Our goal is to become one of the largest financial services providers in the world. Over the next 10 years we’ll grow exponentially, not only by scaling our existing products, but also by building new ones. To achieve our goals we need incredibly ambitious, commercially driven people who never settle for ‘good enough’. Marshmallowers are hungry for autonomy and ownership, and would rather improve than coast. Everyone raises standards and has an impact, with a focus on collective success over self-interest. We’ve created an environment where curious, tenacious people win and grow together. If that sounds motivating, this could be the place for you. London (hybrid, 3 days in office) We are not able to offer visa sponsorship for this position. About the team Marshmallow's pricing team applies quantitative methods to real insurance problems. In this role, you'll learn how pricing decisions work in practice and turn data into meaningful outcomes. You'll work closely with a senior pricing team member, bringing your quantitative background into an industry setting. The aim is for you to develop the practical judgement and independence to take on – and eventually lead – increasingly substantial work. What you'll be doing Working closely with pricing colleagues on scoped analytical and data-driven projects, taking on more responsibility as your experience develops. Applying mathematical, statistical and machine learning techniques to practical pricing questions, connecting your analysis to the decision it needs to inform. Explaining your findings clearly, keeping colleagues from different areas of the business updated on progress and following up on agreed actions. Using feedback to improve your work and build your understanding of data science methods, coding best practice and the commercial context of insurance pricing. Who you are You want to learn, seek feedback and build towards working independently. You communicate your rationale and findings clearly, and keep colleagues informed about your progress. You follow through on agreed actions and take ownership of your work. What you’ll bring A strong academic record and a research master's or PhD in a quantitative field, such as mathematics, physics or econometrics. Experience applying quantitative methods or machine learning to a practical problem through your studies, research, a personal project or work. Industry experience is preferred - a placement, internship or experience whilst studying, or in between research masters / PhD. The ability to explain how your approach fits the problem, rather than relying on theory alone. Perks of the job Bonus scheme designed to reward high performance Private medical insurance with Vitality, mental h"
-  },
-  {
    "id": "ba_10001-1003879076-S",
    "queue": false,
    "missing_skills": [],
@@ -11828,6 +11800,34 @@
    "posted": "2026-10-17",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "ba_10001-1003854921-S",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Working Student – Management Consulting & Energy Analytics (m/w/d)",
+   "company": "Crescenti Pohl Advisory GmbH",
+   "location": "Berlin",
+   "distance_km": 588.0,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003854921-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-14",
+   "first_seen": "2026-11-19T22:35",
+   "description": "- Confident communicator in German and English **About Us** We are a fast-growing boutique consultancy that works with some of Europe’s largest energy companies and trading houses. This is an exciting opportunity for ambitious students who want to kick-start their career, break into management consulting, energy, and analytics in a high-impact environment. You won’t just observe change, you’ll help drive it across Europe’s energy markets. If you are an analytical student looking to bypass routine intern tasks and instead tackle live market models, enterprise transformation, and strategic energy challenges alongside seasoned specialists, this is your launchpad. **Your profile** - Enrolled Student: Currently pursuing a Bachelor’s or Master’s degree in Engineering, Physics, Mathematics, Computer Science, Quantitative Economics, or a related STEM/quantitative field at an accredited university. - Analytical Mindset: Exceptional structured problem-solving skills, intellectual curiosity, and ease with complex quantitative problems. - Critical Mindset: You don’t simply take things at face value. You are comfortable asking questions, challenging assumptions, and digging into the \"why\" behind the numbers. - Communication: Fluency in German and English (spoken and written). - Initiative & Ownership: A self-starter mindset who thrives in an entrepreneurial boutique setup and takes pride in delivering high-quality work. - Bonus Points: Prior practical experience (internships, student jobs, or relevant academic projects) in data analytics, consulting, energy markets, or digital transformation. **Your duties and responsibilities** - Quantitative & Market Analysis: Build models, analyse complex datasets, and generate actionable insights for energy trading, risk management, and market forecasting. - Renewable Energy & Commercial Strategy: Support client engagements across energy transition topics—including flexibility marketing, battery storage valuation, and commercial operating models. - Digital & Operating Model Transformation: Collaborate on agile transformation projects, applying modern data workflows, product management frameworks, and AI tooling. - Direct Client & Project Exposure: Work directly with senior consultants on deliverables, preparing structured executive presentations, storyline frameworks, and client workshops. **We offer** - True Flexibility: A modern hybrid model designed to fit your university schedule, exam periods, and lectures. - Direct Mentorship: 1-on-1 guidance from experienced consultants and energy trading specialists. - Clear Career Pathway: Transitioning top-performing working students into full-time junior consultant roles upon graduation."
   },
   {
    "id": "li_4491378526",

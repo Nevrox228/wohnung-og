@@ -1,9 +1,193 @@
 {
- "generated": "2026-11-19T22:05",
+ "generated": "2026-11-19T23:02",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 916,
+ "count": 917,
  "items": [
+  {
+   "id": "mykyta:ka_3570818123",
+   "src": "Kleinanzeigen",
+   "title": "Postbote für Pakete und Briefe (m/w/d) (29019724)",
+   "firma": "hokify GmbH",
+   "ort": "Achern",
+   "plz": "77855",
+   "street": "",
+   "lat": 48.6340095,
+   "lon": 8.0373249,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/postbote-fuer-pakete-und-briefe-m-w-d-29019724-/3570818123-247-8671",
+   "posted": "2026-11-14",
+   "posted_time": null,
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/IdGCghj ⬅️ - - - - - - - - ️ Werde Postbote für Pakete und Briefe in Achern Was wir bieten * 18,50 € Tarif-Stundenlohn inkl. 50% Weihnachtsgeld * Weitere 50% Weihnachtsgeld im November * Bis zu 332 € Urlaubsgeld * Du kannst sofort in Vollzeit starten, 38.5 Stunden/Woche * Möglichkeit der Auszahlung von Überstunden und zusätzlichen Vergütung durch bspw. freiwillige Rufbereitschaft * Ein krisensicherer Arbeitsplatz, garantierte Gehaltssteigerung gemäß Tarifvertrag und pünktliche Gehaltszahlungen * Kostenlose Bereitstellung von hochwertiger Arbeitskleidung * Ausführliche Einweisung (bezahlt) – wir machen dich fit für die Zustellung * Unbefristete Übernahme und Entwicklungsmöglichkeiten (bspw. Standortleiter) bei guten Leistungen und offenen Positionen möglich * Attraktive Mitarbeiterangebote wie z.B. arbeitgeberfinanzierte betriebliche Altersvorsorge, Fahrradleasing, Rabatte bei Mobilfunkanbietern, etc. Deine Aufgaben als Postbote bei uns * Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln * Auslieferung an 5 Werktagen (zwischen Montag und Samstag) * Sendungen im Durchschnitt unter 10 kg (max 31,5kg) * Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Was du als Zusteller bietest * Du darfst einen Pkw fahren * Du kannst dich auf Deutsch unterhalten * Du bist wetterfest und kannst gut anpacken * Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in deinem Bezirk Brief- und Paketsendungen. Dabei lässt du dir von keinem Wetter die Laune verderben. Auch Quereinsteiger, Rentner oder Studenten sind bei uns herzlich willkommen, denn du zählst, wie du bist! Wir freuen uns auf deine Bewerbung als Fahrer, am besten online! Klicke dazu einfach auf den 'Bewerben'-Button – auch ganz ohne Lebenslauf. MENSCHEN VERBINDEN, LEBEN VERBESSERN #werdeeinervonuns #werdeeinervonunspostbote #jobsNLFreiburg Bitte hier bewerben ➡️ -> https://hy.hokify.de/IdGCghj",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 11.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-19T22:35",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 37,
+      "end_stop": "Achern",
+      "dep": "06:25",
+      "arr": "07:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Achern",
+        "to": "работа",
+        "dep": "06:58",
+        "arr": "07:35",
+        "min": 37
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 70
+     },
+     {
+      "kind": "велосипед",
+      "min": 62,
+      "changes": 0,
+      "km": 15.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 62
+       }
+      ],
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 113,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 22,
+      "end_stop": "Großweier Seehotel",
+      "dep": "06:32",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Gamshurst Ziegelhütte",
+        "dep": "07:16",
+        "arr": "07:31",
+        "wait": 4,
+        "min": 15
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Gamshurst Ziegelhütte",
+        "to": "Großweier Seehotel",
+        "dep": "08:02",
+        "arr": "08:04",
+        "wait": null,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Großweier Seehotel",
+        "to": "работа",
+        "dep": "08:04",
+        "arr": "08:26",
+        "min": 22
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 131
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3546520535",
    "src": "Kleinanzeigen",
