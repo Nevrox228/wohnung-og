@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T12:33",
+ "generated": "2026-11-19T14:01",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 56,
+ "count": 55,
  "items": [
   {
    "id": "li_4361574268",
@@ -112,29 +112,6 @@
    "approx": true,
    "km": 0.8,
    "kind": "Общее / другое",
-   "ausb": false,
-   "first_seen": "2026-11-19T10:04",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "ss_14618263",
-   "src": "StepStone",
-   "title": "Betreuungskraft (m/w/d)",
-   "firma": "Gemeindeverwaltung Bühlertal",
-   "ort": "Bühlertal",
-   "plz": "",
-   "street": "",
-   "lat": 48.6868867,
-   "lon": 8.1872676,
-   "url": "https://www.stepstone.de/stellenangebote--Betreuungskraft-m-w-d-77830-Buehlertal-Gemeindeverwaltung-Buehlertal--14618263-inline.html",
-   "posted": "2026-11-15",
-   "desc": "Gemeinde Bühlertal betreibt eine Pflegeeinrichtung mit stationären Plätzen und betreuten Seniorenwohnungen. Gesucht wird eine Betreuungskraft (m/w/d) gem. § 43b, 53b SGB XI für die aktivierende Betreuung von Bewohnern und die Erstellung von Betreuungsplänen. Soziale und fachliche Kompetenz, Verantwortungsbereitschaft, Selbstständigkeit und Organisationsfähigkeit werden vorausgesetzt.",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 29.3,
-   "kind": "Jugend / Heim",
    "ausb": false,
    "first_seen": "2026-11-19T10:04",
    "status": "open",
@@ -525,9 +502,7 @@
    "ausb": false,
    "first_seen": "2026-11-11T10:11",
    "status": "open",
-   "also_urls": [
-    "https://www.stepstone.de/stellenangebote--Verwaltungsmitarbeiterin-fuer-die-Ganztagsbetreuung-an-Grundschulen-Offenburg-Stadt-Offenburg--14741010-inline.html"
-   ]
+   "also_urls": []
   },
   {
    "id": "ss_14739059",
