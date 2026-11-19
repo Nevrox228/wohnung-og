@@ -1,9 +1,308 @@
 {
- "generated": "2026-11-19T14:01",
+ "generated": "2026-11-19T14:55",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 905,
+ "count": 907,
  "items": [
+  {
+   "id": "marina:ba_17710-0068846600-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 15 bis 18 Uhr (m/w/d)",
+   "firma": "Klüh Cleaning GmbH",
+   "ort": "Rheinau",
+   "street": "Am Erlenpark",
+   "lat": 48.6215791,
+   "lon": 7.88879,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17710-0068846600-S",
+   "posted": "2026-11-19",
+   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH & Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 3 Stunden täglich von 15.00 bis 18.00 Uhr. Werden auch Sie Teil des Klüh-Teams! **Ihre Vorteile** * 30 Tage Urlaub/Jahr * Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit * Pünktliche und sichere Vergütung nach Tarifvertrag * Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen * Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl) * Kostenloser Parkplatz * Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie * Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr **Ihre Aufgaben** * Reinigung von Büros * Reinigung von Sanitärräumen * Reinigung von Ausstellungsflächen **Ihr Profil** * Erfahrung als Reinigungskraft von Vorteil * Zuverlässigkeit * Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "zeit": " / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.3,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-19T14:31",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 108,
+      "changes": 2,
+      "min_wait": 17,
+      "walk_end": 5,
+      "end_stop": "Linx Süd",
+      "dep": "05:21",
+      "arr": "07:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "05:32",
+        "arr": "05:41",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS4",
+        "from": "Appenweier",
+        "to": "Kehl",
+        "dep": "06:25",
+        "arr": "06:36",
+        "wait": 44,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Kehl",
+        "to": "Linx Süd",
+        "dep": "06:53",
+        "arr": "07:05",
+        "wait": 17,
+        "min": 12
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Linx Süd",
+        "to": "работа",
+        "dep": "07:05",
+        "arr": "07:09",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 114
+     },
+     {
+      "kind": "велосипед",
+      "min": 107,
+      "changes": 0,
+      "km": 26.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 107
+       }
+      ],
+      "risky": false,
+      "score": 194
+     }
+    ],
+    "best": "транспорт",
+    "min": 108,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3576279811",
+   "src": "Kleinanzeigen",
+   "title": "Zeitungszusteller als Springer (w/m/d) (ZustellerAktiv - Schwarzwald) *15 - 15 EUR/Stunde*",
+   "firma": "HeyJobs",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-als-springer-w-m-d-zustelleraktiv-schwarzwald-15-15-eur-stunde-/3576279811-247-8047",
+   "posted": "2026-11-19",
+   "posted_time": "13:59",
+   "desc": "⭐ Deine Benefits: Mitarbeiter-Rabatt, Coaching, Mitarbeiter-Events ✅ Direkt bewerben: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/poFAT9qofxsh ⭐ Zeitungszusteller als Springer in Teilzeit (m/w/d) ⭐ Auch Quereinsteiger ohne Zustell-Erfahrung sind bei uns herzlich willkommen! Das bieten wir Dir: - Eine feste Anstellung mit einem Arbeitszeitmodell nach Deinen Bedürfnissen (12 bis 24 Std. /Woche, je nach Standort und Vereinbarung) - Steuerfreie Zuschläge für Nachtarbeit sowie Fahrtkostenerstattung - Regelmäßiges Einkommen mit fairer Bezahlung - Attraktive Zusatzleistungen - Familienfreundliche Arbeitsbedingungen - Aktive Tätigkeit mit regelmäßiger Bewegung an der frischen Luft - Eine umfangreiche Einarbeitung Das ist Deine Hauptaufgabe: - Du stellst eigenverantwortlich in ggf. tgl. wechselnden Bereichen Zeitungen und andere Printprodukte von Montag bis Samstag in der Nacht und in den frühen Morgenstunden zu Das bringst Du mit: - Du bist mindestens 18 Jahre alt, darfst in Deutschland Auto fahren und Dir steht zwingend ein eigenes Fahrzeug zur Verfügung - Deutschkenntnisse sind von Vorteil - Du bist engagiert, motiviert und pünktlich Interessiert? Wir freuen uns auf Deine Bewerbung. Bei Fragen steht Dir unser Recruiting-Team gerne zur Verfügung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/poFAT9qofxsh",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse sind von Vorteil",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-19T14:31",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "mykyta:ka_3576246055",
    "src": "Kleinanzeigen",
@@ -99584,7 +99883,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zimmermaedchen-housekeeping-m-w-d-uebertariflich-nur-tagdien/3576315189-110-8669"
+   ],
    "person": "Марина"
   },
   {
