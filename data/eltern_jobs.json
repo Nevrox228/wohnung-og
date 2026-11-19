@@ -1,9 +1,250 @@
 {
- "generated": "2026-11-19T20:12",
+ "generated": "2026-11-19T21:09",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 915,
+ "count": 916,
  "items": [
+  {
+   "id": "marina:ka_3546520535",
+   "src": "Kleinanzeigen",
+   "title": "Zuverlässige Reinigungskraft Vertretung/Springer 77866 Rheinau",
+   "firma": "Meteor Nofer GmbH",
+   "ort": "Rheinau",
+   "plz": "77866",
+   "street": "",
+   "lat": 48.6567433,
+   "lon": 7.9354027,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zuverlaessige-reinigungskraft-vertretung-springer-77866-rheinau/3546520535-109-8667",
+   "posted": "2026-11-19",
+   "posted_time": "20:08",
+   "desc": "Wir suchen ab sofort eine Zuverlässige Reinigungskraft mit Erfahrung in der Reinigungsbranche zur Funktion als Springer und Urlaubsvertretung auf Minijobbasis für ein Objekt in 77866 Rheinau-Freistett. Bei Interesse bewerben Sie sich gerne per Mail an oder telefonisch: 0721956120",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-19T20:42",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 98,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 18,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:04",
+        "min": 18
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 101
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 13,
+      "end_stop": "Freistett Seniorenzentrum",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Freistett Seniorenzentrum",
+        "dep": "07:48",
+        "arr": "07:49",
+        "wait": 2,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Seniorenzentrum",
+        "to": "работа",
+        "dep": "07:49",
+        "arr": "08:01",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 110
+     },
+     {
+      "kind": "велосипед",
+      "min": 90,
+      "changes": 0,
+      "km": 21.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 90
+       }
+      ],
+      "risky": false,
+      "score": 160
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 98,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3490281361",
    "src": "Kleinanzeigen",
