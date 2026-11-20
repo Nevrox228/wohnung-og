@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T07:50",
+ "generated": "2026-11-20T11:07",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 537,
-  "queue": 217,
-  "ai_focus": 286
+  "all": 539,
+  "queue": 218,
+  "ai_focus": 288
  },
  "jobs": [
   {
@@ -220,6 +220,36 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "ba_15693-44583816-1119-S",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [
+    "Microsoft-Stack"
+   ],
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) AI & Software Innovation",
+   "company": "Fiege Logistik Holding Stiftung & Co. KG",
+   "location": "Münster",
+   "distance_km": 381.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15693-44583816-1119-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20T10:35",
+   "description": "Wir sind FIEGE. Ein Familienunternehmen, das innovative Geschäftsmodelle in den Bereichen Logistik, Digital, Real Estate und Ventures vorantreibt - und das seit über 150 Jahren. Als Innovationsführer in der Branche beschäftigen wir bei FIEGE mehr als 22.000 Mitarbeitende an rund 136 Standorten in 14 Ländern. Unsere Unternehmenskultur und der FIEGE-Erfolgsspirit machen uns einzigartig und verbinden alle unsere Kolleginnen und Kollegen. Denn wir leben familiäre Werte und ein respektvolles Miteinander. Die gemeinsame Basis dafür bildet der FIEGE Kompass mit unseren Grundsätzen für eine wertschätzende Zusammenarbeit und gute Führung. Damit legen wir den Grundstein für eine starke Gemeinschaft heute, morgen und für zukünftige Generationen. Wir suchen für unser IT Team am Standort Münster zum nächstmöglichen Zeitpunkt Unterstützung als Werkstudent (m/w/d) AI & Software Innovation. Was du machst * Du unterstützt unser Produktentwicklungsteam bei der Pflege und Weiterentwicklung unserer Wissens- und Dokumentationsplattformen. * Du analysierst Arbeitsabläufe in den Bereichen Dokumentation, Wissensmanagement, Softwareentwicklung und Qualitätssicherung. * Du identifizierst und bewertest Anwendungsfälle, bei denen AI Agents und Copilot-Technologien Mitarbeiter sinnvoll unterstützen oder Prozesse automatisieren können. * Du führst Machbarkeitsanalysen, Tests und Proof-of-Concepts durch, um den Nutzen von AI Agents für konkrete Aufgabenstellungen zu validieren. * Du unterstützt bei der Konzeption, Konfiguration und Erstellung von AI Agents für ausgewählte Anwendungsfälle. * Du bereitest Produkt-, Prozess- und Wissensdaten für die Nutzung durch AI-Lösungen auf. * Du wirkst bei der Erstellung und Pflege von Testfällen mit und unterstützt die Durchführung von Softwaretests. * Du dokumentierst Ergebnisse, gewonnene Erkenntnisse und Best Practices für den produktiven Einsatz von AI Agents. * Du arbeitest eng mit Produktmanagern, Entwicklern und Fachexperten zusammen und bringst eigene Ideen zur Weiterentwicklung unserer Arbeitsweisen ein. Was du mitbringst * Du bist eingeschriebener Student (m/w/d) im Bereich (Wirtschafts-) Informatik, Wirtschaftsingenieurwesen, Maschinenbau oder einer vergleichbaren Studienrichtung. * Du interessierst dich für Künstliche Intelligenz, AI Agents und Automatisierungstechnologien und möchtest deren praktische Anwendung im Unternehmensumfeld verstehen und mitgestalten. * Du hast idealerweise erste Erfahrungen mit Microsoft 365, SharePoint, Copilot, KI-Tools (wie Langdock, GitHub Copilot o.Ä.) oder Softwareentwicklung gesammelt. * Du arbeitest strukturiert, analytisch und hast Freude daran, Prozesse zu hinterfragen und Verbesserungspotenziale zu identifizieren. * Du interessierst dich für Softwarequalität, Testing, Wissensmanagement und moderne Entwicklungsmethoden. * Du arbeitest selbstständig, zuverlässig und sorgfältig. * Du verfügst über gute Deutsch- und Englischkenntnisse in Wort und Schrift. Was noch bei uns zählt Bei uns zählt d"
   },
   {
    "id": "li_4491643156",
@@ -6009,6 +6039,34 @@
    "description": ""
   },
   {
+   "id": "ss_14778768",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Abrechnungsmanagement – Prozessentwicklung Kapazitätsmarkt (w/m/d)",
+   "company": "TransnetBW GmbH",
+   "location": "Stuttgart",
+   "distance_km": 85.3,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-Abrechnungsmanagement-Prozessentwicklung-Kapazitaetsmarkt-w-m-d-Stuttgart-TransnetBW-GmbH--14778768-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20T10:35",
+   "description": "TransnetBW ist ein Übertragungsnetzbetreiber, der die Stromversorgung in Baden-Württemberg sichert und die Infrastruktur für die Energiewende schafft. Gesucht wird ein Werkstudent Abrechnungsmanagement – Prozessentwicklung Kapazitätsmarkt (m/w/d) zur Unterstützung bei der Umsetzung des neuen Kapazitätsmarkts und Erstellung von Auswertungen sowie Präsentationen. Ein laufendes Studium in (Wirtschafts-)Ingenieurwesen oder Betriebswirtschaftslehre/Volkswirtschaftslehre mit mindestens einem Jahr Reststudienzeit, Grundkenntnisse der Energiewirtschaft und starke analytische Fähigkeiten werden vorausgesetzt."
+  },
+  {
    "id": "li_4489748340",
    "queue": true,
    "missing_skills": [],
@@ -6203,34 +6261,6 @@
    "posted": "2026-08-04",
    "first_seen": "2026-11-04T12:29",
    "description": "Zur Karriereseite Operations Werkstudent*in Automation Manager*in (m/w/d) Remote/Hybrid (Berlin oder Hamburg) Jetzt bewerben DEINE AUFGABEN TL;DR Du verwaltest unsere internen Automationen, optimierst bestehende Prozesse und unterstützt unser Team bei spannenden Kundenprojekten – dabei lernst du die modernsten AI- und Automation-Tools von Grund auf kennen. ‍ Automationen verwalten & optimieren Du kümmerst dich um unsere internen Automationen, stellst sicher, dass sie reibungslos laufen und optimierst sie kontinuierlich. Du erkennst Verbesserungspotenziale und setzt diese eigenständig um. ‍ Neue Ideen entwickeln Du bringst frische Ideen ein, wie wir unsere eigenen Prozesse noch smarter gestalten können. Du denkst mit, hinterfragst bestehende Abläufe und schlägst kreative Lösungen vor. ‍ Kundenprojekte unterstützen Du arbeitest eng mit unseren Automation Specialists zusammen und unterstützt bei der Umsetzung von Kundenprojekten. Du sammelst praktische Erfahrung in echten B2B-Projekten mit messbarem Impact. ‍ Tools & Technologien lernen Du wirst mit den wichtigsten Automation-Tools wie Make.com und n8n arbeiten und lernst, wie man damit komplexe Workflows baut. Außerdem bekommst du Einblicke in AI-Integrationen mit OpenAI und weiteren modernen Tools. ‍ Dokumentation & Wissensaufbau Du dokumentierst Automationen, erstellst How-to-Guides und trägst aktiv dazu bei, unser internes Wissen zu strukturieren und weiterzugeben. ‍ WAS DICH BEI UNS ERWARTET Technisches Interesse & Neugier Du hast Spaß an Tech-Themen, interessierst dich für Automatisierung und AI und willst verstehen, wie Systeme funktionieren. Du musst kein Profi sein, aber Lust haben, dich reinzufuchsen. ‍ Strukturierte & selbstständige Arbeitsweise Du arbeitest organisiert, behältst den Überblick über verschiedene Aufgaben und kannst dich gut selbst organisieren. Du fragst nach, wenn du Hilfe brauchst, packst aber auch eigenständig an. ‍ Hands-on Mentalität Du bist kein reiner Theoretiker, sondern willst Dinge ausprobieren, testen und umsetzen. Du hast keine Angst davor, auch mal zu scheitern und daraus zu lernen. ‍ Erste Erfahrungen (optional) Idealerweise hast du schon mal mit No-Code-Tools wie Make.com, n8n, Zapier oder ähnlichen Plattformen experimentiert – sei es im Studium, in Projekten oder privat. Aber auch wenn nicht: Wenn du motiviert bist, bringen wir dir alles bei. ‍ Dein Background Du studierst aktuell (z. B. Informatik, Wirtschaftsinformatik, BWL, Medien oder ein ähnliches Fach) und hast mindestens noch 1-2 Jahre Studienzeit vor dir. ‍ Verfügbarkeit Du kannst 15-20 Stunden pro Woche für uns arbeiten und bist langfristig verfügbar. ‍ Sprachen Fließendes Deutsch ist Pflicht, gutes Englisch ein Plus. ‍ BENEFITS ‍ Die beste Ausbildung in AI & Automation Du bekommst praxisnahes Training von einem erfahrenen Team, das täglich mit den modernsten Tools arbeitet. Du lernst nicht nur Theorie, sondern setzt echte Projekte um. ‍ Hands-on Erfahrung mit Top-Tools Du arbeitest mit Tools wie M"
-  },
-  {
-   "id": "li_4443700084",
-   "queue": true,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 3,
-   "ai_focus": false,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent*in Digital B2B Marketing, Lead Generation & Brand Building (m/w/d)",
-   "company": "conbirdTest123",
-   "location": "Berlin, Deutschland",
-   "distance_km": 589.7,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "LinkedIn",
-   "url": "https://de.linkedin.com/jobs/view/4443700084",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-07-21",
-   "first_seen": "2026-11-04T12:29",
-   "description": "Berlin Teilzeit Werkstudierende 1.200 - 1.440 € pro Monat Intro Starte Deine Karriere im Digital Marketing für eine führende B2B-AI-Software-as-a-Service bei der Berliner contentbird GmbH (AI Content Operations Platform). Du arbeitest eng mit dem Gründerteam (insbesondere dem CEO) zusammen und übernimmst Aufgaben mit echtem Impact auf unseren Markterfolg – und auf Deine persönliche Lernkurve. Wenn Du perspektivisch in Richtung Marketing , Beratung , Investment Banking/Finance oder Startup-Welt gehen möchtest, bekommst Du bei uns praxisnahe Einblicke in Wachstum, Positionierung und Go-to-Market und arbeitest an Projekten, die Dich fachlich und strategisch spürbar weiterbringen. Darüberhinaus wartet ein tolles Büro am Berliner Ku´damm und ein ambitioniertes Team, das Spaß am Wachstum hat! Deine Chancen bei contentbird direkte, enge Zusammenarbeit mit den Gründern, schnelle Entscheidungen, echte Projekte mit Wirkung steile Lernkurve im digitalen B2B-Tech-Marketing + moderne (KI-)Tools Schnittstelle auch zum Produkt, Vertrieb und Customer Success modernes Büro am Ku’damm + flexible Hybrid-Regelung faire Vergütung Deine Aufgaben Du unterstützt dabei, qualifizierte Leads über Content, Kampagnen und Partnerkanäle zu generieren, baust aktiv Kooperationen für Co-Marketing und Leadgenerierung auf und stärkst gleichzeitig unsere Brand sowie das Vertrauen in der Zielgruppe durch Social Proof und eine klare, konsistente Kommunikation. Content produzieren, der überzeugt: Blog, LinkedIn, Newsletter, Landingpages, Case Studies (inkl. Briefings/Research, KI-Tools nutzen) Kampagnen umsetzen, die wirken: Assets koordinieren, Launches unterstützen, Analysen/Optimierungen Externe steuern, um Geschwindigkeit aufzunehmen: Briefing & Koordination von z.B. Texterinnen/Designerinnen, Qualität sichern Kooperationen aufbauen: Partner recherchieren, anbahnen, Co-Marketing vorbereiten Leadgenerierung unterstützen: Lead Magnets, Formulare/CTAs, Tracking/KPIs im Blick behalten Dein Profil eingeschriebener Studentin (Marketing/BWL/Kommunikation o. ä.) Ambitionen, ins Marketing, Startup Branche, die Beratung oder auch Investment Banking/Financen zu gehen strukturiert, zuverlässig, produktiv, effektive Kommunikation, hands-on-Einstellung Deutsch sehr sicher, Englisch gut Plus: erste Erfahrung im digitalen Marketing Content/SEO/Newsletter/Analytics oder Tools Über uns „Wir helfen hunderten Unternehmen dabei, organisch mit KI-gestützten Content Prozessen zu wachsen .“ – werde Teil unseres Teams! Die contentbird GmbH entwickelt die führende KI-gestützte All-in-One Software für Content Marketing und Unternehmenskommunikation. Teams erstellen, steuern und veröffentlichen zentral mehr wirkungsvolle Inhalte – schneller, effizienter und kanalübergreifend. In der Praxis bedeutet das: Unternehmen produzieren suchstarken Content für Google, ChatGPT & Co., halten ihre Teams optimal organisiert und bespielen alle Kanäle – von Website und Blog bis Social Media und Newsletter – aus einem System."
   },
   {
    "id": "li_4485339248",
@@ -6506,6 +6536,36 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "STAR werden. Zukunft machen. Für den STAR-Bereich | Böblingen | Teilzeit, Werkstudenten Gestalte mit uns intelligente Software, die in der Praxis etwas bewegt! Du möchtest nicht nur über Künstliche Intelligenz sprechen, sondern sie selbst entwickeln? In unserem AI-Team arbeitest Du an innovativen AI-Lösungen für internationale Top-Unternehmen. Gemeinsam mit erfahrenen AI-, Cloud- und Software-Experten entwickelst Du Prototypen, integrierst moderne KI-Modelle in Anwendungen und bringst neue Ideen von der ersten Skizze bis zum funktionierenden Use Case. Dabei erhältst Du echte Einblicke in anspruchsvolle Kundenprojekte und kannst Deine technischen Fähigkeiten direkt in der Praxis einsetzen. Statt klassischer Werkstudentenaufgaben erwarten Dich relevante Fragestellungen, moderne Technologien und viel Raum zum Ausprobieren. Deine Aufgaben Entwicklung von AI-Anwendungen: Du unterstützt bei der Konzeption und Umsetzung innovativer Anwendungen von Künstlicher Intelligenz und Generative AI. Prototyping und Proof of Concepts: Du entwickelst funktionsfähige Prototypen und demonstrierst, wie sich neue AI-Technologien in konkreten Business-Anwendungen einsetzen lassen Integration von AI-Modellen: Du bindest Large Language Models und weitere AI-Services über APIs in bestehende oder neu entwickelte Anwendungen ein. AI Agents und intelligente Workflows: Du wirkst bei der Entwicklung agentenbasierter Lösungen mit, die auf Informationen, Anwendungen und Unternehmensprozesse zugreifen können Backend- und Anwendungsentwicklung: Du entwickelst Softwarekomponenten, Schnittstellen und Services, beispielsweise mit Python oder JavaScript beziehungsweise TypeScript RAG und Unternehmenswissen: Du unterstützt bei der Entwicklung von Anwendungen, die Sprachmodelle sicher und gezielt mit Dokumenten, Datenbanken oder anderen Wissensquellen verbinden Testing und Qualitätssicherung: Du testest AI-Anwendungen systematisch und hilfst dabei, Qualität, Zuverlässigkeit und Nachvollziehbarkeit der Ergebnisse zu verbessern. Technologie-Scouting: Du analysierst neue Frameworks, Modelle und Entwicklungsmethoden und bewertest, wie sie sich sinnvoll in unseren Projekten einsetzen lassen Mitarbeit in Kundenprojekten: Du arbeitest eng mit unserem Team an realen AI-Projekten und bringst Deine technischen Ideen aktiv in die Lösungsentwicklung ein Dein Profil Du bist eingeschriebener Student (m/w/d), beispielsweise in Informatik, Wirtschaftsinformatik, Data Science, Software Engineering, Künstlicher Intelligenz oder einem vergleichbaren StudiengangDu verfügst über erste praktische Programmiererfahrung, idealerweise mit Python oder JavaScript beziehungsweise TypeScript Du hast ein ausgeprägtes Interesse an Artificial Intelligence, insbesondere an Generative AI, Large Language Models und AI Agents Du kennst grundlegende Konzepte der Softwareentwicklung und hast idealerweise bereits eigene Anwendungen, Studienprojekte oder Prototypen umgesetzt. Erste Erfahrungen mit APIs, Git, Datenbanken, Cloud-"
+  },
+  {
+   "id": "li_4492511588",
+   "queue": false,
+   "missing_skills": [
+    "C++"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Intern - AI Systems Research",
+   "company": "Huawei",
+   "location": "Dresden",
+   "distance_km": 500.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4492511588",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20T10:35",
+   "description": "Huawei's Munich Research Center is responsible for advanced technology research, architectural development, design and strategic engineering of our products. Huawei’s Dresden Hilbert Research Center (DRC)’s mission is to explore programming models, operating system and virtualization technologies on multicore heterogeneous architectures and NVM/SCM platforms, aiming to provide a high-performance, reliable abstraction layer for efficient resource utilization. DRC focuses its technical research in the key areas of Smart Mobile, Telecom, Autonomous Driving, Internet of Things, and Industry 4.0. Join us as an Intern in AI Systems Research (m/f/d) to bring intelligent agents to life on real-world devices. You’ll work on squeezing every ounce of performance out of modern mobile hardware, optimizing deep learning models for low-latency, battery-friendly inference. If “running AI inferences on edge” makes your eyes sparkle, this one’s for you. Your mission Contribute to the development of scalable and efficient AI systems through hands-on research and experimentation. Explore novel architectures, optimization techniques, and system-level innovations that push the boundaries of current AI capabilities. Deepen understanding of the intersection between machine learning and systems engineering, including distributed computing, model deployment, and hardware acceleration. Collaborate with researchers and engineers to translate theoretical insights into practical solutions for real-world AI challenges. Grow as a researcher by engaging with state-of-the-art tools, frameworks, and methodologies in AI systems. Your areas of expertise Working towards a Bachelor's or Master's Degree in Computer Science or in a similar field. Fluency in one of the programming languages: C, C++, Python. Good understanding of system software. Experience with compilers. Basic understanding of neural network architectures (e.g., transformers, CNN). Excellent communication skills and the ability to work in multicultural and distributed teams. Fluent in written and spoken English. By applying to this position, you agree with our Recruitment Privacy Statement. You can read in full our privacy policy here. Your rewards of working here Our culture is characterized by innovative power and team spirit as well as the intensive exchange of knowledge and experience within our global network. To keep your development ongoing, you will find a broad range of training opportunities. Many online and face-to-face training programs incl. language courses in German and Mandarin. Our diverse and welcoming environment is shaped by different backgrounds and around 40 individual nationalities. Self-responsible work in a competent, motivated and constantly growing team. Please send your application and CV (incl. cover letter and reference letters) in English. Huawei is a leading global information and communications technology (ICT) solutions provider. Our ICT solutions, products and services are used in more"
   },
   {
    "id": "li_4491303993",
