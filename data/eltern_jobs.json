@@ -1,9 +1,182 @@
 {
- "generated": "2026-11-20T12:06",
+ "generated": "2026-11-20T13:01",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 937,
+ "count": 936,
  "items": [
+  {
+   "id": "marina:ka_3547311759",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft (m/w/d)",
+   "firma": "www.gebäudereinigung.com - dein Portal für die Gebäudereinigung",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-/3547311759-109-8047",
+   "posted": "2026-11-20",
+   "posted_time": "12:07",
+   "desc": "► Arbeitgeber: Vebego Facility Services ◄ Meaningful jobs. Great work. Better world. Vebego ist ein führendes Facility-Service-Unternehmen in Europa - mit über 40.000 Kolleg*innen, die täglich Orte gestalten, an denen Menschen gerne arbeiten, leben und sich wohlfühlen. Mit unserem deutschen Headquarter in Wuppertal und über 50 Standorten bieten wir Services, die Unternehmen und Menschen voranbringen - darunter Gebäudereinigung, Sicherheitsdienste, Industriereinigung, Grünpflege und Technisches Gebäudemanagement. Dabei setzen wir auf Qualität und Verlässlichkeit - Tag für Tag. Wir glauben daran, dass Arbeit dann großartig ist, wenn sie Sinn stiftet, Entwicklung ermöglicht und Menschen verbindet. Wir nennen das: Great Work. Und das beginnt mit dir. Ganz gleich, in welchem Bereich du bei uns einsteigst - hier beginnt deine Chance, Teil von etwas Großem zu werden. Das gibt es zu tun:Mit deiner Arbeit als Reinigungskraft schaffst du saubere und gepflegte Räume, in denen sich Menschen wohlfühlen. Arbeitszeit: Montag bis Freitag, 16:00-20:00 Uhr (17,5 Std./Woche) ● Reinigung von Böden und Oberflächen ● Pflege und Desinfektion von Sanitär- und Küchenbereichen ● Ordnungsgemäßer Umgang mit Reinigungsmitteln und Arbeitsgeräten ● Entsorgung von Abfällen ● Nachfüllen von Verbrauchsmaterialien Das bist du: ● Du hast einen Blick für Sauberkeit und Ordnung ● Du arbeitest freundlich, zuverlässig und serviceorientiert ● Du schätzt ein respektvolles Miteinander und arbeitest gerne im Team Das kannst du von uns erwarten: ● Vergünstigte Mitarbeiterangebote über ein Online‑Portal ● Sorgfältige Einarbeitung sowie Möglichkeiten zur Weiterentwicklung ● Einen sicheren Arbeitsplatz ● Eine verlässliche, tarifgebundene Vergütung Bewirb dich bequem über den grünen „Bewerben“-Button oben auf der Seite - oder nutze alternativ den folgenden Link (einfach in deinen Browser kopieren): https://www.gebaeudereinigung.com/stellenanzeigen/reinigungskraft-m-w-d-3565e0?utm_source=kleinanzeigen&utm_medium=feed&utm_campaign=jobexport",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-20T12:36",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3466153213",
    "src": "Kleinanzeigen",
@@ -24844,6 +25017,122 @@
    "status": "open",
    "also_urls": [],
    "person": "mykyta"
+  },
+  {
+   "id": "marina:ka_3515073469",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft (m/w/d) Minijob morgens in Bühl",
+   "firma": "Stuttgarter Gebäudereinigung Venter GmbH & Co.KG",
+   "ort": "Bühl",
+   "plz": "77815",
+   "street": "",
+   "lat": 48.7016606,
+   "lon": 8.1350401,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-minijob-morgens-in-buehl/3515073469-107-8746",
+   "posted": "2026-11-16",
+   "posted_time": "19:07",
+   "desc": "Für ein Objekt in Bühl (Nähe Bushaltestelle Draisstraße) suchen wir ab sofort eine zuverlässige Reinigungskraft (m/w/d) für die Unterhaltsreinigung. Arbeitszeiten: Montag - Freitag / täglich 1,25 Std. zwischen 5:00 Uhr und 8:00 Uhr 6,25 Stunden in der Woche Wir bieten: - eine faire Vergütung nach Tarif - eine ordentliche Einarbeitung - kompetente Ansprechpartner vor Ort Grundkenntnisse in Deutsch erwünscht. Wir freuen uns auf Ihre Bewerbung unter Telefon: 0711/13578267 Noch nicht überzeugt? Besuch uns im Internet unter www.sgr.de auf Instagram www.instagram.com/stuttgartergebaeudereinigung/ oder Facebook www.facebook.com/SGRStuttgarterGebaeudereinigung",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 19.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-16T19:10",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 10,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:27",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "велосипед",
+      "min": 117,
+      "changes": 0,
+      "km": 28.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 117
+       }
+      ],
+      "risky": false,
+      "score": 214
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
   },
   {
    "id": "marina:ka_3413781992",
@@ -63824,7 +64113,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-985015101-S"
+   ],
    "person": "mykyta"
   },
   {
@@ -69768,189 +70059,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43231C35-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A49639C5-S"
    ],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_15518-DNSHGMQKXROB6P7K-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "firma": "iperdi GmbH",
-   "ort": "Bühl",
-   "street": "",
-   "lat": 48.691287219,
-   "lon": 8.151568768,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-DNSHGMQKXROB6P7K-S",
-   "posted": "2026-11-08",
-   "desc": "Iperdi GmbH iperdi ist ein mittelständisches Unternehmen für Personaldienstleistungen in Familien- bzw. Privatbesitz. Über 2.500 Firmenkunden aus vielen Branchen vertrauen uns als erfahrenen Spezialisten für Personalleasing, Personalvermittlung und individuelle Personalkonzepte sowie für In-House-Services. Mit über 3.000 externen vielseitig qualifizierten Kolleginnen und Kollegen in Deutschland sind wir jederzeit Ihr zuverlässiger Partner für alle Personalfragen. Produktionsmitarbeiter (m/w/d) Standort: Bühl Anstellungsart(en): Vollzeit Zweck und Ziel der Stelle Bei uns stehst du im Vordergrund, und ein ganzes Team hinter dir: Denn Respekt, gegenseitige Wertschätzung und Unterstützung sind für uns das Wichtigste – egal, in welcher Position du bei uns arbeitest. Du hast Lust auf Veränderungen und abwechslungsreiche Aufgaben? Aufgaben: - Bedienen von computergesteuerten Produktionsmaschinen - abwechslungsreiche Aufgaben in unserer Plattendecken- und Doppelwandproduktion - Herstellung und Bearbeitung von Einbauteilen, Bewehrungen, sowie Beton - lesen von Plänen und Zeichnungen - durch die verschiedenen Arbeitsabläufe veredelst du die Rohstoffe und Materialien zu einem wertigen Produkt - Mitwirkung bei der Verbesserung und Optimierung unserer Schnittstellen und Prozessen Voraussetzung: - mehrjährige Berufserfahrung im Baugewerbe erwünscht - technisches Verständnis und handwerkliches Geschick - Spaß an abwechslungsreicher Arbeit - sorgfältige und teamorientierte Arbeitsweise - Verantwortungsbewusstsein und selbständiges Arbeiten Benefits: - Mitarbeiterrabatte durch Corporate Benefits bei 1500 Shops (z.B. About You, Apple, Boss, HP, Samsung u.v.m) - Sicherheit durch einen unbefristeten Arbeitsvertrag bei einem der TOP-Personaldienstleister in Deutschland (FOCUS SPEZIAL und LÜNENDONK®-LISTE) - Abschlagzahlungen (wenn gewünscht) - Langfristiger Einsatz bei renommierten Kunden - Viele Zusatzleistungen wie Urlaubs- und Weihnachtsgeld, Leistungszulagen und Prämien durch JOB'N CASH-Programm - Zukunftssicherheit durch mögliche Übernahme in den Kundenbetrieb Ständig vergeben wir Jobs in Vollzeit, auch für Berufs- und Quereinsteiger: Staplerfahrer, Helfer oder Fachhelfer in Produktion – Lager – Metall - Elektro - Montage - Verpackung - Logistik. Sicher Dir unsere Prämie, wenn Du aus Freundes- oder Bekanntenkreis eine Jobempfehlung gibst. Kontaktdaten für Stellenanzeige: Dein Ansprechpartner Herr Patrick Kiefer freut sich - auf Deinen Anruf unter der 07222 - 9311260 - auf eine Whatsapp Nachricht an +49159 0409 5809 - auf Deine E-Mail an kuppenheim@iperdi.de - oder auf Deinen spontanen Besuch in der Neufeldstr. 6, 76456 Kuppenheim Wir reagieren innerhalb 24 Stunden nach Eingang Deiner Bewerbung!",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 18.4,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 27,
-      "end_stop": "Bühl (Baden)",
-      "dep": "06:32",
-      "arr": "07:43",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "07:17",
-        "arr": "07:43",
-        "min": 27
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 74
-     },
-     {
-      "kind": "как в приложении",
-      "min": 72,
-      "changes": 2,
-      "min_wait": 9,
-      "walk_end": 11,
-      "end_stop": "Kappelwindeck Bachschlossschule",
-      "dep": "06:32",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "268",
-        "from": "Bühl (Baden)",
-        "to": "Kappelwindeck Bachschlossschule",
-        "dep": "07:26",
-        "arr": "07:34",
-        "wait": 9,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelwindeck Bachschlossschule",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:45",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 78
-     },
-     {
-      "kind": "велосипед",
-      "min": 93,
-      "changes": 0,
-      "km": 22.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 93
-       }
-      ],
-      "risky": false,
-      "score": 166
-     }
-    ],
-    "best": "транспорт",
-    "min": 71,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "mykyta"
   },
   {
@@ -104674,189 +104782,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_15518-DNSHGMQKXROB6P7K-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "firma": "iperdi GmbH",
-   "ort": "Bühl",
-   "street": "",
-   "lat": 48.691287219,
-   "lon": 8.151568768,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-DNSHGMQKXROB6P7K-S",
-   "posted": "2026-11-08",
-   "desc": "Iperdi GmbH iperdi ist ein mittelständisches Unternehmen für Personaldienstleistungen in Familien- bzw. Privatbesitz. Über 2.500 Firmenkunden aus vielen Branchen vertrauen uns als erfahrenen Spezialisten für Personalleasing, Personalvermittlung und individuelle Personalkonzepte sowie für In-House-Services. Mit über 3.000 externen vielseitig qualifizierten Kolleginnen und Kollegen in Deutschland sind wir jederzeit Ihr zuverlässiger Partner für alle Personalfragen. Produktionsmitarbeiter (m/w/d) Standort: Bühl Anstellungsart(en): Vollzeit Zweck und Ziel der Stelle Bei uns stehst du im Vordergrund, und ein ganzes Team hinter dir: Denn Respekt, gegenseitige Wertschätzung und Unterstützung sind für uns das Wichtigste – egal, in welcher Position du bei uns arbeitest. Du hast Lust auf Veränderungen und abwechslungsreiche Aufgaben? Aufgaben: - Bedienen von computergesteuerten Produktionsmaschinen - abwechslungsreiche Aufgaben in unserer Plattendecken- und Doppelwandproduktion - Herstellung und Bearbeitung von Einbauteilen, Bewehrungen, sowie Beton - lesen von Plänen und Zeichnungen - durch die verschiedenen Arbeitsabläufe veredelst du die Rohstoffe und Materialien zu einem wertigen Produkt - Mitwirkung bei der Verbesserung und Optimierung unserer Schnittstellen und Prozessen Voraussetzung: - mehrjährige Berufserfahrung im Baugewerbe erwünscht - technisches Verständnis und handwerkliches Geschick - Spaß an abwechslungsreicher Arbeit - sorgfältige und teamorientierte Arbeitsweise - Verantwortungsbewusstsein und selbständiges Arbeiten Benefits: - Mitarbeiterrabatte durch Corporate Benefits bei 1500 Shops (z.B. About You, Apple, Boss, HP, Samsung u.v.m) - Sicherheit durch einen unbefristeten Arbeitsvertrag bei einem der TOP-Personaldienstleister in Deutschland (FOCUS SPEZIAL und LÜNENDONK®-LISTE) - Abschlagzahlungen (wenn gewünscht) - Langfristiger Einsatz bei renommierten Kunden - Viele Zusatzleistungen wie Urlaubs- und Weihnachtsgeld, Leistungszulagen und Prämien durch JOB'N CASH-Programm - Zukunftssicherheit durch mögliche Übernahme in den Kundenbetrieb Ständig vergeben wir Jobs in Vollzeit, auch für Berufs- und Quereinsteiger: Staplerfahrer, Helfer oder Fachhelfer in Produktion – Lager – Metall - Elektro - Montage - Verpackung - Logistik. Sicher Dir unsere Prämie, wenn Du aus Freundes- oder Bekanntenkreis eine Jobempfehlung gibst. Kontaktdaten für Stellenanzeige: Dein Ansprechpartner Herr Patrick Kiefer freut sich - auf Deinen Anruf unter der 07222 - 9311260 - auf eine Whatsapp Nachricht an +49159 0409 5809 - auf Deine E-Mail an kuppenheim@iperdi.de - oder auf Deinen spontanen Besuch in der Neufeldstr. 6, 76456 Kuppenheim Wir reagieren innerhalb 24 Stunden nach Eingang Deiner Bewerbung!",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 18.4,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-08T13:52",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 27,
-      "end_stop": "Bühl (Baden)",
-      "dep": "06:32",
-      "arr": "07:43",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "07:17",
-        "arr": "07:43",
-        "min": 27
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 74
-     },
-     {
-      "kind": "как в приложении",
-      "min": 72,
-      "changes": 2,
-      "min_wait": 9,
-      "walk_end": 11,
-      "end_stop": "Kappelwindeck Bachschlossschule",
-      "dep": "06:32",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "268",
-        "from": "Bühl (Baden)",
-        "to": "Kappelwindeck Bachschlossschule",
-        "dep": "07:26",
-        "arr": "07:34",
-        "wait": 9,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelwindeck Bachschlossschule",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:45",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 78
-     },
-     {
-      "kind": "велосипед",
-      "min": 93,
-      "changes": 0,
-      "km": 22.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 93
-       }
-      ],
-      "risky": false,
-      "score": 166
-     }
-    ],
-    "best": "транспорт",
-    "min": 71,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ka_3323049663",
    "src": "Kleinanzeigen",
    "title": "Reinigungskraft Teilzeit / Minijob (m/w/d) Baiersbronn",
@@ -112885,191 +112810,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1003721172-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d) Minijob morgens in Bühl",
-   "firma": "SGR Venter GmbH + Co.KG",
-   "ort": "Bühl",
-   "street": "",
-   "lat": 48.691287219,
-   "lon": 8.151568768,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003721172-S",
-   "posted": "2026-09-17",
-   "desc": "Für ein Objekt in Bühl (Nähe Bushaltestelle Draisstraße) suchen wir ab sofort eine zuverlässige Reinigungskraft (m/w/d) für die Unterhaltsreinigung. Arbeitszeiten: Montag - Freitag / täglich 1,25 Std. zwischen 5:00 Uhr und 8:00 Uhr 6,25 Stunden in der Woche Wir bieten: - eine faire Vergütung nach Tarif - eine ordentliche Einarbeitung - kompetente Ansprechpartner vor Ort Grundkenntnisse in Deutsch erwünscht. Wir freuen uns auf Ihre Bewerbung!",
-   "zeit": " / Minijob",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 18.4,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 27,
-      "end_stop": "Bühl (Baden)",
-      "dep": "06:32",
-      "arr": "07:43",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "07:17",
-        "arr": "07:43",
-        "min": 27
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 74
-     },
-     {
-      "kind": "как в приложении",
-      "min": 72,
-      "changes": 2,
-      "min_wait": 9,
-      "walk_end": 11,
-      "end_stop": "Kappelwindeck Bachschlossschule",
-      "dep": "06:32",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "268",
-        "from": "Bühl (Baden)",
-        "to": "Kappelwindeck Bachschlossschule",
-        "dep": "07:26",
-        "arr": "07:34",
-        "wait": 9,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelwindeck Bachschlossschule",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:45",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 78
-     },
-     {
-      "kind": "велосипед",
-      "min": 93,
-      "changes": 0,
-      "km": 22.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 93
-       }
-      ],
-      "risky": false,
-      "score": 166
-     }
-    ],
-    "best": "транспорт",
-    "min": 71,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-minijob-morgens-in-buehl/3515073469-107-8746"
-   ],
    "person": "Марина"
   },
   {
@@ -125721,7 +125461,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12384-985015101-S"
+   ],
    "person": "Марина"
   },
   {
