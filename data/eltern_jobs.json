@@ -1,9 +1,657 @@
 {
- "generated": "2026-11-20T17:19",
+ "generated": "2026-11-20T21:14",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 943,
+ "count": 947,
  "items": [
+  {
+   "id": "marina:ka_3547320268",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) bei Hansgrohe | Offenburg | Vollzeit | Adecco | Job",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-bei-hansgrohe-offenburg-vollzeit-adecco-job/3547320268-111-9039",
+   "posted": "2026-11-20",
+   "posted_time": "19:07",
+   "desc": "Du bist motiviert, zuverlässig und arbeitest gerne mit deinen Händen? Dann haben wir genau den richtigen Job für dich! Für unseren Kunden Hansgrohe suchen wir ab sofort engagierte Produktionshelfer/innen, die das Produktionsteam tatkräftig unterstützen. **Deine Vorteile** * Einen spannenden Einsatz bei unserem Kunden Hansgrohe * Direkte Ansprechpartner * Langfristige Einsatzmöglichkeiten bei guter Zusammenarbeit **Deine Aufgaben** * Vormontieren von Bauteilen und Komponenten * Montieren und Verpacken von Teilprodukten und Fertigprodukten nach Stücklisten * Durchführen von Sicht- und Funktionskontrollen zur Qualitätssicherung * Führen und Dokumentieren von Prozessdatenblättern * Einhalten von Qualitäts- und Produktionsvorgaben **Dein Profil** * Erste Erfahrung in der Produktion oder Montage von Vorteil * Handwerkliches Geschick und eine sorgfältige Arbeitsweise * Zuverlässigkeit, Teamfähigkeit und Einsatzbereitschaft * Gute Deutschkenntnisse zum Verstehen von Arbeitsanweisungen * Bereitschaft zur Schichtarbeit, falls erforderlich **Interessiert?** Dann bewirb dich jetzt bei uns und starte schon morgen deinen nächsten Karriereschritt bei Hansgrohe! **Kontakt** Pia Braun Tel.: 07819322817",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zum Verstehen von Arbeitsanweisungen",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-20T17:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3547320281",
+   "src": "Kleinanzeigen",
+   "title": "Lagermitarbeiter (m/w/d) bei Hansgrohe | Offenburg | Vollzeit | Adecco | Job | Staplerfahrer",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-bei-hansgrohe-offenburg-vollzeit-adecco-job-staplerfahrer/3547320281-247-9039",
+   "posted": "2026-11-20",
+   "posted_time": "19:07",
+   "desc": "Du packst gerne mit an, arbeitest strukturiert und behältst auch im Lager den Überblick? Dann haben wir genau den richtigen Job für dich! Für unseren Kunden Hansgrohe suchen wir motivierte und zuverlässige Lagermitarbeiter (m/w/d), die das Team tatkräftig unterstützen. **Deine Vorteile** * Einen spannenden Einsatz bei unserem Kunden Hansgrohe * Persönliche Betreuung durch Adecco * Gute Perspektiven für eine langfristige Beschäftigung **Deine Aufgaben** * Einlagern sowie Kommissionieren und Auslagern von Teilen und Materialien * Bereitstellen von Teilen und Materialien für die weitere Verarbeitung * Kontrollieren und Überwachen der Lagerbestände * Durchführen von Inventurarbeiten * Bedienen von Flurförderfahrzeugen * Sicherstellen von Ordnung und Sauberkeit im Lagerbereich **Dein Profil** * Idealerweise erste Erfahrung im Lager oder in der Logistik * Zuverlässige, sorgfältige und strukturierte Arbeitsweise * Körperliche Belastbarkeit und Teamfähigkeit * Motivation und Verantwortungsbewusstsein * Staplerschein und erste Erfahrungen mit Flurförderfahrzeugen sind von Vorteil **Interessiert?** Dann bewirb dich jetzt und starte schon morgen deinen neuen Job bei Hansgrohe! **Kontakt** Pia Braun Tel.: 07819322817",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 14.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-20T17:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3172067117",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Lager Teilzeit (w/m/d)",
+   "firma": "GLS Germany GmbH & Co. OHG",
+   "ort": "Schutterwald",
+   "plz": "77746",
+   "street": "",
+   "lat": 48.4630245,
+   "lon": 7.872718,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lager-teilzeit-w-m-d-/3172067117-247-9032",
+   "posted": "2026-11-20",
+   "posted_time": "19:03",
+   "desc": "2910471 Werden Sie ein Teil der GLS-Familie! Ihre Arbeitszeiten sind Montag bis Freitag zwischen 5:45 Uhr- 8:00 Uhr und/oder zwischen 14:00 Uhr- 19:00 Uhr. gestaltbar Was sind Ihre Aufgaben? ● Sie scannen und sortieren Pakete. ● Sie be- und entladen Transportfahrzeuge. Was haben Sie von uns? ● Sicherheit: Eine zukunftssichere Branche, die von Wachstum geprägt ist. ● Fitness: Muskeln inklusive ● Gehalt: Bezahlte Überstunden und jeden Monat pünktlicher Lohn. ● Teamwork: Zusammenhalt und gegenseitige Unterstützung Interesse? Dann machen Sie den ersten Schritt und bewerben sich bevorzugt über den Bewerben-Button. Profitieren Sie von unseren vielfältigen Karrieremöglichkeiten. Wir freuen uns auf Sie! Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt eingestellt. Fragen? General Logistics Systems Germany GmbH & Co.OHG Nils Cartarius Depot 76 Drei Linden 10 77746 Schutterwald T +49 (0) 6677 646 76 100 ********************************************** Bitte bewirb Dich jetzt direkt per WhatsApp über diesen Link: https://gls-group.pitchyou.de/8EHLW (oder klicke einfach auf den Bewerben-Button) **********************************************",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 17.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-20T17:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 65,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 11,
+      "end_stop": "Schutterwald Brandhau",
+      "dep": "06:59",
+      "arr": "08:05",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Schutterwald Brandhau",
+        "dep": "07:35",
+        "arr": "07:54",
+        "wait": 9,
+        "min": 19
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Schutterwald Brandhau",
+        "to": "работа",
+        "dep": "07:54",
+        "arr": "08:05",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 68
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 125,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 99,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "20:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "20:42",
+        "min": 99
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 125
+     },
+     {
+      "kind": "велосипед",
+      "min": 106,
+      "changes": 0,
+      "km": 26.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 106
+       }
+      ],
+      "risky": false,
+      "score": 192
+     }
+    ],
+    "best": "транспорт",
+    "min": 65,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3547320268",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) bei Hansgrohe | Offenburg | Vollzeit | Adecco | Job",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-bei-hansgrohe-offenburg-vollzeit-adecco-job/3547320268-111-9039",
+   "posted": "2026-11-20",
+   "posted_time": "19:07",
+   "desc": "Du bist motiviert, zuverlässig und arbeitest gerne mit deinen Händen? Dann haben wir genau den richtigen Job für dich! Für unseren Kunden Hansgrohe suchen wir ab sofort engagierte Produktionshelfer/innen, die das Produktionsteam tatkräftig unterstützen. **Deine Vorteile** * Einen spannenden Einsatz bei unserem Kunden Hansgrohe * Direkte Ansprechpartner * Langfristige Einsatzmöglichkeiten bei guter Zusammenarbeit **Deine Aufgaben** * Vormontieren von Bauteilen und Komponenten * Montieren und Verpacken von Teilprodukten und Fertigprodukten nach Stücklisten * Durchführen von Sicht- und Funktionskontrollen zur Qualitätssicherung * Führen und Dokumentieren von Prozessdatenblättern * Einhalten von Qualitäts- und Produktionsvorgaben **Dein Profil** * Erste Erfahrung in der Produktion oder Montage von Vorteil * Handwerkliches Geschick und eine sorgfältige Arbeitsweise * Zuverlässigkeit, Teamfähigkeit und Einsatzbereitschaft * Gute Deutschkenntnisse zum Verstehen von Arbeitsanweisungen * Bereitschaft zur Schichtarbeit, falls erforderlich **Interessiert?** Dann bewirb dich jetzt bei uns und starte schon morgen deinen nächsten Karriereschritt bei Hansgrohe! **Kontakt** Pia Braun Tel.: 07819322817",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zum Verstehen von Arbeitsanweisungen",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-20T17:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3548121001",
    "src": "Kleinanzeigen",
@@ -110872,7 +111520,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lager-teilzeit-w-m-d-/3172067117-247-9032"
+   ],
    "person": "Марина"
   },
   {
