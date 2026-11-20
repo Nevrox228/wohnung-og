@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-19T23:58",
+ "generated": "2026-11-20T07:50",
  "files": {
   "wohnungen": {
    "json": "https://nevrox228.github.io/wohnung-og/data/wohnungen.json",
    "xlsx": "https://nevrox228.github.io/wohnung-og/data/wohnungen.xlsx",
-   "count": 354
+   "count": 353
   },
   "olya_jobs": {
    "json": "https://nevrox228.github.io/wohnung-og/data/olya_jobs.json",

@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T23:58",
+ "generated": "2026-11-20T07:50",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 354,
+ "count": 353,
  "items": [
   {
    "id": "3576743533",
@@ -6390,46 +6390,6 @@
    "source": "поиск",
    "route": {},
    "status": "not_interested",
-   "also_urls": []
-  },
-  {
-   "id": "iw_26CCZ63K7MME",
-   "url": "https://www.immowelt.de/expose/26ccz63k7mme",
-   "title": "Wohnung zur Miete · Zell-Weierbach, Offenburg (77654)",
-   "price_txt": "800 € Kaltmiete",
-   "plz": "77654",
-   "ort": "Offenburg",
-   "street": "",
-   "img": "https://mms.immowelt.de/9/b/b/8/9bb8ec21-15e6-4a2f-9467-3b937b71773d.jpg?w=525&h=394",
-   "tags": [],
-   "desc": "",
-   "m2": 70.0,
-   "zimmer": 2.0,
-   "kalt": 800.0,
-   "warm": null,
-   "nk": null,
-   "kaution": null,
-   "ab": "sofort",
-   "posted": null,
-   "loc_prec": "примерно: центр района",
-   "lat": 48.475002,
-   "lon": 7.9853217,
-   "warm_calc": 996.0,
-   "warm_est": true,
-   "moebl": false,
-   "ebk": false,
-   "km": 3.5,
-   "allowed": 1000,
-   "eur_m2": 14.2,
-   "zone": "близко",
-   "verdict": "норм",
-   "notes": [
-    "тёплая ≈ (холодная + NK на глаз)"
-   ],
-   "first_seen": "2026-11-04T11:23",
-   "source": "immowelt",
-   "route": {},
-   "status": "open",
    "also_urls": []
   },
   {
