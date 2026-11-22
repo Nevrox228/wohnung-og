@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T14:04",
+ "generated": "2026-11-22T15:03",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,8 +13,8 @@
   ]
  },
  "counts": {
-  "all": 556,
-  "queue": 223,
+  "all": 555,
+  "queue": 221,
   "ai_focus": 295
  },
  "jobs": [
@@ -2646,34 +2646,6 @@
    "description": "New paper on Monday, prototype by Tuesday? We're looking for a Working Student AI Research. You'll read the new papers You'll test the promising ones in experiments You'll bring what works onto our platform You'll share what you found with the team, and we decide together what to build next Working with us You'll work directly with Ismail, our CTO You'll decide a lot on your own, so you'll have real room to shape what we build What you bring You're enrolled in data science, AI, computer science or something close at a German university You enjoy reading papers You can code your way from an idea to something that runs Where and when Berlin/Potsdam Hybrid 20 hours a week How to apply What's the last paper you read that made you want to build something right away? Tell us in your application."
   },
   {
-   "id": "an_intern-ai-data-transformation-parsdorf-bavaria-95195",
-   "queue": true,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Praktikum",
-   "track": "KI / Automatisierung",
-   "title": "Intern AI & Data Transformation",
-   "company": "isaraerospace",
-   "location": "Parsdorf, Bavaria",
-   "distance_km": 275.1,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "arbeitnow",
-   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/intern-ai-data-transformation-parsdorf-bavaria-95195",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-18T07:43",
-   "description": "<p><strong><span data-contrast=\"none\">Mission Brief</span></strong><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:20,&quot;335559740&quot;:235}\">&nbsp;</span></p> <p><span data-contrast=\"none\">Isar Aerospace is building Spectrum, a European launch vehicle. As an Intern in Data Engineering, you help bring engineering, manufacturing, business and operations data into one place, connecting sources to our emerging warehouse, building reliable data models and delivering dashboards that support company decisions.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:90,&quot;335559740&quot;:265}\">&nbsp;</span></p> <p><strong><span data-contrast=\"none\">Your Role in Our Space Mission:</span></strong><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559738&quot;:60,&quot;335559739&quot;:10,&quot;335559740&quot;:235}\">&nbsp;</span></p> <ul> <li data-leveltext=\"·\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Connect data sources.</span></strong><span data-contrast=\"none\"> Integrate APIs, SaaS tools and databases into our warehouse using Python and dlt.</span><span data-ccp-props=\"{}\">&nbsp;</span></li> </ul> <ul> <li data-leveltext=\"·\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Build reliable pipelines.</span></strong><span data-contrast=\"none\"> Develop and maintain scheduled ELT/ETL pipelines, monitor data quality and troubleshoot failures.</span><span data-ccp-props=\"{}\">&nbsp;</span></li> </ul> <ul> <li data-leveltext=\"·\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Create trusted data models.</span></strong><span data-contrast=\"none\"> Clean and transform data with dbt into tested, documented models for team data products.</span><span data-ccp-props=\"{}\">&nbsp;</span></li> </ul> <ul> <l"
-  },
-  {
    "id": "an_werkstudent-automatisierung-ki-tools-10h-woche-bremen-234323",
    "queue": true,
    "missing_skills": [],
@@ -5046,34 +5018,6 @@
    "posted": "2026-11-18",
    "first_seen": "2026-11-18T21:15",
    "description": "Trocknerheld ist Spezialist für Wasserschadensanierung und Bautrocknung. Wir sitzen in Berlin und sind bundesweit im Einsatz. Hinter jedem Einsatz steht viel Büroarbeit: Schadenaufnahme, Angebote, Einsatzplanung, Kundenkommunikation und Abrechnung. Genau hier setzen wir auf Automatisierung und KI. Wir bauen eigene Tools, die Routinearbeit abnehmen, und suchen jemanden wie dich als Werkstudenten (m/w/d), der uns dabei praktisch unterstützt. Deine Aufgaben Der Schwerpunkt liegt auf Umsetzung, nicht auf Konzepten: Du siehst am Ende der Woche, was du gebaut hast und wer es nutzt. Neue Tools und Automatisierungen für den Büroalltag selbst bauen, zum Beispiel für E-Mail-Bearbeitung, Auftragsabwicklungen, Angebotserstellung oder Berichte Neue und bestehende Tools im echten Arbeitsalltag testen, Fehler dokumentieren und Verbesserungen direkt umsetzen Mit den Kolleg:innen im Büro sprechen, Routinearbeiten und Engpässe finden und daraus konkrete Lösungen ableiten Neue Tools im Team einführen: kurze Anleitungen schreiben, Kolleg:innen einweisen, Feedback einsammeln Neue KI-Tools und Methoden ausprobieren und bewerten, was uns wirklich Zeit spart Dein Profil Immatrikulation an einer Hochschule, am besten mit Technikbezug (zum Beispiel Informatik, Wirtschaftsinformatik, Ingenieurwesen oder Data Science) Erste praktische Erfahrung im Bauen von Automatisierungen oder kleinen Tools, etwa mit Skripten, No-Code-/Low-Code-Plattformen oder Google Apps Script. Eigene Projekte zählen Lust, KI-Assistenten wie Claude oder ChatGPT im Arbeitsalltag gezielt einzusetzen Eine selbstständige, strukturierte Arbeitsweise und Freude daran, Probleme zu lösen Sicheres Deutsch in Wort und Schrift, weil du eng mit den Kolleg:innen im Büro zusammenarbeitest Von Vorteil, Aber Kein Muss Erfahrung mit Google Workspace, SQL oder BigQuery und dem Anbinden von Schnittstellen (APIs) Interesse an Handwerk, Bau oder Schadensanierung Was Wir Bieten Je nach Erfahrung/Qualifikation sind bis zu 20€/h möglich Flexible Arbeitszeiten, die sich gut mit deinem Studium vereinbaren lassen Kurze Entscheidungswege und ein direkter Draht zum Gründerteam Echte Verantwortung: Was du baust, wird vom Team im Alltag genutzt und spart messbar Zeit Moderne KI- und Cloud-Tools, mit denen du praktische Erfahrung sammelst, die im Studium selten vorkommt Homeoffice ist nach Absprache möglich Moderne Arbeitsumgebung mit hochwertiger Ausstattung Kollegiales Team, das dich unterstützt und fördert Werde Teil von Trocknerheld und erlebe ein familiäres Umfeld, in dem Handwerk, Teamgeist und Leidenschaft an erster Stelle stehen. Bewirb dich jetzt und gestalte mit uns die Zukunft!"
-  },
-  {
-   "id": "an_werkstudent-e-commerce-backoffice-mannheim-174001",
-   "queue": true,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 4,
-   "ai_focus": false,
-   "type": "Werkstudent",
-   "track": "Web / Shop / SEO",
-   "title": "Werkstudent E-Commerce & Backoffice",
-   "company": "More Taste (Quality Pizza GmbH)",
-   "location": "Mannheim",
-   "distance_km": 110.4,
-   "remote": true,
-   "german_level": "sehr gut",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "arbeitnow",
-   "url": "https://www.arbeitnow.com/jobs/companies/more-taste-quality-pizza-gmbh/werkstudent-e-commerce-backoffice-mannheim-174001",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-17T23:18",
-   "description": "Bist du bereit, deine Karriere im Bereich E-Commerce zu starten und gleichzeitig tief in die Welt der Pizza einzutauchen? Bei More Taste suchen wir eine:n motivierte:n Werkstudent:in, der unsere E-Commerce und Backoffice Prozesse begleitet. Wir bieten dir die Chance, in einem kleinen Team eng zusammen zu arbeiten, wo deine Ideen gehört werden und du direkt Einfluss nehmen kannst. Du wirst nicht nur die Möglichkeit haben, wertvolle Erfahrungen in der E-Commerce Branche zu sammeln, sondern auch das tägliche Geschäft hinter den Kulissen kennenzulernen. Wenn du Spaß an Herausforderungen hast und die Begeisterung für Pizza mit uns teilst, dann bist du bei uns genau richtig! Aufgaben Unterstützung bei der Pflege des Online-Shops Mitwirkung bei der Planung und Durchführung Kampagnen und Aktionen Mitarbeit bei der Erstellung und Optimierung von Assets Allgemeine administrative Aufgaben im Backoffice Qualifikation Du bist immatrikulierter Student, idealerweise in einem wirtschaftsnahen Studiengang. Du hast ggf. erste Erfahrungen im E-Commerce, sei es durch Praktika oder Nebenjobs - nicht zwingend erforderlich! Du bist technikaffin und gehst sicher mit MS Office und idealerweise auch mit E-Commerce-Tools wie Shopify und Klaviyo um. Du bringst eine strukturierte und selbstständige Arbeitsweise mit. Du verfügst über sehr gute Deutschkenntnisse. Benefits Bis zu 20 Wochenstunden möglich Flexible Arbeitszeiten Flexibler Arbeitsort (100% remote) Find Jobs in Germany on Arbeitnow"
   },
   {
    "id": "an_werkstudent-seo-product-marketing-100-remote-berlin-351971",
@@ -9165,6 +9109,36 @@
    "posted": "2026-07-03",
    "first_seen": "2026-11-04T18:01",
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
+  },
+  {
+   "id": "li_4395331367",
+   "queue": false,
+   "missing_skills": [
+    "TypeScript"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
+   "company": "Reonic",
+   "location": "Metropolregion Berlin/Brandenburg",
+   "distance_km": null,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "to supercharge our growth. Please note that for this role, C2 German proficiency is required. This is",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4395331367",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-04-02",
+   "first_seen": "2026-11-22T14:34",
+   "description": "Do you thrive in fast-paced environments and have a passion for renewable energy? As our Go-to-Market AI & Data Associate, you will be the co-architect of our data ecosystem. You’ll take full ownership of making customer and revenue data accessible, building internally used applications from the ground up, and deploying AI to supercharge our growth. Please note that for this role, C2 German proficiency is required. This is a full-time, on-site position based in Berlin. What You’ll Do AI Integration: Implement AI-driven workflows and predictive models to automate insights, lead scoring, and trend forecasting. Process Innovation & AI Implementation: You will dive deep into our customer-oriented workflows to reshape them with your creative, AI-driven ideas and technical skills. As the owner of the implementation, you won't just strategize - you will personally drive these improvements from concept to reality. Vertical Owner (Data Driven Analytics): You will relentlessly improve our data product experience by working with internal and external stakeholders to identify bottlenecks, refine analytical fit, and personally onboard them into a world-class, data-driven workflow. Data Accessibility: Design and maintain robust pipelines to make data from our customers, HubSpot, and Aircall fully usable and accessible across the organization. Hands-on Engineering: Work directly in Python (or TypeScript) to integrate diverse data sources yourself. Strategic Impact: Collaborate with Sales, Marketing, and Success teams to transform complex datasets into powerful BI dashboards that drive faster, smarter decisions. What Makes You a Great Fit Extreme Drive: You are hungry, resilient, and eager to outwork the competition. You don't wait for instructions; you identify a problem and fix it. You are an expert in using n8n, Python (TypeScript is a bonus) You are passionate about how AI can optimize revenue processes and have the skills to implement it. Bonus: Ideally, you have experience in BI or Data Engineering, with a proven track record of building data warehouses and integrating SaaS tools (like HubSpot or Aircall) You are fluent in English. Proficiency in German, Italian, French or Portuguese is a plus. Why Join Us? Be part of one of the fastest growing VC-backed startup in Germany with 3000+ satisfied B2B customers. A vibrant, collaborative office culture where great ideas happen face-to-face - we're a full in-person team (5 days/week) in a beautiful Berlin office near Hackescher Markt. Enjoy opportunities for personal and professional growth. Perks include gym membership, coffee, regular team events, MacBook and more. Embrace the freedom to innovate and make quick changes in a dynamic team. Even if you don’t meet every requirement, we encourage you to apply! Imposter syndrome shouldn't hold you back - we value talent and passion above all. About Reonic At Reonic, we’re on a mission to simplify renewable technology with our AI operating system for renewable instal"
   },
   {
    "id": "ba_15986-REF301368C-1c42abe-S",

@@ -1,9 +1,775 @@
 {
- "generated": "2026-11-22T14:04",
+ "generated": "2026-11-22T15:03",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 982,
+ "count": 987,
  "items": [
+  {
+   "id": "marina:ka_3520736680",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft (m/w/d) für unser Billard Café in Hausach",
+   "firma": "Almax Automaten",
+   "ort": "Hausach",
+   "plz": "77756",
+   "street": "",
+   "lat": 48.2945442,
+   "lon": 8.1661014,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-m-w-d-fuer-unser-billard-caf-in-hausach/3520736680-109-8533",
+   "posted": "2026-11-22",
+   "posted_time": "14:06",
+   "desc": "Wir suchen ein zuverlässiges Teammitglied für die Reinigung unseres Billard Cafés und unserer Spielhalle. Ab sofort bieten wir eine Stelle als Reinigungskraft (m/w/d) an. Der Einsatz erfolgt alle zwei Wochen, Montag bis Sonntag, jeweils von 08:00 bis 10:00 Uhr. Für unsere Mitarbeiter bieten wir: – eine feste Einsatzplanung – ein angenehmes Arbeitsumfeld – pünktliche und faire Bezahlung Wenn Du – allgemeine Reinigungstätigkeiten zuverlässig übernimmst, – eigenständig und sorgfältig arbeitest – und Wert auf ein freundliches Arbeitsumfeld legst, dann melde dich gerne bei Frau Kühne: 0171/7691832. Wir freuen wir uns auf Deine Bewerbung.",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-22T14:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 86,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 27,
+      "end_stop": "Hausach",
+      "dep": "05:21",
+      "arr": "06:48",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Hausach",
+        "dep": "05:54",
+        "arr": "06:21",
+        "wait": 6,
+        "min": 27
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Hausach",
+        "to": "работа",
+        "dep": "06:21",
+        "arr": "06:48",
+        "min": 27
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 89
+     },
+     {
+      "kind": "велосипед",
+      "min": 184,
+      "changes": 0,
+      "km": 45.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 184
+       }
+      ],
+      "risky": false,
+      "score": 348
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 485,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 459,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "13:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "13:26",
+        "min": 459
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 485
+     }
+    ],
+    "best": "транспорт",
+    "min": 86,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364383040",
+   "src": "Kleinanzeigen",
+   "title": "❗ Job als Helfer Produktion (m/w/d/x) ❗",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-job-als-helfer-produktion-m-w-d-x-/3364383040-111-8088",
+   "posted": "2026-11-22",
+   "posted_time": "13:04",
+   "desc": "FÜR DIE PRODUKTION SUCHEN WIR ZUVERLÄSSIGEN MITARBEITER (M/W/D/X) DEINE AUFGABEN: ✔ Säubern und schleifen von leichten Kunststoffteilen ✔ Kontrolle der Bauteile Das bringst Du mit: ✔ Quereinsteiger (m/w/d/x) herzlich willkommen ✔ Sorgfalt und Motivation ✔ Schichtbereitschaft (3- Schicht) Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute Übernahmemöglichkeiten * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T14:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364442906",
+   "src": "Kleinanzeigen",
+   "title": "Lagermitarbeiter (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-x-/3364442906-247-9035",
+   "posted": "2026-11-22",
+   "posted_time": "14:04",
+   "desc": "Du bist verantwortlich für den innerbetrieblichen Transport mittels Stapler * Du kommissionierst eigenverantwortlich die Teile * Ein- und Auslagerung von Teilen * Du verbuchst Ein- und Ausgänge mit SAP Das wünschen wir uns von dir: * Du hast einen gültigen Staplerschein und bist ein guter Fahrer * Erfahrung mit SAP * Du willst im 3 Schichtsystem arbeiten Das bieten wir dir: Unbefristeter Arbeitsvertrag in Vollzeit Sehr gute und übertarifliche Bezahlung Kostenfreie und hochwertige Arbeitskleidung Prämienzahlungen und Zuschläge Urlaubs- und Weihnachtsgeld Bezahlung von Fahrgeld Sehr gute Übernahmemöglichkeiten Mitarbeiter Rabatte durch Corporate Benefits Wohnortnahe Arbeitsplätze Monatliche Abschlags-/Vorschusszahlungen Persönliche Betreuung und Unterstützung WIr feuen uns auf deine Bewerbung!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast einen gültigen Staplerschein und bist ein guter Fahrer",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-22T14:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-x-/3364497310-247-9035"
+   ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364381338",
+   "src": "Kleinanzeigen",
+   "title": "⭐ Kommissionierer (m/w/d/x) in Tagschicht ⭐",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364381338-247-9040",
+   "posted": "2026-11-22",
+   "posted_time": "14:04",
+   "desc": "Wir suchen Dich als Kommissionierer (m/w/d/x) in Vollzeit Deine Aufgaben: ✅ Kommissionieren von hochwertigen Autoteilen anhand von Lieferscheinen ✅ Dokumentation Das wünschen wir uns von Dir: ✅ Du hat erste Erfahrungen in der Kommissionierung ✅ Du verfügst über eine selbständige Arbeitsweise ✅Du suchst eine langfristige Tätigkeit in Tagschicht Unser Angebot: 1. Unbefristeter Arbeitsvertrag in Vollzeit 2. übertarifliche Bezahlung 3. Kostenfreie und hochwertige Arbeitskleidung 4. Prämienzahlungen und Zuschläge 5. Urlaubs- und Weihnachtsgeld 6. Sehr gute Übernahmemöglichkeiten 7. Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) 8. Monatliche Abschlags-/Vorschusszahlungen Persönliche Betreuung und Unterstützung 1. Mitarbeiter werben Mitarbeiter Bonuszahlungen Wir freuen uns auf deine Bewerbung! Kontaktdaten Ina Micheilis Telefon: 07805494109 Mobil: 01759433326",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-22T14:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3364381338",
+   "src": "Kleinanzeigen",
+   "title": "⭐ Kommissionierer (m/w/d/x) in Tagschicht ⭐",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364381338-247-9040",
+   "posted": "2026-11-22",
+   "posted_time": "14:04",
+   "desc": "Wir suchen Dich als Kommissionierer (m/w/d/x) in Vollzeit Deine Aufgaben: ✅ Kommissionieren von hochwertigen Autoteilen anhand von Lieferscheinen ✅ Dokumentation Das wünschen wir uns von Dir: ✅ Du hat erste Erfahrungen in der Kommissionierung ✅ Du verfügst über eine selbständige Arbeitsweise ✅Du suchst eine langfristige Tätigkeit in Tagschicht Unser Angebot: 1. Unbefristeter Arbeitsvertrag in Vollzeit 2. übertarifliche Bezahlung 3. Kostenfreie und hochwertige Arbeitskleidung 4. Prämienzahlungen und Zuschläge 5. Urlaubs- und Weihnachtsgeld 6. Sehr gute Übernahmemöglichkeiten 7. Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) 8. Monatliche Abschlags-/Vorschusszahlungen Persönliche Betreuung und Unterstützung 1. Mitarbeiter werben Mitarbeiter Bonuszahlungen Wir freuen uns auf deine Bewerbung! Kontaktdaten Ina Micheilis Telefon: 07805494109 Mobil: 01759433326",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 10.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-22T14:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3364337955",
    "src": "Kleinanzeigen",
@@ -982,7 +1748,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lager-m-w-d-/3364412148-111-9035"
+   ],
    "person": "Марина"
   },
   {
@@ -1297,7 +2065,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-x-/3364442906-247-9035"
+   ],
    "person": "mykyta"
   },
   {
@@ -2556,7 +3326,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lager-m-w-d-/3364412148-111-9035"
+   ],
    "person": "mykyta"
   },
   {
@@ -21093,6 +21865,123 @@
    },
    "status": "open",
    "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_16287-tmstr711115_55-S",
+   "src": "Jobbörse",
+   "title": "Tchibo Regalbetreuung / Warenpräsentation / Merchandising (m/w/d) Minijob",
+   "firma": "TMS Trademarketing Service GmbH",
+   "ort": "Renchen",
+   "street": "",
+   "lat": 48.584542961,
+   "lon": 8.023170335,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711115_55-S",
+   "posted": "2026-11-19",
+   "desc": "**Tchibo Regalbetreuung / Warenpräsentation / Merchandising (m/w/d) Minijob - Renchen** Die TMS-Gruppe mit Sitz in Offenbach am Main ist eine der führenden Trademarketing Agenturen in Deutschland. Im ausschließlichen Zentrum unseres Handelns stehen unsere Kunden, die wir in allen Bereichen der **klassischen Field Sales- und Marketingaktivitäten** unterstützen. Neben der cleveren Vernetzung von engagierten **Menschen** und konsequent digitalisierten **Vertriebsprozessen**, sind Geschwindigkeit, Flexibilität und maximale **Serviceorientierung** unsere zentralen **Leistungsversprechen**. **Dein Job bei TMS:** - **Arbeitsort:** 77871 Renchen - **Arbeitstage:** Mo+Mi - **Arbeitszeiten:** Flexibel innerhalb der Marktöffnungszeiten, außer montags – an diesem Tag ist eine Anwesenheit im Markt bis spätestens 10 Uhr morgens erforderlich - **Arbeitsbeginn:** Ab sofort **Was wir bieten:** - Einen **unbefristeten Arbeitsvertrag** für langfristige Sicherheit - Einen **sicheren Arbeitsplatz** mit Zukunftsperspektive - **Flexible Arbeitszeiten** für eine ideale Vereinbarkeit von Beruf und Privatleben - **Freie Wochenenden** – keine Wochenendarbeit erforderlich - **Pünktliche** und **verlässliche Bezahlung** **Aufgabengebiet:** - Eigenständiges **Pflegen** der **Tchibo Markenwelt** im **Lebensmitteleinzelhandel** - Bestücken der **wöchentlich wechselnden** **Tchibo Non-Food** Regalflächen für eine optimale **Warenpräsentation** - Regelmäßiges **Auffüllen** von **Tchibo Kaffee** im Regal und an **Zweitplatzierungen**, um eine durchgehende Verfügbarkeit sicherzustellen - Fortlaufende **Kontrolle** der **Tchibo Produkte** auf Qualität und Haltbarkeit, um frische und makellose Ware zu gewährleisten - Effiziente und **unkomplizierte** **Dokumentation** deiner Tätigkeiten mithilfe einer App **Anforderungen:** - **Vorkenntnisse sind nicht erforderlich** – eine gründliche Einarbeitung erfolgt - **Gute Deutschkenntnisse in Wort und Schrift** - **Smartphone mit Internetzugang** zur Nutzung der Dokumentations-App - **Zuverlässigkeit, körperliche Belastbarkeit und ein freundliches Auftreten** Wir freuen uns auf deine **Onlinebewerbung**.",
+   "zeit": " / Minijob",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 7.3,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 36,
+      "changes": 0,
+      "km": 8.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 36
+       }
+      ],
+      "risky": false,
+      "score": 52
+     },
+     {
+      "kind": "транспорт",
+      "min": 58,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 24,
+      "end_stop": "Renchen",
+      "dep": "06:32",
+      "arr": "07:30",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Renchen",
+        "dep": "07:03",
+        "arr": "07:07",
+        "wait": 11,
+        "min": 4
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Renchen",
+        "to": "работа",
+        "dep": "07:07",
+        "arr": "07:30",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 61
+     }
+    ],
+    "best": "велосипед",
+    "min": 36,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711115_54-S"
+   ],
    "person": "mykyta"
   },
   {
@@ -41359,126 +42248,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_16287-tmstr708346_59-S",
-   "src": "Jobbörse",
-   "title": "Tchibo Regalbetreuung / Warenpräsentation / Merchandising (m/w/d) Minijob",
-   "firma": "TMS Trademarketing Service GmbH",
-   "ort": "Renchen",
-   "street": "",
-   "lat": 48.584542961,
-   "lon": 8.023170335,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr708346_59-S",
-   "posted": "2026-11-12",
-   "desc": "**Tchibo Regalbetreuung / Warenpräsentation / Merchandising (m/w/d) Minijob - Renchen** Die TMS-Gruppe mit Sitz in Offenbach am Main ist eine der führenden Trademarketing Agenturen in Deutschland. Im ausschließlichen Zentrum unseres Handelns stehen unsere Kunden, die wir in allen Bereichen der **klassischen Field Sales- und Marketingaktivitäten** unterstützen. Neben der cleveren Vernetzung von engagierten **Menschen** und konsequent digitalisierten **Vertriebsprozessen**, sind Geschwindigkeit, Flexibilität und maximale **Serviceorientierung** unsere zentralen **Leistungsversprechen**. **Dein Job bei TMS:** - **Arbeitsort:** 77871 Renchen - **Arbeitstage:** Mo+Mi - **Arbeitszeiten:** Flexibel innerhalb der Marktöffnungszeiten, außer montags – an diesem Tag ist eine Anwesenheit im Markt bis spätestens 10 Uhr morgens erforderlich - **Arbeitsbeginn:** Ab sofort **Was wir bieten:** - Einen **unbefristeten Arbeitsvertrag** für langfristige Sicherheit - Einen **sicheren Arbeitsplatz** mit Zukunftsperspektive - **Flexible Arbeitszeiten** für eine ideale Vereinbarkeit von Beruf und Privatleben - **Freie Wochenenden** – keine Wochenendarbeit erforderlich - **Pünktliche** und **verlässliche Bezahlung** **Aufgabengebiet:** - Eigenständiges **Pflegen** der **Tchibo Markenwelt** im **Lebensmitteleinzelhandel** - Bestücken der **wöchentlich wechselnden** **Tchibo Non-Food** Regalflächen für eine optimale **Warenpräsentation** - Regelmäßiges **Auffüllen** von **Tchibo Kaffee** im Regal und an **Zweitplatzierungen**, um eine durchgehende Verfügbarkeit sicherzustellen - Fortlaufende **Kontrolle** der **Tchibo Produkte** auf Qualität und Haltbarkeit, um frische und makellose Ware zu gewährleisten - Effiziente und **unkomplizierte** **Dokumentation** deiner Tätigkeiten mithilfe einer App **Anforderungen:** - **Vorkenntnisse sind nicht erforderlich** – eine gründliche Einarbeitung erfolgt - **Gute Deutschkenntnisse in Wort und Schrift** - **Smartphone mit Internetzugang** zur Nutzung der Dokumentations-App - **Zuverlässigkeit, körperliche Belastbarkeit und ein freundliches Auftreten** Wir freuen uns auf deine **Onlinebewerbung**.",
-   "zeit": " / Minijob",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 7.3,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-15T23:00",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 36,
-      "changes": 0,
-      "km": 8.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 36
-       }
-      ],
-      "risky": false,
-      "score": 52
-     },
-     {
-      "kind": "транспорт",
-      "min": 58,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 24,
-      "end_stop": "Renchen",
-      "dep": "06:32",
-      "arr": "07:30",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Renchen",
-        "dep": "07:03",
-        "arr": "07:07",
-        "wait": 11,
-        "min": 4
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Renchen",
-        "to": "работа",
-        "dep": "07:07",
-        "arr": "07:30",
-        "min": 24
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 61
-     }
-    ],
-    "best": "велосипед",
-    "min": 36,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr708346_178-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr708346_58-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711115_55-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711115_54-S"
-   ],
    "person": "mykyta"
   },
   {
@@ -105360,7 +106129,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3579170788-247-8045"
+   ],
    "person": "Марина"
   },
   {
