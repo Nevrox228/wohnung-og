@@ -1,9 +1,324 @@
 {
- "generated": "2026-11-22T16:59",
+ "generated": "2026-11-22T17:57",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 990,
+ "count": 993,
  "items": [
+  {
+   "id": "marina:ka_3364417962",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d/x) 2 Schicht",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-2-schicht/3364417962-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "17:04",
+   "desc": "Du willst mit hochwertigen Autoteilen für Premium Marken arbeiten? Dann melde dich! Deine Aufgaben: - manuelle Bearbeitung von Kunststoffteilen - Kontrolle der Bauteile Das bringst du mit: - Quereinsteiger (m/w/d/x) **sind herzlich willkommen** - Sorgfalt und Motivation - Grundlegende Deutschkenntnisse - Schichtbereitschaft (2-Schicht) Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute Übernahmemöglichkeiten - übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T17:30",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3364417962",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d/x) 2 Schicht",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-2-schicht/3364417962-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "17:04",
+   "desc": "Du willst mit hochwertigen Autoteilen für Premium Marken arbeiten? Dann melde dich! Deine Aufgaben: - manuelle Bearbeitung von Kunststoffteilen - Kontrolle der Bauteile Das bringst du mit: - Quereinsteiger (m/w/d/x) **sind herzlich willkommen** - Sorgfalt und Motivation - Grundlegende Deutschkenntnisse - Schichtbereitschaft (2-Schicht) Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute Übernahmemöglichkeiten - übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T17:30",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3521091453",
+   "src": "Kleinanzeigen",
+   "title": "Springer (m/w/d) in der Zustelllogistik (Voll-/Teilzeit/geringf.)",
+   "firma": "Mittelbadische Presse Zustellservice GmbH & Co. KG",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/springer-m-w-d-in-der-zustelllogistik-voll-teilzeit-geringf-/3521091453-247-9035",
+   "posted": "2026-11-22",
+   "posted_time": "17:07",
+   "desc": "Wir suchen einen zuverlässigen Vollzeitzusteller/Springer (m/w/d) für die Zustellung unserer Printausgaben von Zeitungen und Nachrichtenblättern zum nächstmöglichen Zeitpunkt: Wir bieten Ihnen: - eine Leistungsgerechte Bezahlung mit Nachtzuschlag - einen sicheren Arbeitsplatz in Wohnortnähe - bezahlter Urlaub und Lohnfortzahlung im Krankheitsfall - eine eigenverantwortliche Tätigkeit an der frischen Luft - Wertschätzung Ihrer Tätigkeit - Arbeitszeiten Montag bis Samstag von ca. 0 bis 7 Uhr Ihre Aufgabe bei uns: - Zustellung von Zeitungen und Nachrichtenblättern Ihr Profil: - Sie sind volljährig - Zuverlässigkeit und Pünktlichkeit - Spaß bei der Arbeit an der frischen Luft - Sie besitzen einen Führerschein der Klasse B - Sie sind flexibel, belastbar und engagiert Ihr Weg zu uns: Bewerbungen über: - www.zusteller-ortenau.de/jetzt-bewerben/ - direkt per E-Mail an logistik-jobATreiff.de - schreiben Sie uns per WhatsApp an 0172/7412118 Anschreiben, Lebenslauf oder Zeugnis sind nicht nötig. Wir melden uns schnellstmöglich auf dem gewählten Kontaktweg zurück. Bewerben Sie sich einfach und schnell! Wir freuen uns auf Sie! Mittelbadische Presse Zustellservice GmbH & Co. KG",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-22T17:30",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3364350243",
    "src": "Kleinanzeigen",
@@ -823,7 +1138,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364297620-111-8226"
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364297620-111-8226",
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-helfer-produktion-m-w-d-x-/3364488526-111-9035"
    ],
    "person": "Марина"
   },
@@ -1526,7 +1842,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-fuer-die-endkontrolle-in-tagschicht-m-w-d-/3364435733-111-9035"
+   ],
    "person": "Марина"
   },
   {
@@ -2733,7 +3051,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364297620-111-8226"
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364297620-111-8226",
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-helfer-produktion-m-w-d-x-/3364488526-111-9035"
    ],
    "person": "mykyta"
   },
@@ -3001,7 +3320,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-fuer-die-endkontrolle-in-tagschicht-m-w-d-/3364435733-111-9035"
+   ],
    "person": "mykyta"
   },
   {
@@ -52217,7 +52538,8 @@
     "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-064865800",
     "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-065080884",
     "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-065083281",
-    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364465732-111-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364465732-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364368263-111-9035"
    ],
    "person": "mykyta"
   },
@@ -62621,7 +62943,8 @@
    "status": "open",
    "also_urls": [
     "https://www.jobware.de/job/kommissionierer-m-w-d-x-065088380",
-    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-x-/3364414733-247-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-x-/3364414733-247-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-/3364431378-247-9035"
    ],
    "person": "mykyta"
   },
@@ -108723,7 +109046,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-x-/3364414733-247-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-x-/3364414733-247-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-/3364431378-247-9035"
    ],
    "person": "Марина"
   },
@@ -123435,7 +123759,8 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-X0QGTSUR47OLAXL7-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-DQL7X9RRI95EQLV8-S",
     "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364465732-111-9035",
-    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364492781-111-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364492781-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364368263-111-9035"
    ],
    "person": "Марина"
   },

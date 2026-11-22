@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T16:59",
+ "generated": "2026-11-22T17:57",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 557,
+  "all": 558,
   "queue": 222,
-  "ai_focus": 296
+  "ai_focus": 297
  },
  "jobs": [
   {
@@ -6651,6 +6651,34 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "STAR werden. Zukunft machen. Für den STAR-Bereich | Böblingen | Teilzeit, Werkstudenten Gestalte mit uns intelligente Software, die in der Praxis etwas bewegt! Du möchtest nicht nur über Künstliche Intelligenz sprechen, sondern sie selbst entwickeln? In unserem AI-Team arbeitest Du an innovativen AI-Lösungen für internationale Top-Unternehmen. Gemeinsam mit erfahrenen AI-, Cloud- und Software-Experten entwickelst Du Prototypen, integrierst moderne KI-Modelle in Anwendungen und bringst neue Ideen von der ersten Skizze bis zum funktionierenden Use Case. Dabei erhältst Du echte Einblicke in anspruchsvolle Kundenprojekte und kannst Deine technischen Fähigkeiten direkt in der Praxis einsetzen. Statt klassischer Werkstudentenaufgaben erwarten Dich relevante Fragestellungen, moderne Technologien und viel Raum zum Ausprobieren. Deine Aufgaben Entwicklung von AI-Anwendungen: Du unterstützt bei der Konzeption und Umsetzung innovativer Anwendungen von Künstlicher Intelligenz und Generative AI. Prototyping und Proof of Concepts: Du entwickelst funktionsfähige Prototypen und demonstrierst, wie sich neue AI-Technologien in konkreten Business-Anwendungen einsetzen lassen Integration von AI-Modellen: Du bindest Large Language Models und weitere AI-Services über APIs in bestehende oder neu entwickelte Anwendungen ein. AI Agents und intelligente Workflows: Du wirkst bei der Entwicklung agentenbasierter Lösungen mit, die auf Informationen, Anwendungen und Unternehmensprozesse zugreifen können Backend- und Anwendungsentwicklung: Du entwickelst Softwarekomponenten, Schnittstellen und Services, beispielsweise mit Python oder JavaScript beziehungsweise TypeScript RAG und Unternehmenswissen: Du unterstützt bei der Entwicklung von Anwendungen, die Sprachmodelle sicher und gezielt mit Dokumenten, Datenbanken oder anderen Wissensquellen verbinden Testing und Qualitätssicherung: Du testest AI-Anwendungen systematisch und hilfst dabei, Qualität, Zuverlässigkeit und Nachvollziehbarkeit der Ergebnisse zu verbessern. Technologie-Scouting: Du analysierst neue Frameworks, Modelle und Entwicklungsmethoden und bewertest, wie sie sich sinnvoll in unseren Projekten einsetzen lassen Mitarbeit in Kundenprojekten: Du arbeitest eng mit unserem Team an realen AI-Projekten und bringst Deine technischen Ideen aktiv in die Lösungsentwicklung ein Dein Profil Du bist eingeschriebener Student (m/w/d), beispielsweise in Informatik, Wirtschaftsinformatik, Data Science, Software Engineering, Künstlicher Intelligenz oder einem vergleichbaren StudiengangDu verfügst über erste praktische Programmiererfahrung, idealerweise mit Python oder JavaScript beziehungsweise TypeScript Du hast ein ausgeprägtes Interesse an Artificial Intelligence, insbesondere an Generative AI, Large Language Models und AI Agents Du kennst grundlegende Konzepte der Softwareentwicklung und hast idealerweise bereits eigene Anwendungen, Studienprojekte oder Prototypen umgesetzt. Erste Erfahrungen mit APIs, Git, Datenbanken, Cloud-"
+  },
+  {
+   "id": "li_4491623971",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Generative KI & digitale Transformation (w/m/x)",
+   "company": "BMW Group",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "e, Initiative und Freude daran, neue Themen mitzugestalten. Verhandlungssichere Deutsch- sowie gute Englischkenntnisse",
+   "video_in_job": true,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4491623971",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-22T17:30",
+   "description": "DIE ZUKUNFT DER MOBILITÄT? DIGITAL. TEILE DEINE LEIDENSCHAFT. Mehr als 90 % aller Innovationen im Automobil basieren auf Elektronik und Software. Gerade hier sind große Freiräume und vernetztes Denken gefordert, um die Mobilität neu zu erfinden und ein völlig neues Fahrerlebnis zu ermöglichen. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken. Unser Team im Bereich Neue Technologien gestaltet die KI-Transformation der Gesamtfahrzeugentwicklung mit und unterstützt dabei, Generative KI nachhaltig in den Arbeitsalltag zu integrieren. Im Rahmen deiner Werkstudententätigkeit erhältst du Einblicke in aktuelle KI-Technologien und wirkst an Befähigungs-, Kommunikations- und Anwendungskonzepten rund um Microsoft Copilot, KI-Agenten und automatisierte Workflows mit. Was erwartet dich? Du unterstützt unser interdisziplinäres Team bei der KI-Transformation der Gesamtfahrzeugentwicklung und erhältst Einblicke in aktuelle Technologien und Anwendungsfelder. Außerdem wirkst du bei der Konzeption und Umsetzung von Befähigungsmaßnahmen für Generative KI mit, beispielsweise Trainings, Videotutorials und interaktiven Veranstaltungsformaten. Darüber hinaus unterstützt du bei der Entwicklung und Umsetzung von Change- und Kommunikationsmaßnahmen und bereitest gemeinsam mit den Fachbereichen KI-Use-Cases zielgruppengerecht auf. Du erhältst Einblicke in die Evaluierung neuer KI-Technologien, Anwendungsfälle und Modelle mit Fokus auf Microsoft Copilot und Workflow-Automatisierung. Zudem wirkst du bei der Entwicklung und Umsetzung von KI-gestützten Use Cases, Copilot-Lösungen, Agents und automatisierten Workflows mit. Dabei bringst du deine Ideen ein und sammelst praktische Erfahrungen mit Generativer KI und aktuellen Zukunftsthemen. Was bringst du mit? Laufendes Bachelor- oder Masterstudium der Wirtschaftsinformatik, Medieninformatik, des Marketings oder einer vergleichbaren Fachrichtung. Begeisterung für Generative KI, digitale Transformation und neue Technologien. Interesse daran, komplexe Themen verständlich und zielgruppengerecht aufzubereiten. Ausgeprägte Team- und Kommunikationsfähigkeit. Strukturierte Arbeitsweise, Initiative und Freude daran, neue Themen mitzugestalten. Verhandlungssichere Deutsch- sowie gute Englischkenntnisse. Du möchtest Generative KI nicht nur kennenlernen, sondern ihre Anwendung in der Fahrzeugentwicklung aktiv mitgestalten? Dann bewirb dich jetzt und unterstütze uns bei der KI-Transformation der Gesamtfahrzeugentwicklung. Was bieten wir dir? Umfassendes Mentoring & Onboarding. Persönliche & fachliche Weiterentwicklung. Flexible Arbeitszeiten. Mobilarbeit. Attraktive & faire Vergütung. Apartments für Studierende (nach Verfügbarkeit & nur am Standort München). Und vieles mehr siehe jobs/waswirbieten. Startdatum: frühestens ab 01.02.2027 Dauer: 12 Monate Arbeitszeit: Teilzeit Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier. Wir bei der BMW Grou"
   },
   {
    "id": "li_4491952273",
