@@ -1,9 +1,171 @@
 {
- "generated": "2026-11-22T17:57",
+ "generated": "2026-11-22T18:56",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 993,
+ "count": 994,
  "items": [
+  {
+   "id": "marina:ka_3364347165",
+   "src": "Kleinanzeigen",
+   "title": "Monta­ge­helfer (m/w/d/x) bei Hansgrohe bis 24,50 Euro",
+   "firma": "Iperdi GmbH",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/monta-ge-helfer-m-w-d-x-bei-hansgrohe-bis-24-50-euro/3364347165-111-9039",
+   "posted": "2026-11-22",
+   "posted_time": "18:04",
+   "desc": "DAS BIETEN WIR DIR: * Unbefristeter Arbeitsvertrag in Vollzeit * Top Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich DEINE AUFGABEN: * Montieren von Bauteilen gemäß Vorgabe * Sichtkontrolle * Verpacken von Fertigteilen DEIN PROFIL: * Erfahrung in der Produktion von Vorteil - Quereinsteiger (m/w/d/x) sind ebenfalls willkommen * Sorgfältige und genaue Arbeitsweise * Deutschkenntnisse",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T18:27",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3364417962",
    "src": "Kleinanzeigen",
@@ -8198,7 +8360,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226"
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226",
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364393315-111-9035"
    ],
    "person": "Марина"
   },
@@ -9162,7 +9325,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226"
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226",
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364393315-111-9035"
    ],
    "person": "mykyta"
   },
@@ -82594,7 +82758,8 @@
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364344416-111-8088",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364348458-111-8671",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364313279-111-9035",
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047"
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364282724-111-9040"
    ],
    "person": "mykyta"
   },
@@ -147008,7 +147173,8 @@
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364344416-111-8088",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364348458-111-8671",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364313279-111-9035",
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047"
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364282724-111-9040"
    ],
    "person": "Марина"
   },
