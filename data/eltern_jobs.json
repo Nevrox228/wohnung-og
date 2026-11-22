@@ -1,9 +1,2564 @@
 {
- "generated": "2026-11-22T08:58",
+ "generated": "2026-11-22T14:04",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 966,
+ "count": 982,
  "items": [
+  {
+   "id": "marina:ka_3364337955",
+   "src": "Kleinanzeigen",
+   "title": "Produk­ti­ons­helfer (m/w/d/x) Voll­zeit",
+   "firma": "Iperdi GmbH",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produk-ti-ons-helfer-m-w-d-x-voll-zeit/3364337955-111-9037",
+   "posted": "2026-11-22",
+   "posted_time": "12:04",
+   "desc": "IHRE AUFGABEN: * Vormontieren, Montieren und Verpacken von Teilprodukten/Produkten nach Stücklisten * Durchführen von Routineprüfungen (Sicht- und Funktionskontrolle) * Führen von Prozessdatenblättern DAS BRINGEN SIE MIT: * Berufserfahrung in der Produktion ist wünschenswert * Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen * Bereitschaft zur Arbeit in 2-Schicht * Qualitätsbewusstsein und Motivation DAS KÖNNEN SIE ERWARTEN: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Eine offene Unternehmenskultur mit hervorragendem Betriebsklima * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 13.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364416513",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter für die Endkontrolle in Tagschicht (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-fuer-die-endkontrolle-in-tagschicht-m-w-d-x-/3364416513-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "11:04",
+   "desc": "Für die Endkontrolle suchen wir nach einem zuverlässigen Mitarbeiter Hier kommt Deine neue Herausforderung: * Du bist verantwortlich für die Endkontrolle von lackierten Autoteilen * Du führst Nacharbeiten durch und dokumentierst das Ergebnis Das wünschen wir uns von Dir: * Du bist handwerklich geschickt und arbeitest sorgfältig * Du verfügst über eine selbständige Arbeitsweise und ein gutes Augenmaß * Teamfähigkeit und Motivation * Deutschkenntnisse (min. A2) * Du suchst eine langfristige Tätigkeit in Tagschicht Diese Stelle könnte Deine Zukunft sein: * Unbefristeter Arbeitsvertrag in Vollzeit * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse (min A2)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364322432",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Produktion (M/W/D/X)",
+   "firma": "Iperdi GmbH",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364322432-111-8047",
+   "posted": "2026-11-22",
+   "posted_time": "11:04",
+   "desc": "Tätigkeiten: * Zuhilfsarbeiten in der Produktion * Montieren von Kleinteilen * Verpackung Qualifikation: * Quereinsteiger (m/w/d) herzlich willkommen * Motivation und Lernbereitschaft * Führerschein und Auto von Vorteil Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364323768-111-8047"
+   ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3549955723",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Endmontage (m/w/d) (29143350)",
+   "firma": "hokify GmbH",
+   "ort": "Oppenau",
+   "plz": "77728",
+   "street": "",
+   "lat": 48.4828605,
+   "lon": 8.1804316,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-endmontage-m-w-d-29143350-/3549955723-111-8225",
+   "posted": "2026-11-22",
+   "posted_time": "10:08",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/NdrXGzA ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Mitarbeiter Endmontage (m/w/d) für unseren Kunden im Bereich der End- und Baugruppenmontage von Fahrzeugen und Anbaugeräten in Oppenau. In dieser Position sind Sie verantwortlich für die Montage und Inbetriebnahme der Produkte. Wenn Sie eine Leidenschaft für technische Herausforderungen haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Ausführen von Montagearbeiten nach Anweisung im Bereich der End- und Baugruppenmontage von Fahrzeugen und Anbaugeräten - Verantwortungsvolle Aufgaben im Bereich der Inbetrieb- und Endabnahme von Geräten und Fahrzeugen nach entsprechender Qualifikation und Einarbeitung - Andere anfallende Tätigkeiten, die den Fähigkeiten und der Qualifikation des Mitarbeiters entsprechen Anforderungen: - Abgeschlossene Berufsausbildung als Industrie-, Landmaschinen-, Kfz-Mechaniker, Mechatroniker oder Vergleichbares - Berufserfahrung im genannten Aufgabenbereich wünschenswert - Montageerfahrung/Hydraulikkenntnisse erforderlich - Kenntnisse in Fahrzeugtechnik sind wünschenswert - Initiative, Selbstständigkeit, Teamfähigkeit, Zuverlässigkeit - Gute Deutschkenntnisse in Wort und Schrift Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/NdrXGzA",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 9.0,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Was wir Ihnen bieten:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Berufsausbildung als Industrie-, Landmaschinen-, Kfz-Mechaniker, Mechatronik",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 57,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 28,
+      "end_stop": "Oppenau Oberes Stadttor",
+      "dep": "16:12",
+      "arr": "17:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Oppenau Oberes Stadttor",
+        "dep": "16:38",
+        "arr": "16:41",
+        "wait": 6,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oppenau Oberes Stadttor",
+        "to": "работа",
+        "dep": "16:41",
+        "arr": "17:09",
+        "min": 28
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 60
+     },
+     {
+      "kind": "велосипед",
+      "min": 53,
+      "changes": 0,
+      "km": 12.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 53
+       }
+      ],
+      "risky": false,
+      "score": 86
+     }
+    ],
+    "best": "транспорт",
+    "min": 57,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364485243",
+   "src": "Kleinanzeigen",
+   "title": "Vollzeitjob als Helfer Endkontrolle (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/vollzeitjob-als-helfer-endkontrolle-m-w-d-x-/3364485243-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "10:04",
+   "desc": "WIR SUCHEN DICH ALS ZUVERLÄSSIGEN MITARBEITER FÜR DIE ENDKONTROLLE (M/W/D/X) Deine Aufgaben: ✅ Unterstützung bei der Kontrolle von lackierten Autoteilen ✅ Sichtprüfung Dokumentation Das bringst Du mit: ✅ Sorgfältige und genaue Arbeitsweise ✅ Motivation und Teamfähigkeit ✅ Bereitschaft zur Schichtarbeit (3 Schicht) Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364421686",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Qualitätskontrolle in Tagschicht (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-qualitaetskontrolle-in-tagschicht-m-w-d-x-/3364421686-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "10:04",
+   "desc": "Für die Qualitätskontrolle von Automobilteilen suchen wir nach einem zuverlässigen Mitarbeiter (m/w/d/x). Das sind deine Aufgaben: * Endkontrolle von lackierten Autoteilen * Nacharbeit und Dokumentation Das wünschen wir uns von Dir: * Du bist handwerklich geschickt und arbeitest sorgfältig * Du verfügst über eine selbständige Arbeitsweise und ein gutes Augenmaß * Teamfähigkeit und Motivation * Gute Deutschkenntnisse Diese Stelle könnte Deine Zukunft sein: * Unbefristeter Arbeitsvertrag in Vollzeit * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse Diese Stelle könnte Deine Zukunft sein:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-qualitaetskontrolle-in-tagschicht-m-w-d-x-/3364438805-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-qualitaetskontrolle-in-tagschicht-m-w-d-x-/3364372674-111-8088"
+   ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364366085",
+   "src": "Kleinanzeigen",
+   "title": "Job in Produktion von Luxus Autos (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/job-in-produktion-von-luxus-autos-m-w-d-x-/3364366085-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "10:04",
+   "desc": "Du willst Teil einer hochwertigen Automobilproduktion sein? Dann melde dich! Deine Aufgaben: - Kontrolle von lackierten Autoteilen - Dokumentation der Daten Das bringst du mit: - idealerweise erste Erfahrung in der Produktion - Quereinsteiger (m/w/d/x) **sind herzlich willkommen** - Sorgfalt und Motivation - Grundlegende Deutschkenntnisse - Schichtbereitschaft (2 bis 3- Schicht) Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute Übernahmemöglichkeiten - übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364430121",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Lager (m/w/d)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lager-m-w-d-/3364430121-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "08:04",
+   "desc": "* Du bist verantwortlich für den innerbetrieblichen Transport mittels Stapler * Du buchst Warenein-und ausgänge im EDV System * Du kommissionierst verschiedene Bauteile Das wünschen wir uns von dir: * Du hast einen gültigen Staplerschein und bist ein guter Fahrer * Du willst im 3 Schichtsystem arbeiten Das bieten wir dir: Unbefristeter Arbeitsvertrag in Vollzeit Sehr gute und übertarifliche Bezahlung Kostenfreie und hochwertige Arbeitskleidung Prämienzahlungen und Zuschläge Urlaubs- und Weihnachtsgeld Bezahlung von Fahrgeld Sehr gute Übernahmemöglichkeiten Mitarbeiter Rabatte durch Corporate Benefits Wohnortnahe Arbeitsplätze Monatliche Abschlags-/Vorschusszahlungen Persönliche Betreuung und Unterstützung JobRad Bikeleasing möglich WIr feuen uns auf deine Bewerbung!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast einen gültigen Staplerschein und bist ein guter Fahrer",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364293725",
+   "src": "Kleinanzeigen",
+   "title": "Verpacker (m/w/d/x)",
+   "firma": "Iperdi GmbH",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/verpacker-m-w-d-x-/3364293725-247-9035",
+   "posted": "2026-11-22",
+   "posted_time": "08:04",
+   "desc": "Tätigkeiten: * Zuhilfsarbeiten in der Produktion * Montieren von Kleinteilen * Verpackung Qualifikation: * Quereinsteiger (m/w/d) herzlich willkommen * Motivation und Lernbereitschaft * Führerschein und Auto von Vorteil Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364424934",
+   "src": "Kleinanzeigen",
+   "title": "Job Helfer Spritzguss (m/w/d/x)",
+   "firma": "Copyright © 2005-2026 Marktplaats B.V. Alle Rechte vorbehalten. Ausgewiesene Marken gehören ihren jeweiligen Eigentümern. Die Kleinanzeigen-Dienste werden betrieben von der kleinanzeigen.de GmbH.",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/job-helfer-spritzguss-m-w-d-x-/3364424934-109-9035",
+   "posted": "2026-11-22",
+   "posted_time": "08:04",
+   "desc": "Wir suchen Dich als neuen Mitarbeiter im Bereich Spritzguss Deine Aufgaben: - Entnahme von Kunststoffteilen - Kontrolle und Nachbearbeitung der Teile - Unterstützung beim Umrüsten der Spritzgussmaschine Das wünschen wir uns von Dir: - zuverlässige und sorgfältige Arbeitsweise - erste Berufserfahrung in der Produktion - Quereinsteiger **herzlich willkommen ** - grundlegende Deutschkenntnisse - Bereitschaft zur 2-Schicht Diese Stelle könnte Deine Zukunft sein: - Unbefristeter Arbeitsvertrag in Vollzeit - übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Sehr gute Übernahmemöglichkeiten - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Ina Micheilis Telefon 07805 494 109",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "grundlegende Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3364497310",
+   "src": "Kleinanzeigen",
+   "title": "Lagermitarbeiter (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-x-/3364497310-247-9035",
+   "posted": "2026-11-22",
+   "posted_time": "13:05",
+   "desc": "Du bist verantwortlich für den innerbetrieblichen Transport mittels Stapler * Du kommissionierst eigenverantwortlich die Teile * Ein- und Auslagerung von Teilen * Du verbuchst Ein- und Ausgänge mit SAP Das wünschen wir uns von dir: * Du hast einen gültigen Staplerschein und bist ein guter Fahrer * Erfahrung mit SAP * Du willst im 3 Schichtsystem arbeiten Das bieten wir dir: Unbefristeter Arbeitsvertrag in Vollzeit Sehr gute und übertarifliche Bezahlung Kostenfreie und hochwertige Arbeitskleidung Prämienzahlungen und Zuschläge Urlaubs- und Weihnachtsgeld Bezahlung von Fahrgeld Sehr gute Übernahmemöglichkeiten Mitarbeiter Rabatte durch Corporate Benefits Wohnortnahe Arbeitsplätze Monatliche Abschlags-/Vorschusszahlungen Persönliche Betreuung und Unterstützung WIr feuen uns auf deine Bewerbung!",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast einen gültigen Staplerschein und bist ein guter Fahrer",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364383040",
+   "src": "Kleinanzeigen",
+   "title": "❗ Job als Helfer Produktion (m/w/d/x) ❗",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-job-als-helfer-produktion-m-w-d-x-/3364383040-111-8088",
+   "posted": "2026-11-22",
+   "posted_time": "13:04",
+   "desc": "FÜR DIE PRODUKTION SUCHEN WIR ZUVERLÄSSIGEN MITARBEITER (M/W/D/X) DEINE AUFGABEN: ✔ Säubern und schleifen von leichten Kunststoffteilen ✔ Kontrolle der Bauteile Das bringst Du mit: ✔ Quereinsteiger (m/w/d/x) herzlich willkommen ✔ Sorgfalt und Motivation ✔ Schichtbereitschaft (3- Schicht) Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute Übernahmemöglichkeiten * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 17.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364337955",
+   "src": "Kleinanzeigen",
+   "title": "Produk­ti­ons­helfer (m/w/d/x) Voll­zeit",
+   "firma": "Iperdi GmbH",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produk-ti-ons-helfer-m-w-d-x-voll-zeit/3364337955-111-9037",
+   "posted": "2026-11-22",
+   "posted_time": "12:04",
+   "desc": "IHRE AUFGABEN: * Vormontieren, Montieren und Verpacken von Teilprodukten/Produkten nach Stücklisten * Durchführen von Routineprüfungen (Sicht- und Funktionskontrolle) * Führen von Prozessdatenblättern DAS BRINGEN SIE MIT: * Berufserfahrung in der Produktion ist wünschenswert * Quereinsteiger (m/w/d/x) ebenfalls herzlich willkommen * Bereitschaft zur Arbeit in 2-Schicht * Qualitätsbewusstsein und Motivation DAS KÖNNEN SIE ERWARTEN: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Eine offene Unternehmenskultur mit hervorragendem Betriebsklima * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 13.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364416513",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter für die Endkontrolle in Tagschicht (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-fuer-die-endkontrolle-in-tagschicht-m-w-d-x-/3364416513-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "11:04",
+   "desc": "Für die Endkontrolle suchen wir nach einem zuverlässigen Mitarbeiter Hier kommt Deine neue Herausforderung: * Du bist verantwortlich für die Endkontrolle von lackierten Autoteilen * Du führst Nacharbeiten durch und dokumentierst das Ergebnis Das wünschen wir uns von Dir: * Du bist handwerklich geschickt und arbeitest sorgfältig * Du verfügst über eine selbständige Arbeitsweise und ein gutes Augenmaß * Teamfähigkeit und Motivation * Deutschkenntnisse (min. A2) * Du suchst eine langfristige Tätigkeit in Tagschicht Diese Stelle könnte Deine Zukunft sein: * Unbefristeter Arbeitsvertrag in Vollzeit * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse (min A2)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Другое",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364322432",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Produktion (M/W/D/X)",
+   "firma": "Iperdi GmbH",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364322432-111-8047",
+   "posted": "2026-11-22",
+   "posted_time": "11:04",
+   "desc": "Tätigkeiten: * Zuhilfsarbeiten in der Produktion * Montieren von Kleinteilen * Verpackung Qualifikation: * Quereinsteiger (m/w/d) herzlich willkommen * Motivation und Lernbereitschaft * Führerschein und Auto von Vorteil Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-produktion-m-w-d-x-/3364323768-111-8047"
+   ],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3549955723",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Endmontage (m/w/d) (29143350)",
+   "firma": "hokify GmbH",
+   "ort": "Oppenau",
+   "plz": "77728",
+   "street": "",
+   "lat": 48.4828605,
+   "lon": 8.1804316,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-endmontage-m-w-d-29143350-/3549955723-111-8225",
+   "posted": "2026-11-22",
+   "posted_time": "10:08",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/NdrXGzA ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Mitarbeiter Endmontage (m/w/d) für unseren Kunden im Bereich der End- und Baugruppenmontage von Fahrzeugen und Anbaugeräten in Oppenau. In dieser Position sind Sie verantwortlich für die Montage und Inbetriebnahme der Produkte. Wenn Sie eine Leidenschaft für technische Herausforderungen haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Ausführen von Montagearbeiten nach Anweisung im Bereich der End- und Baugruppenmontage von Fahrzeugen und Anbaugeräten - Verantwortungsvolle Aufgaben im Bereich der Inbetrieb- und Endabnahme von Geräten und Fahrzeugen nach entsprechender Qualifikation und Einarbeitung - Andere anfallende Tätigkeiten, die den Fähigkeiten und der Qualifikation des Mitarbeiters entsprechen Anforderungen: - Abgeschlossene Berufsausbildung als Industrie-, Landmaschinen-, Kfz-Mechaniker, Mechatroniker oder Vergleichbares - Berufserfahrung im genannten Aufgabenbereich wünschenswert - Montageerfahrung/Hydraulikkenntnisse erforderlich - Kenntnisse in Fahrzeugtechnik sind wünschenswert - Initiative, Selbstständigkeit, Teamfähigkeit, Zuverlässigkeit - Gute Deutschkenntnisse in Wort und Schrift Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/NdrXGzA",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 9.0,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Was wir Ihnen bieten:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Berufsausbildung als Industrie-, Landmaschinen-, Kfz-Mechaniker, Mechatronik",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 57,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 28,
+      "end_stop": "Oppenau Oberes Stadttor",
+      "dep": "16:12",
+      "arr": "17:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "16:12",
+        "arr": "16:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Oppenau",
+        "dep": "16:19",
+        "arr": "16:32",
+        "wait": null,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "425",
+        "from": "Oppenau",
+        "to": "Oppenau Oberes Stadttor",
+        "dep": "16:38",
+        "arr": "16:41",
+        "wait": 6,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oppenau Oberes Stadttor",
+        "to": "работа",
+        "dep": "16:41",
+        "arr": "17:09",
+        "min": 28
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 60
+     },
+     {
+      "kind": "велосипед",
+      "min": 53,
+      "changes": 0,
+      "km": 12.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 53
+       }
+      ],
+      "risky": false,
+      "score": 86
+     }
+    ],
+    "best": "транспорт",
+    "min": 57,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364485243",
+   "src": "Kleinanzeigen",
+   "title": "Vollzeitjob als Helfer Endkontrolle (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/vollzeitjob-als-helfer-endkontrolle-m-w-d-x-/3364485243-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "10:04",
+   "desc": "WIR SUCHEN DICH ALS ZUVERLÄSSIGEN MITARBEITER FÜR DIE ENDKONTROLLE (M/W/D/X) Deine Aufgaben: ✅ Unterstützung bei der Kontrolle von lackierten Autoteilen ✅ Sichtprüfung Dokumentation Das bringst Du mit: ✅ Sorgfältige und genaue Arbeitsweise ✅ Motivation und Teamfähigkeit ✅ Bereitschaft zur Schichtarbeit (3 Schicht) Unser Angebot: * Unbefristeter Arbeitsvertrag in Vollzeit * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364421686",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Qualitätskontrolle in Tagschicht (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-qualitaetskontrolle-in-tagschicht-m-w-d-x-/3364421686-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "10:04",
+   "desc": "Für die Qualitätskontrolle von Automobilteilen suchen wir nach einem zuverlässigen Mitarbeiter (m/w/d/x). Das sind deine Aufgaben: * Endkontrolle von lackierten Autoteilen * Nacharbeit und Dokumentation Das wünschen wir uns von Dir: * Du bist handwerklich geschickt und arbeitest sorgfältig * Du verfügst über eine selbständige Arbeitsweise und ein gutes Augenmaß * Teamfähigkeit und Motivation * Gute Deutschkenntnisse Diese Stelle könnte Deine Zukunft sein: * Unbefristeter Arbeitsvertrag in Vollzeit * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse Diese Stelle könnte Deine Zukunft sein:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-qualitaetskontrolle-in-tagschicht-m-w-d-x-/3364438805-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-qualitaetskontrolle-in-tagschicht-m-w-d-x-/3364372674-111-8088"
+   ],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364366085",
+   "src": "Kleinanzeigen",
+   "title": "Job in Produktion von Luxus Autos (m/w/d/x)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/job-in-produktion-von-luxus-autos-m-w-d-x-/3364366085-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "10:04",
+   "desc": "Du willst Teil einer hochwertigen Automobilproduktion sein? Dann melde dich! Deine Aufgaben: - Kontrolle von lackierten Autoteilen - Dokumentation der Daten Das bringst du mit: - idealerweise erste Erfahrung in der Produktion - Quereinsteiger (m/w/d/x) **sind herzlich willkommen** - Sorgfalt und Motivation - Grundlegende Deutschkenntnisse - Schichtbereitschaft (2 bis 3- Schicht) Unser Angebot: - Unbefristeter Arbeitsvertrag in Vollzeit - Sehr gute Übernahmemöglichkeiten - übertarifliche Bezahlung - Kostenfreie und hochwertige Arbeitskleidung - Prämienzahlungen und Zuschläge - Urlaubs- und Weihnachtsgeld - Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) - Monatliche Abschlags-/Vorschusszahlungen - Persönliche Betreuung und Unterstützung - Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364492781",
+   "src": "Kleinanzeigen",
+   "title": "⭐Job als Produktionshelfer in Vollzeit (m/w/d/x) ⭐",
+   "firma": "Copyright © 2005-2026 Marktplaats B.V. Alle Rechte vorbehalten. Ausgewiesene Marken gehören ihren jeweiligen Eigentümern. Die Kleinanzeigen-Dienste werden betrieben von der kleinanzeigen.de GmbH.",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364492781-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "08:04",
+   "desc": "FÜR DIE PRODUKTION VON AUTOTEILEN SUCHEN WIR DICH! Deine Aufgaben: ⭐ Auf- und abhängen von leichten Autoteilen aus Kunststoff ⭐Kontrolle der Teile Das wünschen wir uns von Dir: ✅ Du bist handwerklich geschickt und arbeitest sorgfältig ✅ Du arbeitest selbstständig ✅ Du kannst in 3 Schichten arbeiten Diese Stelle könnte Deine Zukunft sein: * Unbefristeter Arbeitsvertrag in Vollzeit * übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * Mitarbeiter werben Mitarbeiter Bonuszahlungen Kontaktdaten für Stellenanzeige: Ina Micheilis Telefon 07805 494109 Mobil 0175 9433326 Ich freue mich auf deinen Anruf!",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3364430121",
+   "src": "Kleinanzeigen",
+   "title": "Mitarbeiter Lager (m/w/d)",
+   "firma": "iperdi GmbH OSM",
+   "ort": "Appenweier",
+   "plz": "77767",
+   "street": "",
+   "lat": 48.5531521,
+   "lon": 7.9795969,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lager-m-w-d-/3364430121-111-9035",
+   "posted": "2026-11-22",
+   "posted_time": "08:04",
+   "desc": "* Du bist verantwortlich für den innerbetrieblichen Transport mittels Stapler * Du buchst Warenein-und ausgänge im EDV System * Du kommissionierst verschiedene Bauteile Das wünschen wir uns von dir: * Du hast einen gültigen Staplerschein und bist ein guter Fahrer * Du willst im 3 Schichtsystem arbeiten Das bieten wir dir: Unbefristeter Arbeitsvertrag in Vollzeit Sehr gute und übertarifliche Bezahlung Kostenfreie und hochwertige Arbeitskleidung Prämienzahlungen und Zuschläge Urlaubs- und Weihnachtsgeld Bezahlung von Fahrgeld Sehr gute Übernahmemöglichkeiten Mitarbeiter Rabatte durch Corporate Benefits Wohnortnahe Arbeitsplätze Monatliche Abschlags-/Vorschusszahlungen Persönliche Betreuung und Unterstützung JobRad Bikeleasing möglich WIr feuen uns auf deine Bewerbung!",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 7.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast einen gültigen Staplerschein und bist ein guter Fahrer",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-22T11:39",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 35,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 13,
+      "end_stop": "Appenweier Poststraße",
+      "dep": "23:37",
+      "arr": "00:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "23:37",
+        "arr": "23:44",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Appenweier Poststraße",
+        "dep": "23:44",
+        "arr": "23:59",
+        "wait": null,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Appenweier Poststraße",
+        "to": "работа",
+        "dep": "23:59",
+        "arr": "00:12",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 35
+     },
+     {
+      "kind": "велосипед",
+      "min": 45,
+      "changes": 0,
+      "km": 10.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 45
+       }
+      ],
+      "risky": false,
+      "score": 70
+     }
+    ],
+    "best": "транспорт",
+    "min": 35,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3443006234",
    "src": "Kleinanzeigen",
@@ -4055,7 +6610,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226"
+   ],
    "person": "Марина"
   },
   {
@@ -5017,7 +7574,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226"
+   ],
    "person": "mykyta"
   },
   {
@@ -7844,7 +10403,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3578798018-247-9039"
+   ],
    "person": "Марина"
   },
   {
@@ -9740,7 +12301,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3578798018-247-9039"
+   ],
    "person": "mykyta"
   },
   {
@@ -19510,6 +22073,174 @@
    },
    "status": "open",
    "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_16287-tmstr711120_14-S",
+   "src": "Jobbörse",
+   "title": "Aushilfe (m/w/d) Minijob im Supermarkt Getränkehersteller",
+   "firma": "TMS Trademarketing Service GmbH",
+   "ort": "Schutterwald",
+   "street": "",
+   "lat": 48.459913613,
+   "lon": 7.887333148,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_14-S",
+   "posted": "2026-11-19",
+   "desc": "**Coca-Cola Warenverräumer (m/w/d) Minijob / Nebenjob - Schutterwald** **Dein Job bei TMS** ⏰ Arbeitsort: 77746 Schutterwald ⏰ Arbeitstage: Mo - 1,5 Std. ⏰ Arbeitszeiten: wöchentlich 3–4 Stunden während der Marktöffnungszeiten ✍️ Eigenständige Pflege der Coca-Cola-Markenwelt im Supermarkt ✍️ Bestücken der Getränkekühlschränke im Kassenbereich des Supermarktes ✍️ Kontrolle von Qualität und Haltbarkeit ✍️ Dokumentation der Tätigkeiten per App **Was wir bieten:** ✅ Einen **unbefristeten Arbeitsvertrag** für langfristige Sicherheit ✅ Einen **sicheren Arbeitsplatz** mit Zukunftsperspektive ✅ **Flexible Arbeitszeiten** für eine ideale Vereinbarkeit von Beruf und Privatleben ✅ **Pünktliche** und **verlässliche Bezahlung** **Anforderungsprofil:** ✅ Keine Vorkenntnisse nötig – Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freundlich",
+   "zeit": " / Minijob",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 16.3,
+   "de": "нужен",
+   "de_txt": "Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freun",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 6,
+      "end_stop": "Schutterwald Mitte",
+      "dep": "06:59",
+      "arr": "07:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Schutterwald Mitte",
+        "dep": "07:35",
+        "arr": "07:50",
+        "wait": 9,
+        "min": 15
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Schutterwald Mitte",
+        "to": "работа",
+        "dep": "07:50",
+        "arr": "07:56",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 107,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 81,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "07:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "07:09",
+        "min": 81
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 101,
+      "changes": 0,
+      "km": 24.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 101
+       }
+      ],
+      "risky": false,
+      "score": 182
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_15-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_31-S",
+    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029842-107-8038",
+    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029833-107-8045",
+    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029823-107-9032",
+    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029522-107-8047"
+   ],
    "person": "mykyta"
   },
   {
@@ -39043,303 +41774,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_16287-tmstr706581_17-S",
-   "src": "Jobbörse",
-   "title": "Aushilfe (m/w/d) Minijob im Supermarkt Getränkehersteller",
-   "firma": "TMS Trademarketing Service GmbH",
-   "ort": "Schutterwald",
-   "street": "",
-   "lat": 48.459201749,
-   "lon": 7.886621257,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr706581_17-S",
-   "posted": "2026-11-07",
-   "desc": "**Coca-Cola Warenverräumer (m/w/d) Minijob / Nebenjob - Schutterwald** **Dein Job bei TMS** ⏰ Arbeitsort: 77746 Schutterwald ⏰ Arbeitstage: Mo - 1,5 Std. ⏰ Arbeitszeiten: wöchentlich 3–4 Stunden während der Marktöffnungszeiten ✍️ Eigenständige Pflege der Coca-Cola-Markenwelt im Supermarkt ✍️ Bestücken der Getränkekühlschränke im Kassenbereich des Supermarktes ✍️ Kontrolle von Qualität und Haltbarkeit ✍️ Dokumentation der Tätigkeiten per App **Was wir bieten:** ✅ Einen **unbefristeten Arbeitsvertrag** für langfristige Sicherheit ✅ Einen **sicheren Arbeitsplatz** mit Zukunftsperspektive ✅ **Flexible Arbeitszeiten** für eine ideale Vereinbarkeit von Beruf und Privatleben ✅ **Pünktliche** und **verlässliche Bezahlung** **Anforderungsprofil:** ✅ Keine Vorkenntnisse nötig – Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freundlich",
-   "zeit": " / Minijob",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 16.4,
-   "de": "нужен",
-   "de_txt": "Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freun",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T23:00",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 60,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 10,
-      "end_stop": "Schutterwald Mitte",
-      "dep": "06:59",
-      "arr": "08:00",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Schutterwald Mitte",
-        "dep": "07:35",
-        "arr": "07:50",
-        "wait": 9,
-        "min": 15
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Schutterwald Mitte",
-        "to": "работа",
-        "dep": "07:50",
-        "arr": "08:00",
-        "min": 10
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 63
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 111,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 85,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:13",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:13",
-        "min": 85
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 111
-     },
-     {
-      "kind": "велосипед",
-      "min": 102,
-      "changes": 0,
-      "km": 24.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 102
-       }
-      ],
-      "risky": false,
-      "score": 184
-     }
-    ],
-    "best": "транспорт",
-    "min": 60,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr706581_19-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr706581_44-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_14-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_15-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr711120_31-S",
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029842-107-8038",
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029833-107-8045",
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029823-107-9032",
-    "https://www.kleinanzeigen.de/s-anzeige/aushilfe-m-w-d-minijob-im-supermarkt-getraenkehersteller/3576029522-107-8047"
-   ],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_16287-tmstr706581_18-S",
-   "src": "Jobbörse",
-   "title": "Aushilfe (m/w/d) Minijob im Supermarkt Getränkehersteller",
-   "firma": "TMS Trademarketing Service GmbH",
-   "ort": "Ottersweier",
-   "street": "",
-   "lat": 48.674866287,
-   "lon": 8.101500348,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr706581_18-S",
-   "posted": "2026-11-07",
-   "desc": "**Coca-Cola Warenverräumer (m/w/d) Minijob / Nebenjob - Ottersweier** **Dein Job bei TMS** ⏰ Arbeitsort: 77833 Ottersweier ⏰ Arbeitstage: Fr - 1 Std. ⏰ Arbeitszeiten: wöchentlich 3–4 Stunden während der Marktöffnungszeiten ✍️ Eigenständige Pflege der Coca-Cola-Markenwelt im Supermarkt ✍️ Bestücken der Getränkekühlschränke im Kassenbereich des Supermarktes ✍️ Kontrolle von Qualität und Haltbarkeit ✍️ Dokumentation der Tätigkeiten per App **Was wir bieten:** ✅ Einen **unbefristeten Arbeitsvertrag** für langfristige Sicherheit ✅ Einen **sicheren Arbeitsplatz** mit Zukunftsperspektive ✅ **Flexible Arbeitszeiten** für eine ideale Vereinbarkeit von Beruf und Privatleben ✅ **Pünktliche** und **verlässliche Bezahlung** **Anforderungsprofil:** ✅ Keine Vorkenntnisse nötig – Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freundlich",
-   "zeit": " / Minijob",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 16.0,
-   "de": "нужен",
-   "de_txt": "Einarbeitung inklusive ✅ Gute Deutschkenntnisse (B1-Level) ✅ Smartphone mit Internet ✅ Gültige Arbeitserlaubnis für Deutschland ✅ Zuverlässig, belastbar & freun",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T23:00",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 63,
-      "changes": 2,
-      "min_wait": 4,
-      "walk_end": 3,
-      "end_stop": "Ottersweier Seebühl",
-      "dep": "05:21",
-      "arr": "06:25",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "05:32",
-        "arr": "05:41",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "05:53",
-        "arr": "06:07",
-        "wait": 12,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "266",
-        "from": "Bühl (Baden)",
-        "to": "Ottersweier Seebühl",
-        "dep": "06:11",
-        "arr": "06:22",
-        "wait": 4,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Ottersweier Seebühl",
-        "to": "работа",
-        "dep": "06:22",
-        "arr": "06:25",
-        "min": 3
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 81
-     },
-     {
-      "kind": "велосипед",
-      "min": 81,
-      "changes": 0,
-      "km": 19.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 81
-       }
-      ],
-      "risky": false,
-      "score": 142
-     }
-    ],
-    "best": "транспорт",
-    "min": 63,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_10001-1004011141-S",
    "src": "Jobbörse",
    "title": "Zeitungszusteller (m/w/d) Minijob-Basis",
@@ -48519,7 +50953,8 @@
     "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-065079237",
     "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-064865800",
     "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-065080884",
-    "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-065083281"
+    "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-065083281",
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364465732-111-9035"
    ],
    "person": "mykyta"
   },
@@ -51021,167 +53456,6 @@
    "also_urls": [
     "https://www.jobware.de/job/produktionshelfer-m-w-d-x-vollzeit-hansgrohe-065078681"
    ],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_11119-4973609842-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d) in 2-Schicht",
-   "firma": "DEKRA Arbeit GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.4612883,
-   "lon": 7.9247577,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4973609842-S",
-   "posted": "2026-10-21",
-   "desc": "Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Wir suchen einen motivierten Produktionshelfer (m/w/d) für unseren Kunden in Offenburg. In dieser Position tragen Sie aktiv zur Produktion bei und unterstützen die verschiedenen Abläufe in der Fertigung. Wenn Sie Interesse an einem dynamischen Arbeitsumfeld haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Unterstützung bei der Metallbearbeitung - Montage von Kleinteilen - Verpackungstätigkeiten - Qualitätskontrolle der produzierten Teile - Einhaltung von Sicherheits- und Gesundheitsvorschriften - Dokumentation der Produktionsprozesse Anforderungen: - Erfahrung in der Metallbearbeitung ist von Vorteil - Technisches Verständnis für Maschinen und deren Bedienung - Teamfähigkeit sowie selbstständige Arbeitsweise - Bereitschaft zur 2-Schichtarbeit - Gute Deutschkenntnisse Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 13.9,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse Was wir Ihnen bieten:",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 48,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 1,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:47",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 62,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 36,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:34",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:34",
-        "min": 36
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "велосипед",
-      "min": 82,
-      "changes": 0,
-      "km": 20.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 82
-       }
-      ],
-      "risky": false,
-      "score": 144
-     }
-    ],
-    "best": "транспорт",
-    "min": 48,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "mykyta"
   },
   {
@@ -59083,7 +61357,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.jobware.de/job/kommissionierer-m-w-d-x-065088380"
+    "https://www.jobware.de/job/kommissionierer-m-w-d-x-065088380",
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-x-/3364414733-247-9035"
    ],
    "person": "mykyta"
   },
@@ -74048,189 +76323,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_10001-1001483764-S",
-   "src": "Jobbörse",
-   "title": "Wir suchen eine/n Helfer/in in der Holzproduktion.",
-   "firma": "Ludwig Züfle Holzwerk GmbH",
-   "ort": "Baiersbronn",
-   "street": "Ruhesteinstr. 173",
-   "lat": 48.5159114,
-   "lon": 8.345587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001483764-S",
-   "posted": "2025-06-05",
-   "desc": "# Holz hat Zukunft: Wir machen mehr aus Holz **Ludwig Züfle Holzwerk – Familienbetrieb seit über 100 Jahren** Die Ludwig Züfle Holzwerk GmbH besteht als Familienbetrieb schon seit über 100 Jahren. Die zwischenzeitlich 4. Generation wirkt und leitet unsere Firma in Baiersbronn-Mitteltal. In unserem Unternehmen sind aktuell mehr als 25 erfahrene und qualifizierte Mitarbeitende tätig. Bereits vor 40 Jahren haben wir uns auf die Verarbeitung von Kiefernholz, Douglasie und Lärche spezialisiert. Auf entsprechenden Standorten, und natürlich im einheimischen Umfeld im Schwarzwald und in ganz Baden-Württemberg, wachsen die Hölzer sehr langsam und haben eine Qualität ähnlich der nordischen Hölzer, feinjährig und kleinastig. Diese Kriterien stehen für das Markenzeichen Züfle Holz. Seit vielen Jahren sind wir PEFC- und FSC-zertifiziert, d.h. wir arbeiten nachhaltig. Kapp- und Restholz nutzen wir in unserem modernen Heizwerk thermisch; durch diese Restholzverwertung entsteht bei uns kein Abfall. Unseren Strom erzeugen wir über mehrere Solaranlagen (PV), so unterstützt uns die Sonne dabei den CO2-Ausstoß zu verringern. Zur Ergänzung unseres Teams stellen wir ab sofort eine weitere Unterstützung für unsere Fachkräfte. **Deine Aufgabe:** - Du hilfst unseren Fachkräften bei verschiedenen Aufgaben in der Produktion unserer Produkte. **Dein Profil:** - Vorzugsweise hast du bereits Erfahrung bei Arbeiten mit Holz. **Wir bieten dir:** *Unbefristeten Arbeitsvertrag - Individuelle Einarbeitung: Wir wollen dich aufbauen und mit dir weiter wachsen. - Einen krisensicheren Arbeitsplatz, denn Holz hat Zukunft und uns gibt es schon seit über 111 Jahren. - Gute Bezahlung, ... mehr dazu im Bewerbungsgespräch. - Vermögenswirksame Zusatzleistungen - Job-E-Bike zur privaten und geschäftlichen Nutzung - Unterkunftsmöglichkeit: Wir bieten eine Wohnung zur Anmietung an. Die Miete ist selbst zu tragen, aber die Unterkunft ist eine ideale Lösung für Bewerber, die nicht vor Ort wohnen. **Haben wir dein Interesse geweckt? Du bist interessiert und motiviert?** Wenn du Teil unseres Teams werden möchtest und Freude an einer abwechslungsreichen Tätigkeit mit Holz hast, sende uns eine Bewerbung per E-Mail zu oder schau einfach persönlich vorbei. Wir freuen uns darauf, dich kennen zu lernen.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "mykyta",
-   "km": 19.4,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 135,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 1,
-      "end_stop": "Baiersbronn Sternen",
-      "dep": "16:36",
-      "arr": "18:51",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "16:36",
-        "arr": "16:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "16:47",
-        "arr": "16:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "17:07",
-        "arr": "17:15",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "400",
-        "from": "Achern",
-        "to": "Ruhestein",
-        "dep": "17:21",
-        "arr": "18:00",
-        "wait": 6,
-        "min": 39
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "200",
-        "from": "Ruhestein",
-        "to": "Baiersbronn Sternen",
-        "dep": "18:32",
-        "arr": "18:50",
-        "wait": 32,
-        "min": 18
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Baiersbronn Sternen",
-        "to": "работа",
-        "dep": "18:50",
-        "arr": "18:51",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 144
-     },
-     {
-      "kind": "велосипед",
-      "min": 119,
-      "changes": 0,
-      "km": 29.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 119
-       }
-      ],
-      "risky": false,
-      "score": 218
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 599,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 573,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "15:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "15:20",
-        "min": 573
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 599
-     }
-    ],
-    "best": "транспорт",
-    "min": 135,
-    "changes": 3
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_10001-1000784338-S",
    "src": "Jobbörse",
    "title": "Wir suchen Helfer in der Fahrzeuglackierung (m/w/d) in Renchen",
@@ -78912,7 +81004,11 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-7BYIQ9JELDAZJNDO-S",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437586812-111-8088",
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437605336-111-8088"
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3437605336-111-8088",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364344416-111-8088",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364348458-111-8671",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364313279-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047"
    ],
    "person": "mykyta"
   },
@@ -92632,7 +94728,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-zustelleraktiv-schwarzwald-/3579274916-247-8045"
+   ],
    "person": "mykyta"
   },
   {
@@ -92805,7 +94903,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-in-teilzeit-oder-als-minijob/3579170788-247-8045"
+   ],
    "person": "mykyta"
   },
   {
@@ -98671,7 +100771,7 @@
     "min": 11,
     "changes": 0
    },
-   "status": "open",
+   "status": "not_interested",
    "also_urls": [],
    "person": "Марина"
   },
@@ -105355,7 +107455,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-x-/3364414733-247-9035"
+   ],
    "person": "Марина"
   },
   {
@@ -118615,237 +120717,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1003046444-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskräfte (m/w/d), Offenburg",
-   "firma": "Nils Bogdol GmbH",
-   "ort": "Offenburg",
-   "street": "Weingartenstr.",
-   "lat": 48.4731637,
-   "lon": 7.9838771,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003046444-S",
-   "posted": "2026-05-08",
-   "desc": "Glänzende Zukunft gesucht? Werde Teil des ray-Teams als Reinigungskraft (m/w/d)** in 77654 Offenburg, Weingartenstr**. \\*\\*!\\*\\* **Arbeitszeit (SV-pflichtig):** Mo. - Fr. jeweils von 16:00 Uhr -18:30 Uhr **Über uns:** Sauberkeit ist unsere Leidenschaft! Wir sind ein herzliches Team, das gemeinsam dafür sorgt, dass sich Menschen in gepflegten Räumen wohlfühlen. Jetzt suchen wir Verstärkung – vielleicht bist Du genau die richtige Person? **Das bieten wir Dir:** - Pünktliche und faire Bezahlung nach Tariflohn \\*\\*(15,00 €/Stunde)\\*\\* - Einen sicheren Arbeitsplatz in einem tollen Team - Respekt und Wertschätzung auf allen Ebenen - Ein kollegiales Team mit flachen Hierarchien, in dem Ihre Meinung zählt - Individuelle Aufstiegs- und Weiterbildungsmöglichkeiten, z. B. zum Vorarbeiter (m/w/d) oder zur Assistenz der Objektleitung (m/w/d) **Deine Aufgaben:** - Reinigung unseres Objektes unter Einhaltung von Hygienestandards - Mit Deinem Einsatz sorgst Du für ein angenehmes Umfeld **Das bringst Du mit:** - Ein Auge für Ordnung und Sauberkeit - Zuverlässigkeit und Pünktlichkeit - Freundlichkeit und Teamgeist - Erfahrung ist super, aber kein Muss – wir arbeiten Dich gerne ein! **Klingt gut?** Dann freuen wir uns auf Dich! Werde Teil des ray-Teams und bewirb Dich jetzt unter der Telefonnummer: 0162 200 34 20. Wir sind von Mo. bis Fr. zwischen 08:00 – 16:00 Uhr erreichbar.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 9.7,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 60,
-      "changes": 1,
-      "min_wait": 16,
-      "walk_end": 5,
-      "end_stop": "Zell-Weierbach Abtsberghalle",
-      "dep": "06:32",
-      "arr": "07:32",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Offenburg",
-        "line": "S1",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Zell-Weierbach Abtsberghalle",
-        "dep": "07:15",
-        "arr": "07:28",
-        "wait": 16,
-        "min": 13
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Zell-Weierbach Abtsberghalle",
-        "to": "работа",
-        "dep": "07:28",
-        "arr": "07:32",
-        "min": 5
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 63
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 68,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 42,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:30",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:30",
-        "min": 42
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 68
-     },
-     {
-      "kind": "как в приложении",
-      "min": 58,
-      "changes": 2,
-      "min_wait": 1,
-      "walk_end": 1,
-      "end_stop": "Zell-Weierbach Ortsmitte",
-      "dep": "06:32",
-      "arr": "07:30",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Offenburg",
-        "line": "S1",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Zell-Weierbach Abtsberghalle",
-        "dep": "07:15",
-        "arr": "07:28",
-        "wait": 16,
-        "min": 13
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Offenburg",
-        "line": "S2",
-        "from": "Zell-Weierbach Abtsberghalle",
-        "to": "Zell-Weierbach Ortsmitte",
-        "dep": "07:29",
-        "arr": "07:30",
-        "wait": 1,
-        "min": 1
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Zell-Weierbach Ortsmitte",
-        "to": "работа",
-        "dep": "07:30",
-        "arr": "07:30",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 76
-     },
-     {
-      "kind": "велосипед",
-      "min": 67,
-      "changes": 0,
-      "km": 16.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 67
-       }
-      ],
-      "risky": false,
-      "score": 114
-     }
-    ],
-    "best": "транспорт",
-    "min": 60,
-    "changes": 1
-   },
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/reinigungskraefte-m-w-d-offenburg-062079713"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10000-1206886342-S",
    "src": "Jobbörse",
    "title": "Gebäudereiniger (m/w/d)",
@@ -120295,7 +122166,9 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-PKP4L27LH6QOMSSP-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-X0QGTSUR47OLAXL7-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-DQL7X9RRI95EQLV8-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-DQL7X9RRI95EQLV8-S",
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364465732-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/-job-als-produktionshelfer-in-vollzeit-m-w-d-x-/3364492781-111-9035"
    ],
    "person": "Марина"
   },
@@ -127115,167 +128988,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_11119-4973609842-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d) in 2-Schicht",
-   "firma": "DEKRA Arbeit GmbH",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.4612883,
-   "lon": 7.9247577,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4973609842-S",
-   "posted": "2026-10-21",
-   "desc": "Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Wir suchen einen motivierten Produktionshelfer (m/w/d) für unseren Kunden in Offenburg. In dieser Position tragen Sie aktiv zur Produktion bei und unterstützen die verschiedenen Abläufe in der Fertigung. Wenn Sie Interesse an einem dynamischen Arbeitsumfeld haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Unterstützung bei der Metallbearbeitung - Montage von Kleinteilen - Verpackungstätigkeiten - Qualitätskontrolle der produzierten Teile - Einhaltung von Sicherheits- und Gesundheitsvorschriften - Dokumentation der Produktionsprozesse Anforderungen: - Erfahrung in der Metallbearbeitung ist von Vorteil - Technisches Verständnis für Maschinen und deren Bedienung - Teamfähigkeit sowie selbstständige Arbeitsweise - Bereitschaft zur 2-Schichtarbeit - Gute Deutschkenntnisse Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 13.9,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse Was wir Ihnen bieten:",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 48,
-      "changes": 1,
-      "min_wait": 9,
-      "walk_end": 1,
-      "end_stop": "Offenburg Eichendorff-Schule",
-      "dep": "06:59",
-      "arr": "07:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "R2",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Eichendorff-Schule",
-        "dep": "07:35",
-        "arr": "07:46",
-        "wait": 9,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Eichendorff-Schule",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "07:47",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 62,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 36,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:34",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:34",
-        "min": 36
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 62
-     },
-     {
-      "kind": "велосипед",
-      "min": 82,
-      "changes": 0,
-      "km": 20.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 82
-       }
-      ],
-      "risky": false,
-      "score": 144
-     }
-    ],
-    "best": "транспорт",
-    "min": 48,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_12632-5b8b0e5b_JB5278284-S",
    "src": "Jobbörse",
    "title": "Produktionshelfer (m/w/d) bei Hansgrohe in Offenburg",
@@ -133267,189 +134979,6 @@
    "prof_txt": "",
    "help": "",
    "ru": "",
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1001483764-S",
-   "src": "Jobbörse",
-   "title": "Wir suchen eine/n Helfer/in in der Holzproduktion.",
-   "firma": "Ludwig Züfle Holzwerk GmbH",
-   "ort": "Baiersbronn",
-   "street": "Ruhesteinstr. 173",
-   "lat": 48.5159114,
-   "lon": 8.345587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001483764-S",
-   "posted": "2025-06-05",
-   "desc": "# Holz hat Zukunft: Wir machen mehr aus Holz **Ludwig Züfle Holzwerk – Familienbetrieb seit über 100 Jahren** Die Ludwig Züfle Holzwerk GmbH besteht als Familienbetrieb schon seit über 100 Jahren. Die zwischenzeitlich 4. Generation wirkt und leitet unsere Firma in Baiersbronn-Mitteltal. In unserem Unternehmen sind aktuell mehr als 25 erfahrene und qualifizierte Mitarbeitende tätig. Bereits vor 40 Jahren haben wir uns auf die Verarbeitung von Kiefernholz, Douglasie und Lärche spezialisiert. Auf entsprechenden Standorten, und natürlich im einheimischen Umfeld im Schwarzwald und in ganz Baden-Württemberg, wachsen die Hölzer sehr langsam und haben eine Qualität ähnlich der nordischen Hölzer, feinjährig und kleinastig. Diese Kriterien stehen für das Markenzeichen Züfle Holz. Seit vielen Jahren sind wir PEFC- und FSC-zertifiziert, d.h. wir arbeiten nachhaltig. Kapp- und Restholz nutzen wir in unserem modernen Heizwerk thermisch; durch diese Restholzverwertung entsteht bei uns kein Abfall. Unseren Strom erzeugen wir über mehrere Solaranlagen (PV), so unterstützt uns die Sonne dabei den CO2-Ausstoß zu verringern. Zur Ergänzung unseres Teams stellen wir ab sofort eine weitere Unterstützung für unsere Fachkräfte. **Deine Aufgabe:** - Du hilfst unseren Fachkräften bei verschiedenen Aufgaben in der Produktion unserer Produkte. **Dein Profil:** - Vorzugsweise hast du bereits Erfahrung bei Arbeiten mit Holz. **Wir bieten dir:** *Unbefristeten Arbeitsvertrag - Individuelle Einarbeitung: Wir wollen dich aufbauen und mit dir weiter wachsen. - Einen krisensicheren Arbeitsplatz, denn Holz hat Zukunft und uns gibt es schon seit über 111 Jahren. - Gute Bezahlung, ... mehr dazu im Bewerbungsgespräch. - Vermögenswirksame Zusatzleistungen - Job-E-Bike zur privaten und geschäftlichen Nutzung - Unterkunftsmöglichkeit: Wir bieten eine Wohnung zur Anmietung an. Die Miete ist selbst zu tragen, aber die Unterkunft ist eine ideale Lösung für Bewerber, die nicht vor Ort wohnen. **Haben wir dein Interesse geweckt? Du bist interessiert und motiviert?** Wenn du Teil unseres Teams werden möchtest und Freude an einer abwechslungsreichen Tätigkeit mit Holz hast, sende uns eine Bewerbung per E-Mail zu oder schau einfach persönlich vorbei. Wir freuen uns darauf, dich kennen zu lernen.",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 19.4,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 135,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 1,
-      "end_stop": "Baiersbronn Sternen",
-      "dep": "16:36",
-      "arr": "18:51",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "16:36",
-        "arr": "16:47",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "16:47",
-        "arr": "16:56",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "17:07",
-        "arr": "17:15",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "400",
-        "from": "Achern",
-        "to": "Ruhestein",
-        "dep": "17:21",
-        "arr": "18:00",
-        "wait": 6,
-        "min": 39
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "200",
-        "from": "Ruhestein",
-        "to": "Baiersbronn Sternen",
-        "dep": "18:32",
-        "arr": "18:50",
-        "wait": 32,
-        "min": 18
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Baiersbronn Sternen",
-        "to": "работа",
-        "dep": "18:50",
-        "arr": "18:51",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 144
-     },
-     {
-      "kind": "велосипед",
-      "min": 119,
-      "changes": 0,
-      "km": 29.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 119
-       }
-      ],
-      "risky": false,
-      "score": 218
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 599,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 573,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "15:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "15:20",
-        "min": 573
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 599
-     }
-    ],
-    "best": "транспорт",
-    "min": 135,
-    "changes": 3
-   },
    "status": "open",
    "also_urls": [],
    "person": "Марина"
@@ -143883,7 +145412,11 @@
    "ru": "",
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-7BYIQ9JELDAZJNDO-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/15518-7BYIQ9JELDAZJNDO-S",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364344416-111-8088",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364348458-111-8671",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364313279-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047"
    ],
    "person": "Марина"
   },
@@ -148608,6 +150141,109 @@
     "best": "транспорт",
     "min": 190,
     "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:jw_062079713",
+   "src": "Jobware",
+   "title": "Reinigungskräfte (m/w/d), Offenburg",
+   "firma": "Nils Bogdol GmbH",
+   "street": "",
+   "lat": 48.4695984,
+   "lon": 7.9429235,
+   "ort": "Offenburg",
+   "url": "https://www.jobware.de/job/reinigungskraefte-m-w-d-offenburg-062079713",
+   "posted": "2026-05-09",
+   "desc": "",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.3,
+   "de": "?",
+   "de_txt": "",
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 36,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 10,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:09",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 36
+     },
+     {
+      "kind": "велосипед",
+      "min": 74,
+      "changes": 0,
+      "km": 18.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 74
+       }
+      ],
+      "risky": false,
+      "score": 128
+     }
+    ],
+    "best": "транспорт",
+    "min": 36,
+    "changes": 0
    },
    "status": "open",
    "also_urls": [],
