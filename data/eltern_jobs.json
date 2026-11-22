@@ -1,9 +1,495 @@
 {
- "generated": "2026-11-22T15:03",
+ "generated": "2026-11-22T16:01",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 987,
+ "count": 990,
  "items": [
+  {
+   "id": "marina:ka_3364350243",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Job (M/W/D/X)",
+   "firma": "Iperdi GmbH",
+   "ort": "Hausach",
+   "plz": "77756",
+   "street": "",
+   "lat": 48.2945442,
+   "lon": 8.1661014,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364350243-111-8533",
+   "posted": "2026-11-22",
+   "posted_time": "15:04",
+   "desc": "AUFGABEN: * Montieren und Verpacken von Produkten * Qualitätskontrolle * Dokumentation ANFORDERUNGEN: * Berufserfahrung in der Produktion ist wünschenswert * 2-Schicht Bereitschaft * Qualitätsbewusstsein und Motivation BENEFITS: * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T15:33",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 86,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 27,
+      "end_stop": "Hausach",
+      "dep": "05:21",
+      "arr": "06:48",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Hausach",
+        "dep": "05:54",
+        "arr": "06:21",
+        "wait": 6,
+        "min": 27
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Hausach",
+        "to": "работа",
+        "dep": "06:21",
+        "arr": "06:48",
+        "min": 27
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 89
+     },
+     {
+      "kind": "велосипед",
+      "min": 184,
+      "changes": 0,
+      "km": 45.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 184
+       }
+      ],
+      "risky": false,
+      "score": 348
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 485,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 459,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "13:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "13:26",
+        "min": 459
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 485
+     }
+    ],
+    "best": "транспорт",
+    "min": 86,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3364328312",
+   "src": "Kleinanzeigen",
+   "title": "Helfer (m/w/d/x) +200€ Start­bonus",
+   "firma": "Iperdi GmbH",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-m-w-d-x-200-start-bonus/3364328312-111-9040",
+   "posted": "2026-11-22",
+   "posted_time": "15:04",
+   "desc": "DAS BIETEN WIR: * Startbonus in Höhe von 200,- Euro * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen DEINE AUFGABEN: * Auf- und Abstecken von Bauteilen * Qualitätskontrolle * Als Helfer (m/w/d/x) arbeitest Du im Team DAS BRINGST DU MIT: * Bereitschaft zur 3-Schicht * Grundlegende Deutsch-Kenntnisse * Sorgfalt und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: * 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) * 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x)",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutsch-Kenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-22T15:33",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3364328312",
+   "src": "Kleinanzeigen",
+   "title": "Helfer (m/w/d/x) +200€ Start­bonus",
+   "firma": "Iperdi GmbH",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-m-w-d-x-200-start-bonus/3364328312-111-9040",
+   "posted": "2026-11-22",
+   "posted_time": "15:04",
+   "desc": "DAS BIETEN WIR: * Startbonus in Höhe von 200,- Euro * Unbefristeter Arbeitsvertrag in Vollzeit * Sehr gute und übertarifliche Bezahlung * Kostenfreie und hochwertige Arbeitskleidung * Prämienzahlungen und Zuschläge * Urlaubs- und Weihnachtsgeld * Bezahlung von Fahrgeld * Sehr gute Übernahmemöglichkeiten * Mitarbeiter Rabatte durch Corporate Benefits bei über 1.500 Shops (z.B. Adidas, About you, Apple, Boss, Samsung und viele mehr) * Wohnortnahe Arbeitsplätze * Monatliche Abschlags-/Vorschusszahlungen * Persönliche Betreuung und Unterstützung * JobRad Bikeleasing möglich * Mitarbeiter werben Mitarbeiter Bonuszahlungen DEINE AUFGABEN: * Auf- und Abstecken von Bauteilen * Qualitätskontrolle * Als Helfer (m/w/d/x) arbeitest Du im Team DAS BRINGST DU MIT: * Bereitschaft zur 3-Schicht * Grundlegende Deutsch-Kenntnisse * Sorgfalt und Motivation Passt diese Stelle nicht ganz zu dir? Melde dich: Wir finden den Job, der zu dir passt und bieten beste Perspektiven für deine Zukunft! Du bist schon Mitarbeiter bei iperdi? Dann nutze die Möglichkeit und sichere dir eine Prämie, ganz einfach durch das Anwerben neuer Mitarbeiter. Für jeden von dir vermittelten Mitarbeiter erhältst du nach erfolgreicher Einstellung und einem Monat durchgehender Beschäftigungsdauer (150 Std.) eine einmalige Prämie von: * 150,- Euro brutto für die Vermittlung eines ungelernten Mitarbeiters (m/w/d/x) * 300,- Euro brutto für die Vermittlung eines Facharbeiters (m/w/d/x)",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 10.9,
+   "de": "немного",
+   "de_txt": "Grundlegende Deutsch-Kenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-22T15:33",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3520736680",
    "src": "Kleinanzeigen",
@@ -605,7 +1091,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364482219-247-9035"
+   ],
    "person": "Марина"
   },
   {
@@ -767,7 +1255,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364482219-247-9035"
+   ],
    "person": "mykyta"
   },
   {
@@ -90065,7 +90555,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364350243-111-8533"
+   ],
    "person": "mykyta"
   },
   {
