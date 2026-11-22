@@ -1,9 +1,171 @@
 {
- "generated": "2026-11-22T18:56",
+ "generated": "2026-11-22T19:55",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 994,
+ "count": 995,
  "items": [
+  {
+   "id": "marina:ka_3364553606",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskräfte (m/w/d) / Maschinenreinigung Minijob in Hausach",
+   "firma": "Stuttgarter Gebäudereinigung Venter GmbH & Co.KG",
+   "ort": "Hausach",
+   "plz": "77756",
+   "street": "",
+   "lat": 48.2945442,
+   "lon": 8.1661014,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraefte-m-w-d-maschinenreinigung-minijob-in-hausach/3364553606-107-8533",
+   "posted": "2026-11-22",
+   "posted_time": "19:04",
+   "desc": "Für ein Objekt in Hausach (Nähe Bahnhof Hausach) suchen wir ab sofort zuverlässige Reinigungskräfte (m/w/d) für die Maschinenreinigung an den Samstagen. Arbeitszeiten: jeden Samstag zwischen 5:00 Uhr und 14:00 Uhr 1x für 8,00 Std. 1x für 7,5 Std. Wir bieten: - eine faire Vergütung nach Tarif - eine ordentliche Einarbeitung - kompetente Ansprechpartner vor Ort Grundkenntnisse in Deutsch erwünscht. Wir freuen uns auf Ihre Bewerbung unter Telefon: 0711/13578267 Noch nicht überzeugt? Besuch uns im Internet unter www.sgr.de auf Instagram www.instagram.com/stuttgartergebaeudereinigung/ oder Facebook www.facebook.com/SGRStuttgarterGebaeudereinigung",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-22T19:27",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 86,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 27,
+      "end_stop": "Hausach",
+      "dep": "05:21",
+      "arr": "06:48",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Hausach",
+        "dep": "05:54",
+        "arr": "06:21",
+        "wait": 6,
+        "min": 27
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Hausach",
+        "to": "работа",
+        "dep": "06:21",
+        "arr": "06:48",
+        "min": 27
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 89
+     },
+     {
+      "kind": "велосипед",
+      "min": 184,
+      "changes": 0,
+      "km": 45.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 184
+       }
+      ],
+      "risky": false,
+      "score": 348
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 485,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 459,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "13:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "13:26",
+        "min": 459
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 485
+     }
+    ],
+    "best": "транспорт",
+    "min": 86,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3364347165",
    "src": "Kleinanzeigen",
@@ -1572,7 +1734,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364482219-247-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364482219-247-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364490270-247-9035"
    ],
    "person": "Марина"
   },
@@ -1736,7 +1899,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364482219-247-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364482219-247-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/-kommissionierer-m-w-d-x-in-tagschicht-/3364490270-247-9035"
    ],
    "person": "mykyta"
   },
@@ -2402,7 +2566,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/vollzeitjob-als-helfer-endkontrolle-m-w-d-x-/3364487839-111-9035"
+   ],
    "person": "Марина"
   },
   {
@@ -3880,7 +4046,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/vollzeitjob-als-helfer-endkontrolle-m-w-d-x-/3364487839-111-9035"
+   ],
    "person": "mykyta"
   },
   {
@@ -8361,7 +8529,8 @@
    "status": "open",
    "also_urls": [
     "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226",
-    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364393315-111-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364393315-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364402013-111-9035"
    ],
    "person": "Марина"
   },
@@ -9326,7 +9495,8 @@
    "status": "open",
    "also_urls": [
     "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364423637-111-8226",
-    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364393315-111-9035"
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364393315-111-9035",
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-x-/3364402013-111-9035"
    ],
    "person": "mykyta"
   },
@@ -82759,7 +82929,8 @@
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364348458-111-8671",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364313279-111-9035",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047",
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364282724-111-9040"
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364282724-111-9040",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364342980-111-9035"
    ],
    "person": "mykyta"
   },
@@ -147174,7 +147345,8 @@
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364348458-111-8671",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364313279-111-9035",
     "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364319011-111-8047",
-    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364282724-111-9040"
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364282724-111-9040",
+    "https://www.kleinanzeigen.de/s-anzeige/helfer-job-m-w-d-x-/3364342980-111-9035"
    ],
    "person": "Марина"
   },
