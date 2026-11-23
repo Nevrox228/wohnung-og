@@ -1,9 +1,285 @@
 {
- "generated": "2026-11-23T14:56",
+ "generated": "2026-11-23T15:58",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1013,
+ "count": 1012,
  "items": [
+  {
+   "id": "marina:ba_12160-13933078-S",
+   "src": "Jobbörse",
+   "title": "Kommissionierer (m/w/d)",
+   "firma": "cleo - eine Marke der akut... Kompetente Lösungen GmbH",
+   "ort": "Offenburg",
+   "street": "",
+   "lat": 48.472817233,
+   "lon": 7.975432664,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12160-13933078-S",
+   "posted": "2026-11-23",
+   "desc": "Wenn du gerne im Lager arbeitest, zuverlässig bist und einen sicheren Arbeitsplatz suchst, freuen wir uns auf deine Bewerbung! Für unseren namhaften Kunden aus Ortenberg suchen wir engagierte Kommissionierer (m/w/d) für einen langfristigen Einsatz Das bieten wir Dir: - Unbefristeter Arbeitsvertrag mit langfristiger Perspektive - Sehr gute Übernahmemöglichkeiten durch unseren Kunden - Attraktive Vergütung in Höhe von 16,00EUR pro Stunde - Urlaubs- und Weihnachtsgeld - Kostenfreie Arbeitskleidung bereits zum Start - Ein erstes Gespräch bequem am Telefon, ohne Fahrtkosten und ohne Wartezeit Diese spannenden Aufgaben kommen auf Dich zu: - Kommissionierung von Aufträgen für die Produktion - Ein- und Auslagerung von Waren - Arbeiten mit ERP-Systemen und Handscannern Das bringst du mit: - Erfahrung in der Kommissionierung oder Lagerlogistik von Vorteil - Sicherer Umgang mit ERP-Systemen und Scannern - Gute Deutschkenntnisse in Wort und Schrift - Sorgfältige und selbstständige Arbeitsweise - Teamfähigkeit und Zuverlässigkeit Neugierig geworden? Bewirb dich jetzt ganz einfach ohne Anschreiben! Telefon:0781 95099320, E-Mail: offenburg@hey-cleo.de oder schreib uns direkt per WhatsApp: 0171 9349937 Unser Standort ist in Offenburg, Region Oberrhein, Baden-Württemberg #HE cleo ist Dein persönlicher Jobfinder. Bei uns dreht sich alles um Dich - Deine Talente, Deine Wünsche, Deine Ziele. Wir begleiten Dich auf Deiner Karriereleiter, ob als Einsteiger oder erfahrene Fachkraft. Mit unserer Marktkenntnis und unserem Engagement finden wir nicht nur einen Job, sondern den Job, der Deine Stärken schätzt, Dir Freude bereitet und Balance in Deinem Leben schafft. Also? Lass uns gemeinsam den Job finden, der Dich zum Strahlen bringt!",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 10.2,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-23T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 33,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:20",
+        "min": 33
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "как в приложении",
+      "min": 61,
+      "changes": 1,
+      "min_wait": 12,
+      "walk_end": 12,
+      "end_stop": "Offenburg Zur Lindenhöhe",
+      "dep": "05:21",
+      "arr": "06:23",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Offenburg",
+        "line": "S5",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Zur Lindenhöhe",
+        "dep": "06:00",
+        "arr": "06:11",
+        "wait": 12,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Zur Lindenhöhe",
+        "to": "работа",
+        "dep": "06:11",
+        "arr": "06:23",
+        "min": 12
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 64
+     },
+     {
+      "kind": "велосипед",
+      "min": 67,
+      "changes": 0,
+      "km": 16.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 67
+       }
+      ],
+      "risky": false,
+      "score": 114
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10000-1208753744-S",
+   "src": "Jobbörse",
+   "title": "Küchenhilfe (m/w/d) 32 Std/Woche",
+   "firma": "Restaurant Hafen 17 Mirko Sansa",
+   "ort": "Kehl",
+   "street": "Hafenstr. 17",
+   "lat": 48.5815384,
+   "lon": 7.8053507,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208753744-S",
+   "posted": "2026-11-23",
+   "desc": "Der Hafen 17 ist keineswegs nur ein steriler Standort inmitten einer Industrielandschaft- Hafen 17 steht für ein Lebensgefühl: Urban, urig, unkompliziert. Wir wollen 100 % Gastfreundschaft, Gemütlichkeit und Freude am Umgang mit frischen Produkten vermitteln. Wir suchen ab sofort oder nach Vereinbarung: Küchenhilfe Teilzeit 32 Std. Wöchentliche Wechselschicht In der einen Woche geht es von **9 bis 16 Uhr**, in der anderen von **16:30 bis 24 Uhr**. 5 Tage Woche Sonntag ist Ruhetag Tätigkeitschwerpunkt : Spüle /Vorbereitung Küche familiäre Arbeitsatmosphäre in einer meist lustigen Crew überdurchschnittliche Bezahlung Was wir von dir erwarten? Gute Laune Selbstständiges & teamorientiertes Arbeiten Die Liebe zu frischen Produkten Natürlich eine 5-Tage-Woche, eine faire Bezahlung bei geregelten Arbeitszeiten, einen sicheren Ankerplatz in unserem Hafen17, wo Spaß und Freude bei der Arbeit nicht nur Schlagwörter, sondern gelebte Philosophie sind. Du fühlst dich angesprochen? Wir freuen uns auf deine Bewerbung mit deinem frühestmöglichen Eintrittsdatum. an: jobs@hafen17.de",
+   "zeit": " / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 21.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Кухня",
+   "first_seen": "2026-11-23T15:26",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 61,
+      "changes": 1,
+      "min_wait": 19,
+      "walk_end": 11,
+      "end_stop": "Kehl",
+      "dep": "06:32",
+      "arr": "07:34",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS4",
+        "from": "Appenweier",
+        "to": "Kehl",
+        "dep": "07:11",
+        "arr": "07:23",
+        "wait": 19,
+        "min": 12
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kehl",
+        "to": "работа",
+        "dep": "07:23",
+        "arr": "07:34",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 64
+     },
+     {
+      "kind": "велосипед",
+      "min": 112,
+      "changes": 0,
+      "km": 27.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 112
+       }
+      ],
+      "risky": false,
+      "score": 204
+     }
+    ],
+    "best": "транспорт",
+    "min": 61,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_12632-735478d0_JB5303434-S",
    "src": "Jobbörse",
@@ -86322,189 +86598,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_13356-104240A48281C14-S",
-   "src": "Jobbörse",
-   "title": "Verpacker (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Bühl",
-   "street": "",
-   "lat": 48.691287219,
-   "lon": 8.151568768,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A48281C14-S",
-   "posted": "2026-11-06",
-   "desc": "**Ort:** Raum Bühl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** PPK **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Verpacker (m/w/d) in der PPK-Branche** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Palettieren**diverser Waren * **Kennzeichnen**der Produkte * Prüfung der Produkte auf **Qualität und Vollständigkeit** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung im Verpackungs-/ Lagerbereich * **Hard Skills**: Kenntnisse der deutschen Sprache * **Arbeitszeit**: Tagschicht * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Verpacker (m/w/d) im Raum Bühl!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 18.4,
-   "de": "немного",
-   "de_txt": ": Kenntnisse der deutschen Sprache",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Сортировка / упаковка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 27,
-      "end_stop": "Bühl (Baden)",
-      "dep": "06:32",
-      "arr": "07:43",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "07:17",
-        "arr": "07:43",
-        "min": 27
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 74
-     },
-     {
-      "kind": "как в приложении",
-      "min": 72,
-      "changes": 2,
-      "min_wait": 9,
-      "walk_end": 11,
-      "end_stop": "Kappelwindeck Bachschlossschule",
-      "dep": "06:32",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "268",
-        "from": "Bühl (Baden)",
-        "to": "Kappelwindeck Bachschlossschule",
-        "dep": "07:26",
-        "arr": "07:34",
-        "wait": 9,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelwindeck Bachschlossschule",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:45",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 78
-     },
-     {
-      "kind": "велосипед",
-      "min": 93,
-      "changes": 0,
-      "km": 22.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 93
-       }
-      ],
-      "risky": false,
-      "score": 166
-     }
-    ],
-    "best": "транспорт",
-    "min": 71,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_14751-373A143374-S",
    "src": "Jobbörse",
    "title": "Verpacker (m/w/d) Bereich Holzverpackung",
@@ -114611,6 +114704,177 @@
    "person": "Марина"
   },
   {
+   "id": "marina:jw_065022989",
+   "src": "Jobware",
+   "title": "Hotel-Reinigungskraft (m/w/d)",
+   "firma": "Gasthaus zum Altenberg Wolfgang Velten",
+   "street": "",
+   "lat": 48.757452,
+   "lon": 8.2437384,
+   "ort": "Baden-Baden",
+   "url": "https://www.jobware.de/job/hotel-reinigungskraft-m-w-d-065022989",
+   "posted": "2026-11-10",
+   "desc": "",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.7,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-10T09:56",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 84,
+      "changes": 2,
+      "min_wait": 10,
+      "walk_end": 6,
+      "end_stop": "BAD Augustapl. / Museum Burda",
+      "dep": "05:21",
+      "arr": "06:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Zug",
+        "line": "76",
+        "from": "Offenburg Bahnhof",
+        "to": "Baden-Baden",
+        "dep": "05:58",
+        "arr": "06:11",
+        "wait": 10,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "201",
+        "from": "Baden-Baden Bahnhof",
+        "to": "BAD Augustapl. / Museum Burda",
+        "dep": "06:23",
+        "arr": "06:40",
+        "wait": 12,
+        "min": 17
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "BAD Augustapl. / Museum Burda",
+        "to": "работа",
+        "dep": "06:40",
+        "arr": "06:46",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 90
+     },
+     {
+      "kind": "велосипед",
+      "min": 170,
+      "changes": 0,
+      "km": 42.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 170
+       }
+      ],
+      "risky": false,
+      "score": 320
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 624,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 598,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:45",
+        "min": 598
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 624
+     }
+    ],
+    "best": "транспорт",
+    "min": 84,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
    "id": "alexey:ba_10001-1003977143-S",
    "src": "Jobbörse",
    "title": "Gärtner:in oder Hilfskraft für unsere Gemeindegärtnerei",
@@ -116324,191 +116588,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1003980692-S",
-   "src": "Jobbörse",
-   "title": "Hotel-Reinigungskraft (m/w/d)",
-   "firma": "Gasthaus zum Altenberg Wolfgang Velten",
-   "ort": "Baden-Baden",
-   "street": "Schartenbergstr. 6",
-   "lat": 48.7228111,
-   "lon": 8.1782651,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003980692-S",
-   "posted": "2026-11-08",
-   "desc": "Wir suchen zur Verstärkung unseres Teams ab sofort eine Hotel-Reinigungskraft (m/w/d) Teilzeit oder Minijob am Vormittag in angenehmen Arbeitsumfeld. -mit fairer übertariflicher Bezahlung -Wochenendregelung Ihre Aufgaben: - Zimmerreinigung - und Hotelreinigung Unsere Anforderungen: - Sie verfügen über Grundkenntnisse in Deutsch - Berufseinsteiger/innen sind ebenso willkommen - wie Quereinsteiger/innen, die wir gerne einarbeiten. Unser Haus ist mit öffentlichen Verkehrsmitteln erreichbar: Vom Bahnhof Baden-Baden aus können Sie die Buslinie 216 nach Neuweier, Haltestelle Badener Winzergenossenschaft Wir haben Ihr Interesse geweckt? Dann würden wir uns über eine Bewerbung von Ihnen sehr freuen.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 22.4,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-08T22:18",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 97,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 2,
-      "end_stop": "Neuweier Winzergenossenschaft",
-      "dep": "05:21",
-      "arr": "06:59",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "05:32",
-        "arr": "05:41",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "05:53",
-        "arr": "06:07",
-        "wait": 12,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "X44",
-        "from": "Bühl (Baden)",
-        "to": "Steinbach Steinbacher Str./Postplatz",
-        "dep": "06:39",
-        "arr": "06:47",
-        "wait": 32,
-        "min": 8
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "216",
-        "from": "Steinbach Grabenstraße/Postplatz",
-        "to": "Neuweier Winzergenossenschaft",
-        "dep": "06:53",
-        "arr": "06:57",
-        "wait": 6,
-        "min": 4
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Neuweier Winzergenossenschaft",
-        "to": "работа",
-        "dep": "06:57",
-        "arr": "06:59",
-        "min": 2
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 106
-     },
-     {
-      "kind": "велосипед",
-      "min": 142,
-      "changes": 0,
-      "km": 35.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 142
-       }
-      ],
-      "risky": false,
-      "score": 264
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 518,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 492,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "22:21",
-      "arr": "07:00",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "22:21",
-        "arr": "22:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "22:32",
-        "arr": "22:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "22:48",
-        "arr": "07:00",
-        "min": 492
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 518
-     }
-    ],
-    "best": "транспорт",
-    "min": 97,
-    "changes": 3
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/hotel-reinigungskraft-m-w-d-065022989"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ka_3323049663",
    "src": "Kleinanzeigen",
    "title": "Reinigungskraft Teilzeit / Minijob (m/w/d) Baiersbronn",
@@ -117101,189 +117180,6 @@
     "best": "транспорт",
     "min": 89,
     "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_13356-104240A48281C14-S",
-   "src": "Jobbörse",
-   "title": "Verpacker (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Bühl",
-   "street": "",
-   "lat": 48.691287219,
-   "lon": 8.151568768,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A48281C14-S",
-   "posted": "2026-11-06",
-   "desc": "**Ort:** Raum Bühl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** PPK **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Verpacker (m/w/d) in der PPK-Branche** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Palettieren**diverser Waren * **Kennzeichnen**der Produkte * Prüfung der Produkte auf **Qualität und Vollständigkeit** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung im Verpackungs-/ Lagerbereich * **Hard Skills**: Kenntnisse der deutschen Sprache * **Arbeitszeit**: Tagschicht * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Verpacker (m/w/d) im Raum Bühl!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 18.4,
-   "de": "немного",
-   "de_txt": ": Kenntnisse der deutschen Sprache",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-06T08:30",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 71,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 27,
-      "end_stop": "Bühl (Baden)",
-      "dep": "06:32",
-      "arr": "07:43",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl (Baden)",
-        "to": "работа",
-        "dep": "07:17",
-        "arr": "07:43",
-        "min": 27
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 74
-     },
-     {
-      "kind": "как в приложении",
-      "min": 72,
-      "changes": 2,
-      "min_wait": 9,
-      "walk_end": 11,
-      "end_stop": "Kappelwindeck Bachschlossschule",
-      "dep": "06:32",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Bühl (Baden)",
-        "dep": "07:03",
-        "arr": "07:17",
-        "wait": 11,
-        "min": 14
-       },
-       {
-        "walk": false,
-        "mode": "Bus",
-        "line": "268",
-        "from": "Bühl (Baden)",
-        "to": "Kappelwindeck Bachschlossschule",
-        "dep": "07:26",
-        "arr": "07:34",
-        "wait": 9,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kappelwindeck Bachschlossschule",
-        "to": "работа",
-        "dep": "07:34",
-        "arr": "07:45",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 78
-     },
-     {
-      "kind": "велосипед",
-      "min": 93,
-      "changes": 0,
-      "km": 22.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 93
-       }
-      ],
-      "risky": false,
-      "score": 166
-     }
-    ],
-    "best": "транспорт",
-    "min": 71,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -119977,7 +119873,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1723-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1744-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-981903908-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982162706-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982654594-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1836-S",
@@ -122868,167 +122763,6 @@
    "also_urls": [
     "https://www.jobware.de/job/reinigungskraft-m-w-d-kehl-060704788"
    ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1003934649-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d) für die Grundschule Heiligenzell",
-   "firma": "Gemeinde Friesenheim",
-   "ort": "Friesenheim",
-   "street": "Friesenheimer Hauptstr 71-73",
-   "lat": 48.37347,
-   "lon": 7.8820875,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003934649-S",
-   "posted": "2026-10-29",
-   "desc": "Die Gemeinde Friesenheim sucht zum nächstmöglichen Zeitpunkt eine unbefristete teilzeitbeschäftigte ### Reinigungskraft (m/w/d) für die Grundschule Heiligenzell mit 13,00 Wochenstunden. Die Tätigkeit erfolgt überwiegend am Nachmittag und ist sozialversicherungspflichtig. ### Aufgabengebiet: - Selbstständige Reinigung und Pflege der Räumlichkeiten in der Grundschule - Einhaltung der Hygiene- und Sauberkeitsstandards Eine abschließende Aufgabendefinition bleibt vorbehalten. ### Wir erwarten: - eine selbständige und zuverlässige Arbeitsweise - Sorgfalt und Verantwortungsbewusstsein - körperliche Belastbarkeit ### Wir bieten: - eine unbefristete Teilzeitstelle - flexible Arbeitszeiten zur Verbesserung der Vereinbarkeit von Familie und Beruf - eine Beschäftigung nach den Bestimmungen des Tarifvertrages für den öffentlichen Dienst (TVöD) in Entgeltgruppe 2 bei entsprechender Qualifikation (Jahresbruttogehalt: rund 11.000 € bis 13.000 €) - betriebliche Altersvorsorge - Fahrradleasing - Epassi (ehemals Hansefit) Für Auskünfte stehen Ihnen Herr Diego Brüheim, Tel.: 0171/8948921 sowie Frau Camilla Pabst vom Personalamt, Tel.: 07821 6337-221, gerne zur Verfügung. Haben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre aussagekräftige Bewerbung über das Online-Bewerbungsportal der Gemeinde Friesenheim **bis zum 22.11.2026**.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 22.9,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 76,
-      "changes": 1,
-      "min_wait": 7,
-      "walk_end": 9,
-      "end_stop": "Friesenheim Kronenstraße",
-      "dep": "05:21",
-      "arr": "06:37",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Kronenstraße",
-        "dep": "05:55",
-        "arr": "06:29",
-        "wait": 7,
-        "min": 34
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Kronenstraße",
-        "to": "работа",
-        "dep": "06:29",
-        "arr": "06:37",
-        "min": 9
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 79
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 212,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 186,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "10:04",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "10:04",
-        "min": 186
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 212
-     },
-     {
-      "kind": "велосипед",
-      "min": 130,
-      "changes": 0,
-      "km": 32.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 130
-       }
-      ],
-      "risky": false,
-      "score": 240
-     }
-    ],
-    "best": "транспорт",
-    "min": 76,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "Марина"
   },
   {
