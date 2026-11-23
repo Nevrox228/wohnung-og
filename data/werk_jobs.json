@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T16:58",
+ "generated": "2026-11-23T18:06",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -14,8 +14,8 @@
  },
  "counts": {
   "all": 566,
-  "queue": 229,
-  "ai_focus": 300
+  "queue": 230,
+  "ai_focus": 299
  },
  "jobs": [
   {
@@ -2444,6 +2444,34 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4491940727",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Intern AI and Machine Learning at Rolls-Royce Motor Cars (f/m/x)",
+   "company": "BMW Group",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4491940727",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-23T17:29",
+   "description": "Some It Works. Some Changes What's Possible. SHARE YOUR PASSION. More than 90% of automotive innovations are based on electronics and software. That's why creative freedom and lateral thinking are so important in the pursuit of truly novel solutions. That’s why our experts will treat you as part of the team from day one, encourage you to bring your own ideas to the table – and give you the opportunity to really show what you can do. Our team at Rolls-Royce Motor Cars places clients at the centre of everything we do. We strive to be an innovative and impactful Analytics and AI team in luxury retail, using data, machine learning and intelligent automation to create highly personalised, predictive and seamless client experiences. During your internship, you will gain insights into intelligent solutions that connect data, business context and automation, including Agentic AI and advanced analytics. What awaits you? You will support the design, training and evaluation of AI and machine learning models, including emerging Agentic AI use cases. Furthermore, you will help identify opportunities where data, automation and AI can create measurable business value. In addition, you will contribute to end-to-end AI solutions, from data exploration and prototyping to evaluation and deployment support. Moreover, you will assist in visualising insights and communicating findings clearly to stakeholders across different business areas. Additionally, you will support collaboration with colleagues across AI, IT, Sales, Aftersales and Brand. You will also contribute to innovative projects combining luxury client experiences, commercial impact and cutting-edge AI technology. What should you bring along? Studies in a Master's programme with a strong focus on artificial intelligence, computer science, business analytics, engineering, technology management or a comparable field. Strong programming skills in Python, ideally with experience in developing end-to-end AI or machine learning solutions. Solid understanding of machine learning concepts, model evaluation and practical AI applications. Interest in Agentic AI, Large Language Models, automation frameworks or AI-assisted decision-making. Passion for working with data, solving complex problems and translating insights into business impact. Proactive, curious and structured mindset with an interest in challenging assumptions and exploring new ideas. Fluency in English, both spoken and written. Would you like to help shape the future of AI in luxury retail while gaining hands-on experience with cutting-edge technologies? Then apply now! What do we offer? Comprehensive mentoring & onboarding. Personal & professional development. Flexible working hours. Digital offers & mobile working. Attractive & fair remuneration. Apartment offers for students (subject to availability & only Munich). And many other benefits - see jobs/benefits Starting date : at the earliest from 01/11/2027 Duration: 6 months Working hours: Full-time "
   },
   {
    "id": "li_4487286003",
@@ -8655,37 +8683,6 @@
    "description": "Some It Works. Some Changes What's Possible. SHARE YOUR PASSION. More than 90% of automotive innovations are based on electronics and software. That's why creative freedom and lateral thinking are so important in the pursuit of truly novel solutions. That’s why our experts will treat you as part of the team from day one, encourage you to bring your own ideas to the table – and give you the opportunity to really show what you can do. With its BMW, MINI and Rolls-Royce brands, the BMW Group is a leading premium manufacturer of automobiles and motorcycles and a provider of financial and mobility services. In our IT department Emerging Technologies, we develop technical solutions that simplify how the company works and drive its digital transformation. Our team evaluates emerging technologies in concrete business use cases and prepares them for productive use. What awaits you? You will support the analysis of BMW quality management data to identify patterns, assess data quality and help select suitable training data and evaluation tasks. In addition, you will contribute to preparing and curating training and evaluation datasets. You will gain practical experience with fine-tuning experiments using LoRA adapters and embedding models for selected industrial tasks and semantic retrieval. Furthermore, you will help compare different model and training configurations regarding task performance, reliability and computational requirements. You will contribute to reproducible benchmarks and error analyses to assess improvements and identify limitations of adapted models. In addition, you will support the integration of trained adapters and fine-tuned embedding models into prototypes combining language models, semantic retrieval and AI agents. You will document experimental results and contribute reusable code in close collaboration with AI engineers and business experts. What should you bring along? Studies in computer science, artificial intelligence, data science, mathematics, physics or a comparable field. Good Python programming skills and experience with Git and collaborative software development. Good understanding of machine learning and natural language processing, including transformer-based language models. Initial practical experience with a deep learning framework such as PyTorch, gained through coursework, personal projects or previous internships. Ideally, familiarity with LLM fine-tuning, LoRA adapters, embedding models or the Hugging Face ecosystem. Enjoyment of translating theoretical concepts into working code, conducting structured experiments and critically evaluating results. Strong analytical skills, initiative and willingness to collaborate in an interdisciplinary and intercultural team. Very good German and English language skills. Are you interested in adapting AI models to real industrial challenges? Join us and contribute to the development of Industry AI at the BMW Group. What do we offer? Comprehensive mentoring & onboarding. Per"
   },
   {
-   "id": "ss_14763311",
-   "queue": false,
-   "missing_skills": [
-    "Java",
-    "C++"
-   ],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 3,
-   "ai_focus": true,
-   "type": "Praktikum",
-   "track": "KI / Automatisierung",
-   "title": "Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)",
-   "company": "Mercedes-Benz Tech Innovation",
-   "location": "Ulm",
-   "distance_km": 140.9,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "StepStone",
-   "url": "https://www.stepstone.de/stellenangebote--Praktikant-Software-Engineering-AI-Defect-Analysis-m-w-d-x-Ulm-Stuttgart-Mercedes-Benz-Tech-Innovation--14763311-inline.html",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-18T17:19",
-   "description": "Mercedes-Benz ist ein globaler Automobilhersteller, der innovative Fahrzeuge und Softwarelösungen entwickelt. Gesucht wird ein Praktikant Software Engineering – AI Defect Analysis (m/w/d/x) zur Entwicklung von KI-gestützten Fehleranalyseprodukten. Ein Studium der Informatik oder eines vergleichbaren Studiengangs, Kenntnisse in Python, Java oder C++, Git-Erfahrung sowie Interesse an Cloud-Technologien und Generative AI werden vorausgesetzt."
-  },
-  {
    "id": "li_4477101658",
    "queue": false,
    "missing_skills": [
@@ -8948,36 +8945,6 @@
    "posted": "2026-11-04",
    "first_seen": "2026-11-05T09:50",
    "description": "About EDITED EDITED is the world’s leading AI-driven retail intelligence platform. We empower the world’s most successful brands and retailers with real-time decision making power. By connecting internal business and external market data, EDITED infuses intelligence into every retail decision. We help retailers increase margins, generate more sales, and drive better business outcomes through AI-powered market and enterprise intelligence that fuels automation. At EDITED, we foster a dynamic and inclusive culture where creativity thrives and collaboration is at the heart of everything we do. Our environment is dynamic and supportive, encouraging team members to take initiative, innovate, and continuously grow. We value diversity, transparency, and a shared commitment to excellence, creating a workplace where everyone's voice is heard and contributions are recognised. We believe that achieving a positive work-life balance is key to driving innovation and success. Our flexible working options—including hybrid working, flexible hours and a work from anywhere policy—empower our team to perform at their best. The Opportunity We're seeking a motivated and curious Junior Data Scientist to join our team. In this role, you'll work alongside experienced data scientists and engineers to deliver actionable insights and build data-driven solutions across EDITED. You'll learn key methodologies, contribute to impactful projects, and develop your technical and analytical skills in a supportive environment. What You'll Do As A Junior Data Scientist: Deliver Data Science Projects: Assist in designing, building, and maintaining data science models and pipelines to solve core business problems. Data Analysis & Exploration: Analyze complex datasets to extract meaningful insights, trends, and patterns supporting retail intelligence. Collaborate & Learn: Work closely with senior team members, receiving mentorship and feedback to continuously refine your technical skills. Cross-Functional Collaboration: Partner with product and engineering teams to integrate data products into production systems. Maintain Data Quality: Validate and clean data sources to ensure high reliability and consistency across models and reporting. Communicate Findings: Present project outcomes and analytical findings clearly to team members and key stakeholders. What You'll Bring: A strong STEM degree (including Data Science, Computer Science, Mathematics/Statistics, etc), or equivalent experience. Solid understanding of foundational data science concepts and statistical methods. Proficiency with Python and standard data science libraries (e.g. Pandas, NumPy, Scikit-Learn). Strong problem-solving ability and enthusiasm for learning new technologies. Clear written and verbal communication skills. Curiosity to learn in an ever changing, fast paced environment. What We’re Looking For In A Junior Data Scientist It’s important for us to look for candidates that strive for excellence with a positive atti"
-  },
-  {
-   "id": "ba_14225-24180e6319acaf99-S",
-   "queue": false,
-   "missing_skills": [
-    "Power BI"
-   ],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 3,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Informatiker, Fachinformatiker, Data Scientist - Werkstudent (m/w/d)",
-   "company": "LRE Medical GmbH",
-   "location": "Nördlingen",
-   "distance_km": 181.6,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-24180e6319acaf99-S",
-   "apply_url": "https://www.jobvector.de/job/informatiker-24180e6319acaf99/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid272185&utm_content=b2c&utm_term=tmf8eca_uicfcb8f05",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "JAHRESGEHALT",
-   "posted": "2026-09-23",
-   "first_seen": "2026-11-04T18:01",
-   "description": "Werkstudent Data Engineering & Digitalization (m/w/d) IT - Nördlingen, Bayern (Hybride) Die LRE Medical GmbH, gegründet 1961 mit Standorten in Nördlingen und München, ist ein innovatives, internationales Unternehmen im Bereich der optischen und elektrochemischen Analyse-Systeme, die vorzugsweise im Bereich der medizinischen Diagnostik eingesetzt werden. Unsere kundenorientierten Produkte fertigen wir in hoher Qualität, die uns zu einem geschätzten Partner für medizinisch-diagnostische Industrieunternehmen macht. Werkstudent Data Engineering & Digitalization (m/w/d) Gestalte unsere Datenbasis von Grund auf mit Wir bauen die technischen Grundlagen für eine unternehmensweite Reporting-Plattform neu auf. Dafür suchen wir Dich als technisch interessierte Unterstützung: Du hilfst dabei, Daten aus unterschiedlichen Unternehmenssystemen strukturiert zusammenzuführen, aufzubereiten und zuverlässig bereitzustellen. Unsere aktuelle Präferenz ist Microsoft Power BI, die technologische Ausgestaltung ist jedoch noch offen. WERDE EIN TEIL DAVON. KOMM IN UNSER TEAM! LRE Medical GmbH | Hofer Strasse 5 | 86720 Nördlingen Dein technischer Fokus Datenanbindung, Datenstrukturen, Datenmodelle, Datenflüsse, Qualität und technische Bereitstellung. Fachliche Verantwortung KPI-Definition, Erstellung von Reports und fachliche Auswertung liegen beim Controlling und den Fachbereichen. Unterstützung beim technischen Aufbau einer zentralen Datenstruktur als Grundlage für eine Reporting- und Analytics-Plattform Identifikation, Analyse und technische Anbindung relevanter Datenquellen, insbesondere aus ERP-, DMS- und weiteren Unternehmenssystemen Extraktion, Transformation, Strukturierung und Bereitstellung von Daten für Controlling und Fachbereiche Mitarbeit beim Aufbau nachvollziehbarer Datenmodelle sowie automatisierter und wiederholbarer Datenflüsse Unterstützung bei der Sicherstellung von Datenqualität, Datenkonsistenz und technischer Nachvollziehbarkeit Dokumentation von Datenquellen, Schnittstellen, Transformationen und technischen Lösungen Mitarbeit bei der Auswahl, Einführung und technischen Weiterentwicklung geeigneter Data-&-Analytics-Werkzeuge; aktuell mit Präferenz für Microsoft Power BI Unterstützung bei Digitalisierungs- und Prozessautomatisierungsprojekten, zum Beispiel mit Microsoft Power Plattform Mitarbeit bei der technischen Erprobung sinnvoller KI- und Copilot-Anwendungsfälle Das erwartet Dich bei uns: Greenfield-Charakter: Du arbeitest nicht nur an einem bestehenden Reporting-System, sondern gestaltest dessen technische Grundlage aktiv mit Praxisnahe Aufgaben mit konkretem Nutzen für Controlling, Fachbereiche und Management Einblicke in Data & Analytics, ERP, Dokumentenmanagement, Prozessautomatisierung, Microsoft 365 und KI Eigenverantwortliche Aufgaben und die Möglichkeit, eigene technische Ideen einzubringen Zusammenarbeit mit erfahrenen Kolleginnen und Kollegen in einer offenen und unterstützenden Kultur Flexible Arbeitsmöglichkeiten remote oder an unser"
   },
   {
    "id": "ba_10001-1003957988-S",
@@ -12260,6 +12227,38 @@
    "posted": "2026-10-17",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4487908272",
+   "queue": false,
+   "missing_skills": [
+    "Microsoft-Stack"
+   ],
+   "nice_to_have_missing": [
+    "Power BI"
+   ],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "#WHE2601 | Werkstudent*in (m/w/d) in Digitalisierungsprojekten",
+   "company": "THOST Projektmanagement GmbH",
+   "location": "Stuttgart",
+   "distance_km": 85.3,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4487908272",
+   "apply_url": "",
+   "apply_email": "karriere@thost.de",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-09",
+   "first_seen": "2026-11-23T17:29",
+   "description": "Ihre Aufgaben Als Werkstudent*in In Unseren Digitalisierungsprojekten Unterstützen Sie Unsere Projektteams Bei Der Weiterentwicklung Digitaler Lösungen Und Prozesse. Dabei Übernehmen Sie Unter Anderem Folgende Aufgaben Dokumentation von IT-Tools für das Projektmanagement Austausch mit externen Partnern und Fachexpert*innen Aufbau und Weiterentwicklung von Datenbankarchitekturen in Dataverse Erstellung und Weiterentwicklung von Power-Automate-Flows Entwicklung und Implementierung von Microsoft Power Apps Erstellung von Templates und Berichten in MS 365 Anwendungen u.a. Power BI Erstellung digitaler Agenten in der MS Copilot Umgebung Ihr Profil Laufendes Studium der Wirtschafts- oder Ingenieurwissenschaften, Wirtschaftsinformatik oder einer vergleichbaren Fachrichtung Hohe IT-Affinität und Freude daran, neue digitale Tools kennenzulernen Sehr gute Microsoft 365 Kenntnisse Idealerweise erste Erfahrungen mit Power BI Sehr gute Deutschkenntnisse sowie gute Englischkenntnisse Selbstständige, strukturierte und methodische Arbeitsweise sowie Zuverlässigkeit Wir bieten Vielfältige und interessante Aufgaben in zukunftsweisenden Projekten Einblick in verschiedene Bereiche des Projektmanagements Ergonomische und moderne (non-territoriale) Arbeitsplätze mit einer modernen IT-Ausstattung Umfangreiches Gesundheitsmanagement mit Zuschuss zum Fitness-Studio, frisches Obst u.v.m. Ausgeprägte Team-Atmosphäre innerhalb unseres Familienunternehmens Flexible, an Ihr Studium angepasste, Arbeitszeiten Möglichkeit der Teilnahme an internen Seminaren der THOST-Akademie Ganzheitliche Klimaschutzpolitik Unser Unternehmen THOST ist eines der führenden deutschen Unternehmen im Projektmanagement. Von unseren Standorten im In- und Ausland steuern wir komplexe Projekte in den Bereichen Immobilien, Mobilität, IT, Anlagenbau, Infrastruktur und Energie. Mit unserer breit gefächerten Expertise im Projektmanagement betreuen wir nationale und internationale Industriekunden sowie öffentliche und private Investoren. Projekte sind unsere Welt! Als Arbeitgeber*in ist uns Inklusion und Integration ein wichtiges Anliegen. Schwerbehinderte (m/w/d) und ihnen gleichgestellte Bewerber*innen finden bei gleicher Eignung besondere Berücksichtigung. Kontakt Bewerbungs-Hotline: +49 72 31 15 60 888 Bewerbungs-E-Mail: karriere@thost.de Bewerbungs-Infos: www.thost.de/karriere Ausführliche Hinweise zum Umgang mit Ihren personenbezogenen Daten im Rahmen des Bewerbungsverfahrens finden Sie in unserer Datenschutzerklärung."
   },
   {
    "id": "li_4491995835",
@@ -16149,7 +16148,6 @@
    "apply_url": "https://www.stellenanzeigen.de/job/detail/SDE-125116/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
    "apply_email": "Isabella.Brandl@dbs-gruppe.de",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-e16b2764ca3e1470-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14225-4558cea4987e5b40-S"
    ],
    "salary": "",

@@ -1,9 +1,171 @@
 {
- "generated": "2026-11-23T16:58",
+ "generated": "2026-11-23T18:06",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1014,
+ "count": 1015,
  "items": [
+  {
+   "id": "mykyta:ka_3550103787",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer (m/w/d) | Offenburg | Vollzeit | Adecco | Job | Staplerfahrer",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-offenburg-vollzeit-adecco-job-staplerfahrer/3550103787-247-9040",
+   "posted": "2026-11-23",
+   "posted_time": "17:07",
+   "desc": "Du packst gerne mit an, behältst im Lager den Überblick und fühlst dich auf dem Stapler sicher? Dann haben wir genau den richtigen Job für dich! Für unseren namhaften Kunden aus der Industrie in Offenburg ,suchen wir motivierte Lagerhelfer (m/w/d) mit Staplerschein und praktischer Erfahrung, die Lust auf eine neue berufliche Herausforderung haben. Freu dich auf einen abwechslungsreichen Arbeitsplatz, einen attraktiven Stundenlohn ab 17,47 € und die Chance, deine Erfahrung in einem modernen Industrieunternehmen einzubringen. Starte jetzt mit Adecco durch und werde Teil eines starken Teams! **Deine Vorteile** * Attraktiver Stundenlohn: Ab 17,47 € pro Stunde. * Tarifliche Bezahlung: Faire Vergütung nach den geltenden tariflichen Regelungen. * Urlaubs- und Weihnachtsgeld: Profitiere von zusätzlichen Sonderzahlungen im Rahmen der geltenden tariflichen Voraussetzungen. * Übernahmeoption: Bei guter Zusammenarbeit besteht die Möglichkeit, vom Kunden übernommen zu werden. * Persönliche Betreuung: Dein Adecco-Team begleitet dich während deines Einsatzes und steht dir bei Fragen zur Seite. * Abwechslungsreiche Tätigkeit: Arbeite in einem modernen Industrieumfeld und bringe deine Erfahrung aktiv ein. * Berufliche Perspektiven: Nutze die Chance, deine Kenntnisse zu erweitern und dich weiterzuentwickeln. **Deine Aufgaben** * Du unterstützt das Team bei allen anfallenden Lager- und Logistiktätigkeiten. * Du transportierst Waren und Materialien sicher mit dem Gabelstapler. * Du sorgst für eine ordnungsgemäße Einlagerung und Bereitstellung von Waren. * Du unterstützt bei der Warenkontrolle und achtest auf Ordnung und Sauberkeit im Lager. * Du hältst die geltenden Sicherheits- und Qualitätsvorschriften ein. **Das bringst du mit** * Einen gültigen Staplerschein und praktische Erfahrung im Umgang mit Flurförderzeugen. * Erste Erfahrung im Lager, in der Logistik oder im industriellen Umfeld. * Bereitschaft zur Arbeit im 3-Schicht-System. * Zuverlässigkeit, Teamfähigkeit und eine sorgfältige Arbeitsweise. * Gute Deutschkenntnisse für die Kommunikation im Arbeitsalltag. **Abschluss** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Sandy-Patricia Weissenrieder Tel.: 07819322813",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 10.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse für die Kommunikation im Arbeitsalltag.",
+   "help": "",
+   "ru": "",
+   "prof_txt": "ierte Lagerhelfer (m/w/d) mit Staplerschein und praktischer Erfahrung, die Lust auf eine neue beruflich",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-23T17:29",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3393452057",
    "src": "Kleinanzeigen",
@@ -65868,6 +66030,7 @@
    },
    "status": "open",
    "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1841-S",
     "https://www.jobware.de/job/kommissionierer-m-w-d-064550248"
    ],
    "person": "mykyta"
@@ -144819,7 +144982,9 @@
    "help": "",
    "ru": "",
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1841-S"
+   ],
    "person": "Марина"
   },
   {

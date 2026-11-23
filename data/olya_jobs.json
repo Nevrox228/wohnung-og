@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T16:58",
+ "generated": "2026-11-23T18:06",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 54,
+ "count": 53,
  "items": [
   {
    "id": "li_4361574268",
@@ -140,9 +140,7 @@
    "ausb": false,
    "first_seen": "2026-11-19T12:08",
    "status": "open",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4492180497"
-   ]
+   "also_urls": []
   },
   {
    "id": "ss_14629123",
@@ -605,29 +603,6 @@
     "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html",
     "https://de.linkedin.com/jobs/view/4487950738"
    ]
-  },
-  {
-   "id": "ss_14529019",
-   "src": "StepStone",
-   "title": "Pädagogische Fachkräfte als Begleiterinnen (m/w/d) in Teilzeit in der Assistenz im Wohn- und Sozialraum (AWS)",
-   "firma": "Lebenshilfe der Region Baden-Baden - Bühl - Achern e. V.",
-   "ort": "Bühl",
-   "plz": "",
-   "street": "",
-   "lat": 48.6928411,
-   "lon": 8.1240297,
-   "url": "https://www.stepstone.de/stellenangebote--Paedagogische-Fachkraefte-als-Begleiterinnen-m-w-d-in-Teilzeit-in-der-Assistenz-im-Wohn-und-Sozialraum-AWS-Buehl-Lebenshilfe-der-Region-Baden-Baden-Buehl-Achern-e-V--14529019-inline.html",
-   "posted": "2026-10-23",
-   "desc": "WDL Nordschwarzwald gGmbH ist ein Anbieter von Assistenzleistungen für Menschen mit Behinderung. Gesucht wird eine Pädagogische Fachkraft (m/w/d) in Teilzeit für individuelle Assistenz im Wohn- und Sozialraum. Eine Berufsausbildung als Heilerziehungspfleger:in, Altenpfleger:in, Gesundheits- und Krankenpfleger:in, Erzieher:in oder Sozialpädagog:in wird vorausgesetzt.",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 27.3,
-   "kind": "Общее / другое",
-   "ausb": false,
-   "first_seen": "2026-11-04T12:38",
-   "status": "open",
-   "also_urls": []
   },
   {
    "id": "jw_064618561",
