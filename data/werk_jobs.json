@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T20:04",
+ "generated": "2026-11-23T21:03",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 569,
-  "queue": 230,
-  "ai_focus": 299
+  "all": 572,
+  "queue": 232,
+  "ai_focus": 301
  },
  "jobs": [
   {
@@ -2443,6 +2443,34 @@
    "salary": "",
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
+   "description": ""
+  },
+  {
+   "id": "li_4494056127",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (mwd) Software Development, Data & AI",
+   "company": "HMS",
+   "location": "Ulm",
+   "distance_km": 140.9,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4494056127",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-29",
+   "first_seen": "2026-11-23T20:34",
    "description": ""
   },
   {
@@ -6379,6 +6407,34 @@
    "description": ""
   },
   {
+   "id": "an_werkstudent-social-media-content-creation-mensch-dusseldorf-45954",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Social Media & Content Creation (Mensch)",
+   "company": "wppmedia",
+   "location": "Dusseldorf",
+   "distance_km": 314.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/werkstudent-social-media-content-creation-mensch-dusseldorf-45954",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23T20:34",
+   "description": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.</p> <p>For more information, visit <a href=\"wppmedia.com\">wppmedia.com</a>.</p></div><h2><strong>Das bieten wir dir:</strong></h2> <ul> <li><strong>Work-Life-Balance</strong>: Dank flexibler Arbeitszeiten mit Schwerpunkt auf dem persönlichen Austausch im Office und ergänzender Remote Work passt sich dein Job deinem Leben an. Überstunden kannst du flexible ausgleichen.</li> <li><strong>Vacation mode on</strong>: Du erhältst 30 Urlaubstage plus einen flexiblen Tag – zusätzlich sind der 24. und 31.12. frei.</li> <li><strong>Wellbeing first:&nbsp;</strong>Gesundheitsleistungen, attraktive Altersvorsorge sowie Mental Health Awareness Days stellen deine Gesundheit in den Mittelpunkt.</li> <li><strong>Practice makes perfect</strong>: Entfalte dich mit unseren vielfältigen Weiterbildungen und nutze unsere internen Karriereprogramme für deine Entwicklung im WPP-Netzwerk.</li> <li><strong>More than just a job</strong>: Dich erwarten unvergessliche Events, Mitarbeitendenrabatte und weitere Highlights wie das Job Ticket, Wellhub oder das Job Bike.</li> <li><strong>Be yourself</strong>: Bei uns ist jede:r herzlich willkommen - Vielfalt und Chancengleichheit liegen uns am Herzen.</li> </ul> <p>&nbsp;</p> <h2><strong>Das bewegst du:</strong></h2> <p>Als Werkstudent Social Media &amp; Content Creation (Mensch) bist du die kreative Stimme hinter unserer Arbeitgebermarke. Du arbeitest eng mit unserem Employer Branding und Talent Acquisition Team zusammen und zeigst der Welt, wie es bei uns wirklich ist: echt, nahbar und mit Persönlichkeit.</p> <ul> <li>Von der Idee über den Dreh bis zum fertigen Schnitt: Social-Media-Content für Instagram, LinkedIn und TikTok entsteht bei dir eigenständig und komplett hands-on &nbsp;</li> <li>Reels, TikToks, Fragehagel und Office-Vlogs schneidest du mit Tempo und Gespür für den richtigen Cut, dazu gestaltest du Grafiken und Carousels, bei denen niemand weiterscrollt&nbsp;</li> <li>Neue Social-Media-Trends, Sounds und Formate erkennst du früh und machst daraus authentischen Content für unsere Zielgruppe &nbsp;</li> <li>Eigene Ideen sind ausdrücklich gewünscht: Neue Content-Formate bringst du selbst ein, und unseren Content-Kalender gestaltest du aktiv mit</li> </ul> <p>&nbsp;</p> <p><strong></strong></p> <h2><strong>Das zeichnet dich aus:</strong></h2> <ul> <li>Content Crea"
+  },
+  {
    "id": "an_werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-104935",
    "queue": true,
    "missing_skills": [],
@@ -7435,7 +7491,9 @@
    "url": "https://de.linkedin.com/jobs/view/4483122582",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-465884"
+   ],
    "salary": "",
    "posted": "2026-10-23",
    "first_seen": "2026-11-08T22:18",
@@ -9336,6 +9394,34 @@
    "posted": "2026-07-03",
    "first_seen": "2026-11-04T18:01",
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
+  },
+  {
+   "id": "li_4490488330",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikum / Internship \"Agentic Development and Strategy",
+   "company": "Kärcher",
+   "location": "Winnenden",
+   "distance_km": 104.2,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "-Umfeld. Einen sehr guten Umgang mit Google Workspace sowie verhandlungssichere Deutsch- und Englischkenntnisse setzen",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4490488330",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-23T20:34",
+   "description": "Start ab März 2027 Das Werden Deine WOW-Momente IT-Demand- & Projektmanagement: Aktive Unterstützung bei der Bewertung, Priorisierung und Umsetzung von IT-Anforderungen sowie im operativen Ticket-Handling. Schnittstellenkommunikation: Enge Zusammenarbeit mit den internen Fachbereichen zur Erhebung und Abstimmung von Anforderungen sowie Übernahme von Teil- oder Kleinprojekten für die Themenbereiche Internal Services, Legal und Compliance Framework-Entwicklung: Mitgestaltung und Ausarbeitung innovativer Entwicklungs-Frameworks (z. B. KI-gestütztes „Vibe Coding“), Durchführung von Reviews und die praktische Erprobung anhand konkreter Use Cases. Organisation & Stakeholder-Management: Eigenverantwortliche Vorbereitung, Strukturierung und Nachbereitung von Abstimmungsterminen sowie Erstellung von Präsentationen und Entscheidungsvorlagen. Themenkoordination: Schnittstellenfunktion für die bereichsübergreifende Kommunikation innerhalb der IT sowie zur Koordination externer IT-Dienstleister und Partner. Es Wäre WOW, Wenn Du Das Hier Mitbringst Gute Studienleistungen eines Studiengangs der Fachrichtung Wirtschaftsinformatik, Informatik, Wirtschaftsingenieurwesen, Betriebswirtschaftslehre oder einer vergleichbaren Fachrichtung. Erste praktische Erfahrungen im IT-Projektmanagement sowie Grundkenntnisse in der Softwareentwicklung (Basic Coding). Sehr strukturierte, organisierte und eigenverantwortliche Arbeitsweise gepaart mit hoher Flexibilität in einem dynamischen IT-Umfeld. Einen sehr guten Umgang mit Google Workspace sowie verhandlungssichere Deutsch- und Englischkenntnisse setzen wir voraus. Ausgeprägte Schnittstellen- und Kommunikationskompetenz für den professionellen Austausch mit Fachbereichen und externen Partnern sowie Offenheit gegenüber Innovationen und kreativen Lösungen. Unser Kärcher WOW-Paket Bereichsübergreifende und abwechslungsreiche Networking-Möglichkeiten Onboarding Event Anfang März und September, damit Du Dich schnell bei uns zurechtfindest Eine umfangreiche Einarbeitung und individuelle Betreuung in Deiner Abteilung Eine monatliche Vergütung in Höhe von 2.120 Euro, eine flexibel planbare 35h Arbeitswoche, 2 Tage Urlaub pro vollem Kalendermonat sowie einen monatlichen ÖPNV-Fahrtkostenzuschuss von 85% Dein way-of-WOW bei Kärcher passt sich durch Gleitzeit und Home-Office-Möglichkeiten an dein Leben an - nicht umgekehrt. Abwechslungsreiche Sportangebote - von Basketball über Zumba bis hin zum Outdoor Training Rabatt auf unsere Produkte sowie vielfältige Corporate Benefits (z.B. Vergünstigungen auf Urlaubsreisen, Mode, Restaurants oder Konzerte) Also: Wanna WOW with us? Lade einfach deinen Lebenslauf sowie relevante Zeugnisse (inkl. Notenspiegel) und – falls erforderlich – auch eine aktuelle Immatrikulationsbescheinigung, einen Pflichtpraktikumsnachweis und eine gültige Arbeits- und Aufenthaltserlaubnis online hoch und hinterlasse deine Kontaktinfos. Wir freuen uns darauf, dich von deiner persönlichen WOW-Seite kennenzulernen! Wir begrüß"
   },
   {
    "id": "li_4395331367",
