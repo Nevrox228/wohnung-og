@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T21:03",
+ "generated": "2026-11-23T22:02",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -14,7 +14,7 @@
  },
  "counts": {
   "all": 572,
-  "queue": 232,
+  "queue": 231,
   "ai_focus": 301
  },
  "jobs": [
@@ -2443,34 +2443,6 @@
    "salary": "",
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
-   "description": ""
-  },
-  {
-   "id": "li_4494056127",
-   "queue": true,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent (mwd) Software Development, Data & AI",
-   "company": "HMS",
-   "location": "Ulm",
-   "distance_km": 140.9,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "LinkedIn",
-   "url": "https://de.linkedin.com/jobs/view/4494056127",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-10-29",
-   "first_seen": "2026-11-23T20:34",
    "description": ""
   },
   {
@@ -9394,6 +9366,38 @@
    "posted": "2026-07-03",
    "first_seen": "2026-11-04T18:01",
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
+  },
+  {
+   "id": "li_4494056127",
+   "queue": false,
+   "missing_skills": [
+    "Java",
+    "C#/.NET",
+    "C++"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (mwd) Software Development, Data & AI",
+   "company": "HMS",
+   "location": "Ulm",
+   "distance_km": 140.9,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4494056127",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-29",
+   "first_seen": "2026-11-23T20:34",
+   "description": "Seit über 35 Jahren unterstützen wir Unternehmen dabei, aus Daten echten Mehrwert zu schaffen. Dafür entwickeln wir maßgeschneiderte Daten-, KI- und Softwarelösungen und begleiten unsere Kunden als spezialisierter Boutique-Dienstleister entlang der gesamten Data-to-Value-Journey – von der ersten Idee bis zur produktiven Anwendung. In unseren Projekten verbinden wir Data Engineering, Machine Learning, Generative AI und Software Engineering mit fundiertem Branchenverständnis sowie methodischer Klarheit. Mit über 170 Mitarbeitenden arbeiten wir an anspruchsvollen Projekten in Branchen wie Life Science, Finance und Manufacturing und entwickeln gemeinsam nachhaltige Lösungen. Du möchtest neben dem Studium praktische Erfahrung sammeln und herausfinden, wie moderne Software-, Daten- und KI-Lösungen in der Praxis entstehen? In dieser Rolle unterstützt du bei der Entwicklung von Anwendungen im Bereich Software Engineering, Data Analytics und Künstliche Intelligenz und arbeitest eng mit erfahrenen Teams zusammen. Das sind deine Aufgaben Mitarbeit in Softwareentwicklungs-, Data- und AI-Projekten Unterstützung bei der Entwicklung und Anpassung von Anwendungen zur Verarbeitung und Analyse von Daten Mitwirkung bei der Umsetzung von einfachen Machine-Learning- oder AI-Anwendungsfällen Übernahme klar abgegrenzter Teilaufgaben in Projekten im Umfeld von Cloud, Data und digitalen Technologien Mitarbeit bei der Weiterentwicklung interner Systeme und Tools Zusammenarbeit im Team sowie Einblick in unterschiedliche Projektbereiche Das bringst du mit Laufendes Studium im Bereich Informatik, Naturwissenschaften oder einem vergleichbaren Fachgebiet Interesse an Softwareentwicklung, Datenanalyse und Künstlicher Intelligenz Erste praktische oder theoretische Kenntnisse in mindestens einer Programmiersprache (z. B. Python, Java, C# oder C++) Grundverständnis von Datenverarbeitung oder Interesse, sich in Machine Learning einzuarbeiten Offenheit für den Einsatz AI-gestützter Entwicklungswerkzeuge Analytisches Denkvermögen und strukturierte Herangehensweise Bereitschaft, Neues zu lernen und sich weiterzuentwickeln Teamfähigkeit sowie gute Deutsch- und Englischkenntnisse Das bieten wir dir Mensch & Kultur: Die Gemeinschaft und der Austausch im Unternehmen werden durch vielfältige Events wie Unternehmensmittagessen, Sommerfeste, Teamevents, Unternehmenskonferenzen und Weihnachtsfeiern aktiv gefördert. Ein Welcome Day sowie ein Mentoren-Programm während der Einarbeitungszeit tragen zudem dazu bei, den Zusammenhalt innerhalb der Teams zu stärken. Zusätzlich fördern wir den Teamgeist durch eine substanzielle Gewinnbeteiligung, die auf alle Mitarbeiter verteilt wird. Karriereentwicklung & Wissensaustausch: Die Vielfalt unserer (Kunden-)Projekte ermöglicht eine individuelle Karriereentwicklung. Verschiedenste Schulungsangebote und die Teilnahme an Fachkonferenzen fördern fachliches Wachstum. Ein jährliches Wissensbudget von 12 Tagen und Wissenszirkel unterstützen den kontinuierlichen"
   },
   {
    "id": "li_4490488330",
