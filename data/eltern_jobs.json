@@ -1,9 +1,355 @@
 {
- "generated": "2026-11-23T15:58",
+ "generated": "2026-11-23T16:58",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1012,
+ "count": 1014,
  "items": [
+  {
+   "id": "marina:ka_3393452057",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer/in (m/w/d) in 77781 Biberach/Baden",
+   "firma": "Stepstone",
+   "ort": "Biberach",
+   "plz": "77781",
+   "street": "",
+   "lat": 48.3322296,
+   "lon": 8.0108583,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-in-m-w-d-in-77781-biberach-baden/3393452057-111-8049",
+   "posted": "2026-11-23",
+   "posted_time": "16:05",
+   "desc": "Produktionshelfer/in (m/w/d) in 77781 Biberach/Baden bei Wäsche-Service Klausmann GmbH HIER BEWERBEN: https://www.stepstone.de/job/13940265/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- ● Deine Fähigkeiten im Sortieren von Wäsche helfen Dir dabei, den Überblick zu behalten und alles an seinem richtigen Platz zu haben ● Beim Mangeln der Wäsche sorgst Du für glatte und faltenfreie Ergebnisse, die höchsten Ansprüchen genügen ● Mit einem geschickten Händchen faltest Du die Wäsche, sodass sie ordentlich verstaut werden kann ● Deine Zuverlässigkeit und Dein Qualitätsbewusstsein zeichnen Dich aus und sind für uns von hoher Bedeutung ● Du bist flexibel und bereit, Dich auf wechselnde Anforderungen einzustellen Die Arbeitszeit ist im Zeitfenster von 6.00 bis 16.00 Uhr ca. 40 Stunden pro Woche. ab 14,50€ pro Stunde zzgl. 46€ monatlicher Sachbezug KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 22.7,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-23T16:29",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 29,
+      "end_stop": "Biberach Volksbank",
+      "dep": "07:23",
+      "arr": "09:03",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "07:23",
+        "arr": "07:34",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "07:34",
+        "arr": "07:43",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Gengenbach",
+        "dep": "07:49",
+        "arr": "08:03",
+        "wait": 6,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7160",
+        "from": "Gengenbach Bahnhofstraße",
+        "to": "Biberach Volksbank",
+        "dep": "08:18",
+        "arr": "08:35",
+        "wait": 15,
+        "min": 17
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Biberach Volksbank",
+        "to": "работа",
+        "dep": "08:35",
+        "arr": "09:03",
+        "min": 29
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 135,
+      "changes": 0,
+      "km": 33.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 135
+       }
+      ],
+      "risky": false,
+      "score": 250
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 300,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 274,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "13:36",
+      "arr": "18:37",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "13:36",
+        "arr": "13:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "13:47",
+        "arr": "14:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "14:03",
+        "arr": "18:37",
+        "min": 274
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 300
+     }
+    ],
+    "best": "транспорт",
+    "min": 100,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3393452057",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer/in (m/w/d) in 77781 Biberach/Baden",
+   "firma": "Stepstone",
+   "ort": "Biberach",
+   "plz": "77781",
+   "street": "",
+   "lat": 48.3322296,
+   "lon": 8.0108583,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-in-m-w-d-in-77781-biberach-baden/3393452057-111-8049",
+   "posted": "2026-11-23",
+   "posted_time": "16:05",
+   "desc": "Produktionshelfer/in (m/w/d) in 77781 Biberach/Baden bei Wäsche-Service Klausmann GmbH HIER BEWERBEN: https://www.stepstone.de/job/13940265/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- ● Deine Fähigkeiten im Sortieren von Wäsche helfen Dir dabei, den Überblick zu behalten und alles an seinem richtigen Platz zu haben ● Beim Mangeln der Wäsche sorgst Du für glatte und faltenfreie Ergebnisse, die höchsten Ansprüchen genügen ● Mit einem geschickten Händchen faltest Du die Wäsche, sodass sie ordentlich verstaut werden kann ● Deine Zuverlässigkeit und Dein Qualitätsbewusstsein zeichnen Dich aus und sind für uns von hoher Bedeutung ● Du bist flexibel und bereit, Dich auf wechselnde Anforderungen einzustellen Die Arbeitszeit ist im Zeitfenster von 6.00 bis 16.00 Uhr ca. 40 Stunden pro Woche. ab 14,50€ pro Stunde zzgl. 46€ monatlicher Sachbezug KLED1_DE",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 22.7,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-23T16:29",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 29,
+      "end_stop": "Biberach Volksbank",
+      "dep": "07:23",
+      "arr": "09:03",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "07:23",
+        "arr": "07:34",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "07:34",
+        "arr": "07:43",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Gengenbach",
+        "dep": "07:49",
+        "arr": "08:03",
+        "wait": 6,
+        "min": 14
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7160",
+        "from": "Gengenbach Bahnhofstraße",
+        "to": "Biberach Volksbank",
+        "dep": "08:18",
+        "arr": "08:35",
+        "wait": 15,
+        "min": 17
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Biberach Volksbank",
+        "to": "работа",
+        "dep": "08:35",
+        "arr": "09:03",
+        "min": 29
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 135,
+      "changes": 0,
+      "km": 33.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 135
+       }
+      ],
+      "risky": false,
+      "score": 250
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 300,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 274,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "13:36",
+      "arr": "18:37",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "13:36",
+        "arr": "13:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "13:47",
+        "arr": "14:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "14:03",
+        "arr": "18:37",
+        "min": 274
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 300
+     }
+    ],
+    "best": "транспорт",
+    "min": 100,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_12160-13933078-S",
    "src": "Jobbörse",
@@ -27766,7 +28112,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-kommissionierer-m-w-d-in-dauerspaetschicht-/3580603510-109-8088"
+   ],
    "person": "mykyta"
   },
   {
