@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T17:33",
+ "generated": "2026-11-24T18:36",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1049,
+ "count": 1047,
  "items": [
   {
    "id": "marina:ba_11868-13936429-S",
@@ -159,6 +159,167 @@
     ],
     "best": "транспорт",
     "min": 92,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_12739-9962BDLCR1BNN3C0-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter für Wareneingang und Produktion (m/w/d)",
+   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
+   "ort": "Willstätt",
+   "street": "",
+   "lat": 48.553425543,
+   "lon": 7.902673157,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-9962BDLCR1BNN3C0-S",
+   "posted": "2026-11-24",
+   "desc": "Mitarbeiter für Wareneingang und Produktion (m/w/d) Standort: Willstätt Anstellungsart(en): Vollzeit Mitarbeiter für Wareneingang und Produktion (m/w/d) für 16,00€/Std. in Willstätt gesucht Du willst mit anpacken und Teil eines starken Teams werden? Dann haben wir genau den richtigen Job für dich! Für unser Kundenunternehmen im Raum Willstätt suchen wir einen Mitarbeiter (m/w/d) für Wareneingang und Produktionssupport in der Lebensmittelproduktion zu einem Stundenlohn von 16,00€. Deine Aufgabe als Mitarbeiter für Wareneingang und Produktion (m/w/d) in Willstätt: - Annahme und Kontrolle von Rohstoffen wie Ei und Hartweizengrieß - Dokumentation der Wareneingänge nach Vorgaben der Qualitätssicherung - Bereitstellung der Rohstoffe für die Nudelproduktion - Unterstützung des Produktionsteams bei der Herstellung von Teigwaren - Allgemeine Tätigkeiten im Wareneingang und Produktionsbereich Damit Überzeugst Du Uns: - Zuverlässige und sorgfältige Arbeitsweise - Spaß an praktischer Arbeit im Team - Erste Erfahrung im Lager oder in der Produktion von Vorteil, aber kein Muss - Bereitschaft zur Arbeit im 3-Schicht-System - Idealerweise mobil oder wohnhaft in der Region Willstätt / Offenburg - Gute Deutschkenntnisse in Wort und Schrift Deine Benefits: - Stundenlohn ab 16,00€ mit Weihnachts- & Urlaubsgeld - 150 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Wir freuen uns auf Deine Bewerbung! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 13.4,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Deine Benefits:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T17:00",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 60,
+      "changes": 1,
+      "min_wait": 19,
+      "walk_end": 18,
+      "end_stop": "Legelshurst",
+      "dep": "06:32",
+      "arr": "07:33",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS4",
+        "from": "Appenweier",
+        "to": "Legelshurst",
+        "dep": "07:11",
+        "arr": "07:15",
+        "wait": 19,
+        "min": 4
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Legelshurst",
+        "to": "работа",
+        "dep": "07:15",
+        "arr": "07:33",
+        "min": 18
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 63
+     },
+     {
+      "kind": "велосипед",
+      "min": 81,
+      "changes": 0,
+      "km": 19.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 81
+       }
+      ],
+      "risky": false,
+      "score": 142
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 181,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 155,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "08:23",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "08:23",
+        "min": 155
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 181
+     }
+    ],
+    "best": "транспорт",
+    "min": 60,
     "changes": 1
    },
    "status": "open",
@@ -326,6 +487,167 @@
    "status": "open",
    "also_urls": [],
    "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_12739-9962BDLCR1BNN3C0-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter für Wareneingang und Produktion (m/w/d)",
+   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
+   "ort": "Willstätt",
+   "street": "",
+   "lat": 48.553425543,
+   "lon": 7.902673157,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-9962BDLCR1BNN3C0-S",
+   "posted": "2026-11-24",
+   "desc": "Mitarbeiter für Wareneingang und Produktion (m/w/d) Standort: Willstätt Anstellungsart(en): Vollzeit Mitarbeiter für Wareneingang und Produktion (m/w/d) für 16,00€/Std. in Willstätt gesucht Du willst mit anpacken und Teil eines starken Teams werden? Dann haben wir genau den richtigen Job für dich! Für unser Kundenunternehmen im Raum Willstätt suchen wir einen Mitarbeiter (m/w/d) für Wareneingang und Produktionssupport in der Lebensmittelproduktion zu einem Stundenlohn von 16,00€. Deine Aufgabe als Mitarbeiter für Wareneingang und Produktion (m/w/d) in Willstätt: - Annahme und Kontrolle von Rohstoffen wie Ei und Hartweizengrieß - Dokumentation der Wareneingänge nach Vorgaben der Qualitätssicherung - Bereitstellung der Rohstoffe für die Nudelproduktion - Unterstützung des Produktionsteams bei der Herstellung von Teigwaren - Allgemeine Tätigkeiten im Wareneingang und Produktionsbereich Damit Überzeugst Du Uns: - Zuverlässige und sorgfältige Arbeitsweise - Spaß an praktischer Arbeit im Team - Erste Erfahrung im Lager oder in der Produktion von Vorteil, aber kein Muss - Bereitschaft zur Arbeit im 3-Schicht-System - Idealerweise mobil oder wohnhaft in der Region Willstätt / Offenburg - Gute Deutschkenntnisse in Wort und Schrift Deine Benefits: - Stundenlohn ab 16,00€ mit Weihnachts- & Urlaubsgeld - 150 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Wir freuen uns auf Deine Bewerbung! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 13.4,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Deine Benefits:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-24T17:00",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 60,
+      "changes": 1,
+      "min_wait": 19,
+      "walk_end": 18,
+      "end_stop": "Legelshurst",
+      "dep": "06:32",
+      "arr": "07:33",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS4",
+        "from": "Appenweier",
+        "to": "Legelshurst",
+        "dep": "07:11",
+        "arr": "07:15",
+        "wait": 19,
+        "min": 4
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Legelshurst",
+        "to": "работа",
+        "dep": "07:15",
+        "arr": "07:33",
+        "min": 18
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 63
+     },
+     {
+      "kind": "велосипед",
+      "min": 81,
+      "changes": 0,
+      "km": 19.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 81
+       }
+      ],
+      "risky": false,
+      "score": 142
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 181,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 155,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "08:23",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "08:23",
+        "min": 155
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 181
+     }
+    ],
+    "best": "транспорт",
+    "min": 60,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
   },
   {
    "id": "mykyta:ba_15986-REF301704H-5fa642b-S",
@@ -84984,169 +85306,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_12739-A1YAUMHHXE7ZTG9R-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter für Wareneingang und Produktion (m/w/d)",
-   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
-   "ort": "Willstätt",
-   "street": "",
-   "lat": 48.544957075,
-   "lon": 7.891148898,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-A1YAUMHHXE7ZTG9R-S",
-   "posted": "2026-10-25",
-   "desc": "Mitarbeiter für Wareneingang und Produktion (m/w/d) Standort: Willstätt Anstellungsart(en): Vollzeit Mitarbeiter für Wareneingang und Produktion (m/w/d) für 16,00€/Std. in Willstätt gesucht Du willst mit anpacken und Teil eines starken Teams werden? Dann haben wir genau den richtigen Job für dich! Für unser Kundenunternehmen im Raum Willstätt suchen wir einen Mitarbeiter (m/w/d) für Wareneingang und Produktionssupport in der Lebensmittelproduktion zu einem Stundenlohn von 16,00€. Deine Aufgabe als Mitarbeiter für Wareneingang und Produktion (m/w/d) in Willstätt: - Annahme und Kontrolle von Rohstoffen wie Ei und Hartweizengrieß - Dokumentation der Wareneingänge nach Vorgaben der Qualitätssicherung - Bereitstellung der Rohstoffe für die Nudelproduktion - Unterstützung des Produktionsteams bei der Herstellung von Teigwaren - Allgemeine Tätigkeiten im Wareneingang und Produktionsbereich Damit Überzeugst Du Uns: - Zuverlässige und sorgfältige Arbeitsweise - Spaß an praktischer Arbeit im Team - Erste Erfahrung im Lager oder in der Produktion von Vorteil, aber kein Muss - Bereitschaft zur Arbeit im 3-Schicht-System - Idealerweise mobil oder wohnhaft in der Region Willstätt / Offenburg - Gute Deutschkenntnisse in Wort und Schrift Deine Benefits: - Stundenlohn ab 16,00€ mit Weihnachts- & Urlaubsgeld - 150 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Wir freuen uns auf Deine Bewerbung! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 14.1,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Deine Benefits:",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 64,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 8,
-      "end_stop": "Willstätt Kinzigbrücke",
-      "dep": "06:59",
-      "arr": "08:03",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Kinzigbrücke",
-        "dep": "07:34",
-        "arr": "07:56",
-        "wait": 8,
-        "min": 22
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Willstätt Kinzigbrücke",
-        "to": "работа",
-        "dep": "07:56",
-        "arr": "08:03",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 67
-     },
-     {
-      "kind": "велосипед",
-      "min": 69,
-      "changes": 0,
-      "km": 16.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 69
-       }
-      ],
-      "risky": false,
-      "score": 118
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 156,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 130,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:58",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:58",
-        "min": 130
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 156
-     }
-    ],
-    "best": "транспорт",
-    "min": 64,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-9962BDLCR1BNN3C0-S"
-   ],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_15518-T9MJRD5RURTDJWOD-S",
    "src": "Jobbörse",
    "title": "Quereinsteiger (m/w/d/x) Produktion",
@@ -95659,167 +95818,6 @@
     "best": "велосипед",
     "min": 10,
     "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_12122-982343460-S",
-   "src": "Jobbörse",
-   "title": "Versandmitarbeiter (m/w/d)",
-   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
-   "ort": "Friesenheim",
-   "street": "",
-   "lat": 48.381191850001,
-   "lon": 7.877854369,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982343460-S",
-   "posted": "2026-11-10",
-   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 22.4,
-   "de": "нужен",
-   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 98,
-      "changes": 1,
-      "min_wait": 29,
-      "walk_end": 13,
-      "end_stop": "Friesenheim Schule",
-      "dep": "05:21",
-      "arr": "06:59",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Schule",
-        "dep": "06:17",
-        "arr": "06:47",
-        "wait": 29,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Schule",
-        "to": "работа",
-        "dep": "06:47",
-        "arr": "06:59",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 101
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 211,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 185,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "08:52",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "08:52",
-        "min": 185
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 211
-     },
-     {
-      "kind": "велосипед",
-      "min": 129,
-      "changes": 0,
-      "km": 31.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 129
-       }
-      ],
-      "risky": false,
-      "score": 238
-     }
-    ],
-    "best": "транспорт",
-    "min": 98,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -108916,109 +108914,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:jw_064186038",
-   "src": "Jobware",
-   "title": "Montagehelfer (m/w/d)",
-   "firma": "acrobat GmbH Personaldienstleistungen",
-   "street": "",
-   "lat": 48.6300161,
-   "lon": 8.0735581,
-   "ort": "Achern, Baden",
-   "url": "https://www.jobware.de/job/montagehelfer-m-w-d-064186038",
-   "posted": "2026-09-16",
-   "desc": "",
-   "zeit": "",
-   "who": "mykyta",
-   "approx": true,
-   "km": 10.9,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 7,
-      "end_stop": "Achern Am wilden Mann",
-      "dep": "06:25",
-      "arr": "06:59",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern Am wilden Mann",
-        "dep": "06:33",
-        "arr": "06:53",
-        "wait": null,
-        "min": 20
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Achern Am wilden Mann",
-        "to": "работа",
-        "dep": "06:53",
-        "arr": "06:59",
-        "min": 7
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 54,
-      "changes": 0,
-      "km": 13.1,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 54
-       }
-      ],
-      "risky": false,
-      "score": 88
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_10001-1001812782-S",
    "src": "Jobbörse",
    "title": "Montagehelfer m/w/d",
@@ -109467,6 +109362,191 @@
    "status": "open",
    "also_urls": [
     "https://www.jobware.de/job/produktionshelfer-3-schicht-metallbranche-m-w-d-064775831"
+   ],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_14527-k61529.1842-S",
+   "src": "Jobbörse",
+   "title": "Montagehelfer (m/w/d)",
+   "firma": "acrobat Personaldienstleistungen GmbH",
+   "ort": "Achern",
+   "street": "",
+   "lat": 48.6337461,
+   "lon": 8.0388651,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1842-S",
+   "posted": "2026-11-24",
+   "desc": "# Wir bringen zusammen, was zusammen gehört! Die acrobat GmbH bringt seit über 28 Jahren Mitarbeiter und Unternehmen erfolgreich zusammen. Mit uns gemeinsam finden Sie den perfekten Job! Einen, bei dem Sie Ihre persönlichen Fähigkeiten einsetzen können und bei dem Sie sich richtig wohl fühlen. \\# Jobs mit Aussicht # Montagehelfer (m/w/d) in Achern # Ihre Aufgaben: - Eigenständige Montage von Kleinteilen aus Metall - Mitwirkung im Bereich Baugruppenmontage - Konfektionierung sowie Prüfungen an Komponenten - Durchführung von Funktionskontrollen an den montierten Teilen # Ihr Profil: - Idealerweise erste Berufserfahrung in einer vergleichbaren Position - Technisches Grundverständnis und handwerkliches Geschick - Teambewusstsein und eine gute Kommunikationsfähigkeit # Das bieten wir Ihnen: - Bei unserem Kunden haben Sie die Möglichkeit, Ihre Erfahrungen und Kenntnisse einzubringen und Ihr Wissen zu erweitern. - Es erwartet Sie ein freundliches Team sowie eine persönliche Betreuung bei acrobat und bei unseren Kunden. - Sie erhalten Urlaubs- und Weihnachtsgeld nach der Probezeit sowie eine leistungsgerechte Bezahlung gemäß dem GVP-Tarifvertrag.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 11.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-15T20:24",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Achern",
+      "dep": "06:25",
+      "arr": "07:36",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Achern",
+        "to": "работа",
+        "dep": "06:58",
+        "arr": "07:36",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 71
+     },
+     {
+      "kind": "велосипед",
+      "min": 62,
+      "changes": 0,
+      "km": 15.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 62
+       }
+      ],
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 115,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 24,
+      "end_stop": "Großweier Seehotel",
+      "dep": "06:32",
+      "arr": "08:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Gamshurst Ziegelhütte",
+        "dep": "07:16",
+        "arr": "07:31",
+        "wait": 4,
+        "min": 15
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Gamshurst Ziegelhütte",
+        "to": "Großweier Seehotel",
+        "dep": "08:02",
+        "arr": "08:04",
+        "wait": null,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Großweier Seehotel",
+        "to": "работа",
+        "dep": "08:04",
+        "arr": "08:27",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 133
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.jobware.de/job/montagehelfer-m-w-d-064186038"
    ],
    "person": "mykyta"
   },
@@ -121729,167 +121809,6 @@
     "best": "транспорт",
     "min": 102,
     "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_12122-982343460-S",
-   "src": "Jobbörse",
-   "title": "Versandmitarbeiter (m/w/d)",
-   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
-   "ort": "Friesenheim",
-   "street": "",
-   "lat": 48.381191850001,
-   "lon": 7.877854369,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982343460-S",
-   "posted": "2026-11-10",
-   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 22.4,
-   "de": "нужен",
-   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-10T12:59",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 98,
-      "changes": 1,
-      "min_wait": 29,
-      "walk_end": 13,
-      "end_stop": "Friesenheim Schule",
-      "dep": "05:21",
-      "arr": "06:59",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Schule",
-        "dep": "06:17",
-        "arr": "06:47",
-        "wait": 29,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Schule",
-        "to": "работа",
-        "dep": "06:47",
-        "arr": "06:59",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 101
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 211,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 185,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "08:52",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "08:52",
-        "min": 185
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 211
-     },
-     {
-      "kind": "велосипед",
-      "min": 129,
-      "changes": 0,
-      "km": 31.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 129
-       }
-      ],
-      "risky": false,
-      "score": 238
-     }
-    ],
-    "best": "транспорт",
-    "min": 98,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -143625,169 +143544,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_12739-A1YAUMHHXE7ZTG9R-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter für Wareneingang und Produktion (m/w/d)",
-   "firma": "ACCURAT Gesellschaft für Personaldienstleistungen mbH",
-   "ort": "Willstätt",
-   "street": "",
-   "lat": 48.544957075,
-   "lon": 7.891148898,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-A1YAUMHHXE7ZTG9R-S",
-   "posted": "2026-10-25",
-   "desc": "Mitarbeiter für Wareneingang und Produktion (m/w/d) Standort: Willstätt Anstellungsart(en): Vollzeit Mitarbeiter für Wareneingang und Produktion (m/w/d) für 16,00€/Std. in Willstätt gesucht Du willst mit anpacken und Teil eines starken Teams werden? Dann haben wir genau den richtigen Job für dich! Für unser Kundenunternehmen im Raum Willstätt suchen wir einen Mitarbeiter (m/w/d) für Wareneingang und Produktionssupport in der Lebensmittelproduktion zu einem Stundenlohn von 16,00€. Deine Aufgabe als Mitarbeiter für Wareneingang und Produktion (m/w/d) in Willstätt: - Annahme und Kontrolle von Rohstoffen wie Ei und Hartweizengrieß - Dokumentation der Wareneingänge nach Vorgaben der Qualitätssicherung - Bereitstellung der Rohstoffe für die Nudelproduktion - Unterstützung des Produktionsteams bei der Herstellung von Teigwaren - Allgemeine Tätigkeiten im Wareneingang und Produktionsbereich Damit Überzeugst Du Uns: - Zuverlässige und sorgfältige Arbeitsweise - Spaß an praktischer Arbeit im Team - Erste Erfahrung im Lager oder in der Produktion von Vorteil, aber kein Muss - Bereitschaft zur Arbeit im 3-Schicht-System - Idealerweise mobil oder wohnhaft in der Region Willstätt / Offenburg - Gute Deutschkenntnisse in Wort und Schrift Deine Benefits: - Stundenlohn ab 16,00€ mit Weihnachts- & Urlaubsgeld - 150 € Willkommensprämie - Attraktive Schichtzuschläge (Nacht, Wochenende, Feiertage) - Bis zu 30 Tage Urlaub pro Jahr - Kollegiale Atmosphäre und freundliches Team Darüber hinaus können Sie sich auf Folgendes freuen: - Strukturierte Einarbeitung für Ihren Erfolg - Abwechslungsreiche Tätigkeiten & Entwicklungsmöglichkeiten - Option auf Übernahme durch den Kundenbetrieb - Persönliche Betreuung durch Ihren festen Ansprechpartner Wir freuen uns auf Deine Bewerbung! ACCURAT Gesellschaft für Personaldienstleistungen mbH Niederlassung Lahr Lotzbeckstr.11, 77933 Lahr Tel.: +49 7821 58 80 75-0 Fax: +49 7821 58 80 75-9 eMail: bewerbung.lahr@accurat.eu Web: www.accurat.eu Abteilung(en): Gewerblicher Bereich Art(en) des Personalbedarfs: Neubesetzung Tarifvertrag: BAP/DGB - Tarifgemeinschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 14.1,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Deine Benefits:",
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 64,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 8,
-      "end_stop": "Willstätt Kinzigbrücke",
-      "dep": "06:59",
-      "arr": "08:03",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Kinzigbrücke",
-        "dep": "07:34",
-        "arr": "07:56",
-        "wait": 8,
-        "min": 22
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Willstätt Kinzigbrücke",
-        "to": "работа",
-        "dep": "07:56",
-        "arr": "08:03",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 67
-     },
-     {
-      "kind": "велосипед",
-      "min": 69,
-      "changes": 0,
-      "km": 16.7,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 69
-       }
-      ],
-      "risky": false,
-      "score": 118
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 156,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 130,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:58",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:58",
-        "min": 130
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 156
-     }
-    ],
-    "best": "транспорт",
-    "min": 64,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-9962BDLCR1BNN3C0-S"
-   ],
    "person": "Марина"
   },
   {
