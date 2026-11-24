@@ -1,9 +1,457 @@
 {
- "generated": "2026-11-24T12:14",
+ "generated": "2026-11-24T13:53",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1043,
+ "count": 1046,
  "items": [
+  {
+   "id": "marina:ba_12122-986319073-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter/-in Blechbearbeitung (m/w/d)",
+   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
+   "ort": "Kehl",
+   "street": "",
+   "lat": 48.566645718,
+   "lon": 7.852487546,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-986319073-S",
+   "posted": "2026-11-24",
+   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberflächenbehandlung von Bauteilen durch Glasperlenstrahlen Flexibler, universeller Einsatz an verschiedenen Arbeitsstationen der Produktion Sichtprüfung und einfache Qualitätskontrolle der gefertigten Teile Dein Profil Erfahrung in der Blechbearbeitung, idealerweise im Bereich Abkanten, Laserschneiden oder Strahlen Handwerkliches Geschick und technisches Verständnis Gute Deutschkenntnisse in Wort und Schrift (Lesen von Zeichnungen und Arbeitsanweisungen) Flexibilität, Zuverlässigkeit und Teamfähigkeit Motivation und Bereitschaft, sich in neue Aufgaben einzuarbeiten Bereitschaft zur Schichtarbeit von Vorteil ## Das bieten wir - nicht bekannt **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.3,
+   "de": "нужен",
+   "de_txt": "Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberfl",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T12:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 76,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 6,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:15",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:15",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 82
+     },
+     {
+      "kind": "велосипед",
+      "min": 84,
+      "changes": 0,
+      "km": 20.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 84
+       }
+      ],
+      "risky": false,
+      "score": 148
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 219,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 193,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:01",
+        "min": 193
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 219
+     }
+    ],
+    "best": "транспорт",
+    "min": 76,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_12122-986319073-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter/-in Blechbearbeitung (m/w/d)",
+   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
+   "ort": "Kehl",
+   "street": "",
+   "lat": 48.566645718,
+   "lon": 7.852487546,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-986319073-S",
+   "posted": "2026-11-24",
+   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberflächenbehandlung von Bauteilen durch Glasperlenstrahlen Flexibler, universeller Einsatz an verschiedenen Arbeitsstationen der Produktion Sichtprüfung und einfache Qualitätskontrolle der gefertigten Teile Dein Profil Erfahrung in der Blechbearbeitung, idealerweise im Bereich Abkanten, Laserschneiden oder Strahlen Handwerkliches Geschick und technisches Verständnis Gute Deutschkenntnisse in Wort und Schrift (Lesen von Zeichnungen und Arbeitsanweisungen) Flexibilität, Zuverlässigkeit und Teamfähigkeit Motivation und Bereitschaft, sich in neue Aufgaben einzuarbeiten Bereitschaft zur Schichtarbeit von Vorteil ## Das bieten wir - nicht bekannt **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 17.3,
+   "de": "нужен",
+   "de_txt": "Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberfl",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T12:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 76,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 6,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:15",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:15",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 82
+     },
+     {
+      "kind": "велосипед",
+      "min": 84,
+      "changes": 0,
+      "km": 20.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 84
+       }
+      ],
+      "risky": false,
+      "score": 148
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 219,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 193,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:01",
+        "min": 193
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 219
+     }
+    ],
+    "best": "транспорт",
+    "min": 76,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_10000-1208745416-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter Helfer/in - Elektro (m/w/d)",
+   "firma": "Fe-Fe ELEKTRONIK e.K.",
+   "ort": "Offenburg",
+   "street": "Im Unteren Angel 17",
+   "lat": 48.4766843,
+   "lon": 7.9360796,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208745416-S",
+   "posted": "2026-11-20",
+   "desc": "Als mittelständischer und inhabergeführter Dienstleister liegen unsere Stärken in der Fertigung elektronischen Baugruppen. Wenn Sie bereits erste Erfahrungen im Bereich Elektronik gesammelt haben und sich vorstellen können in einem kleinen Betrieb mit hohem Qualitätsanspruch mitarbeiten zu wollen, dann sollten wir in Gespräch kommen. Löten von elektronischen Baugruppen, Bestücken von Leiterplatten und Montagearbeiten gehören bei uns zu Ihren Hauptaufgaben. Sollten wir Ihr Interesse geweckt haben, dann freuen wir uns auf Ihre Bewerbung. Melden Sie sich gerne telefonisch, per Email oder per Post bei uns. Ansprechpartnerin: Fr. Feucht Tel: +49 (781) 26068 Email: info@fe-fe.de",
+   "zeit": "Vollzeit / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 12.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T12:49",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 38,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 12,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:11",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:11",
+        "min": 12
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 38
+     },
+     {
+      "kind": "велосипед",
+      "min": 74,
+      "changes": 0,
+      "km": 17.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 74
+       }
+      ],
+      "risky": false,
+      "score": 128
+     }
+    ],
+    "best": "транспорт",
+    "min": 38,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_10001-1003981226-S",
    "src": "Jobbörse",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:14",
+ "generated": "2026-11-24T13:54",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 580,
-  "queue": 235,
-  "ai_focus": 304
+  "all": 583,
+  "queue": 238,
+  "ai_focus": 306
  },
  "jobs": [
   {
@@ -2476,6 +2476,62 @@
    "description": ""
   },
   {
+   "id": "li_4494115745",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent:in AI Product Design (m/w/d)",
+   "company": "Railslove",
+   "location": "Köln",
+   "distance_km": 279.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4494115745",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24T12:49",
+   "description": "Köln, hybrid · 15 bis 20 Stunden pro Woche · ab Januar 2027 Über uns Railslove ist eine digitale Produktagentur aus Köln. Wir bauen mit unseren Kund:innen digitale Produkte, die wirklich genutzt werden: Plattformen, Apps und Tools in Bereichen wie Bildung, Mobilität, Stadtentwicklung und Finanzen. Wir sind ein kleines Team, arbeiten eng zusammen und haben eine ziemlich klare Meinung dazu, was gute Produktarbeit ausmacht. Gerade ändert sich, wie wir Design machen. AI steckt bei uns inzwischen in fast jedem Schritt: Research auswerten, Ideen durchspielen, Prototypen bauen, die man tatsächlich anklicken kann. Dafür suchen wir Verstärkung. Jemanden, für den AI im Designalltag schon selbstverständlich ist und der Lust hat, das mit uns weiterzudenken. Dabei denken wir viel darüber nach, was AI in Produkten richtig macht und wo sie Schaden anrichten kann. Wenn dich das auch umtreibt, passt du gut zu uns. Was du bei uns machst Du arbeitest in echten Projekten mit. Keine Nebenaufgaben, sondern von der Discovery bis zur Übergabe an die Entwicklung. Du sitzt mit am Tisch, wenn es um Kund:innen geht: in Workshops, Interviews und Reviews. Du stellst deine Ideen selbst vor und vertrittst sie auch. Du baust und gestaltest klickbare Prototypen, meistens direkt im Code mit Tools wie Lovable, v0 oder Cursor. Du nutzt AI, um Research schneller auszuwerten, Varianten zu explorieren und Ideen früh testbar zu machen. Du unterstützt bei Interviews und Usability Tests und hilfst dabei, aus Ergebnissen Entscheidungen zu machen. Du gestaltest unsere Design Systeme mit und sorgst dafür, dass auch AI Agents damit arbeiten können. Du probierst neue Tools und Workflows aus und erzählst uns, was taugt und was nicht. Damit prägst du direkt mit, wie wir bei Railslove in Zukunft gestalten. Was du mitbringst Du studierst Interaction Design, UX Design, Kommunikationsdesign, HCI oder etwas Vergleichbares. Du hast ein Portfolio, das zeigt, wie du denkst. Studienprojekte zählen genauso. Du nutzt AI Tools regelmäßig in deinem Designprozess und kannst uns Beispiele zeigen. Welches Tool, ist uns ehrlich gesagt egal. Wichtiger ist, dass du Ergebnisse kritisch einordnest und nicht alles übernimmst, was die Maschine ausspuckt. Du bist sicher in Figma. Du hast schon Prototypen direkt im Code gebaut, ob mit Lovable, v0, Cursor oder etwas anderem. Für uns gehört das inzwischen zum Handwerk dazu. Du hast keine Berührungsängste im Kundenkontakt. Wir suchen niemanden, der im Hintergrund Screens schiebt, sondern jemanden, der mitdenkt und sich auch mal einmischt. Du sprichst und schreibst gut Deutsch und kommst in Projekten auch mit Englisch klar. Du fragst nach, wenn etwas unklar ist, und übernimmst Verantwortung für das, was du machst. Du erfüllst nicht alles davon? Bewirb dich trotzdem. Uns interessiert mehr, wie du denkst und wie du lernst, als ob du jeden Punkt abhaken kannst. Was dich erwartet Ein kleines Team, in dem du vom ersten Tag an mitredest. Eine feste Ansprechperson, die dich beglei"
+  },
+  {
+   "id": "li_4492690753",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikum – Künstliche Intelligenz und Surrogate Modelling in der Crashsimulation (w/m/d)",
+   "company": "AUDI AG",
+   "location": "Ingolstadt",
+   "distance_km": 246.5,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4492690753",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24T12:49",
+   "description": ""
+  },
+  {
    "id": "li_4491935699",
    "queue": true,
    "missing_skills": [],
@@ -4645,6 +4701,34 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": "Über ProzessX – Mehr als nur ein Job ProzessX ist ein aufstrebendes KI-Startup mit Sitz in Nagold. Unsere Vision: den Mittelstand digital transformieren – intelligent, ethisch und praxisnah. Wir bauen keine Luftschlösser, sondern intelligente Systeme: von Self-hosted Chatbots über automatisierte Angebotsprozesse bis zur AI ACADEMY, unserer eigenen Lernplattform. Was uns besonders macht? Wir setzen auf Bindung, Beteiligung und echte Verantwortung. Wer von Anfang an dabei ist, wächst mit – persönlich wie unternehmerisch. Langfristig mitdenken, mitverdienen, mitgestalten: Das ist unser Versprechen. Aufgaben Ihre Aufgaben bei uns Entwicklung und Umsetzung performanter Content-Strategien (LinkedIn, Newsletter, Blog, Landingpages) Aufbau und Automatisierung von Marketingprozessen (z. B. via n8n, Notion, ChatGPT) KPI-getriebene Optimierung von Kampagnen (z. B. Conversion, Engagement, Leadqualität) Enge Zusammenarbeit mit Geschäftsführung, Vertrieb & Produktentwicklung Qualifikation Ihr Profil – worauf wir achten Erste praktische Erfahrung im Bereich digitales Marketing, Content oder Social Media Interesse an Automatisierungstools und datengetriebenem Arbeiten Selbständige, strukturierte und kreative Arbeitsweise Sehr gute Deutschkenntnisse; Englisch von Vorteil > Abschlüsse sind kein Muss – wir suchen Talente mit Praxis, Motivation und Lernwille. Werkstudent:innen, Quereinsteiger:innen und Autodidakt:innen sind ausdrücklich willkommen. Benefits Was wir bieten (nach erfolgreicher Eignungsphase) Modernes Equipment & technisches Setup Eigener Arbeitsplatz im HQ Nagold + Remote-/Hybrid-Option Gleitzeit & Ergebnisorientierung statt Präsenzkultur Umsatzbeteiligung und Boni bei Projekterfolg Ein Startup-Spirit, in dem Ihre Arbeit zählt und Ihre Ideen umgesetzt werden Bei ProzessX fördern wir nicht nur Leistung, sondern auch Potenzial. Wir investieren gezielt in Weiterbildungen und Entwicklungsmöglichkeiten – denn das beste Investment ist das in sich selbst. Warum wir mit einer Eignungsphase starten – und was Sie davon haben Wir glauben nicht an standardisierte Bewerbungsgespräche – wir glauben an echte Zusammenarbeit. Deshalb beginnen wir jede potenzielle Festanstellung mit einer zweiwöchigen, bezahlten Eignungsphase. Was Sie erwartet: Ein reales Projekt mit Verantwortung und Ziel Einblick in unsere Arbeitsweise, unsere Tools, unser Team Klare Rückmeldungen, faire Einschätzung und ehrlicher Austausch Was Sie gewinnen: Wenn Sie Leistung, Haltung und Potenzial zeigen, folgt ein Angebot zur Festanstellung mit klarer Perspektive: Wer mit uns startet, wird Teil von etwas Großem."
+  },
+  {
+   "id": "li_4492690673",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 5,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Web / Shop / SEO",
+   "title": "Werkstudent IT & E-Commerce (m/w/d)",
+   "company": "VanSprint",
+   "location": "Darmstadt",
+   "distance_km": 155.0,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4492690673",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24T12:49",
+   "description": "VanSprint GmbH Darmstadt | Werkstudent | Über uns Wir, VanSprint, sind ein Einzelhändler, der sich vor allem auf E-Bikes spezialisiert hat. Wir kombinieren unsere Leidenschaft für Fahrräder und E-Commerce, um Menschen in ganz Deutschland E-Bikes näherzubringen – sowohl in unserem Ladengeschäft in Darmstadt als auch deutschlandweit über unseren Onlineshop. Die Fahrradbranche hat in den vergangenen Jahren ein großes Auf und Ab erlebt. Dank unseres engagierten Teams konnten wir diese Herausforderungen erfolgreich meistern und wachsen stetig weiter. Um unsere digitalen Prozesse weiterzuentwickeln, suchen wir einen motivierten IT-Werkstudenten (m/w/d), der Lust hat, Verantwortung zu übernehmen und gemeinsam mit uns zu wachsen. Aufgaben Über die Stelle: Unterstützung bei der technischen Betreuung und Weiterentwicklung unseres Onlineshops Optimierung und Automatisierung interner Geschäftsprozesse Betreuung unserer IT-Systeme und Softwarelösungen Unterstützung bei der Anbindung von Schnittstellen und externen Systemen Analyse und Behebung technischer Probleme Mitarbeit bei der Integration von KI-Tools in unsere täglichen Arbeitsabläufe Unterstützung des Teams bei IT-Fragen Eigenständige Umsetzung kleinerer IT-Projekte Qualifikation Du bist eingeschriebener Student (m/w/d) im Bereich Informatik, Wirtschaftsinformatik oder einem vergleichbaren Studiengang. Du hast ein gutes technisches Verständnis und Interesse an E-Commerce. Erste Kenntnisse in Programmiersprachen wie Python, JavaScript, HTML oder CSS sind von Vorteil. Du interessierst dich für künstliche Intelligenz, Automatisierung und digitale Prozesse. Du arbeitest selbstständig, strukturiert und lösungsorientiert. Du hast Spaß daran, neue Technologien kennenzulernen und auszuprobieren. Du bist zuverlässig und arbeitest gerne im Team. Benefits Flexible Arbeitszeiten, die sich mit deinem Studium vereinbaren lassen Abwechslungsreiche Aufgaben mit direktem Praxisbezug Flache Hierarchien und kurze Entscheidungswege Ein motiviertes Team in einem wachsenden Unternehmen Raum für eigene Ideen und eigenverantwortliches Arbeiten Spannende Einblicke in die Bereiche IT, E-Commerce und künstliche Intelligenz Die Möglichkeit, die digitale Entwicklung unseres Unternehmens aktiv mitzugestalten Kaffee, Getränke und Snacks, sowie regelmäßige Team-Events bei dem wir tolle Sachen unternehmen (z.B. gemeinsames Abendessen, LaserTag, Paintball) Interesse geweckt? Du möchtest nicht nur theoretisches Wissen sammeln, sondern aktiv an echten Projekten mitarbeiten und sehen, welchen Unterschied deine Arbeit macht? Dann bist du bei uns genau richtig! Wir freuen uns auf deine Bewerbung und darauf, dich persönlich kennenzulernen. Dein VanSprint-Team"
   },
   {
    "id": "li_4492015492",
@@ -7611,7 +7695,8 @@
    "apply_email": "",
    "also_urls": [
     "https://de.linkedin.com/jobs/view/4494107126",
-    "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-465884"
+    "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-465884",
+    "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-224559"
    ],
    "salary": "",
    "posted": "2026-10-23",
@@ -12521,6 +12606,36 @@
    "description": ""
   },
   {
+   "id": "li_4490713243",
+   "queue": false,
+   "missing_skills": [
+    "Power BI"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent Automatisierung & Dashboard-Entwicklung im Release Prozess (m/w/d)",
+   "company": "Dürr",
+   "location": "Bietigheim-Bissingen",
+   "distance_km": 90.5,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4490713243",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-24T12:49",
+   "description": "Welcome to Pure Passioneering . Wenn Technologie Ihre Passion ist und Industrie 4.0 Sie begeistert, sind Sie bei Dürr genau richtig. Hier haben Sie die Freiheit, unternehmerisch zu handeln, international zu arbeiten und den Sprung ins digitale Industriezeitalter mitzugestalten. Was Sie erwartet Entwicklung und Implementierung: Sie entwickeln und implementieren Automatisierungslösungen für Aufgaben im Release Management (z.B. KI-gestützte Prozesse) Dashboard: Sie konzipieren und erstellen ein Dashboard, das u.a. folgende Funktionen abdeckt: den Countdown bis zum nächsten Release die Darstellung des Release-Umfangs pro Team die Visualisierung des Progresses (Fortschritt) je Team den Abgleich Soll-Ist inkl. \"Alarm-Meldung\" bei Risiko-Detektion Teamarbeit: Sie arbeiten mit dem Release Manager und den Teams zur Identifikation von Automatisierungspotenzialen zusammen Dokumentation: Sie dokumentieren die entwickelten Lösungen und Prozesse Was Sie mitbringen Ihre Ausbildung: Sie befinden sich in einem höheren Semester der Studienrichtung Informatik, Wirtschaftsinformatik oder vergleichbar Ihre Eigenschaften: Sie bringen Interesse an Prozessautomatisierung, KI und modernen Web-Technologien mit Ihre Erfahrung: Sie haben Kenntnisse in Programmierung (z.B. Python, JavaScript, etc.) und Dashboard-Tools (z.B. Grafana, PowerBI, o.ä.) und der Jira-API Ihre IT-Kenntnisse: Sie haben einen sicheren Umgang mit MS-Office-Programmen sowie Erfahrung mit Jira, Confluence, Bitbucket, Team City etc. Ihre Softskills: Sie weisen eine selbstständige sowie strukturierte Arbeitsweise auf und sind zugleich ein Teamplayer mit Hands-On-Mentalität Ihre Sprachkenntnisse: Sie bringen sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift mit Was wir bieten Gehalt: Sie können sich auf eine überdurchschnittliche Vergütung freuen Flexibilität: Durch unsere individuellen Arbeitszeitregelungen und der Möglichkeit zum mobilen Arbeiten haben Sie mehr Freiheit, Ihren Studienalltag zu gestalten Arbeitskultur: Sie befinden sich in einem internationalen und innovativen Umfeld, geprägt von Zusammenarbeit auf Augenhöhe. Dabei können Sie sich auf abwechslungsreiche Aufgaben und eigenverantwortliches Arbeiten freuen Weiterbildung: Unser umfangreiches Portfolio an Weiterbildungsmaßnahmen bietet Ihnen die Möglichkeit, Ihre individuellen Stärken gezielt einzusetzen und weiterzuentwickeln Arbeitsumgebung: Sie profitieren von einer modernen und digitalen Arbeitsumgebung und kostenfreien Parkmöglichkeiten Gesundheit: Ihre Gesundheit ist uns wichtig. Daher bieten wir Ihnen ein umfassendes Sport- und Gesundheitsangebot (Urban Sportsclub) Wir wertschätzen diverse Teams und freuen uns über Ihre Bewerbung, unabhängig von Ihrer Nationalität, ethnischen Herkunft, Geschlecht, sexuellen Orientierung, Religion, Behinderung oder Alter."
+  },
+  {
    "id": "li_4492430539",
    "queue": false,
    "missing_skills": [],
@@ -15524,7 +15639,8 @@
    "apply_url": "",
    "apply_email": "",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4490636455"
+    "https://de.linkedin.com/jobs/view/4490636455",
+    "https://de.linkedin.com/jobs/view/4494332986"
    ],
    "salary": "",
    "posted": "2026-11-12",
@@ -16360,34 +16476,6 @@
    "posted": "2026-11-09",
    "first_seen": "2026-11-09T22:43",
    "description": "Brand, Community & Content ToysReloved ist der einfachste Second-Hand-Service für Spielzeug: Eltern geben Spielsachen, aus denen ihre Kinder herausgewachsen sind, mit einem Klick weiter und tun dabei etwas Gutes. Wir sind ein dynamisches Berliner Start-up und bringen die Kreislaufwirtschaft in die Spielzeugbranche. Jetzt suchen wir dich, um ToysReloved als Love Brand für Familien aufzubauen. Du bringst kreative Ideen ein, setzt sie gemeinsam mit dem Gründungsteam um und begeisterst Menschen für unsere Mission. Deine Aufgaben Brand & Community: Du entwickelst Ideen für unsere Marke und baust eine Community auf, die uns kennt, mag und weiterempfiehlt. Content & Social: Du erzählst unsere Geschichte auf Instagram, TikTok und weiteren Kanälen, entwickelst neue Formate, produzierst Inhalte und stehst auch selbst vor der Kamera. Go-to-Market & Growth: Du planst, startest und testest mit uns Kampagnen, Creator-Kooperationen und Aktionen, um neue Familien für uns zu gewinnen. Customer Care: Du betreust täglich unseren Kundenchat, beantwortest Fragen und bist damit am nächsten dran an dem, was Familien bewegt. Aus ihrem Feedback machst du Ideen für Content und ein besseres Kundenerlebnis. CRM & Kommunikation: Du hältst den Kontakt zu unserer Community, etwa über Newsletter, Geschichten und relevante Impulse für unsere Kund:innen. Reichweite & Partnerschaften: Du findest Themen, Geschichten und Kooperationen, die uns auch über Social Media hinaus sichtbar machen, etwa über Suche, Medien oder Events. Projekte & KI: Du bringst eigene Initiativen von der Idee bis zur Auswertung voran und nutzt KI-Tools kreativ, um Inhalte und Prozesse besser zu machen. Das bringst du mit Du bist eingeschrieben, arbeitest gern selbstständig und bist gern bei uns im Berliner Office. Du willst etwas aufbauen, denkst unternehmerisch und wartest nicht auf fertige Briefings. Du verstehst Social Media, erkennst Trends und hast Spaß daran, selbst Content zu produzieren. Du gehst offen auf Menschen zu, denkst aus Kundensicht und fühlst dich vor der Kamera wohl. Du probierst KI-Tools aus und hast Ideen, wie sie kreative Arbeit und Abläufe verbessern können. Du kommunizierst sorgfältig und setzt Ideen auch im Tagesgeschäft zuverlässig um. Du sprichst und schreibst sehr gut Deutsch und Englisch. Plus: Erste Erfahrungen mit Instagram, TikTok, Canva, Klaviyo und generativer KI. Bonus: Ein Herz für Nachhaltigkeit, Familien und Spielzeug. Das bieten wir dir Verantwortung ab Tag eins, Raum zum Experimentieren und Platz für deine eigenen Ideen. Eine kreative Rolle zwischen Brand, Community, Content und Growth statt starrer Aufgabenlisten. Direkte Zusammenarbeit mit dem Gründungsteam in einem wachsenden Start-up. Flexible Arbeitszeiten und Remote-Arbeit, die zu deinem Studium passen. Ein heller Arbeitsplatz in einem historischen Gebäude am Ostkreuz, mit gutem Bio-Kaffee. Arbeit mit Sinn: Du hilfst, Spielzeug ein zweites Leben zu schenken. Lust, mit uns die Spielzeugbranche zu verändern? Dann be"
-  },
-  {
-   "id": "ba_10001-1003960195-S",
-   "queue": false,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 1,
-   "ai_focus": false,
-   "type": "Werkstudent",
-   "track": "Online-Marketing",
-   "title": "Werkstudent Social Media & Content Creation (m/w/d)",
-   "company": "Verlocke Extensions GmbH",
-   "location": "Mannheim",
-   "distance_km": 110.1,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": true,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003960195-S",
-   "apply_url": "",
-   "apply_email": "aylin@verlocke.de",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-04",
-   "first_seen": "2026-11-09T17:58",
-   "description": "Du liebst Instagram, hast ein Gespür für Trends und willst nicht einfach nur Content posten, sondern einen Kanal von Grund auf mitgestalten? Dann suchen wir dich! Wir möchten für eine unserer Marken einen neuen Instagram-Auftritt aufbauen und suchen dafür kreative Unterstützung. Jemanden, der eigene Ideen einbringt, gerne vor und hinter der Kamera arbeitet und Lust hat, einen Social-Media-Kanal Schritt für Schritt wachsen zu lassen. Deine Aufgaben • Instagram-Kanal aufbauen: Du entwickelst gemeinsam mit uns eine Content-Strategie und gestaltest den Instagram-Auftritt von Anfang an. • Content Creation: Du planst, filmst und schneidest Reels, erstellst Stories und entwickelst kreative Beiträge. • Trends erkennen: Du beobachtest aktuelle Instagram-Trends und setzt passende Ideen für unsere Marke um. • Content-Planung: Du erstellst Redaktionspläne und kümmerst dich um die regelmäßige Veröffentlichung der Inhalte. • Community Management: Du unterstützt beim Aufbau einer aktiven Community und der Interaktion mit unseren Followern. • Performance analysieren: Du wertest die Entwicklung des Kanals aus und optimierst unsere Inhalte auf Basis der Ergebnisse. Das bringst du mit • Du studierst idealerweise Marketing, Kommunikation, Medien oder einen vergleichbaren Studiengang. • Du kennst dich mit Instagram aus und weißt, was guten Content ausmacht. • Du hast ein gutes Auge für Ästhetik, Bildsprache und kreative Gestaltung. • Du hast Erfahrung mit Videobearbeitung und Tools wie CapCut oder Canva. • Du arbeitest selbstständig, zuverlässig und bringst gerne eigene Ideen ein. • Du hast Spaß daran, Neues auszuprobieren und auch mal selbst vor der Kamera zu stehen. Noch keine jahrelange Erfahrung? Kein Problem! Viel wichtiger sind uns deine Kreativität, Eigeninitiative und dein Gespür für Social Media. Das erwartet dich bei uns • Die Möglichkeit, einen Instagram-Kanal von Anfang an eigenständig mit aufzubauen. • Viel kreativer Freiraum und die Chance, eigene Ideen tatsächlich umzusetzen. • Ein abwechslungsreicher Mix aus Strategie, Content Creation und Social Media. • Direkte Zusammenarbeit mit unserem Team und kurze Entscheidungswege. • Die Möglichkeit, praktische Erfahrungen zu sammeln und eigene Projekte zu verantworten. Interesse? Dann bewirb dich! Standort: Mannheim und Home Office Anstellung: Werkstudent (m/w/d) Umfang: max. 20 Stunden / Woche Schick uns deinen Lebenslauf und gerne ein paar Beispiele deiner bisherigen Arbeiten, Reels oder eigenen Social-Media-Projekte an aylin@verlocke.de . Wir freuen uns darauf, dich kennenzulernen!"
   },
   {
    "id": "li_4478669627",
