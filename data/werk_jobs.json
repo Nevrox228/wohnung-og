@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:09",
+ "generated": "2026-11-24T23:10",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 594,
+  "all": 593,
   "queue": 239,
-  "ai_focus": 309
+  "ai_focus": 308
  },
  "jobs": [
   {
@@ -9529,36 +9529,6 @@
    "posted": "2026-11-18",
    "first_seen": "2026-11-18T17:19",
    "description": "Tätigkeitsbereich: IT/Telekommunikation Fachabteilung: MO360 Engineering AI & Data Management Gesellschaft: Mercedes-Benz AG Standort: Sindelfingen Startdatum: 01.01.2027 Veröffentlichungsdatum: 01.01.2027 Stellennummer: MER00049MT Arbeitszeit: Teljes munkaidő Aufgaben Production Planning at Mercedes-Benz designs and industrializes the production systems required for future vehicle architectures. Its responsibilities span factory, logistics, body, paint and assembly planning. Teams coordinate changing vehicle requirements, production scenarios, investment decisions and planning results across multiple engineering disciplines and IT applications. The Engineering Version Management System, eVMS, supports this work through the concept of versioned planning. The eVMS structures planning baselines, alternative scenarios, check requests and shop-specific results. It provides traceable links between decisions, premises and engineering documents while leaving detailed planning work in the established specialist applications. Currently, we are in a phase of transitioning from software testing into operational rollout. At the same time, the project is extending the platform with AI-supported workflows, an internal agent, system connectors and integration with the broader engineering toolchain. Your Internship As an intern in the eVMS project, you will work at the intersection of production planning, digital product management, software development and applied artificial intelligence. You will help introduce eVMS into operational planning processes, shape the internal eVMS agent and translate user needs into structured requirements for the development team. This is not a purely administrative rollout role. You will work directly with users, developers and technical experts and contribute tangible improvements to the product. Tasks and Responsibilities Support the eVMS rollout: - Support the preparation and execution of rollout activities with production-planning projects and specialist departments - Help onboard key users and guide them through the versioned-planning methodology and the eVMS application - Prepare concise training materials, demonstrations, user guides and rollout communications - Facilitate testing sessions, interviews and feedback workshops with project managers, shop project leads and production-planning engineers - Document user feedback, usability issues, process gaps and rollout dependencies in a structured format - Support the definition of adoption indicators and evaluate how eVMS affects user experience, traceability and planning coordination - Help establish a scalable rollout approach that can be transferred to further projects, plants and planning units The current rollout approach deliberately combines practical user testing with structured feedback so that unclear functions and usability problems can be identified and transferred into product improvements. Guide the development of the internal eVMS agent: - Analyze user activit"
-  },
-  {
-   "id": "ss_14686828",
-   "queue": false,
-   "missing_skills": [
-    "TypeScript"
-   ],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 2,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent*in Softwareentwicklung Künstliche Intelligenz-Systeme",
-   "company": "Mercedes-Benz AG",
-   "location": "Sindelfingen",
-   "distance_km": 70.7,
-   "remote": false,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "StepStone",
-   "url": "https://www.stepstone.de/stellenangebote--Werkstudentin-Softwareentwicklung-Kuenstliche-Intelligenz-Systeme-Sindelfingen-Mercedes-Benz-AG--14686828-inline.html",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-10",
-   "first_seen": "2026-11-18T15:24",
-   "description": "Mercedes-Benz entwickelt die PMT-Plattform für effizientere Fahrzeugentwicklungsprozesse mit KI-Integration. Gesucht wird ein Werkstudent (m/w/d) in Softwareentwicklung, um KI-Komponenten und Features in modernen Technologie-Stacks zu entwickeln und in Produktion zu gehen. Ein Studium in Informatik oder vergleichbarem Bereich, sichere TypeScript-Kenntnisse, Grundkenntnisse in KI-Frameworks sowie Verständnis von Software-Engineering-Grundsätzen werden vorausgesetzt."
   },
   {
    "id": "ss_14627607",
