@@ -1,9 +1,515 @@
 {
- "generated": "2026-11-24T13:53",
+ "generated": "2026-11-24T17:33",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1046,
+ "count": 1049,
  "items": [
+  {
+   "id": "marina:ba_11868-13936429-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer 3- Schicht Metallbranche (m/w/d)",
+   "firma": "I.K.Hofmann GmbH",
+   "ort": "Friesenheim",
+   "street": "",
+   "lat": 48.378133736001,
+   "lon": 7.884557754,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11868-13936429-S",
+   "posted": "2026-11-24",
+   "desc": "Wir suchen Sie! - Ab sofort, in Vollzeit und 3- Schicht für ein namhaftes, mittelständisches Unternehmen in 77948 Friesenheim/Schuttern * 3- Schicht * Übernahmeoption nach 6 Monaten * Stundenlohn 17,00 EUR Ihre Aufgaben: - Auf- und abstecken von Metallteilen - Sichtkontrolle - Verpackung Ihre Qualifikation: - Erfahrung in der Produktion - 3- Schicht Bereitschaft Ihr Vorteil: - Übernahmechance bereits nach 6 Monaten - Gutes Betriebsklima und flache Hierarchien - Zuschuss zur betrieblichen Altersvorsorge und Zusatzversicherungen - Hochwertige kostenlose persönliche Schutzausrüstungen sowie arbeitsmedizinische und - Kostenfreie Praktplätze direkt vor Ort - Mitarbeiter-App und Arbeitszeitkonto für die unkomplizierte Abwicklung von Anliegen, wie z.B. dem Urlaubsantrag und mehr Flexibilität durch exakte Stundenerfassung - Mitarbeiterrabatte bei attraktiven Marken aus den Bereichen Entertainment, Fitness, Wohneinrichtung, Bekleidung, uvm. (Corporate Benefits) Ihr Kontakt zu Hofmann: Bewerben Sie sich noch heute! Sie haben Fragen? Gerne beantworten wir diese telefonisch: 07821/ 920 8816 oder per E-Mail: jobs-lahr@hofmann.info Wir freuen uns, bald von Ihnen zu hören! Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. (artverwandte Suchbegriffe: Mitarbeiter (m/w/d), Mitarbeiter/in, Metallarbeiter, Metallarbeiter/in, Produktionsmitarbeiter, Produktionsmitarbeiter/in, Arbeitsvorbereiter/in, Produktion, Helfer, Metallbranche, Metallhilfsarbeiter, Oberflächenbeschichter, Oberflächentechnik, 3- Schicht, Helfer/in, Produktionshelfer, Produktionshelfer/in, Sichtkontrolle)",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 22.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T17:00",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 92,
+      "changes": 1,
+      "min_wait": 29,
+      "walk_end": 7,
+      "end_stop": "Friesenheim Schule",
+      "dep": "05:21",
+      "arr": "06:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7141",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Friesenheim Schule",
+        "dep": "06:17",
+        "arr": "06:47",
+        "wait": 29,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Friesenheim Schule",
+        "to": "работа",
+        "dep": "06:47",
+        "arr": "06:54",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 95
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 203,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 177,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "09:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "09:55",
+        "min": 177
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 203
+     },
+     {
+      "kind": "велосипед",
+      "min": 127,
+      "changes": 0,
+      "km": 31.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 127
+       }
+      ],
+      "risky": false,
+      "score": 234
+     }
+    ],
+    "best": "транспорт",
+    "min": 92,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3522601247",
+   "src": "Kleinanzeigen",
+   "title": "Reinigung in Offenburg Minijob Sa 10:00 Uhr 4 Std.",
+   "firma": "Büba Büro- und Industriereinigung",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigung-in-offenburg-minijob-sa-10-00-uhr-4-std-/3522601247-109-9040",
+   "posted": "2026-11-24",
+   "posted_time": "17:07",
+   "desc": "Liebe Bewerberin, lieber Bewerber, für unser Objekt in Offenburg suchen wir fleißige und zuverlässige Mitarbeiter für die Unterhaltsreinigung. Bei uns bekommen Sie als Reinigungskraft, einen sicheren Arbeitsplatz mit tariflicher Bezahlung, bezahltem Urlaub und unbefristetem Arbeitsvertrag. - Minijob - Arbeitszeit: Samstag 10.00-14.00 Uhr Gerne dürfen Sie uns sofort anrufen und einen Termin zum Kennenlernen vereinbaren. Wir grüßen Sie freundlich und freuen uns auf Ihren Anruf! Giulia Bayer",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-24T17:00",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_15986-REF301704H-5fa642b-S",
+   "src": "Jobbörse",
+   "title": "Pflichtpraktikum im Bereich Projektmanagement – Digitalisierung und Automatisierung in der Logistik",
+   "firma": "Robert Bosch GmbH",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.6908164,
+   "lon": 8.1558133,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF301704H-5fa642b-S",
+   "posted": "2026-11-24",
+   "desc": "Job Title: Pflichtpraktikum im Bereich Projektmanagement – Digitalisierung und Automatisierung in der Logistik \\n\\nJob Description: Starte dein Abenteuer im Projektmanagement. Bist du auf der Suche nach einem spannenden Praktikum, das dir die Welt der Digitalisierung und Automatisierung in der Logistik näherbringt? Möchtest du praktische Erfahrungen sammeln sowie in einem dynamischen, innovativen Team arbeiten? Dann bist du bei uns genau richtig. • Du hilfst aktiv mit und entwickelst deine Skills unter Anleitung des Projektmanagements weiter. • Eigenverantwortlich planst und koordinierst du eigene Teilprojekte in enger Zusammenarbeit mit der Projektleitung sowie behältst die Umsetzung anhand von KPIs im Blick. • Darüber hinaus arbeitest du am Aufbau erster KI-Anwendungen mit und entdeckst, wie künstliche Intelligenz die Logistik revolutionieren kann. • Des Weiteren knüpfst du Kontakte zu verschiedenen Abteilungen und Ansprechpersonen, kommunizierst mit Werkstätten sowie erweiterst dein berufliches Netzwerk. • Nicht zuletzt nutzt du spannende Methoden aus dem klassischen und agilen Projektmanagement, um unser Projektteam auf dem Weg zum Erfolg zu unterstützen. Qualifications: • Ausbildung: Studium im Bereich Wirtschaftswissenschaften, Ingenieurwesen, Informatik oder vergleichbar • Erfahrungen und Know-how: sicherer Umgang mit MS Office; technischer Hintergrund von Vorteil • Persönlichkeit und Arbeitsweise: du bist ein offener, kontaktfreudiger Teamplayer, der selbstständig vorgeht; die Verantwortung zu übernehmen sowie deine Ziele durch gute Kommunikation zu erreichen, liegt dir im Blut; du bringst eine hohe intrinsische Motivation mit • Arbeitsalltag: deine Präsenz vor Ort ist erforderlich • Sprachen: verhandlungssicheres Englisch und gutes Deutsch Additional Information: Beginn: nach Absprache Dauer: 6 Monate (ausschließlich Pflichtpraktikum gem. SPO möglich) Voraussetzung für das Praktikum ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, eine aktuelle Immatrikulationsbescheinigung, deine Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei. Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität. Du hast fachliche Fragen zum Job? Martin Luick (Fachabteilung) +49 7223 8251137 Work #LikeABosch beginnt hier: Jetzt bewerben! Street Address: Robert-Bosch-Str. 1\\n\\n---\\n Video zur Stelle: https://www.youtube.com/watch?v=vziOsga5KUc",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 18.5,
+   "de": "нужен",
+   "de_txt": "Sprachen: verhandlungssicheres Englisch und gutes Deutsch Additional Information: Beginn: nach Absprache Dauer: 6 Monate (ausschließlich Pflichtpraktikum gem.",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-24T17:00",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 74,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 31,
+      "end_stop": "Bühl (Baden)",
+      "dep": "21:36",
+      "arr": "22:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "22:20",
+        "arr": "22:50",
+        "min": 31
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 77
+     },
+     {
+      "kind": "как в приложении",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 4,
+      "end_stop": "Kappelwindeck Öhinghaltweg",
+      "dep": "21:36",
+      "arr": "23:17",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Anruflinientaxi",
+        "line": "271",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Öhinghaltweg",
+        "dep": "22:50",
+        "arr": "23:13",
+        "wait": 30,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Öhinghaltweg",
+        "to": "работа",
+        "dep": "23:13",
+        "arr": "23:17",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 94,
+      "changes": 0,
+      "km": 23.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 94
+       }
+      ],
+      "risky": false,
+      "score": 168
+     }
+    ],
+    "best": "транспорт",
+    "min": 74,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_12122-986319073-S",
    "src": "Jobbörse",
@@ -84635,7 +85141,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-9962BDLCR1BNN3C0-S"
+   ],
    "person": "mykyta"
   },
   {
@@ -108167,166 +108675,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:jw_064775831",
-   "src": "Jobware",
-   "title": "Produktionshelfer 3- Schicht Metallbranche (m/w/d)",
-   "firma": "I.K.Hofmann GmbH",
-   "street": "",
-   "lat": 48.3734866,
-   "lon": 7.882329,
-   "ort": "Friesenheim, Baden",
-   "url": "https://www.jobware.de/job/produktionshelfer-3-schicht-metallbranche-m-w-d-064775831",
-   "posted": "2026-10-23",
-   "desc": "",
-   "zeit": "",
-   "who": "mykyta",
-   "approx": true,
-   "km": 22.9,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 76,
-      "changes": 1,
-      "min_wait": 7,
-      "walk_end": 9,
-      "end_stop": "Friesenheim Kronenstraße",
-      "dep": "05:21",
-      "arr": "06:37",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Kronenstraße",
-        "dep": "05:55",
-        "arr": "06:29",
-        "wait": 7,
-        "min": 34
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Kronenstraße",
-        "to": "работа",
-        "dep": "06:29",
-        "arr": "06:37",
-        "min": 9
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 79
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 212,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 186,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "10:04",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "10:04",
-        "min": 186
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 212
-     },
-     {
-      "kind": "велосипед",
-      "min": 130,
-      "changes": 0,
-      "km": 32.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 130
-       }
-      ],
-      "risky": false,
-      "score": 240
-     }
-    ],
-    "best": "транспорт",
-    "min": 76,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:jw_064688781",
    "src": "Jobware",
    "title": "Produktionshelfer (m/w/d) in 3 - Schicht 200EUR Willkommensprämie",
@@ -108956,6 +109304,169 @@
    "status": "open",
    "also_urls": [
     "https://www.jobware.de/job/mitarbeiter-fuer-den-bereich-lagerlogistik-m-w-d-064959320"
+   ],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_11868-13936429-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer 3- Schicht Metallbranche (m/w/d)",
+   "firma": "I.K.Hofmann GmbH",
+   "ort": "Friesenheim",
+   "street": "",
+   "lat": 48.378133736001,
+   "lon": 7.884557754,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11868-13936429-S",
+   "posted": "2026-11-24",
+   "desc": "Wir suchen Sie! - Ab sofort, in Vollzeit und 3- Schicht für ein namhaftes, mittelständisches Unternehmen in 77948 Friesenheim/Schuttern * 3- Schicht * Übernahmeoption nach 6 Monaten * Stundenlohn 17,00 EUR Ihre Aufgaben: - Auf- und abstecken von Metallteilen - Sichtkontrolle - Verpackung Ihre Qualifikation: - Erfahrung in der Produktion - 3- Schicht Bereitschaft Ihr Vorteil: - Übernahmechance bereits nach 6 Monaten - Gutes Betriebsklima und flache Hierarchien - Zuschuss zur betrieblichen Altersvorsorge und Zusatzversicherungen - Hochwertige kostenlose persönliche Schutzausrüstungen sowie arbeitsmedizinische und - Kostenfreie Praktplätze direkt vor Ort - Mitarbeiter-App und Arbeitszeitkonto für die unkomplizierte Abwicklung von Anliegen, wie z.B. dem Urlaubsantrag und mehr Flexibilität durch exakte Stundenerfassung - Mitarbeiterrabatte bei attraktiven Marken aus den Bereichen Entertainment, Fitness, Wohneinrichtung, Bekleidung, uvm. (Corporate Benefits) Ihr Kontakt zu Hofmann: Bewerben Sie sich noch heute! Sie haben Fragen? Gerne beantworten wir diese telefonisch: 07821/ 920 8816 oder per E-Mail: jobs-lahr@hofmann.info Wir freuen uns, bald von Ihnen zu hören! Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. (artverwandte Suchbegriffe: Mitarbeiter (m/w/d), Mitarbeiter/in, Metallarbeiter, Metallarbeiter/in, Produktionsmitarbeiter, Produktionsmitarbeiter/in, Arbeitsvorbereiter/in, Produktion, Helfer, Metallbranche, Metallhilfsarbeiter, Oberflächenbeschichter, Oberflächentechnik, 3- Schicht, Helfer/in, Produktionshelfer, Produktionshelfer/in, Sichtkontrolle)",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 22.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-15T20:24",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 92,
+      "changes": 1,
+      "min_wait": 29,
+      "walk_end": 7,
+      "end_stop": "Friesenheim Schule",
+      "dep": "05:21",
+      "arr": "06:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7141",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Friesenheim Schule",
+        "dep": "06:17",
+        "arr": "06:47",
+        "wait": 29,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Friesenheim Schule",
+        "to": "работа",
+        "dep": "06:47",
+        "arr": "06:54",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 95
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 203,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 177,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "09:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "09:55",
+        "min": 177
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 203
+     },
+     {
+      "kind": "велосипед",
+      "min": 127,
+      "changes": 0,
+      "km": 31.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 127
+       }
+      ],
+      "risky": false,
+      "score": 234
+     }
+    ],
+    "best": "транспорт",
+    "min": 92,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.jobware.de/job/produktionshelfer-3-schicht-metallbranche-m-w-d-064775831"
    ],
    "person": "mykyta"
   },
@@ -143274,7 +143785,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-9962BDLCR1BNN3C0-S"
+   ],
    "person": "Марина"
   },
   {
