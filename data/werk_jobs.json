@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T20:06",
+ "generated": "2026-11-24T21:07",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -14,7 +14,7 @@
  },
  "counts": {
   "all": 594,
-  "queue": 240,
+  "queue": 239,
   "ai_focus": 309
  },
  "jobs": [
@@ -2121,39 +2121,6 @@
    "posted": "2026-11-16",
    "first_seen": "2026-11-17T17:04",
    "description": "M-A-U-S Seminare gGmbH organisiert bundesweit Erste-Hilfe-Kurse und ist führender Anbieter in Deutschland. Gesucht wird ein Werkstudent (m/w/d) für die Einführung von Microsoft Copilot, Prozessautomatisierung und KI-gestützte Digitalisierungsprojekte. Eingeschriebenes Studium in BWL, Wirtschaftsinformatik, Informatik oder vergleichbar, Interesse an KI und Automatisierung sowie erste Microsoft-365-Erfahrungen werden vorausgesetzt."
-  },
-  {
-   "id": "ba_12465-1654131-1-S",
-   "queue": true,
-   "missing_skills": [],
-   "nice_to_have_missing": [
-    "C++"
-   ],
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Werkstudent",
-   "track": "KI / Automatisierung",
-   "title": "Werkstudent (w/m/d) AI Automation",
-   "company": "Siemens AG",
-   "location": "Karlsruhe",
-   "distance_km": 60.6,
-   "remote": false,
-   "german_level": "sehr gut",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1654131-1-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4489581912",
-    "https://www.jobware.de/job/werkstudent-w-m-d-ai-automation-065160884"
-   ],
-   "salary": "",
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-16T13:46",
-   "description": "**Art der Anstellung:** Befristet / max. 20 Stunden/Woche Starte als Werkstudent AI Automation (w/m/d) in Karlsruhe durch und tauche ein in die faszinierende Welt von Computer Vision, Robotik und echten Labor-Setups – deine Ideen und Neugier sind bei uns gefragt! Werde Teil unseres Teams und gestalte die Zukunft der AI-Automatisierung aktiv mit. Werde Teil unseres Working Student Network – einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet. **Verändere die Welt von morgen:** - Du validierst, bereinigst und labelst Computer-Vision-Datensätze, um die Grundlage für eine zuverlässige KI-Automatisierung zu schaffen- Anschließend testest und evaluierst du systematisch unsere AI-Automatisierungstools, wobei du Optimierungspotenziale identifizierst- Daraufhin unterstützt du das Team bei Frontend- und Backend-Verbesserungen unserer Tools, indem du deine technischen Kenntnisse einbringst- Im weiteren Verlauf führst du kleinere Forschungs- und Entwicklungsaufgaben im Bereich Computer Vision und Robotik durch- Abschließend erhältst du praxisnahe Einblicke in MLOps und agile Softwareentwicklung, indem du bei Laborinfrastruktur, Testnetzwerken und Hardware-Deployments für CV-Projekte mitwirkst **So überzeugst du uns:** - **Ausbildung**: Du studierst derzeit erfolgreich Informatik, Robotik, Elektrotechnik oder einen vergleichbaren Studiengang- **Erfahrungen und Kenntnisse**:- Du hast Interesse und eventuell erste Kenntnisse in den Bereichen Computer Vision, Künstliche Intelligenz und Robotik- Du bist idealerweise vertraut mit gängigen Programmiersprachen wie Python oder C++- Du hast bestenfalls Erfahrung im Umgang mit Datenvalidierung, Labeling und Testing von Softwaretools - **Arbeitsweise**: Du überzeugst durch eine strukturierte, eigenständige und genaue Arbeitsweise- **Sprachkenntnisse**: Du verfügst über fließende Deutsch- und Englischkenntnisse (mindestens B2) Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen! Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden. Wir legen Wert auf [Chancengleichheit ](https://www.siemens.com/de/de/unternehmen/jobs/arbeiten-bei-siemens/inklusion.html)und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung. Bei gleicher Qualifikation werden schwerbehinderte und gleichgestellte Bewerberinnen und Bewerber bevorzugt berücksichtigt. **Über Uns**Wir entwickeln Netzwerke, die unsere Städte schlauer mit Licht und Wärme versorgen und kennen uns in Sachen Automatisierung und Digitalisierung in der Prozess- und Fertigungsi"
   },
   {
    "id": "ss_14746634",
@@ -6977,6 +6944,38 @@
    "description": "Tätigkeitsbereich: Forschung & Entwicklung incl. Design Fachabteilung: MB.OS Integration HW/SW/Car-Package-Mnmt & E/E-Planung Gesellschaft: Mercedes-Benz AG Standort: Sindelfingen Startdatum: 01.02.2027 Veröffentlichungsdatum: 01.02.2027 Stellennummer: MER0004AI2 Arbeitszeit: Teilzeit Aufgaben Wir im Team MB.OS-Integration, HW/SW/Car-Package-Management & E/E-Planung (E/E – Elektrik/Elektronik) verantworten die E/E-Releaseplanung, das E/E-Releasemanagement, die Methodik FiFA@EE, die präventive Prüfung der Codierdatendokumentation (FiFA4QNT) sowie den Gesamt-FROP. Zudem stellen wir die konsistente Dokumentation zwischen verschiedenen IT-Systemen sicher und schaffen damit die Grundlage für nachgelagerte Release-Rollout-Prozesse wie Over-the-Air-Updates (OTA), die Software-Tankstelle und die Fahrzeuginbetriebnahme in der Prototypenproduktion. Zur Analyse und Visualisierung der Daten nutzen wir Power-BI-Dashboards, deren Datenpipeline auf Python, PySpark und Azure Databricks basiert. Für diesen spannenden und zukunftsorientierten Aufgabenbereich suchen wir Dich als Praktikant*in. Deine Aufgaben im Einzelnen: - Entwicklung und Weiterentwicklung von Power-BI-Dashboards zur Analyse und präventiven Prüfung von Hardware- und Codierdatendokumentationen - Nutzung von Python, PySpark und SQL zur Datenaufbereitung, Analyse und Automatisierung von Prozessen - Aufnahme, Analyse und Abstimmung fachlicher Anforderungen in enger Zusammenarbeit mit den Fachbereichen - Umsetzung technischer Lösungen gemeinsam mit teaminternen und teamübergreifenden Entwicklungspartner*innen - Optimierung, Pflege und Weiterentwicklung bestehender Datenmodelle, Dashboards und Berechnungslogiken - Dokumentation von Dashboards, Datenmodellen und Datenverarbeitungsprozessen sowie Sicherstellung der Datenqualität und Datenintegrität Das bieten wir Dir: - Ein offenes und motiviertes Team mit enger Einbindung in aktuelle Projekte - Die Möglichkeit, eigene Ideen einzubringen und aktiv an der Umsetzung neuer Anforderungen mitzuwirken - Ein modernes Arbeitsumfeld mit aktuellen Technologien wie Azure Databricks, Power BI, Python und GitLab - Eigenverantwortliche Aufgaben mit fachlichem Gestaltungsspielraum - Wertvolle Einblicke in die Entwicklung und Absicherung softwarebasierter Fahrzeugfunktionen im MB.OS-Umfeld Die Tätigkeit kann ab Februar 2027 beginnen. Qualifikationen - Studiengang im Bereich (Wirtschafts-)Informatik, IT- und Informationsmanagement, Elektro- und Informationstechnik, Data Science, Statistik, Mathematik oder ein vergleichbarer Studiengang - Praktische Erfahrung mit Python sowie Bibliotheken wie Pandas oder PySpark zur Datenverarbeitung und Datentransformation - Erste Erfahrungen in den Bereichen Big Data, Data Analytics oder Data Science sind von Vorteil - Kenntnisse in SQL sind von Vorteil - Kenntnisse in Power BI, DAX, Power Query, Tableau oder vergleichbaren Business-Intelligence-Lösungen sind wünschenswert - Analytische Denkweise, konzeptionelle Fähigkeiten sowie eine st"
   },
   {
+   "id": "li_4489581912",
+   "queue": false,
+   "missing_skills": [
+    "C++"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (w/m/d) AI Automation",
+   "company": "Siemens",
+   "location": "Karlsruhe",
+   "distance_km": 58.2,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4489581912",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [
+    "https://www.jobware.de/job/werkstudent-w-m-d-ai-automation-065160884"
+   ],
+   "salary": "",
+   "posted": "2026-11-13",
+   "first_seen": "2026-11-16T13:46",
+   "description": "Art der Anstellung: Befristet / max. 20 Stunden/Woche Starte als Werkstudent AI Automation (w/m/d) in Karlsruhe durch und tauche ein in die faszinierende Welt von Computer Vision, Robotik und echten Labor-Setups - deine Ideen und Neugier sind bei uns gefragt! Werde Teil unseres Teams und gestalte die Zukunft der AI-Automatisierung aktiv mit. Werde Teil unseres Working Student Network - einer Community, die dir Austausch, Unterstützung und wertvolle Kontakte bei Siemens bietet. Verändere die Welt von morgen: Du validierst, bereinigst und labelst Computer-Vision-Datensätze, um die Grundlage für eine zuverlässige KI-Automatisierung zu schaffen Anschließend testest und evaluierst du systematisch unsere AI-Automatisierungstools, wobei du Optimierungspotenziale identifizierst Daraufhin unterstützt du das Team bei Frontend- und Backend-Verbesserungen unserer Tools, indem du deine technischen Kenntnisse einbringst Im weiteren Verlauf führst du kleinere Forschungs- und Entwicklungsaufgaben im Bereich Computer Vision und Robotik durch Abschließend erhältst du praxisnahe Einblicke in MLOps und agile Softwareentwicklung, indem du bei Laborinfrastruktur, Testnetzwerken und Hardware-Deployments für CV-Projekte mitwirkst So überzeugst du uns: Ausbildung: Du studierst derzeit erfolgreich Informatik, Robotik, Elektrotechnik oder einen vergleichbaren Studiengang Erfahrungen und Kenntnisse: Du hast Interesse und erste Kenntnisse in den Bereichen Computer Vision, Künstliche Intelligenz und Robotik Du bist vertraut mit gängigen Programmiersprachen wie Python oder C++ Du hast Erfahrung im Umgang mit Datenvalidierung, Labeling und Testing von Softwaretools Arbeitsweise: Du überzeugst durch eine strukturierte, eigenständige und genaue Arbeitsweise Sprachkenntnisse: Du verfügst über fließende Deutsch- und Englischkenntnisse (mindestens B2) Du bist viel mehr als deine Qualifikationen und wir glauben an das Potential jeder einzelnen Person. Wir freuen uns darauf, dich kennenzulernen! Bei Siemens sind wir überzeugt: Wer sich wertgeschätzt und zugehörig fühlt, kann das eigene Potenzial voll entwickeln. Deshalb schaffen wir ein inklusives Arbeitsumfeld, in dem jede Person ein Gefühl der Zugehörigkeit erfährt und in dem individuelle Perspektiven und Erfahrungen geschätzt werden. Unser Engagement für Fairness und Respekt gilt für alle Bewerbenden. Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit unterschiedlichen Hintergründen, ausdrücklich auch von Menschen mit Behinderung. Über Uns Wir entwickeln Netzwerke, die unsere Städte schlauer mit Licht und Wärme versorgen und kennen uns in Sachen Automatisierung und Digitalisierung in der Prozess- und Fertigungsindustrie bestens aus. Dafür und für viele weitere Zukunftsprojekte brauchen wir kluge Köpfe, die ihr Können und ihre Kreativität aktiv einbringen. Menschen wie dich! Hilf uns dabei, die spannendsten Herausforderungen gemeinsam anzugehen und umzusetzen, worauf es ankommt. Was wir dir bieten,"
+  },
+  {
    "id": "li_4459792180",
    "queue": false,
    "missing_skills": [
@@ -8876,6 +8875,37 @@
    "description": "EIN GUTES PRAKTIKUM IST PRAKTISCH NIE THEORETISCH. TEILE DEINE LEIDENSCHAFT. Erfolg ist Teamarbeit. Nur wenn Expert:innen ihr Fachwissen und ihre Begeisterung teilen, entsteht ein Workflow, in dem Ideen fließen. Das nennen wir Innovationskultur. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern vor allem auch zum Mitreden und Weiterdenken. Unser Team bei BMW Motorrad ConnectedRide treibt die kontinuierliche Verbesserung der Prozesse rund um unsere ConnectedRide Produkte voran. Ein zentraler Hebel ist dabei die Agentisierung und Automatisierung von End-to-End-Prozessen mit modernen Tools und KI – wir entwickeln uns zunehmend in Richtung AI Native, mit konkreten AI-Native-Setups, Ingest-Flows und dem Betrieb lokaler LLMs. Im Rahmen deines Werkstudiums unterstützt du als aktive Schnittstelle zwischen Fachbereichen und IT und trägst zur engen Zusammenarbeit mit Product Ownern sowie Business- und Operations-Teams bei. Was erwartet dich? Du unterstützt bei der Analyse und Optimierung bestehender Prozesse im ConnectedRide-Umfeld. Außerdem wirkst du mit bei der Konzeption und Umsetzung von Agentisierungslösungen (z. B. n8n oder Power Automate) sowie bei konkreten AI-Native-Setups und Ingest-Flows. Darüber hinaus unterstützt du beim Aufsetzen und Betrieb lokaler LLMs im Linux-Umfeld (Self-Hosting). Zudem trägst du zum AI-Native-Resetup von Workflows bei, zum Beispiel bei Genehmigungsprozessen, Reporting und Datenflüssen. Außerdem wirkst du mit bei der Schnittstellenarbeit zwischen Business Development, Operations und Product Ownern. Ergänzend hilfst du bei der Identifikation von Effizienzpotenzialen durch den Einsatz von KI und Automatisierung. Zudem unterstützt du bei der Strukturierung und Dokumentation von Prozessen. Was bringst du mit? Studium der (Wirtschafts-)Informatik, BWL mit IT-Bezug oder vergleichbar. Interesse an Digitalisierung, Prozessmanagement und Automatisierung, insbesondere an AI-Native-Ansätzen und Agentisierung statt klassischer Digitalisierung. Erste Erfahrungen mit Tools wie n8n oder Power Automate sowie mit AI-Native-Setups, Ingest-Flows oder lokalen LLMs im Linux-Umfeld von Vorteil. Strukturierte und analytische Vorgehensweise. Verständnis für organisatorische Abläufe und Schnittstellenarbeit. Teamfähigkeit, Eigeninitiative und Anwesenheit vor Ort in München. Sehr gute Deutsch- und Englischkenntnisse. Du bringst Begeisterung für neue Technologien und ein innovatives Umfeld mit? Dann bewirb dich jetzt! Was bieten wir dir? Umfassendes Mentoring & Onboarding. Persönliche & fachliche Weiterentwicklung. Flexible Arbeitszeiten. Mobilarbeit. Attraktive & faire Vergütung. Apartments für Studierende (nach Verfügbarkeit & nur am Standort München). Und vieles mehr siehe bmw.jobs/waswirbieten. Startdatum: ab frühestens 01.12.2026 Dauer: 12 Monate Arbeitszeit: Teilzeit Hilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest du hier. Wir bei der BMW Group legen großen Wert auf Gleichbehandlung "
   },
   {
+   "id": "li_4492871229",
+   "queue": false,
+   "missing_skills": [
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Mandatory Internship / Thesis: AI-Assisted Benchmarking of Image Processing Solutions",
+   "company": "targetjobs UK",
+   "location": "Waldkirch",
+   "distance_km": 49.0,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4492871229",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-23T16:29",
+   "description": "Summer Semester 2027 – fixed term of 3–6 months Job Description Modern machine vision systems generate large volumes of image and sensor data, which are time-consuming to analyze manually and difficult to scale. At the same time, demands for quality, robustness, and traceability in industrial image processing are increasing. Artificial intelligence offers new ways to automatically detect quality issues, analyze large datasets efficiently, and support benchmarking processes. As part of this internship or thesis project, you will develop a concept for AI-supported quality assurance and automated analysis of machine vision systems and implement a proof of concept. Your Tasks You analyze existing quality assurance methods in industrial image processing and explore how AI can be used to automatically analyze large image datasets. You develop methods to detect and classify quality deviations, misclassifications, and outliers in image data. You design and implement an automated analysis and benchmarking pipeline for machine vision systems. You develop metrics to assess image quality, detection performance, and system robustness. You explore the use of Large Language Models (LLMs) and AI agents to interpret, aggregate, and document analysis results. You develop dashboards and automated reports to visualize quality metrics and benchmarking results. You compare different machine vision solutions using real-world data and identify opportunities to improve accuracy, stability, and performance. You document and present your findings and recommendations. Your Profile Studies in computer science, electrical engineering, data science, mathematics, robotics, or a related field Good programming skills in Python Basic knowledge of machine learning, deep learning, and computer vision Interest in industrial image processing and automated quality assurance Initial experience with PyTorch, TensorFlow, or similar frameworks is an advantage Knowledge of Large Language Models (LLMs), generative AI, or AI agents is an advantage Experience in data analysis and visualization, as well as dashboard development, is an advantage Independent and structured approach to work, strong analytical skills, and good command of English"
+  },
+  {
    "id": "ss_14689897",
    "queue": false,
    "missing_skills": [
@@ -9469,37 +9499,6 @@
    "posted": "2026-10-19",
    "first_seen": "2026-11-04T12:29",
    "description": "Du hast bereits mit WordPress gearbeitet und Lust, Deine Web-Development-Skills in echten Projekten weiterzuentwickeln? In unserem Marketing-Team arbeitest Du an Websites und Landingpages mit und findest gemeinsam mit uns heraus, wo KI den Entwicklungsalltag noch ein bisschen smarter machen kann. ### Wo Du mit anpacken kannst - Du entwickelst und pflegst unsere WordPress-Websites und Landingpages und setzt kleinere Frontend-Anpassungen um. - Mit Tools wie Claude Code oder Codex holst Du Dir Unterstützung beim Coden, Troubleshooting und Lernen. Neue KI-Tools und Prompts probierst Du gerne aus. Was gut funktioniert, landet nicht in Deiner persönlichen Trickkiste, sondern direkt bei uns im Team. - Deine Code-Anpassungen hältst Du mit Git sauber auf Kurs. - Wenn irgendwo etwas hakt, gehst Du auf Fehlersuche und unterstützt bei kleineren Performance-Optimierungen. - Eigene Ideen für unsere Webauftritte sind ausdrücklich willkommen – schließlich sitzt Du nicht nur zum Zuschauen mit am Tisch. - Werkstudent:in bedeutet bei uns nicht nur zuschauen: Du bekommst echte Projekte, Raum zum Ausprobieren und eine Lernkurve, die Dich fordert, aber nicht ins kalte Wasser wirft. - Du arbeitest 20 Stunden pro Woche mit flexiblen Arbeitszeiten rund um Studium und Prüfungsphasen. Auch Homeoffice ist möglich, sodass sich der Job auch räumlich gut mit Deinem Studium verbinden lässt. ### Was Du mitbringen solltest - WordPress ist für Dich kein Neuland: Du hast bereits praktische Erfahrung damit gesammelt und kannst bestehende Websites eigenständig bearbeiten. Auch HTML, CSS und JavaScript sind Dir vertraut. - Page Builder wie Bricks Builder kennst Du vielleicht schon. Erste Berührungspunkte mit PHP und MySQL sind ebenfalls ein Plus, aber kein Muss. - KI musst Du bei uns nicht heimlich im zweiten Tab öffnen. Claude Code, Codex & Co. nutzt Du bereits im Studium oder privat und hast Lust, mit Prompting und neuen KI-Workflows zu experimentieren. - Mit Git und den Grundlagen der Versionsverwaltung bist Du bereits vertraut. - Du packst gerne selbst mit an, stellst Fragen und hast Lust, Deine Ideen in unser Marketing-Team einzubringen. - Um bei uns richtig Fuß zu fassen, beherrschst Du Deutsch fließend auf mindestens C1-Niveau. ### Warum wir? Wir sind ein offenes und ambitioniertes Team von über 600 Mitarbeitern, das Kundenorientierung wirklich lebt und gleichzeitig Spaß hat. Bei uns herrscht auch nach über 10 Jahren eine Startup-Atmosphäre, die neben dem legendären Obstkorb auch vielseitige Perks wie eine steuerfreie Shoppingkarte, Dienstrad-Leasing und Gesundheitskurse (z.B. Yoga, Rückentraining und mental Health) anbietet - sowohl online als auch im Büro. Je nach Einsatzgebiet (und das sind mindestens 75% aller Unternehmensbereiche) bieten wir all unseren Kollegen flexible Arbeitszeiten und Home Office an. Wir verstehen uns als eng zusammenhaltendes Team mit Kooperations- statt Wettbewerbs-Atmosphäre. Außerhalb der Arbeit organisieren wir Events wie Beachvolleyball im Sommer"
-  },
-  {
-   "id": "li_4492871229",
-   "queue": false,
-   "missing_skills": [
-    "PyTorch",
-    "TensorFlow"
-   ],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 2,
-   "ai_focus": true,
-   "type": "Praktikum",
-   "track": "KI / Automatisierung",
-   "title": "Mandatory Internship / Thesis: AI-Assisted Benchmarking of Image Processing Solutions",
-   "company": "targetjobs UK",
-   "location": "Waldkirch",
-   "distance_km": 49.0,
-   "remote": false,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "LinkedIn",
-   "url": "https://de.linkedin.com/jobs/view/4492871229",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-21",
-   "first_seen": "2026-11-23T16:29",
-   "description": "Summer Semester 2027 – fixed term of 3–6 months Job Description Modern machine vision systems generate large volumes of image and sensor data, which are time-consuming to analyze manually and difficult to scale. At the same time, demands for quality, robustness, and traceability in industrial image processing are increasing. Artificial intelligence offers new ways to automatically detect quality issues, analyze large datasets efficiently, and support benchmarking processes. As part of this internship or thesis project, you will develop a concept for AI-supported quality assurance and automated analysis of machine vision systems and implement a proof of concept. Your Tasks You analyze existing quality assurance methods in industrial image processing and explore how AI can be used to automatically analyze large image datasets. You develop methods to detect and classify quality deviations, misclassifications, and outliers in image data. You design and implement an automated analysis and benchmarking pipeline for machine vision systems. You develop metrics to assess image quality, detection performance, and system robustness. You explore the use of Large Language Models (LLMs) and AI agents to interpret, aggregate, and document analysis results. You develop dashboards and automated reports to visualize quality metrics and benchmarking results. You compare different machine vision solutions using real-world data and identify opportunities to improve accuracy, stability, and performance. You document and present your findings and recommendations. Your Profile Studies in computer science, electrical engineering, data science, mathematics, robotics, or a related field Good programming skills in Python Basic knowledge of machine learning, deep learning, and computer vision Interest in industrial image processing and automated quality assurance Initial experience with PyTorch, TensorFlow, or similar frameworks is an advantage Knowledge of Large Language Models (LLMs), generative AI, or AI agents is an advantage Experience in data analysis and visualization, as well as dashboard development, is an advantage Independent and structured approach to work, strong analytical skills, and good command of English"
   },
   {
    "id": "ba_13151-1655131-1-S",
@@ -12087,7 +12086,9 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1657614-1-S",
    "apply_url": "",
    "apply_email": "sbv-sindelfingen@mercedes-benz.com",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Werkstudentin-Digitale-Absicherung-von-PKW-Seitentueren-Sindelfingen-Mercedes-Benz-AG--14791630-inline.html"
+   ],
    "salary": "",
    "posted": "2026-11-24",
    "first_seen": "2026-11-24T17:00",
