@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T23:10",
+ "generated": "2026-11-25T00:09",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 593,
+  "all": 596,
   "queue": 239,
-  "ai_focus": 308
+  "ai_focus": 309
  },
  "jobs": [
   {
@@ -7163,6 +7163,36 @@
    "description": "STAR werden. Zukunft machen. Für den STAR-Bereich | Böblingen | Teilzeit, Werkstudenten Gestalte mit uns intelligente Software, die in der Praxis etwas bewegt! Du möchtest nicht nur über Künstliche Intelligenz sprechen, sondern sie selbst entwickeln? In unserem AI-Team arbeitest Du an innovativen AI-Lösungen für internationale Top-Unternehmen. Gemeinsam mit erfahrenen AI-, Cloud- und Software-Experten entwickelst Du Prototypen, integrierst moderne KI-Modelle in Anwendungen und bringst neue Ideen von der ersten Skizze bis zum funktionierenden Use Case. Dabei erhältst Du echte Einblicke in anspruchsvolle Kundenprojekte und kannst Deine technischen Fähigkeiten direkt in der Praxis einsetzen. Statt klassischer Werkstudentenaufgaben erwarten Dich relevante Fragestellungen, moderne Technologien und viel Raum zum Ausprobieren. Deine Aufgaben Entwicklung von AI-Anwendungen: Du unterstützt bei der Konzeption und Umsetzung innovativer Anwendungen von Künstlicher Intelligenz und Generative AI. Prototyping und Proof of Concepts: Du entwickelst funktionsfähige Prototypen und demonstrierst, wie sich neue AI-Technologien in konkreten Business-Anwendungen einsetzen lassen Integration von AI-Modellen: Du bindest Large Language Models und weitere AI-Services über APIs in bestehende oder neu entwickelte Anwendungen ein. AI Agents und intelligente Workflows: Du wirkst bei der Entwicklung agentenbasierter Lösungen mit, die auf Informationen, Anwendungen und Unternehmensprozesse zugreifen können Backend- und Anwendungsentwicklung: Du entwickelst Softwarekomponenten, Schnittstellen und Services, beispielsweise mit Python oder JavaScript beziehungsweise TypeScript RAG und Unternehmenswissen: Du unterstützt bei der Entwicklung von Anwendungen, die Sprachmodelle sicher und gezielt mit Dokumenten, Datenbanken oder anderen Wissensquellen verbinden Testing und Qualitätssicherung: Du testest AI-Anwendungen systematisch und hilfst dabei, Qualität, Zuverlässigkeit und Nachvollziehbarkeit der Ergebnisse zu verbessern. Technologie-Scouting: Du analysierst neue Frameworks, Modelle und Entwicklungsmethoden und bewertest, wie sie sich sinnvoll in unseren Projekten einsetzen lassen Mitarbeit in Kundenprojekten: Du arbeitest eng mit unserem Team an realen AI-Projekten und bringst Deine technischen Ideen aktiv in die Lösungsentwicklung ein Dein Profil Du bist eingeschriebener Student (m/w/d), beispielsweise in Informatik, Wirtschaftsinformatik, Data Science, Software Engineering, Künstlicher Intelligenz oder einem vergleichbaren StudiengangDu verfügst über erste praktische Programmiererfahrung, idealerweise mit Python oder JavaScript beziehungsweise TypeScript Du hast ein ausgeprägtes Interesse an Artificial Intelligence, insbesondere an Generative AI, Large Language Models und AI Agents Du kennst grundlegende Konzepte der Softwareentwicklung und hast idealerweise bereits eigene Anwendungen, Studienprojekte oder Prototypen umgesetzt. Erste Erfahrungen mit APIs, Git, Datenbanken, Cloud-"
   },
   {
+   "id": "li_4480891095",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [
+    "PyTorch"
+   ],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Junior",
+   "track": "KI / Automatisierung",
+   "title": "Trainee AI Engineer (m/w/d)",
+   "company": "statworx",
+   "location": "Frankfurt am Main",
+   "distance_km": 181.1,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4480891095",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-10-18",
+   "first_seen": "2026-11-24T23:40",
+   "description": "Über uns statworx ist ein führendes Beratungs- und Entwicklungsunternehmen für Daten und KI mit Sitz in Frankfurt am Main. Wir bieten strategische Beratung für mittelständische Unternehmen und globale Konzerne. Wir entwickeln innovative Daten- & KI-Lösungen für alle Unternehmensbereiche und Tätigkeitsfelder. Wir befähigen Menschen auf allen Kompetenzniveaus mit unseren Daten- & KI-Bildungsformaten. Kurz gesagt: Wir unterstützen Unternehmen bei allen Aspekten der digitalen Transformation – seit mehr als 10 Jahren, in über 1.000 Daten- & KI-Projekten und für über 100 Kunden aus fast allen Industrien. Unsere AI Development-Abteilung agiert als Katalysator für Data & AI Transformation. Dabei setzen wir auf eine ganzheitliche Herangehensweise, die von der initialen Evaluierung der KI-Reife über die Konzeption und Ausarbeitung der Daten- und KI-Lösung bis hin zur praktischen Umsetzung und Skalierung von KI-Lösungen reicht. Durch unsere tiefgehende Expertise in Data Engineering, Data Science, Machine Learning sorgen wir dafür, dass unsere Kunden den maximalen Nutzen aus ihren Daten ziehen. Für unsere AI Development-Abteilung suchen wir Trainees, die wir innerhalb eines Jahres gezielt auf ihre zukünftige Rolle als Junior-Berater:innen mit Schwerpunkt Data Science vorbereiten. Detaillierte Informationen zu unserem Traineeprogramm findest du hier. Deine Aufgaben Fokus: Hands-on-Arbeit mit NLP- und Generative-AI-Systemen in Kundenprojekten Als Teil unserer Projektteams wirst du generative KI- & NLP-Lösungen entwerfen und regelmäßig engen Kontakt zu unseren Kunden und verschiedenen Stakeholdern haben Du agierst als Entwickler:in und beschäftigst dich mit verschiedenen NLP Use Cases wie z.B. Knowledge Management mit Retrieval Augmented Chatbots oder Fine-Tuning von Sprachmodellen Du implementierst robuste, erweiterbare und leistungsstarke ML-Pipelines auf verschiedenen Infrastrukturen (z.B. Azure) gemäß aktuellen Best-Practices Du unterstützt bei der Entwicklung von Produkten und der Weiterentwicklung unseres Angebotsportfolios und wirkst an der Erstellung von Marketing-Content mit Du bist auf dem aktuellen Stand bezüglich der neusten Entwicklungen im Bereich NLP und KI (z.B. zu Repositories, Methoden, Tools, Paper) Du unterstützt unsere (Senior-)Berater:innen bei ihrer täglichen Arbeit, z.B. bei der Vorbereitung von Kundenmeetings und Präsentationen Dein Profil Du hast einen Bachelor- oder Masterabschluss, vorzugsweise in Data Science, BWL/VWL, Statistik, Informatik oder Wirtschaftsinformatik Du hast bereits praktische Erfahrungen im Bereich Data Science gesammelt sowie im Consulting Du verfügst über umfangreiche Kenntnisse im Bereich Machine Learning & Deep Learning, insbesondere in Bezug auf Transformer, LLMs und generative KI Du hast bereits Erfahrungen im Umgang mit gängigen NLP-Tools und Methoden, wie HuggingFace Transformers, OpenAI APIs, Tokenizer sowie in der Nutzung von ML-Frameworks (z.B. PyTorch) sammeln können Du bringst idealerweise Erfahrungen "
+  },
+  {
    "id": "ba_15986-REF301706H-d54828e-S",
    "queue": false,
    "missing_skills": [],
@@ -12747,6 +12777,34 @@
    "description": ""
   },
   {
+   "id": "li_4467293443",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Web / Shop / SEO",
+   "title": "Werkstudent Online Marketing (m/w/d)",
+   "company": "Kartenliebe GmbH",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "einzubringen Du besitzt sehr gute Deutschkenntnisse (mind. C1-Niveau) WARUM MIT UNS DURCHSTARTEN? Dei",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4467293443",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-09-14",
+   "first_seen": "2026-11-24T23:40",
+   "description": "M/W/D Werkstudent Online Marketing In München HEY DU! Wir suchen Dich als Werkstudent Online Marketing (m/w/d) an unserem Standort im Herzen von München . Du willst mehr als nur „Zuarbeiten“? Du willst wirklich verstehen, wie modernes Online Marketing in einem wachsenden E-Commerce-Unternehmen funktioniert und dabei selbst Verantwortung übernehmen? Dann bist Du bei uns richtig: In unserem 20-köpfigen Marketing-Team lernst Du von echten Profis, sammelst wertvolle Praxiserfahrung und bringst Deine eigenen Ideen direkt ein. Wir sind MYPOSTER. Seit 2011 sind wir als E-Commerce-Unternehmen mit klarem Tech-Fokus, eigener Produktion und starken Wurzeln als Familienunternehmen erfolgreich am Markt. Wir machen aus Fotos persönliche Lieblingsstücke - maßgefertigt, individuell und made in Germany. Unser Team aus über 400 Mitarbeitenden vereint Softwareentwicklung, Produktdesign und digitale Fertigung in einem agilen Workflow. Gemeinsam gestalten wir Fotoprodukte, die begeistern - mit smarten Prozessen, starken Ideen und echter Begeisterung fürs Detail. DEINE AUFGABEN – HIERFÜR BRENNST DU Du entwickelst mit dem Team Content-Strategien, bringst eigene Ideen ein und recherchierst eigenständig neue Themen. Du verfasst Blog-Artikel, Landingpages und Social-Media-Posts, die nicht nur schön klingen, sondern unsere Zielgruppen begeistern. Du unterstützt unsere internationalen Kampagnen in 12 Ländern - von Planung über Briefings bis zum Go-Live. Du übernimmst erste Verantwortung im CRM: baust Newsletter-Kampagnen und analysierst ihre Performance. Du sitzt mit im Marketing-Alltag: in Meetings, bei Projekten und beim Austausch mit anderen Teams und lernst so das ganze Spektrum kennen DAS BRINGST DU MIT Du bist eingeschriebener Student (z. B. WiWi, BWL, Kommunikationswissenschaften o. ä.) und hast erste Erfahrung im Marketing - sei es durch ein Praktikum, Werkstudentenjob oder relevante Uni-Module Du hast Bock, richtig viel zu lernen, Verantwortung zu übernehmen und aktiv mitzugestalten Du arbeitest strukturiert, verlierst auch bei vielen Aufgaben nicht den Überblick und lieferst zuverlässig Du bist motiviert, neugierig und hast keine Scheu, eigene Ideen einzubringen Du besitzt sehr gute Deutschkenntnisse (mind. C1-Niveau) WARUM MIT UNS DURCHSTARTEN? Deine Rolle, Dein Impact Du arbeitest nicht nur zu, sondern setzt eigene Projekte im Content- und Kampagnen-Management um - von der Idee bis zum Go-Live Deine Texte, Posts und Kampagnen gehen in 12 Länder live und erreichen milionen Kunden Von SEO über CRM bis Social Media lernst Du verschiedene Disziplinen im modernen Online Marketing kennen und sammelst spannende Erfahrungen Was Dich bei uns erwartet Von Anfang an mittendrin: Du wirst Teil eines Teams, das Dich ernst nimmt - mit echten Aufgaben, Verantwortung und Raum für Deine Ideen KI als Werkzeug: Du arbeitest mit den neuesten Tools und automatisierst, was geht Studium first: Deine Arbeitszeiten passen sich Deinem Semesterplan an Office-Präsenz für starken Teamspirit "
+  },
+  {
    "id": "li_4490725800",
    "queue": false,
    "missing_skills": [],
@@ -16194,6 +16252,34 @@
    "posted": "2026-11-06",
    "first_seen": "2026-11-04T12:29",
    "description": "SMIGHT GmbH Werkstudent:in Marketing (m/w/d) Karlsruhe Branche Wirtschaft; Kommunikation, Medien; BWL; Marketing Art Des Angebots Werkstudent / Job Fachrichtungen Marketing; Betriebswirtschaftslehre Die vollständige Anzeige finden Sie beim Klick auf den Onlinebewerbungs-Button oder unter folgendem Link: https://jobs.jobware.net/Studentenjob/064451236?jw_chl_seg=NLINKEDIN"
+  },
+  {
+   "id": "li_4488510005",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 1,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent (m/w/d) digitales Marketing",
+   "company": "EDEKA Foodservice Unternehmensgruppe",
+   "location": "Köln",
+   "distance_km": 279.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4488510005",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-12",
+   "first_seen": "2026-11-24T23:40",
+   "description": "Die EDEKA Foodservice Unternehmensgruppe mit den Marken EDEKA Foodservice und Handelshof ist Großhändler, Dienstleister und beratender Partner für nationale und regionale Kunden aus dem Hotel- und Gastgewerbe, der Gemeinschaftsverpflegung und dem spezialisierten Handel. Das Foodservice-Unternehmen des EDEKA-Verbunds gehört mit über 90 C+C- und Lagerstandorten zu den ersten Adressen im Cash-und-Carry Umfeld und steht für einen professionellen, deutschlandweiten Lieferservice. Über 7.000 Mitarbeiter:innen sorgen täglich dafür, dass die bestellte Ware zur richtigen Zeit am richtigen Ort ist. Das umfangreiche, vielfältige Food- und Non Food-Sortiment reicht von nationalen Markenartikeln bis hin zu regionalen Spezialitäten und ist perfekt auf die individuellen Anforderungen und Bedürfnisse von Großverbrauchern zugeschnitten. Als Lebensmittel-Großhändler stehen EDEKA Foodservice und Handelshof für ausgezeichnete Frische, eine leistungsfähige Logistik und maßgeschneiderte Servicelösungen aus einer Hand. Abgerundet wird das Portfolio der EDEKA Foodservice Unternehmensgruppe durch die Tochterunternehmen Medsorg (Medizinischer Fachgroßhandel) und die Franz Willick Kaffeegroßrösterei (Kaffeegroßrösterei mit Fokus auf die Bedürfnisse von Profi-Kunden). Für unsere Verwaltung in Köln suchen wir Sie als Werkstudent (m/w/d) digitales Marketing für ca. 20 Stunden pro Woche. Ihre Aufgaben Content Creation & Redaktion: Eigenverantwortliche Recherche, Texterstellung sowie Auswahl und Bearbeitung von Bild- und Videomaterial für unsere Webseiten SEO-Optimierung & Keyword-Recherche: Durchführung von Keyword-Analysen zur Identifikation relevanter Suchbegriffe sowie Erstellung von SEO-optimierten Content-Briefings Newsletter-Marketing: Konzeption, Aufbau und Versand des wöchentlichen Newsletters sowie kontinuierliche Qualitätssicherung und A/B-Testing Reputationsmanagement & Standortpflege: Laufende Pflege, Aktualisierung und Verwaltung unserer physischen Standorte, Systematische Überwachung, Bearbeitung und Beantwortung von Kundenrezensionen zur Stärkung unserer Kundenzufriedenheit Koordination: Abstimmung und enge Zusammenarbeit mit internen Schnittstellen sowie externen Dienstleistern (z. B. Kommunikationsagenturen und IT-Spezialisten) Erfolgsmessung: Unterstützung beim Monitoring und Reporting wichtiger Kennzahlen (z. B. Öffnungsraten beim Newsletter, Kampagnen und Kundenfeedback-Trends) Ihr Profil Laufendes Studium, idealerweise mit den Schwerpunkten Marketing, Kommunikation, Medienwissenschaften, Wirtschaftswissenschaften oder verfügen über eine vergleichbare Qualifikation Idealerweise erste praktische Erfahrungen im Bereich Online-Marketing, Content-Management oder Newsletter-Marketing mit – beispielsweise durch vorangegangene Praktika oder Werkstudententätigkeiten in einer Agentur oder einem Unternehmen Grundlegende Kenntnisse gängiger Content-Management-Systeme sowie Newsletter-Tools und haben Freude am Verfassen zielgruppengerechter Texte sowie an der Erstellun"
   },
   {
    "id": "li_4484154585",
