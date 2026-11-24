@@ -1,9 +1,1917 @@
 {
- "generated": "2026-11-24T04:43",
+ "generated": "2026-11-24T09:00",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1015,
+ "count": 1025,
  "items": [
+  {
+   "id": "marina:ba_13356-104240A48281C15-S",
+   "src": "Jobbörse",
+   "title": "Verpacker (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.69081642,
+   "lon": 8.155813322,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A48281C15-S",
+   "posted": "2026-11-24",
+   "desc": "**Ort:** Raum Bühl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** PPK **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Verpacker (m/w/d) in der PPK-Branche** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Palettieren**diverser Waren * **Kennzeichnen**der Produkte * Prüfung der Produkte auf **Qualität und Vollständigkeit** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung im Verpackungs-/ Lagerbereich * **Hard Skills**: Kenntnisse der deutschen Sprache * **Arbeitszeit**: Tagschicht * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Verpacker (m/w/d) im Raum Bühl!",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 18.5,
+   "de": "немного",
+   "de_txt": ": Kenntnisse der deutschen Sprache",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 74,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 31,
+      "end_stop": "Bühl (Baden)",
+      "dep": "21:36",
+      "arr": "22:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "22:20",
+        "arr": "22:50",
+        "min": 31
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 77
+     },
+     {
+      "kind": "как в приложении",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 4,
+      "end_stop": "Kappelwindeck Öhinghaltweg",
+      "dep": "21:36",
+      "arr": "23:17",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Anruflinientaxi",
+        "line": "271",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Öhinghaltweg",
+        "dep": "22:50",
+        "arr": "23:13",
+        "wait": 30,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Öhinghaltweg",
+        "to": "работа",
+        "dep": "23:13",
+        "arr": "23:17",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 94,
+      "changes": 0,
+      "km": 23.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 94
+       }
+      ],
+      "risky": false,
+      "score": 168
+     }
+    ],
+    "best": "транспорт",
+    "min": 74,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581041415",
+   "src": "Kleinanzeigen",
+   "title": "Minijob, Teilzeitjob, Job - Zeitung austragen in Schwanau",
+   "firma": "Zustellerkom",
+   "ort": "Schwanau",
+   "plz": "77963",
+   "street": "",
+   "lat": 48.3649357,
+   "lon": 7.7639382,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/minijob-teilzeitjob-job-zeitung-austragen-in-schwanau/3581041415-107-8038",
+   "posted": "2026-11-24",
+   "posted_time": "08:24",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Schwanau. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 29.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Другое",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 102,
+      "changes": 2,
+      "min_wait": 3,
+      "walk_end": 11,
+      "end_stop": "Allmannsweier Oberdorf",
+      "dep": "17:36",
+      "arr": "19:19",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "17:36",
+        "arr": "17:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "17:47",
+        "arr": "18:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "18:06",
+        "arr": "18:16",
+        "wait": 3,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Ottenheim Schule",
+        "dep": "18:44",
+        "arr": "18:57",
+        "wait": 28,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Ottenheim Schule",
+        "to": "Allmannsweier Oberdorf",
+        "dep": "18:59",
+        "arr": "19:08",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Allmannsweier Oberdorf",
+        "to": "работа",
+        "dep": "19:08",
+        "arr": "19:19",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 120
+     },
+     {
+      "kind": "велосипед",
+      "min": 172,
+      "changes": 0,
+      "km": 42.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 172
+       }
+      ],
+      "risky": false,
+      "score": 324
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 324,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 298,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "14:36",
+      "arr": "20:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "14:36",
+        "arr": "14:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "14:47",
+        "arr": "15:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "15:03",
+        "arr": "20:01",
+        "min": 298
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 324
+     }
+    ],
+    "best": "транспорт",
+    "min": 102,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581041163",
+   "src": "Kleinanzeigen",
+   "title": "Jobs in Seelbach - Minijob, Nebenjob, Aushilfsjob",
+   "firma": "Zustellerkom",
+   "ort": "Seelbach",
+   "plz": "77960",
+   "street": "",
+   "lat": 48.3049855,
+   "lon": 7.9427212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/jobs-in-seelbach-minijob-nebenjob-aushilfsjob/3581041163-107-8037",
+   "posted": "2026-11-24",
+   "posted_time": "08:23",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Seelbach. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Другое",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 14,
+      "walk_end": 3,
+      "end_stop": "Seelbach Dautenstein",
+      "dep": "06:59",
+      "arr": "08:39",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE7",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:40",
+        "arr": "07:51",
+        "wait": 14,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Seelbach Dautenstein",
+        "dep": "08:06",
+        "arr": "08:37",
+        "wait": 15,
+        "min": 31
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Seelbach Dautenstein",
+        "to": "работа",
+        "dep": "08:37",
+        "arr": "08:39",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 3,
+      "end_stop": "Seelbach Dautenstein",
+      "dep": "05:21",
+      "arr": "06:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB27",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "05:52",
+        "arr": "06:03",
+        "wait": 4,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Seelbach Dautenstein",
+        "dep": "06:19",
+        "arr": "06:48",
+        "wait": 16,
+        "min": 29
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Seelbach Dautenstein",
+        "to": "работа",
+        "dep": "06:48",
+        "arr": "06:50",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 180,
+      "changes": 0,
+      "km": 44.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 180
+       }
+      ],
+      "risky": false,
+      "score": 340
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 340,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 314,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "19:36",
+      "arr": "01:16",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "19:36",
+        "arr": "19:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "19:47",
+        "arr": "20:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "20:03",
+        "arr": "01:16",
+        "min": 314
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 340
+     }
+    ],
+    "best": "транспорт",
+    "min": 100,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581040532",
+   "src": "Kleinanzeigen",
+   "title": "Zusteller m/w/d - Minijob, Teilzeitjob in Friesenheim",
+   "firma": "Zustellerkom",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "",
+   "lat": 48.3785759,
+   "lon": 7.8951348,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zusteller-m-w-d-minijob-teilzeitjob-in-friesenheim/3581040532-107-8045",
+   "posted": "2026-11-24",
+   "posted_time": "08:22",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Friesenheim. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 21.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Другое",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 99,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Oberweier Litzengrund",
+      "dep": "06:32",
+      "arr": "08:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "104",
+        "from": "Lahr (Schwarzw)",
+        "to": "Oberweier Litzengrund",
+        "dep": "07:38",
+        "arr": "08:06",
+        "wait": 22,
+        "min": 28
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberweier Litzengrund",
+        "to": "работа",
+        "dep": "08:06",
+        "arr": "08:12",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 105
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 214,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 188,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:07",
+        "min": 188
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 214
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 32.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     }
+    ],
+    "best": "транспорт",
+    "min": 99,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581040277",
+   "src": "Kleinanzeigen",
+   "title": "Zeitung austragen, Teilzeitjob, Nebenjob, Minijob in Lahr",
+   "firma": "Zustellerkom",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitung-austragen-teilzeitjob-nebenjob-minijob-in-lahr/3581040277-107-8047",
+   "posted": "2026-11-24",
+   "posted_time": "08:22",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Lahr/Schwarzwald. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Другое",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_13356-104240A48281C15-S",
+   "src": "Jobbörse",
+   "title": "Verpacker (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.69081642,
+   "lon": 8.155813322,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A48281C15-S",
+   "posted": "2026-11-24",
+   "desc": "**Ort:** Raum Bühl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** PPK **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Verpacker (m/w/d) in der PPK-Branche** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Palettieren**diverser Waren * **Kennzeichnen**der Produkte * Prüfung der Produkte auf **Qualität und Vollständigkeit** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung im Verpackungs-/ Lagerbereich * **Hard Skills**: Kenntnisse der deutschen Sprache * **Arbeitszeit**: Tagschicht * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Verpacker (m/w/d) im Raum Bühl!",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 18.5,
+   "de": "немного",
+   "de_txt": ": Kenntnisse der deutschen Sprache",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Сортировка / упаковка",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 74,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 31,
+      "end_stop": "Bühl (Baden)",
+      "dep": "21:36",
+      "arr": "22:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "22:20",
+        "arr": "22:50",
+        "min": 31
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 77
+     },
+     {
+      "kind": "как в приложении",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 4,
+      "end_stop": "Kappelwindeck Öhinghaltweg",
+      "dep": "21:36",
+      "arr": "23:17",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Anruflinientaxi",
+        "line": "271",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Öhinghaltweg",
+        "dep": "22:50",
+        "arr": "23:13",
+        "wait": 30,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Öhinghaltweg",
+        "to": "работа",
+        "dep": "23:13",
+        "arr": "23:17",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 94,
+      "changes": 0,
+      "km": 23.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 94
+       }
+      ],
+      "risky": false,
+      "score": 168
+     }
+    ],
+    "best": "транспорт",
+    "min": 74,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581040532",
+   "src": "Kleinanzeigen",
+   "title": "Zusteller m/w/d - Minijob, Teilzeitjob in Friesenheim",
+   "firma": "Zustellerkom",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "",
+   "lat": 48.3785759,
+   "lon": 7.8951348,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zusteller-m-w-d-minijob-teilzeitjob-in-friesenheim/3581040532-107-8045",
+   "posted": "2026-11-24",
+   "posted_time": "08:22",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Friesenheim. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 21.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 99,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Oberweier Litzengrund",
+      "dep": "06:32",
+      "arr": "08:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "104",
+        "from": "Lahr (Schwarzw)",
+        "to": "Oberweier Litzengrund",
+        "dep": "07:38",
+        "arr": "08:06",
+        "wait": 22,
+        "min": 28
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberweier Litzengrund",
+        "to": "работа",
+        "dep": "08:06",
+        "arr": "08:12",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 105
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 214,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 188,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:07",
+        "min": 188
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 214
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 32.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     }
+    ],
+    "best": "транспорт",
+    "min": 99,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581041163",
+   "src": "Kleinanzeigen",
+   "title": "Jobs in Seelbach - Minijob, Nebenjob, Aushilfsjob",
+   "firma": "Zustellerkom",
+   "ort": "Seelbach",
+   "plz": "77960",
+   "street": "",
+   "lat": 48.3049855,
+   "lon": 7.9427212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/jobs-in-seelbach-minijob-nebenjob-aushilfsjob/3581041163-107-8037",
+   "posted": "2026-11-24",
+   "posted_time": "08:23",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Seelbach. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 27.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 14,
+      "walk_end": 3,
+      "end_stop": "Seelbach Dautenstein",
+      "dep": "06:59",
+      "arr": "08:39",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE7",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:40",
+        "arr": "07:51",
+        "wait": 14,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Seelbach Dautenstein",
+        "dep": "08:06",
+        "arr": "08:37",
+        "wait": 15,
+        "min": 31
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Seelbach Dautenstein",
+        "to": "работа",
+        "dep": "08:37",
+        "arr": "08:39",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 3,
+      "end_stop": "Seelbach Dautenstein",
+      "dep": "05:21",
+      "arr": "06:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB27",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "05:52",
+        "arr": "06:03",
+        "wait": 4,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Seelbach Dautenstein",
+        "dep": "06:19",
+        "arr": "06:48",
+        "wait": 16,
+        "min": 29
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Seelbach Dautenstein",
+        "to": "работа",
+        "dep": "06:48",
+        "arr": "06:50",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 180,
+      "changes": 0,
+      "km": 44.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 180
+       }
+      ],
+      "risky": false,
+      "score": 340
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 340,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 314,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "19:36",
+      "arr": "01:16",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "19:36",
+        "arr": "19:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "19:47",
+        "arr": "20:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "20:03",
+        "arr": "01:16",
+        "min": 314
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 340
+     }
+    ],
+    "best": "транспорт",
+    "min": 100,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581041415",
+   "src": "Kleinanzeigen",
+   "title": "Minijob, Teilzeitjob, Job - Zeitung austragen in Schwanau",
+   "firma": "Zustellerkom",
+   "ort": "Schwanau",
+   "plz": "77963",
+   "street": "",
+   "lat": 48.3649357,
+   "lon": 7.7639382,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/minijob-teilzeitjob-job-zeitung-austragen-in-schwanau/3581041415-107-8038",
+   "posted": "2026-11-24",
+   "posted_time": "08:24",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Schwanau. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 29.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 102,
+      "changes": 2,
+      "min_wait": 3,
+      "walk_end": 11,
+      "end_stop": "Allmannsweier Oberdorf",
+      "dep": "17:36",
+      "arr": "19:19",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "17:36",
+        "arr": "17:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "17:47",
+        "arr": "18:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "18:06",
+        "arr": "18:16",
+        "wait": 3,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Ottenheim Schule",
+        "dep": "18:44",
+        "arr": "18:57",
+        "wait": 28,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Ottenheim Schule",
+        "to": "Allmannsweier Oberdorf",
+        "dep": "18:59",
+        "arr": "19:08",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Allmannsweier Oberdorf",
+        "to": "работа",
+        "dep": "19:08",
+        "arr": "19:19",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 120
+     },
+     {
+      "kind": "велосипед",
+      "min": 172,
+      "changes": 0,
+      "km": 42.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 172
+       }
+      ],
+      "risky": false,
+      "score": 324
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 324,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 298,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "14:36",
+      "arr": "20:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "14:36",
+        "arr": "14:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "14:47",
+        "arr": "15:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "15:03",
+        "arr": "20:01",
+        "min": 298
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 324
+     }
+    ],
+    "best": "транспорт",
+    "min": 102,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581040277",
+   "src": "Kleinanzeigen",
+   "title": "Zeitung austragen, Teilzeitjob, Nebenjob, Minijob in Lahr",
+   "firma": "Zustellerkom",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zeitung-austragen-teilzeitjob-nebenjob-minijob-in-lahr/3581040277-107-8047",
+   "posted": "2026-11-24",
+   "posted_time": "08:22",
+   "desc": "Minijob, Nebenjob oder Teilzeitjob in deiner Nähe in Lahr/Schwarzwald. Stellenangebote auf dem Jobportal Zustellerkom. Jobbeschreibung: Zeitung austragen in der Frühzustellung, Nachtarbeit. Arbeitstage: täglich von Montag bis Samstag (6 Tage Woche) Arbeitszeit: Nachtzustellung bis 6:00 Uhr morgens Arbeitsdauer: 1-2 Stunden pro Arbeitstag je nach Gebiet und Beschäftigungsumfang Arbeitsbeginn: der mögliche Arbeitsbeginn hängt von der jeweiligen Anlieferung ab und ist regional unterschiedlich Deine Vorteile: leistungsgerechte Vergütung, gründliche Einarbeitung, eigenverantwortliche Tätigkeit bei dir vor Ort. EINFACHE BEWERBUNG IN WENIGEN MINUTEN AUF DEM JOBPORTAL ZUSTELLERKOM. Unten auf Bewerben drücken. Bewerbungsformular ausfüllen und absenden, für die Bewerbung über Zustellerkom werden keine Unterlagen benötigt. Der Arbeitgeber prüft welche Bezirke noch frei sind und kontaktiert dich, in der Regel telefonisch, mit passenden Jobangeboten und allen Details zB. zum Lohn. Bitte prüfe deine Anrufliste und E-Maileingang in der Bewerbungsphase und stelle sicher, dass der Arbeitgeber dich gut erreichen kann. Jobangebote für Bewerber (m/w/d) ab 18 Jahren als Nebenjob, Minijob, geringfügige Beschäftigung oder in Teilzeit. Ob als Urlaubsvertretung (m/w/d) oder dauerhaft, diverse Beschäftigungsmodelle sind möglich. Die Zustellung ist je nach Bezirk zu Fuß, mit dem Fahrrad oder dem PKW zu erledigen. Die Arbeit als Zusteller (m/w/d), Austräger (m/w/d), Bote (m/w/d) lässt sich mit Familie, Hobby und Beruf vereinbaren und ist für Quereinsteiger gut geeignet. (Zusteller, Zeitungszusteller, Prospektverteiler, Springer, Bote, Austräger, Verteiler, Medienbote, Printzusteller, Aushilfe, Vertretung, Arbeit, Job, Minijob, Nebenjob, Nebenverdienst, Zeitung austragen, Arbeitsstellen, Stellenangebote, Fahrer, Kurier)",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-24T08:32",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "mykyta:ka_3550103787",
    "src": "Kleinanzeigen",
@@ -2157,7 +4065,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.jobware.de/job/kommissionierer-m-w-d-065253385"
+   ],
    "person": "mykyta"
   },
   {
@@ -66033,7 +67943,8 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1841-S",
-    "https://www.jobware.de/job/kommissionierer-m-w-d-064550248"
+    "https://www.jobware.de/job/kommissionierer-m-w-d-064550248",
+    "https://www.jobware.de/job/kommissionierer-m-w-d-065250754"
    ],
    "person": "mykyta"
   },
@@ -120389,7 +122300,8 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982162706-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982654594-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1836-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985570791-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985570791-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985847028-S"
    ],
    "person": "Марина"
   },
