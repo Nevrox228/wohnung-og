@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T09:00",
+ "generated": "2026-11-24T10:12",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 54,
+ "count": 50,
  "items": [
   {
    "id": "li_4461528816",
@@ -43,28 +43,6 @@
    "approx": true,
    "km": 16.3,
    "kind": "Jugend / Heim",
-   "ausb": false,
-   "first_seen": "2026-11-24T03:19",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "li_4462605353",
-   "src": "LinkedIn",
-   "title": "Sozialpädagogen (gn) Familienprojekt",
-   "firma": "Ohlebusch Baden-Baden GmbH",
-   "ort": "Offenburg",
-   "plz": "",
-   "street": "",
-   "lat": 48.4695984,
-   "lon": 7.9429235,
-   "url": "https://de.linkedin.com/jobs/view/4462605353",
-   "posted": "2026-08-11",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 0.8,
-   "kind": "Общее / другое",
    "ausb": false,
    "first_seen": "2026-11-24T03:19",
    "status": "open",
@@ -139,32 +117,6 @@
    "first_seen": "2026-11-19T20:42",
    "status": "open",
    "also_urls": []
-  },
-  {
-   "id": "ba_10001-1004040058-S",
-   "src": "Jobbörse",
-   "title": "Mit Herz, Haltung und Engagement – Pädagogische Fachkraft (m/w/d) für unsere stationäre Jugendhilfe",
-   "firma": "Jugendhilfe Phoenix gGmbH",
-   "ort": "Lahr",
-   "plz": "77933",
-   "street": "Heiligenstraße 10",
-   "lat": 48.345484,
-   "lon": 7.8371641,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004040058-S",
-   "posted": "2026-11-19",
-   "ab": "2026-11-19",
-   "zeit": "Vollzeit / Teilzeit",
-   "befristet": false,
-   "quer": false,
-   "beruf": "Erzieher/in - Jugend- und Heimerziehung",
-   "km": 16.6,
-   "kind": "Jugend / Heim",
-   "ausb": false,
-   "first_seen": "2026-11-19T12:08",
-   "status": "open",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4492180497"
-   ]
   },
   {
    "id": "ss_14629123",
@@ -503,30 +455,6 @@
    "also_urls": []
   },
   {
-   "id": "ba_10001-1004012410-S",
-   "src": "Jobbörse",
-   "title": "Einrichtungsleitung (m/w/d) für unsere OHO!-Kita Bambini in Offenburg",
-   "firma": "Malusila Kinderbetreuung GmbH",
-   "ort": "Offenburg",
-   "plz": "77652",
-   "street": "Hubert-Burda-Platz 2a",
-   "lat": 48.463551,
-   "lon": 7.9402275,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004012410-S",
-   "posted": "2026-11-13",
-   "ab": "2026-11-13",
-   "zeit": "Vollzeit",
-   "befristet": false,
-   "quer": false,
-   "beruf": "Erzieher/in",
-   "km": 1.5,
-   "kind": "Kita / Krippe",
-   "ausb": false,
-   "first_seen": "2026-11-13T12:26",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "ba_16262-0068715203-S",
    "src": "Jobbörse",
    "title": "Erzieher (m/w/d) Kehl",
@@ -548,9 +476,7 @@
    "ausb": false,
    "first_seen": "2026-11-12T16:40",
    "status": "open",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4489538517"
-   ]
+   "also_urls": []
   },
   {
    "id": "ba_13635-c9469775_JB5295525-S",
@@ -624,8 +550,7 @@
    "first_seen": "2026-11-08T22:18",
    "status": "open",
    "also_urls": [
-    "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html",
-    "https://de.linkedin.com/jobs/view/4487950738"
+    "https://www.stepstone.de/stellenangebote--paedagogischer-Mitarbeiter-gn-UMA-77652-Offenburg-Ohlebusch-Gruppe--14750633-inline.html"
    ]
   },
   {
@@ -907,30 +832,6 @@
     "https://de.linkedin.com/jobs/view/4482434655",
     "https://www.jobware.de/job/erzieher-w-m-d-im-wohnbereich-des-berufsbildungswerks-064793592"
    ]
-  },
-  {
-   "id": "ba_10001-1003869676-S",
-   "src": "Jobbörse",
-   "title": "Erzieher/in, pädagogische Fachkraft (m/w/d) für Kindergarten & Kinderkrippe",
-   "firma": "Malusila Kinderbetreuung GmbH",
-   "ort": "Offenburg",
-   "plz": "77652",
-   "street": "Hubert-Burda-Platz 2a",
-   "lat": 48.4635545,
-   "lon": 7.9402268,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003869676-S",
-   "posted": "2026-10-16",
-   "ab": "2026-10-30",
-   "zeit": "Vollzeit / Teilzeit",
-   "befristet": false,
-   "quer": false,
-   "beruf": "Erzieher/in",
-   "km": 1.5,
-   "kind": "Kita / Krippe",
-   "ausb": false,
-   "first_seen": "2026-11-03T17:32",
-   "status": "open",
-   "also_urls": []
   },
   {
    "id": "ba_13884-344802-S",
@@ -1227,7 +1128,6 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },

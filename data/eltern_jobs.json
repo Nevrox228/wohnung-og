@@ -1,9 +1,2280 @@
 {
- "generated": "2026-11-24T09:00",
+ "generated": "2026-11-24T10:12",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1025,
+ "count": 1036,
  "items": [
+  {
+   "id": "marina:ka_3581061703",
+   "src": "Kleinanzeigen",
+   "title": "Küchenhilfe / Spüler (m/w/d) (Baiersbronn)",
+   "firma": "my-perfect-job.de",
+   "ort": "Baiersbronn",
+   "plz": "72270",
+   "street": "",
+   "lat": 48.5416972,
+   "lon": 8.3252756,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/kuechenhilfe-spueler-m-w-d-baiersbronn-/3581061703-107-8719",
+   "posted": "2026-11-24",
+   "posted_time": "09:00",
+   "desc": "Hotel Schliffkopf sucht: Küchenhilfe / Spüler (m/w/d) JETZT BEWERBEN unter https://www.stepstone.de/job/14788318/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________ Unser 4-Sterne-Wellness- und Nationalparkhotel Schliffkopf liegt auf 1025 Metern Höhe, eingebettet im Nationalpark Schwarzwald – ein wahrer Ort der Ruhe und Inspiration, sowohl für unsere Gäste als auch für unser Schliffkopf-Team. Mit 68 Zimmern und Suiten, einem großzügigen Wellnessbereich und einer Umgebung, die Natur pur verspricht, bieten wir nicht nur eine außergewöhnliche Urlaubserfahrung für unsere Gäste, sondern auch ein einzigartiges Arbeitsumfeld für alle, die eine Leidenschaft für Gastfreundschaft haben. Hier im Herzen des Schwarzwalds bieten wir mehr als nur einen Job – wir bieten die Möglichkeit, in einem innovativen und herzlichen Team zu arbeiten, das Qualität, Freundlichkeit und Zusammenarbeit lebt Erleben Sie den Zauber des Schwarzwaldes, arbeiten Sie in einer der schönsten Regionen Deutschlands und werden Sie Teil eines Teams, das mit Herzblut und Hingabe dafür sorgt, dass unsere Gäste einen unvergesslichen Aufenthalt genießen. **Anstellungsart:** Vollzeit -> Sorgfältiges Reinigen, Spülen und Verräumen von Geschirr, Besteck, Gläsern und Küchenutensilien -> Bedienung und Pflege der gewerblichen Spülmaschine unter Einhaltung der Hygienevorschriften -> Sicherstellung von Sauberkeit und Ordnung in der Spülküche sowie in den Küchenbereichen -> Reinigung und Pflege der Küchenarbeitsflächen, Geräte und Fußböden -> Unterstützung des Küchenteams bei allgemeinen Reinigungs- und Vorbereitungsarbeiten -> Fachgerechte Mülltrennung und Entsorgung sämtlicher Abfälle -> Reinigung und Pflege der öffentlichen Hotelbereiche sowie der Außenanlagen nach Bedarf -> Einhaltung der HACCP-Richtlinien und der betrieblichen Hygienestandards -> Sorgfältiger Umgang mit hochwertigem Geschirr, Gläsern und Küchenequipment -> Sicherstellung eines reibungslosen Ablaufs im Spülbereich während der Servicezeiten __________________ -> **Teamorientierter Arbeitsstil:** als Teamplayer auf gemeinsame Erfolge im Arbeitsalltag wertlegen -> **Kreativer Arbeitsansatz:** Schätzt die Abwechslung im Berufsleben und bringt die Bereitschaft mit, sich flexibel auf unterschiedliche Herausforderungen einzustellen -> **Kommunikationsgeschick:** Besitzt ausgezeichnete Deutschkenntnisse, um sich effektiv sowohl mit Kollegen als auch mit unseren Gästen verständigen zu können __________________ -> Ein motiviertes, eingespieltes Team mit viel Leidenschaft für Gastfreundschaft -> Leistungsgerechte Vergütung sowie attraktive Mitarbeiter-Benefits -> elektronische Zeiterfassung -> Nutzung einer Mitarbeiter-APP -> gratis Zugang zu unserem Fitnessbereich und Schwimmbad -> täglich frisch gekochtes Essen und kostenfreie Getränke (Wasser und Kaffeespezialitäten) -> freiwillige Mitarbeiterveranstaltungen __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: https://www.stepstone.de/job/14788318/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.9,
+   "de": "немного",
+   "de_txt": "Besitzt ausgezeichnete Deutschkenntnisse, um sich effektiv sowohl mit Kollegen als auch mit unseren Gästen verständigen zu können __________________",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Отель",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 190,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 59,
+      "end_stop": "Mitteltal Lamm",
+      "dep": "16:36",
+      "arr": "19:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "16:36",
+        "arr": "16:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "16:47",
+        "arr": "16:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "17:07",
+        "arr": "17:15",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "400",
+        "from": "Achern",
+        "to": "Ruhestein",
+        "dep": "17:21",
+        "arr": "18:00",
+        "wait": 6,
+        "min": 39
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "200",
+        "from": "Ruhestein",
+        "to": "Mitteltal Lamm",
+        "dep": "18:32",
+        "arr": "18:48",
+        "wait": 32,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Mitteltal Lamm",
+        "to": "работа",
+        "dep": "18:48",
+        "arr": "19:46",
+        "min": 59
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 199
+     },
+     {
+      "kind": "велосипед",
+      "min": 121,
+      "changes": 0,
+      "km": 29.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 121
+       }
+      ],
+      "risky": false,
+      "score": 222
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 570,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 544,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "14:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "14:52",
+        "min": 544
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 570
+     }
+    ],
+    "best": "транспорт",
+    "min": 190,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581079275",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Montage (m/w/d) bei Hansgrohe | Offenburg | Vollzeit | Adecco | Job",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-montage-m-w-d-bei-hansgrohe-offenburg-vollzeit-adecco-job/3581079275-111-9039",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Hansgrohe ist ein großer Name wenn es um hochwertige Sanitärprodukte geht. Für deren Herstellung benötigen wir deine Unterstützung! Als Helfer Montage (m/w/d) kannst du in Offenburg mehr als 25€ pro Stunde verdienen. Also worauf wartest Du noch? Bewirb dich noch heute! **Deine Vorteile** * ein Start-Lohn von 16,64€ pro Stunde * automatische Lohnsteigung auf 25,89€ pro Stunde innerhalb von 16 Monaten * Option auf Übernahme * Urlaubs- und Weihnachtsbonus * persönliche Betreuung durch dein Adecco-Team vor Ort **Deine Aufgaben** * Auflegen und Abnehmen von Teilen * Montage und Vormontage von Kleinteilen * Verpacken der fertigen Teile **Dein Profil** * erste Erfahrung in der Montage von Vorteil, aber kein Muss * handwerkliches Geschick * außerdem ist Bereitschaft zur Schichtarbeit erforderlich (früh, spät, nacht) * gute Deutsch-Kenntnisse (mind. B2) **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "gute Deutsch-Kenntnisse (mind B2)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581079260",
+   "src": "Kleinanzeigen",
+   "title": "Montagemitarbeiter (m/w/d) bei Grohe ab 17,58€ pro Stunde | Lahr | Vollzeit | Adecco | Job | Montagehelfer",
+   "firma": "Adecco Deutschland",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagemitarbeiter-m-w-d-bei-grohe-ab-17-58-pro-stunde-lahr-vollzeit-adecco-job-montagehelfer/3581079260-111-8047",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Bist Du auf der Suche nach einer spannenden Herausforderung in einem innovativen Unternehmen? Dann werde Teil unseres Teams bei Grohe in Lahr - einem der führenden Hersteller im Bereich Badezimmerlösungen und Sanitärprodukte! Hier bieten wir dir eine abwechslungsreiche Tätigkeit in der Montage - mit einem attraktiven Einstiegslohn von 17,58€ pro Stunde . **Deine Vorteile** * ein unbefristeter Arbeitsvertrag * attraktiver Verdienst ab 17,58€ pro Stunde * automatische Lohnsteigung gemäß Tarifvertrag Metall/Elektro auf mehr als 25€ pro Stunde nach 16 Monaten * Urlaubs- und Weihnachtsbonus * Dein Adecco-Team steht dir direkt vor Ort mit Rat und Tat zur Seite **Das sind deine Tätigkeitsschwerpunkte** * Montage von Armaturen sowie weiteren Bad- und Küchenprodukten * Durchführung der Endkontrolle * Verpackung der fertigen Produkte **Das bringst du mit** * Erfahrung in der Produktion ist von Vorteil, aber auch Quereinsteiger sind herzlich willkommen * Bereitschaft zur Arbeit in Früh- und Spätschicht sowie an Wochenenden (2 Samstage pro Monat) * Gute Deutschkenntnisse (mindestens B-Niveau) * Zuverlässigkeit und Teamfähigkeit **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse (mindestens B-Niveau)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581079248",
+   "src": "Kleinanzeigen",
+   "title": "Montagehelfer (m/w/d) ab 17€ pro Stunde | Lahr | Vollzeit | Adecco | Job",
+   "firma": "Adecco Deutschland",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagehelfer-m-w-d-ab-17-pro-stunde-lahr-vollzeit-adecco-job/3581079248-111-8047",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Bist Du auf der Suche nach einer spannenden Herausforderung in einem innovativen Unternehmen? Dann werde Teil unseres Teams bei Hansgrohe in Lahr - einem der führenden Hersteller im Bereich Badezimmerlösungen und Sanitärprodukte! Hier bieten wir dir eine abwechslungsreiche Tätigkeit in der Montage - mit einem attraktiven Einstiegslohn von 17€ pro Stunde. **Deine Vorteile** * ein unbefristeter Arbeitsvertrag * attraktiver Verdienst ab 17€ pro Stunde * automatische Lohnsteigung gemäß Tarifvertrag Metall/Elektro auf mehr als 24€ pro Stunde nach 16 Monaten * Urlaubs- und Weihnachtsbonus * Dein Adecco-Team steht dir direkt vor Ort mit Rat und Tat zur Seite **Das sind deine Tätigkeitsschwerpunkte** * Montage von Armaturen sowie weiteren Bad- und Küchenprodukten * Durchführung der Endkontrolle * Verpackung der fertigen Produkte **Das bringst du mit** * Erfahrung in der Produktion ist von Vorteil, aber auch Quereinsteiger sind herzlich willkommen * Bereitschaft zur Arbeit in Früh- und Spätschicht sowie an Wochenenden (2 Samstage pro Monat) * Gute Deutschkenntnisse (mindestens B-Niveau) * Zuverlässigkeit und Teamfähigkeit **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse (mindestens B-Niveau)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581079222",
+   "src": "Kleinanzeigen",
+   "title": "Montagemitarbeiter (m/w/d) bei Hansgrohe 16€ pro Stunde | Offenburg | Vollzeit | Adecco | Job | Montagehelfer",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagemitarbeiter-m-w-d-bei-hansgrohe-16-pro-stunde-offenburg-vollzeit-adecco-job-montagehelfer/3581079222-111-9039",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Du hast ein Auge fürs Detail und liebst es, wenn alles perfekt zusammenpasst? Dann werde Teil von Hansgrohe - einem der weltweit führenden Anbieter hochwertiger Armaturen, Duschen und innovativer Wasserlösungen. Am Standort Offenburg Elgersweier entstehen Produkte, die Design und Funktion in Perfektion verbinden. Bringe dein technisches Geschick ein und unterstütze uns in der Montage! **Deine Vorteile** * attraktiver Einstiegslohn von 16,64 € pro Stunde * dank Branchenzuschlägen steigt dein Stundenlohn nach 16 Monaten auf über 25€ * Urlaubs- und Weihnachtsgeld als zusätzliches Extra * langfristige Perspektive inklusive Übernahmemöglichkeit * persönliche Betreuung durch dein Adecco-Team vor Ort **Deine Aufgaben** * Montage und Vormontage von Bauteilen * Bedienung von Maschinen und Anlagen * Durchführung der Qualitätskontrolle * Verpackung der fertigen Produkte für den Versand **Dein Profil** * Erfahrung in der Montage ist von Vorteil, aber auch als Quereinsteiger (m/w/d) bist Du herzlich willkommen * handwerkliches Geschick * Bereitschaft zur Schichtarbeit (Früh und Spät - Nacht freiwillig) * gute Deutsch-Kenntnisse (mind. B1-Niveau) * Zuverlässigkeit und Genauigkeit **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "gute Deutsch-Kenntnisse (mind B1-Niveau)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581079158",
+   "src": "Kleinanzeigen",
+   "title": "Montagemitarbeiter (m/w/d) in 2-Schicht | Offenburg | Vollzeit | Adecco | Job | Montagehelfer",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagemitarbeiter-m-w-d-in-2-schicht-offenburg-vollzeit-adecco-job-montagehelfer/3581079158-111-9039",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Du suchst mehr als nur einen Job? Dann komm zu Hansgrohe in Offenburg - dem Innovationsführer für hochwertige Armaturen, Brausen und Duschsysteme. Hier suchen wir dich als Montagemitarbeiter (m/w/d) in 2-Schicht. Ein fairer Verdienst ab 16,64€ pro Stunde sowie eine langfristige Perspektive erwarten dich!Bewirb dich noch heute! **Deine Vorteile** * ein Start-Lohn von 16,64€ pro Stunde * automatische Lohnsteigung auf 25,89€ pro Stunde nach 16 Monaten * Option auf Übernahme * Urlaubs- und Weihnachtsbonus * persönliche Betreuung durch dein Adecco-Team vor Ort **Deine Aufgaben** * Vormontage und Montage von Armaturen, Duschbrausen, etc. * Durchführung von Dichtigkeits- und Qualitätsprüfung * Verpackungstätigkeiten **Dein Profil** * Erfahrung in der Montage ist von Vorteil, aber kein Muss * handwerkliches Geschick bringst Du ebenfalls mit * Bereitschaft zur Schichtarbeit (früh, spät, ggf. nacht) * gute Deutsch-Kenntnisse (mind. B2) runden dein Profil ab **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "gute Deutsch-Kenntnisse (mind B2) runden dein Profil ab",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_10001-1004060257-S",
+   "src": "Jobbörse",
+   "title": "Metall- / Montagehelfer (m/w/d)",
+   "firma": "Pensum GmbH",
+   "ort": "Lahr",
+   "street": "",
+   "lat": 48.3399746,
+   "lon": 7.8722531,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004060257-S",
+   "posted": "2026-11-24",
+   "desc": "Die Pensum GmbH ist ein Personaldienstleister, der sich innerhalb kürzester Zeit zu einem der führenden Dienstleister in diesem Segment etabliert hat. Mit unseren Standorten in Offenburg, Freiburg, Lahr, Karlsruhe, Stuttgart, Frankfurt, Darmstadt, Müllheim, Nürnberg, Bremen und Villingen-Schwenningen bedienen wir zahlreiche Kunden unterschiedlichster Größe und Branche. Für einen unserer namenhaften Kunden suchen wir einen Metall- / Montagehelfer (m/w/d) zum nächstmöglichen Zeitpunkt. Voraussetzungen: - Erfahrung in der Metallbearbeitung - PKW und Führerschein von Vorteil - Lesen von technischen Zeichnungen - handwerkliches Geschick Aufgaben: - Montieren von Bauteilen - Umgang mit Werkzeugen und Maschinen - Metallbe- und verarbeitung Wir bieten Ihnen: - eine leistungsgerechte Vergütung - ein gutes Arbeitsklima - eine anspruchsvolle und abwechslungsreiche Tätigkeit - einen langfristigen Einsatz bei unserem Kunden inkl. Übernahmechancen Wir haben Ihr Interesse geweckt? Dann senden Sie uns Ihre vollständigen Bewerbungsunterlagen an Pensum GmbH, Kreuzstraße 13, 77933 Lahr oder per E-Mail an lahr@pensum-gmbh.de zu. Für Rückfragen stehen Ihnen unter der Telefonnummer 07821-98970-0 zur Verfügung.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 26.2,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 66,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 3,
+      "end_stop": "Lahr Lammstraße",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Lammstraße",
+        "dep": "07:27",
+        "arr": "07:35",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Lammstraße",
+        "to": "работа",
+        "dep": "07:35",
+        "arr": "07:38",
+        "min": 3
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 72
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 266,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 240,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:58",
+        "min": 240
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 266
+     },
+     {
+      "kind": "велосипед",
+      "min": 146,
+      "changes": 0,
+      "km": 35.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 146
+       }
+      ],
+      "risky": false,
+      "score": 272
+     }
+    ],
+    "best": "транспорт",
+    "min": 66,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3394580997",
+   "src": "Kleinanzeigen",
+   "title": "!!! Produktionshelfer Metall (m/w/d) !!!",
+   "firma": "rt Personal GmbH",
+   "ort": "Zell am Harmersbach",
+   "plz": "77736",
+   "street": "",
+   "lat": 48.3435884,
+   "lon": 8.0828409,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-produktionshelfer-metall-m-w-d-/3394580997-111-8051",
+   "posted": "2026-11-24",
+   "posted_time": "10:05",
+   "desc": "Du bist hart wie Stahl? Dann bist du hier genau richtig! ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ Für unseren Auftraggeber in Zell a. H. suchen wir mehrere Produktionshelfer (m/w/d) im Metallbereich in 3-Schicht Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch, Russisch und Türkisch deine coolen Aufgaben - Bedienung der CNC-Maschinen - Umgang mit Messmitteln - Einfache Wartungsarbeiten - Fehlermeldung Dein Profil - Berufserfahrung mit CNC-Maschinen - Kenntnisse im Umgang mit Messmitteln - gute Deutschkenntnisse in Wort und Schrift Das erwartet dich - Übertarifliche Bezahlung nach GVP-Tarifvertrag - Übernahmechancen durch unseren Auftraggeber! - Persönliche, freundliche und professionelle Betreuung durch unsere geschulten Fachkräfte - Beratung und Unterstützung, wann immer du sie brauchst - Urlaubs- und Weihnachtsgeld - Betriebliche Gesundheitsvorsorge Interesse geweckt? Dann bewirb dich jetzt direkt über WhatsApp oder ruf uns unter 0170 6582887 an!",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 20.9,
+   "de": "нужен",
+   "de_txt": "gute Deutschkenntnisse in Wort und Schrift Das erwartet dich",
+   "help": "Wir sprechen deine Sprache? Bulgarisch, Deutsch, Englisch, Französisch, Polnisch, Rumänisch,",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 73,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:35",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 79
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 345,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 319,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:06",
+        "min": 319
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 345
+     }
+    ],
+    "best": "транспорт",
+    "min": 73,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581079260",
+   "src": "Kleinanzeigen",
+   "title": "Montagemitarbeiter (m/w/d) bei Grohe ab 17,58€ pro Stunde | Lahr | Vollzeit | Adecco | Job | Montagehelfer",
+   "firma": "Adecco Deutschland",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagemitarbeiter-m-w-d-bei-grohe-ab-17-58-pro-stunde-lahr-vollzeit-adecco-job-montagehelfer/3581079260-111-8047",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Bist Du auf der Suche nach einer spannenden Herausforderung in einem innovativen Unternehmen? Dann werde Teil unseres Teams bei Grohe in Lahr - einem der führenden Hersteller im Bereich Badezimmerlösungen und Sanitärprodukte! Hier bieten wir dir eine abwechslungsreiche Tätigkeit in der Montage - mit einem attraktiven Einstiegslohn von 17,58€ pro Stunde . **Deine Vorteile** * ein unbefristeter Arbeitsvertrag * attraktiver Verdienst ab 17,58€ pro Stunde * automatische Lohnsteigung gemäß Tarifvertrag Metall/Elektro auf mehr als 25€ pro Stunde nach 16 Monaten * Urlaubs- und Weihnachtsbonus * Dein Adecco-Team steht dir direkt vor Ort mit Rat und Tat zur Seite **Das sind deine Tätigkeitsschwerpunkte** * Montage von Armaturen sowie weiteren Bad- und Küchenprodukten * Durchführung der Endkontrolle * Verpackung der fertigen Produkte **Das bringst du mit** * Erfahrung in der Produktion ist von Vorteil, aber auch Quereinsteiger sind herzlich willkommen * Bereitschaft zur Arbeit in Früh- und Spätschicht sowie an Wochenenden (2 Samstage pro Monat) * Gute Deutschkenntnisse (mindestens B-Niveau) * Zuverlässigkeit und Teamfähigkeit **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse (mindestens B-Niveau)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581079248",
+   "src": "Kleinanzeigen",
+   "title": "Montagehelfer (m/w/d) ab 17€ pro Stunde | Lahr | Vollzeit | Adecco | Job",
+   "firma": "Adecco Deutschland",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagehelfer-m-w-d-ab-17-pro-stunde-lahr-vollzeit-adecco-job/3581079248-111-8047",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Bist Du auf der Suche nach einer spannenden Herausforderung in einem innovativen Unternehmen? Dann werde Teil unseres Teams bei Hansgrohe in Lahr - einem der führenden Hersteller im Bereich Badezimmerlösungen und Sanitärprodukte! Hier bieten wir dir eine abwechslungsreiche Tätigkeit in der Montage - mit einem attraktiven Einstiegslohn von 17€ pro Stunde. **Deine Vorteile** * ein unbefristeter Arbeitsvertrag * attraktiver Verdienst ab 17€ pro Stunde * automatische Lohnsteigung gemäß Tarifvertrag Metall/Elektro auf mehr als 24€ pro Stunde nach 16 Monaten * Urlaubs- und Weihnachtsbonus * Dein Adecco-Team steht dir direkt vor Ort mit Rat und Tat zur Seite **Das sind deine Tätigkeitsschwerpunkte** * Montage von Armaturen sowie weiteren Bad- und Küchenprodukten * Durchführung der Endkontrolle * Verpackung der fertigen Produkte **Das bringst du mit** * Erfahrung in der Produktion ist von Vorteil, aber auch Quereinsteiger sind herzlich willkommen * Bereitschaft zur Arbeit in Früh- und Spätschicht sowie an Wochenenden (2 Samstage pro Monat) * Gute Deutschkenntnisse (mindestens B-Niveau) * Zuverlässigkeit und Teamfähigkeit **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse (mindestens B-Niveau)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581079222",
+   "src": "Kleinanzeigen",
+   "title": "Montagemitarbeiter (m/w/d) bei Hansgrohe 16€ pro Stunde | Offenburg | Vollzeit | Adecco | Job | Montagehelfer",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagemitarbeiter-m-w-d-bei-hansgrohe-16-pro-stunde-offenburg-vollzeit-adecco-job-montagehelfer/3581079222-111-9039",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Du hast ein Auge fürs Detail und liebst es, wenn alles perfekt zusammenpasst? Dann werde Teil von Hansgrohe - einem der weltweit führenden Anbieter hochwertiger Armaturen, Duschen und innovativer Wasserlösungen. Am Standort Offenburg Elgersweier entstehen Produkte, die Design und Funktion in Perfektion verbinden. Bringe dein technisches Geschick ein und unterstütze uns in der Montage! **Deine Vorteile** * attraktiver Einstiegslohn von 16,64 € pro Stunde * dank Branchenzuschlägen steigt dein Stundenlohn nach 16 Monaten auf über 25€ * Urlaubs- und Weihnachtsgeld als zusätzliches Extra * langfristige Perspektive inklusive Übernahmemöglichkeit * persönliche Betreuung durch dein Adecco-Team vor Ort **Deine Aufgaben** * Montage und Vormontage von Bauteilen * Bedienung von Maschinen und Anlagen * Durchführung der Qualitätskontrolle * Verpackung der fertigen Produkte für den Versand **Dein Profil** * Erfahrung in der Montage ist von Vorteil, aber auch als Quereinsteiger (m/w/d) bist Du herzlich willkommen * handwerkliches Geschick * Bereitschaft zur Schichtarbeit (Früh und Spät - Nacht freiwillig) * gute Deutsch-Kenntnisse (mind. B1-Niveau) * Zuverlässigkeit und Genauigkeit **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "gute Deutsch-Kenntnisse (mind B1-Niveau)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581079158",
+   "src": "Kleinanzeigen",
+   "title": "Montagemitarbeiter (m/w/d) in 2-Schicht | Offenburg | Vollzeit | Adecco | Job | Montagehelfer",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagemitarbeiter-m-w-d-in-2-schicht-offenburg-vollzeit-adecco-job-montagehelfer/3581079158-111-9039",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Du suchst mehr als nur einen Job? Dann komm zu Hansgrohe in Offenburg - dem Innovationsführer für hochwertige Armaturen, Brausen und Duschsysteme. Hier suchen wir dich als Montagemitarbeiter (m/w/d) in 2-Schicht. Ein fairer Verdienst ab 16,64€ pro Stunde sowie eine langfristige Perspektive erwarten dich!Bewirb dich noch heute! **Deine Vorteile** * ein Start-Lohn von 16,64€ pro Stunde * automatische Lohnsteigung auf 25,89€ pro Stunde nach 16 Monaten * Option auf Übernahme * Urlaubs- und Weihnachtsbonus * persönliche Betreuung durch dein Adecco-Team vor Ort **Deine Aufgaben** * Vormontage und Montage von Armaturen, Duschbrausen, etc. * Durchführung von Dichtigkeits- und Qualitätsprüfung * Verpackungstätigkeiten **Dein Profil** * Erfahrung in der Montage ist von Vorteil, aber kein Muss * handwerkliches Geschick bringst Du ebenfalls mit * Bereitschaft zur Schichtarbeit (früh, spät, ggf. nacht) * gute Deutsch-Kenntnisse (mind. B2) runden dein Profil ab **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "gute Deutsch-Kenntnisse (mind B2) runden dein Profil ab",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3581079275",
+   "src": "Kleinanzeigen",
+   "title": "Helfer Montage (m/w/d) bei Hansgrohe | Offenburg | Vollzeit | Adecco | Job",
+   "firma": "Adecco Deutschland",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helfer-montage-m-w-d-bei-hansgrohe-offenburg-vollzeit-adecco-job/3581079275-111-9039",
+   "posted": "2026-11-24",
+   "posted_time": "09:25",
+   "desc": "Hansgrohe ist ein großer Name wenn es um hochwertige Sanitärprodukte geht. Für deren Herstellung benötigen wir deine Unterstützung! Als Helfer Montage (m/w/d) kannst du in Offenburg mehr als 25€ pro Stunde verdienen. Also worauf wartest Du noch? Bewirb dich noch heute! **Deine Vorteile** * ein Start-Lohn von 16,64€ pro Stunde * automatische Lohnsteigung auf 25,89€ pro Stunde innerhalb von 16 Monaten * Option auf Übernahme * Urlaubs- und Weihnachtsbonus * persönliche Betreuung durch dein Adecco-Team vor Ort **Deine Aufgaben** * Auflegen und Abnehmen von Teilen * Montage und Vormontage von Kleinteilen * Verpacken der fertigen Teile **Dein Profil** * erste Erfahrung in der Montage von Vorteil, aber kein Muss * handwerkliches Geschick * außerdem ist Bereitschaft zur Schichtarbeit erforderlich (früh, spät, nacht) * gute Deutsch-Kenntnisse (mind. B2) **Interessiert?** Dann sollten wir uns unbedingt kennenlernen! Bitte sende uns Deinen Lebenslauf bevorzugt über unsere Online-Bewerbungsplattform oder über die angegebene E-Mail-Adresse und wir setzen uns mit Dir in Verbindung. Wir freuen uns über die Bewerbung von Menschen, die zur Vielfalt unseres Unternehmens beitragen. **Kontakt** Nathalie Seyfarth Tel.: +49 696 68194 164",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "gute Deutsch-Kenntnisse (mind B2)",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "alexey:ba_10000-1208371152-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter Garten- und Landschaftsbau (m/w/d)",
+   "firma": "Markus Dufner",
+   "ort": "Oberkirch",
+   "street": "Appenweierer Str. 2b",
+   "lat": 48.53142,
+   "lon": 8.0761995,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208371152-S",
+   "posted": "2026-10-21",
+   "desc": "Lieber Bewerber/In! Wir sind ein kleiner Betrieb mit großem Tätigkeitsfeld, was Abwechslung garantiert. Dufner Garten- Landschaftsbau ist ein kleines, familiäres Unternehmen im Bereich Garten- und Landschaftsbau mit über 27 Jahren Erfahrung. Wir gestalten und pflegen Außenanlagen, von Privatgärten bis hin zu großen Grünflächen. Unser Team zeichnet sich durch Fachkompetenz, Engagement und Freude an der Arbeit mit Natur und Pflanzen aus. Aktuell suchen wir Mitarbeiter/In für den Garten- und Landschaftsbau für unsere Mannschaft. Deine Aufgaben: - Gestaltung und Pflege von Außenanlagen (Rasen, Beete, Bäume, Sträucher, etc.) - Pflasterarbeiten und Gestaltung von Wegen und Plätzen - Errichtung von Trockenmauern, Zäunen und anderen baulichen Elementen - Baumrodungen und -Pflanzungen Dein Profil: - Berufserfahrung im Garten- und Landschaftsbau wünschenswert - Kenntnisse in der Pflanzenkunde und -pflege - Handwerkliches Geschick und technisches Verständnis - Führerschein der Klasse B - Selbstständige und verantwortungsbewusste Arbeitsweise - Teamfähigkeit und Freude an der Arbeit im Freien - Kundenorientiertes Auftreten Wir bieten: Eine interessante und abwechslungsreiche Tätigkeit, ein motiviertes und kollegiales Team sowie Weiterbildungsmöglichkeiten. Einen sicheren Arbeitsplatz, flexible Arbeitszeiten und leistungsgerechte Bezahlung. Interessiert? Dann sende uns deine Bewerbungsunterlagen mit Angabe deiner Gehaltsvorstellung und des frühestmöglichen Eintrittstermins an: info@dufner-gala.de oder ruf einfach an unter 0171/ 1933457",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "alexey",
+   "km": 0.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Garten- & Landschaftsbau",
+   "first_seen": "2026-11-24T09:34",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 5,
+      "changes": 0,
+      "km": 0.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 5
+       }
+      ],
+      "risky": false,
+      "score": 5
+     },
+     {
+      "kind": "пешком",
+      "min": 9,
+      "changes": 0,
+      "km": 0.7,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 9
+       }
+      ],
+      "risky": false,
+      "score": 9
+     }
+    ],
+    "best": "велосипед",
+    "min": 5,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Алексей"
+  },
   {
    "id": "marina:ba_13356-104240A48281C15-S",
    "src": "Jobbörse",
@@ -23062,6 +25333,202 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ba_13356-102627A37769C46-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Rheinau",
+   "street": "",
+   "lat": 48.654954585,
+   "lon": 7.932944572,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-102627A37769C46-S",
+   "posted": "2026-11-19",
+   "desc": "**Ort:** Raum Rheinau **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionshelfer (m/w/d) mit Übernahmeoption** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Abwechslung**: Vielseitige und spannende Aufgaben * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können**: Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Montage von Baugruppen**aus Metall * Verpacken der **produzierten Ware** * **Innerbetrieblicher Transport** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der metallverarbeitenden Industrie * **Hard Skills**: Technisches Verständnis und handwerkliches Geschick * **Soft Skills**: Teambewusstsein und eine gute Kommunikationsfähigkeit * **Arbeitsweise:**Sorgfältig und strukturiert Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionshelfer (m/w/d) im Raum Rheinau und Umgebung.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 101,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 20,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:06",
+        "min": 20
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 86,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 8,
+      "end_stop": "Rheinbischofsheim Kath.Kirche",
+      "dep": "06:32",
+      "arr": "07:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Rheinbischofsheim Kath.Kirche",
+        "dep": "07:48",
+        "arr": "07:51",
+        "wait": 2,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Rheinbischofsheim Kath.Kirche",
+        "to": "работа",
+        "dep": "07:51",
+        "arr": "07:58",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 88,
+      "changes": 0,
+      "km": 21.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 88
+       }
+      ],
+      "risky": false,
+      "score": 156
+     }
+    ],
+    "best": "транспорт",
+    "min": 101,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A39678C39-S"
+   ],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ba_13356-105555A37463C48-S",
    "src": "Jobbörse",
    "title": "Produktionsmitarbeiter (m/w/d) / Produktionshelfer (m/w/d)",
@@ -23994,6 +26461,195 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ba_13356-105555A35379C51-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.69081642,
+   "lon": 8.155813322,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35379C51-S",
+   "posted": "2026-11-19",
+   "desc": "**Ort:** Raum Bühl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Kunststoff **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionsmitarbeiter (m/w/d) im Kunststoffsektor** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Sortieren**von Kunststofferzeugnissen * **Sichtkontrolle** * **Verpacken**von Kunststofferzeugnissen Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der Produktion * **Hard Skills**: Grundkenntnisse der deutschen Sprache * **Arbeitszeit**: Bereitschaft zur Schichtarbeit * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionsmitarbeiter (m/w/d) im Raum Bühl und Umgebung!",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 18.5,
+   "de": "немного",
+   "de_txt": ": Grundkenntnisse der deutschen Sprache",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 74,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 31,
+      "end_stop": "Bühl (Baden)",
+      "dep": "21:36",
+      "arr": "22:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "22:20",
+        "arr": "22:50",
+        "min": 31
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 77
+     },
+     {
+      "kind": "как в приложении",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 4,
+      "end_stop": "Kappelwindeck Öhinghaltweg",
+      "dep": "21:36",
+      "arr": "23:17",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Anruflinientaxi",
+        "line": "271",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Öhinghaltweg",
+        "dep": "22:50",
+        "arr": "23:13",
+        "wait": 30,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Öhinghaltweg",
+        "to": "работа",
+        "dep": "23:13",
+        "arr": "23:17",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 94,
+      "changes": 0,
+      "km": 23.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 94
+       }
+      ],
+      "risky": false,
+      "score": 168
+     }
+    ],
+    "best": "транспорт",
+    "min": 74,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105550A48439C16-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A36001C49-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37600C48-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43231C35-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A49639C5-S"
+   ],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ba_13356-105553A26873C77-S",
    "src": "Jobbörse",
    "title": "Montagemitarbeiter (m/w/d)",
@@ -24193,6 +26849,130 @@
     "best": "транспорт",
     "min": 92,
     "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_13356-104240A31043C62-S",
+   "src": "Jobbörse",
+   "title": "Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Oberkirch",
+   "street": "",
+   "lat": 48.519867587,
+   "lon": 8.068633213,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A31043C62-S",
+   "posted": "2026-11-19",
+   "desc": "**Ort:** Oberkirch **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Logistik **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d) in namhaftem Unternehmen** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * Durchführung **innerbetrieblicher Warentransporte** * Transportsicheres **verpacken der Produkte** * Zuständig für die Koordination des **Warenein- und ausgangs** * Kontrolle und Erfassung der**Lagerbestände** * **Dokumentation** der ausgeführten Arbeiten Ihr Profil: * **Berufserfahrung:** Idealerweise erste Erfahrung im Lagerbereich * **Hard Skills:** Gute Deutschkenntnisse in Wort und Schrift * **Arbeitszeit:** Bereitschaft zur Schichtarbeit * **Soft Skills:** Teamgeist, Flexibilität und eine strukturierte Arbeitsweise Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Lagerhelfer (m/w/d) in Oberkirch und Umgebung!",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 1.6,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 12,
+      "changes": 0,
+      "km": 2.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 12
+       }
+      ],
+      "risky": false,
+      "score": 12
+     },
+     {
+      "kind": "транспорт",
+      "min": 30,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 17,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:15",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "07:15",
+        "arr": "07:25",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "RB2",
+        "from": "Oberkirch",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:25",
+        "arr": "07:28",
+        "wait": null,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:28",
+        "arr": "07:45",
+        "min": 17
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 30
+     },
+     {
+      "kind": "пешком",
+      "min": 33,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 33
+       }
+      ],
+      "risky": false,
+      "score": 36
+     }
+    ],
+    "best": "велосипед",
+    "min": 12,
+    "changes": 0
    },
    "status": "open",
    "also_urls": [],
@@ -26131,6 +28911,202 @@
    "person": "Марина"
   },
   {
+   "id": "mykyta:ba_13356-102627A37769C46-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Rheinau",
+   "street": "",
+   "lat": 48.654954585,
+   "lon": 7.932944572,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-102627A37769C46-S",
+   "posted": "2026-11-19",
+   "desc": "**Ort:** Raum Rheinau **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionshelfer (m/w/d) mit Übernahmeoption** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Abwechslung**: Vielseitige und spannende Aufgaben * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können**: Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Montage von Baugruppen**aus Metall * Verpacken der **produzierten Ware** * **Innerbetrieblicher Transport** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der metallverarbeitenden Industrie * **Hard Skills**: Technisches Verständnis und handwerkliches Geschick * **Soft Skills**: Teambewusstsein und eine gute Kommunikationsfähigkeit * **Arbeitsweise:**Sorgfältig und strukturiert Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionshelfer (m/w/d) im Raum Rheinau und Umgebung.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 101,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 20,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:06",
+        "min": 20
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 86,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 8,
+      "end_stop": "Rheinbischofsheim Kath.Kirche",
+      "dep": "06:32",
+      "arr": "07:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Rheinbischofsheim Kath.Kirche",
+        "dep": "07:48",
+        "arr": "07:51",
+        "wait": 2,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Rheinbischofsheim Kath.Kirche",
+        "to": "работа",
+        "dep": "07:51",
+        "arr": "07:58",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 88,
+      "changes": 0,
+      "km": 21.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 88
+       }
+      ],
+      "risky": false,
+      "score": 156
+     }
+    ],
+    "best": "транспорт",
+    "min": 101,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A39678C39-S"
+   ],
+   "person": "mykyta"
+  },
+  {
    "id": "mykyta:ba_13356-105555A37463C48-S",
    "src": "Jobbörse",
    "title": "Produktionsmitarbeiter (m/w/d) / Produktionshelfer (m/w/d)",
@@ -26426,6 +29402,130 @@
     "best": "транспорт",
     "min": 76,
     "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_13356-104240A31043C62-S",
+   "src": "Jobbörse",
+   "title": "Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Oberkirch",
+   "street": "",
+   "lat": 48.519867587,
+   "lon": 8.068633213,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A31043C62-S",
+   "posted": "2026-11-19",
+   "desc": "**Ort:** Oberkirch **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Logistik **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d) in namhaftem Unternehmen** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * Durchführung **innerbetrieblicher Warentransporte** * Transportsicheres **verpacken der Produkte** * Zuständig für die Koordination des **Warenein- und ausgangs** * Kontrolle und Erfassung der**Lagerbestände** * **Dokumentation** der ausgeführten Arbeiten Ihr Profil: * **Berufserfahrung:** Idealerweise erste Erfahrung im Lagerbereich * **Hard Skills:** Gute Deutschkenntnisse in Wort und Schrift * **Arbeitszeit:** Bereitschaft zur Schichtarbeit * **Soft Skills:** Teamgeist, Flexibilität und eine strukturierte Arbeitsweise Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Lagerhelfer (m/w/d) in Oberkirch und Umgebung!",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 1.6,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 12,
+      "changes": 0,
+      "km": 2.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 12
+       }
+      ],
+      "risky": false,
+      "score": 12
+     },
+     {
+      "kind": "транспорт",
+      "min": 30,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 17,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:15",
+      "arr": "07:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "07:15",
+        "arr": "07:25",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "RB2",
+        "from": "Oberkirch",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:25",
+        "arr": "07:28",
+        "wait": null,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:28",
+        "arr": "07:45",
+        "min": 17
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 30
+     },
+     {
+      "kind": "пешком",
+      "min": 33,
+      "changes": 0,
+      "km": 2.3,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 33
+       }
+      ],
+      "risky": false,
+      "score": 36
+     }
+    ],
+    "best": "велосипед",
+    "min": 12,
+    "changes": 0
    },
    "status": "open",
    "also_urls": [],
@@ -27288,6 +30388,195 @@
    },
    "status": "open",
    "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_13356-105555A35379C51-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Bühl",
+   "street": "",
+   "lat": 48.69081642,
+   "lon": 8.155813322,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35379C51-S",
+   "posted": "2026-11-19",
+   "desc": "**Ort:** Raum Bühl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Kunststoff **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionsmitarbeiter (m/w/d) im Kunststoffsektor** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Sortieren**von Kunststofferzeugnissen * **Sichtkontrolle** * **Verpacken**von Kunststofferzeugnissen Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der Produktion * **Hard Skills**: Grundkenntnisse der deutschen Sprache * **Arbeitszeit**: Bereitschaft zur Schichtarbeit * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionsmitarbeiter (m/w/d) im Raum Bühl und Umgebung!",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 18.5,
+   "de": "немного",
+   "de_txt": ": Grundkenntnisse der deutschen Sprache",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-19T10:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 74,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 31,
+      "end_stop": "Bühl (Baden)",
+      "dep": "21:36",
+      "arr": "22:50",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "22:20",
+        "arr": "22:50",
+        "min": 31
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 77
+     },
+     {
+      "kind": "как в приложении",
+      "min": 100,
+      "changes": 2,
+      "min_wait": 11,
+      "walk_end": 4,
+      "end_stop": "Kappelwindeck Öhinghaltweg",
+      "dep": "21:36",
+      "arr": "23:17",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "21:36",
+        "arr": "21:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "21:47",
+        "arr": "21:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "22:07",
+        "arr": "22:20",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Anruflinientaxi",
+        "line": "271",
+        "from": "Bühl (Baden)",
+        "to": "Kappelwindeck Öhinghaltweg",
+        "dep": "22:50",
+        "arr": "23:13",
+        "wait": 30,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kappelwindeck Öhinghaltweg",
+        "to": "работа",
+        "dep": "23:13",
+        "arr": "23:17",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "велосипед",
+      "min": 94,
+      "changes": 0,
+      "km": 23.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 94
+       }
+      ],
+      "risky": false,
+      "score": 168
+     }
+    ],
+    "best": "транспорт",
+    "min": 74,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105550A48439C16-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A36001C49-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37600C48-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43231C35-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A49639C5-S"
+   ],
    "person": "mykyta"
   },
   {
@@ -34451,7 +37740,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-schutterwald-umgebung/3581067187-107-9032"
+   ],
    "person": "mykyta"
   },
   {
@@ -39989,7 +43280,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-sasbach-umgebung/3581067179-107-8670"
+   ],
    "person": "mykyta"
   },
   {
@@ -40276,7 +43569,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-fuer-wochenendzeitung-in-fessenbach-rammersweier-zell-w/3581066999-107-9038"
+   ],
    "person": "mykyta"
   },
   {
@@ -40622,7 +43917,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-fuer-wochenendzeitung-in-langhurst-schutterwald/3581066967-107-9032"
+   ],
    "person": "mykyta"
   },
   {
@@ -46647,7 +49944,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-achern-umgebung/3581067119-107-8671"
+   ],
    "person": "mykyta"
   },
   {
@@ -57395,310 +60694,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_13356-102626A29876C65-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Kehl",
-   "street": "",
-   "lat": 48.566645718,
-   "lon": 7.852487546,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-102626A29876C65-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Kehl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionshelfer (m/w/d) mit Übernahmeoption** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Abwechslung**: Vielseitige und spannende Aufgaben * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können**: Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Verpacken \\& Entgraten**vom Metallteilen * Manuelles Verbindenvon **Alustäben** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der metallverarbeitenden Industrie * **Hard Skills**: Technisches Verständnis und handwerkliches Geschick * **Soft Skills**: Teambewusstsein und eine gute Kommunikationsfähigkeit * **Arbeitsweise:**Sorgfältig und strukturiert Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionshelfer (m/w/d) in Kehl und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 17.3,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 76,
-      "changes": 2,
-      "min_wait": 5,
-      "walk_end": 6,
-      "end_stop": "Neumühl Am Kinzigwehr",
-      "dep": "06:59",
-      "arr": "08:15",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Rössel",
-        "dep": "07:34",
-        "arr": "07:55",
-        "wait": 8,
-        "min": 21
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7136",
-        "from": "Willstätt Rössel",
-        "to": "Neumühl Am Kinzigwehr",
-        "dep": "08:00",
-        "arr": "08:10",
-        "wait": 5,
-        "min": 10
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Neumühl Am Kinzigwehr",
-        "to": "работа",
-        "dep": "08:10",
-        "arr": "08:15",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 82
-     },
-     {
-      "kind": "велосипед",
-      "min": 84,
-      "changes": 0,
-      "km": 20.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 84
-       }
-      ],
-      "risky": false,
-      "score": 148
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 219,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 193,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "09:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "09:01",
-        "min": 193
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 219
-     }
-    ],
-    "best": "транспорт",
-    "min": 76,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43230C34-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-102627A37769C46-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A39678C39-S"
-   ],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_13356-105555A45721C27-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d) / Mitarbeiter in der Produktion (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Oberkirch",
-   "street": "",
-   "lat": 48.520369076,
-   "lon": 8.068269202,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A45721C27-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Raum Oberkirch **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionshelfer (m/w/d) / Mitarbeiter in der Produktion (m/w/d) in namhaftem Unternehmen** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Abwechslung**: Vielseitige und spannende Aufgaben * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können**: Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Montage**von kleinen Metallteilen * **Qualitätskontrolle** Ihr Profil: * **Ausbildung:**Ausbildung nicht zwingend erforderlich * **Berufserfahrung**: Berufserfahrung in einer vergleichbaren Position * **Hard Skills**: Technisches Verständnis und handwerkliches Geschick * **Soft Skills**: Teambewusstsein und eine gute Kommunikationsfähigkeit * **Arbeitsweise:**Sorgfältig und strukturiert Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionshelfer (m/w/d) / Mitarbeiter in der Produktion (m/w/d) / Produktionsmitarbeiter (m/w/d) im Raum Oberkirch und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 1.6,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 11,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 11
-       }
-      ],
-      "risky": false,
-      "score": 11
-     },
-     {
-      "kind": "транспорт",
-      "min": 28,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 15,
-      "end_stop": "Oberkirch H.-Furler-Gymnasium",
-      "dep": "07:26",
-      "arr": "07:54",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:26",
-        "arr": "07:34",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Oberkirch H.-Furler-Gymnasium",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": null,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oberkirch H.-Furler-Gymnasium",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:54",
-        "min": 15
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 28
-     },
-     {
-      "kind": "пешком",
-      "min": 31,
-      "changes": 0,
-      "km": 2.3,
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 31
-       }
-      ],
-      "risky": false,
-      "score": 32
-     }
-    ],
-    "best": "велосипед",
-    "min": 11,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A28264C71-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206519964-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A36010C49-S"
-   ],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_14751-417A24820-S",
    "src": "Jobbörse",
    "title": "Produktionshelfer (m/w/d)",
@@ -58259,156 +61254,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003638052-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002709259-S"
    ],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_13356-105555A28262C71-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d) / Quereinsteiger (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A28262C71-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Appenweier **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionshelfer (m/w/d) / Quereinsteiger (m/w/d) mit Übernahmeoption** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Schleifen**von Metallteilen * **Sichtkontrolle**der gefertigten Teile * **innerbetrieblicher Transport** * **Verpacken**der fertigen Erzeugnisse Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der metallverarbeitenden Industrie * **Hard Skills**: Kenntnisse der deutschen Sprache * **Arbeitszeit**: Bereitschaft zur Schichtarbeit * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionshelfer (m/w/d) in Appenweier und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 6.8,
-   "de": "немного",
-   "de_txt": ": Kenntnisse der deutschen Sprache",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "mykyta"
   },
   {
@@ -61802,7 +64647,194 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-D2E6G6OCYX1PR1OJ-S"
+   ],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ba_10000-1206519964-S",
+   "src": "Jobbörse",
+   "title": "Produktionshelfer (m/w/d) / Mitarbeiter in der Produktion (m/w/d)",
+   "firma": "BS Pfeiffer GmbH",
+   "ort": "Achern",
+   "street": "",
+   "lat": 48.6337461,
+   "lon": 8.0388651,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206519964-S",
+   "posted": "2026-05-15",
+   "desc": "Ort: Achern Arbeitszeitmodell: Vollzeit Vertragsart: Arbeitnehmerüberlassung mit Übernahmeoption Branche: Kunststoff Startzeitpunkt: ab sofort Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns! Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position: Produktionshelfer (m/w/d) / Mitarbeiter in der Produktion (m/w/d) Ihre Vorteile: * All-in-One: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * Bezahlung: Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * Sicherheit: Vermittlung in einen zukunftssicheren Arbeitsplatz * Work-Life-Balance: Geregelte Arbeitszeiten * Onboarding: Umfangreiche und gründliche Einarbeitung * Arbeitsumgebung: Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * Was wir von BS immer bieten können: Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * Montieren von Kunststoffteilen * Prüfung der Produkte auf Qualität und Vollständigkeit * Durchführung innerbetrieblicher Transporte Ihr Profil: * Berufserfahrung: Idealerweise erste Berufserfahrung im Produktionsumfeld * Hard Skills: Grundkenntnisse der deutschen Sprache * Arbeitszeit: Bereitschaft zur 2-Schichtarbeit * Soft Skills: Teamgeist und Flexibilität * Arbeitsweise: Strukturiert und selbstständig",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 11.8,
+   "de": "немного",
+   "de_txt": "Hard Skills: Grundkenntnisse der deutschen Sprache",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-15T20:24",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 71,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Achern",
+      "dep": "06:25",
+      "arr": "07:36",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Achern",
+        "to": "работа",
+        "dep": "06:58",
+        "arr": "07:36",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 71
+     },
+     {
+      "kind": "велосипед",
+      "min": 62,
+      "changes": 0,
+      "km": 15.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 62
+       }
+      ],
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 115,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 24,
+      "end_stop": "Großweier Seehotel",
+      "dep": "06:32",
+      "arr": "08:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Gamshurst Ziegelhütte",
+        "dep": "07:16",
+        "arr": "07:31",
+        "wait": 4,
+        "min": 15
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Gamshurst Ziegelhütte",
+        "to": "Großweier Seehotel",
+        "dep": "08:02",
+        "arr": "08:04",
+        "wait": null,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Großweier Seehotel",
+        "to": "работа",
+        "dep": "08:04",
+        "arr": "08:27",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 133
+     }
+    ],
+    "best": "транспорт",
+    "min": 71,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A36010C49-S"
+   ],
    "person": "mykyta"
   },
   {
@@ -64252,123 +67284,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_13356-104240A28079C53-S",
-   "src": "Jobbörse",
-   "title": "Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Oppenau",
-   "street": "",
-   "lat": 48.479055879,
-   "lon": 8.175704669,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A28079C53-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Oppenau **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Lagerlogistik **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d) TOP Bezahlung** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * Durchführung **innerbetrieblicher Warentransporte** * Transportsicheres **Verpacken der Produkte** * Zuständig für die Koordination des **Warenein- und ausgangs** * Kontrolle und Erfassung der**Lagerbestände** * **Dokumentation** der ausgeführten Arbeiten Ihr Profil: * **Berufserfahrung:** Idealerweise erste Erfahrung im Lagerbereich * **Hard Skills:** Gute Deutschkenntnisse in Wort und Schrift * **Arbeitszeit:** Bereitschaft zur Schichtarbeit * **Soft Skills:** Teamgeist, Flexibilität und eine strukturierte Arbeitsweise Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Lagerhelfer (m/w/d) in Oppenau und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 9.0,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 35,
-      "changes": 1,
-      "min_wait": 6,
-      "walk_end": 6,
-      "end_stop": "Oppenau Oberes Stadttor",
-      "dep": "16:12",
-      "arr": "16:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "16:12",
-        "arr": "16:19",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Oppenau",
-        "dep": "16:19",
-        "arr": "16:32",
-        "wait": null,
-        "min": 13
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "425",
-        "from": "Oppenau",
-        "to": "Oppenau Oberes Stadttor",
-        "dep": "16:38",
-        "arr": "16:41",
-        "wait": 6,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oppenau Oberes Stadttor",
-        "to": "работа",
-        "dep": "16:41",
-        "arr": "16:47",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 38
-     },
-     {
-      "kind": "велосипед",
-      "min": 47,
-      "changes": 0,
-      "km": 11.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 47
-       }
-      ],
-      "risky": false,
-      "score": 74
-     }
-    ],
-    "best": "транспорт",
-    "min": 35,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A31043C62-S"
-   ],
    "person": "mykyta"
   },
   {
@@ -69414,7 +72329,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-M6MEBC2L2KEL7MG8-S"
+   ],
    "person": "mykyta"
   },
   {
@@ -84146,178 +87063,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_12122-982163839-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter/-in Blechbearbeitung (m/w/d)",
-   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
-   "ort": "Kehl",
-   "street": "",
-   "lat": 48.566645718,
-   "lon": 7.852487546,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982163839-S",
-   "posted": "2026-11-10",
-   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberflächenbehandlung von Bauteilen durch Glasperlenstrahlen Flexibler, universeller Einsatz an verschiedenen Arbeitsstationen der Produktion Sichtprüfung und einfache Qualitätskontrolle der gefertigten Teile Dein Profil Erfahrung in der Blechbearbeitung, idealerweise im Bereich Abkanten, Laserschneiden oder Strahlen Handwerkliches Geschick und technisches Verständnis Gute Deutschkenntnisse in Wort und Schrift (Lesen von Zeichnungen und Arbeitsanweisungen) Flexibilität, Zuverlässigkeit und Teamfähigkeit Motivation und Bereitschaft, sich in neue Aufgaben einzuarbeiten Bereitschaft zur Schichtarbeit von Vorteil ## Das bieten wir - nicht bekannt **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 17.3,
-   "de": "нужен",
-   "de_txt": "Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberfl",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 76,
-      "changes": 2,
-      "min_wait": 5,
-      "walk_end": 6,
-      "end_stop": "Neumühl Am Kinzigwehr",
-      "dep": "06:59",
-      "arr": "08:15",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Rössel",
-        "dep": "07:34",
-        "arr": "07:55",
-        "wait": 8,
-        "min": 21
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7136",
-        "from": "Willstätt Rössel",
-        "to": "Neumühl Am Kinzigwehr",
-        "dep": "08:00",
-        "arr": "08:10",
-        "wait": 5,
-        "min": 10
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Neumühl Am Kinzigwehr",
-        "to": "работа",
-        "dep": "08:10",
-        "arr": "08:15",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 82
-     },
-     {
-      "kind": "велосипед",
-      "min": 84,
-      "changes": 0,
-      "km": 20.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 84
-       }
-      ],
-      "risky": false,
-      "score": 148
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 219,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 193,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "09:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "09:01",
-        "min": 193
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 219
-     }
-    ],
-    "best": "транспорт",
-    "min": 76,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_11081-22J40FLYIGQ32N8E-S",
    "src": "Jobbörse",
    "title": "Montagemitarbeiter (gn)",
@@ -84487,254 +87232,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_13356-105555A35999C48-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Rheinau",
-   "street": "",
-   "lat": 48.655207608,
-   "lon": 7.935710927,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35999C48-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Rheinau **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionsmitarbeiter (m/w/d) Familienbetrieb - tolles Arbeitsklima** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Montage**von Metallteilen * Bedienen von **Maschinen** * **Einlegen von Metallrohren**in Maschinen Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der Produktion * **Hard Skills**: Erweiterte Kenntnisse der deutschen Sprache * **Arbeitszeit**: Bereitschaft zur Tagschicht * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionsmitarbeiter (m/w/d) in Rheinau und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 17.4,
-   "de": "нужен",
-   "de_txt": ": Erweiterte Kenntnisse der deutschen Sprache",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 105,
-      "changes": 1,
-      "min_wait": 18,
-      "walk_end": 24,
-      "end_stop": "Freistett Busbahnhof",
-      "dep": "06:25",
-      "arr": "08:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 18,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Freistett Busbahnhof",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "08:10",
-        "min": 24
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 108
-     },
-     {
-      "kind": "как в приложении",
-      "min": 89,
-      "changes": 3,
-      "min_wait": 2,
-      "walk_end": 11,
-      "end_stop": "Rheinbischofsheim Kath.Kirche",
-      "dep": "06:32",
-      "arr": "08:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 4,
-        "min": 30
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "403",
-        "from": "Freistett Busbahnhof",
-        "to": "Rheinbischofsheim Kath.Kirche",
-        "dep": "07:48",
-        "arr": "07:51",
-        "wait": 2,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Rheinbischofsheim Kath.Kirche",
-        "to": "работа",
-        "dep": "07:51",
-        "arr": "08:01",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 110
-     },
-     {
-      "kind": "велосипед",
-      "min": 89,
-      "changes": 0,
-      "km": 21.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 89
-       }
-      ],
-      "risky": false,
-      "score": 158
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 299,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 273,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:20",
-        "min": 273
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 299
-     }
-    ],
-    "best": "транспорт",
-    "min": 105,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37581C26-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35379C51-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105550A48439C16-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A36001C49-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37600C48-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43231C35-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A49639C5-S"
-   ],
    "person": "mykyta"
   },
   {
@@ -101594,7 +104091,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-fuer-wochenendzeitung-in-biberach/3581066947-107-8049"
+   ],
    "person": "mykyta"
   },
   {
@@ -112420,6 +114919,167 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ba_10001-1003969533-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter Montage (m/w/d)",
+   "firma": "Joseph Westiform GmbH",
+   "ort": "Ortenberg",
+   "street": "Kinzigtalstr. 2",
+   "lat": 48.441249,
+   "lon": 7.9707015,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003969533-S",
+   "posted": "2026-11-05",
+   "desc": "Mit viel Leidenschaft und Herzblut geben wir bei der Joseph Westiform GmbH jeden Tag alles, um die Marken unserer Kunden perfekt in Szene zu setzen und einzigartige Markenauftritte zu realisieren. Werden auch Du ein Teil der internationalen Joseph Westiform Familie und offizieller #Spotlighter! Für unseren Standort in Ortenberg oder Bretzfeld suchen wir Mitarbeiter für die Montage (m/w/d) zum nächstmöglichen Zeitpunkt. ‍**Ihre Aufgaben:** - Montage von Werbeanlagen nach Zeichnung und Arbeitsanweisung - Instandhaltung, Reinigung und Wartung von Werbeanlagen - Technischer Ansprechpartner für unsere Kunden vor Ort - Beratung und Betreuung der Kunden bei technischen Fragen - Enge Kommunikation mit Montage- und internem Projektmanagementteam bei technischen Fragen - Sorgfältige Dokumentation durchgeführter Arbeiten **Ihre Qualifikationen:** - Erfolgreich abgeschlossene technische/handwerkliche Ausbildung von Vorteil - Technisches Verständnis und handwerkliches Geschick - Erste Erfahrungen im Bereich Montage wünschenswert - Elektrokenntnisse von Vorteil - Kommunikationsstärke sowie ein freundliches und sicheres Auftreten - Strukturierte, lösungsorientierte und eigenständige Arbeitsweise, hohe Leistungsbereitschaft - Reisebereitschaft im Inland - Gültige Fahrerlaubnis der Klasse B - Gute Deutschkenntnisse in Wort und Schrift **Wir bieten Ihnen:** - Anspruchsvolle und abwechslungsreiche Tätigkeit in einem international tätigen Unternehmen - Unbefristetes Arbeitsverhältnis - 30 Tage Urlaub, flexible Arbeitszeiten mit Gleitzeitregelung - Tarifliche Lohnerhöhungen und betriebliche Sonderzahlungen, wie z.B. Urlaubs- und Weihnachtsgeld - Betriebliche Altersvorsorge - Vollumfängliches Einarbeitungsprogramm - Vielfältige Weiterbildungsmöglichkeiten - Firmen- und Teamevents - Kantine und Outdoor-Kantine im Sommer - Ein super Team, dass Sie jederzeit unterstützt **Interesse?** Bitte senden Sie Ihre Bewerbung per E-Mail an personal@westiform.de oder laden Sie diese schnell und einfach über unser Online-Bewerbungsformular unter [https://www.westiform.de/career](https://www.westiform.de/career) hoch. Vielen Dank.",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": true,
+   "who": "marina",
+   "km": 12.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-12T16:40",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 4,
+      "end_stop": "Ortenberg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7134",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Ortenberg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:23",
+        "wait": 11,
+        "min": 13
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Ortenberg Bahnhof",
+        "to": "работа",
+        "dep": "07:23",
+        "arr": "07:26",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 91,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 65,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:53",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:53",
+        "min": 65
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 84,
+      "changes": 0,
+      "km": 20.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 84
+       }
+      ],
+      "risky": false,
+      "score": 148
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ba_15518-2FAK4D21C52BWOS5-S",
    "src": "Jobbörse",
    "title": "Produktionshelfer (m/w/d)",
@@ -116956,178 +119616,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_12122-982163839-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter/-in Blechbearbeitung (m/w/d)",
-   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
-   "ort": "Kehl",
-   "street": "",
-   "lat": 48.566645718,
-   "lon": 7.852487546,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982163839-S",
-   "posted": "2026-11-10",
-   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberflächenbehandlung von Bauteilen durch Glasperlenstrahlen Flexibler, universeller Einsatz an verschiedenen Arbeitsstationen der Produktion Sichtprüfung und einfache Qualitätskontrolle der gefertigten Teile Dein Profil Erfahrung in der Blechbearbeitung, idealerweise im Bereich Abkanten, Laserschneiden oder Strahlen Handwerkliches Geschick und technisches Verständnis Gute Deutschkenntnisse in Wort und Schrift (Lesen von Zeichnungen und Arbeitsanweisungen) Flexibilität, Zuverlässigkeit und Teamfähigkeit Motivation und Bereitschaft, sich in neue Aufgaben einzuarbeiten Bereitschaft zur Schichtarbeit von Vorteil ## Das bieten wir - nicht bekannt **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.3,
-   "de": "нужен",
-   "de_txt": "Deine Aufgaben Deine Aufgaben Abkanten von Blechteilen an der Abkantpresse nach Zeichnung Unterstützung beim Bedienen und Abräumen der Laserschneidanlage Oberfl",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-10T09:56",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 76,
-      "changes": 2,
-      "min_wait": 5,
-      "walk_end": 6,
-      "end_stop": "Neumühl Am Kinzigwehr",
-      "dep": "06:59",
-      "arr": "08:15",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Rössel",
-        "dep": "07:34",
-        "arr": "07:55",
-        "wait": 8,
-        "min": 21
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7136",
-        "from": "Willstätt Rössel",
-        "to": "Neumühl Am Kinzigwehr",
-        "dep": "08:00",
-        "arr": "08:10",
-        "wait": 5,
-        "min": 10
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Neumühl Am Kinzigwehr",
-        "to": "работа",
-        "dep": "08:10",
-        "arr": "08:15",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 82
-     },
-     {
-      "kind": "велосипед",
-      "min": 84,
-      "changes": 0,
-      "km": 20.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 84
-       }
-      ],
-      "risky": false,
-      "score": 148
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 219,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 193,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "09:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "09:01",
-        "min": 193
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 219
-     }
-    ],
-    "best": "транспорт",
-    "min": 76,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:jw_065022989",
    "src": "Jobware",
    "title": "Hotel-Reinigungskraft (m/w/d)",
@@ -117853,332 +120341,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_13356-102626A29876C65-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Kehl",
-   "street": "",
-   "lat": 48.566645718,
-   "lon": 7.852487546,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-102626A29876C65-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Kehl **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionshelfer (m/w/d) mit Übernahmeoption** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Abwechslung**: Vielseitige und spannende Aufgaben * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können**: Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Verpacken \\& Entgraten**vom Metallteilen * Manuelles Verbindenvon **Alustäben** Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der metallverarbeitenden Industrie * **Hard Skills**: Technisches Verständnis und handwerkliches Geschick * **Soft Skills**: Teambewusstsein und eine gute Kommunikationsfähigkeit * **Arbeitsweise:**Sorgfältig und strukturiert Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionshelfer (m/w/d) in Kehl und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.3,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-09T13:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 76,
-      "changes": 2,
-      "min_wait": 5,
-      "walk_end": 6,
-      "end_stop": "Neumühl Am Kinzigwehr",
-      "dep": "06:59",
-      "arr": "08:15",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Rössel",
-        "dep": "07:34",
-        "arr": "07:55",
-        "wait": 8,
-        "min": 21
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7136",
-        "from": "Willstätt Rössel",
-        "to": "Neumühl Am Kinzigwehr",
-        "dep": "08:00",
-        "arr": "08:10",
-        "wait": 5,
-        "min": 10
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Neumühl Am Kinzigwehr",
-        "to": "работа",
-        "dep": "08:10",
-        "arr": "08:15",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 82
-     },
-     {
-      "kind": "велосипед",
-      "min": 84,
-      "changes": 0,
-      "km": 20.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 84
-       }
-      ],
-      "risky": false,
-      "score": 148
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 219,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 193,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "09:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "09:01",
-        "min": 193
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 219
-     }
-    ],
-    "best": "транспорт",
-    "min": 76,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43230C34-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-102627A37769C46-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A39678C39-S"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_13356-105555A28262C71-S",
-   "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d) / Quereinsteiger (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Appenweier",
-   "street": "",
-   "lat": 48.542563334,
-   "lon": 7.990583587,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A28262C71-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Appenweier **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionshelfer (m/w/d) / Quereinsteiger (m/w/d) mit Übernahmeoption** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Schleifen**von Metallteilen * **Sichtkontrolle**der gefertigten Teile * **innerbetrieblicher Transport** * **Verpacken**der fertigen Erzeugnisse Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der metallverarbeitenden Industrie * **Hard Skills**: Kenntnisse der deutschen Sprache * **Arbeitszeit**: Bereitschaft zur Schichtarbeit * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionshelfer (m/w/d) in Appenweier und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 6.8,
-   "de": "немного",
-   "de_txt": ": Kenntnisse der deutschen Sprache",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-09T13:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Appenweier Oberkircher Straße",
-      "dep": "23:37",
-      "arr": "00:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "23:37",
-        "arr": "23:44",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Appenweier Oberkircher Straße",
-        "dep": "23:44",
-        "arr": "23:58",
-        "wait": null,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Appenweier Oberkircher Straße",
-        "to": "работа",
-        "dep": "23:58",
-        "arr": "00:10",
-        "min": 13
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 38,
-      "changes": 0,
-      "km": 9.0,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 38
-       }
-      ],
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 145,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 119,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "07:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "07:46",
-        "min": 119
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 145
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_11932-167-1803199-0-S",
    "src": "Jobbörse",
    "title": "Produktionsmitarbeiter (m/w/d) Kunststoff",
@@ -118300,371 +120462,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_13356-105555A35999C48-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Rheinau",
-   "street": "",
-   "lat": 48.655207608,
-   "lon": 7.935710927,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35999C48-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Rheinau **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Metall **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Produktionsmitarbeiter (m/w/d) Familienbetrieb - tolles Arbeitsklima** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * **Montage**von Metallteilen * Bedienen von **Maschinen** * **Einlegen von Metallrohren**in Maschinen Ihr Profil: * **Berufserfahrung**: Idealerweise erste Berufserfahrung in der Produktion * **Hard Skills**: Erweiterte Kenntnisse der deutschen Sprache * **Arbeitszeit**: Bereitschaft zur Tagschicht * **Soft Skills**: Teamgeist und Flexibilität * **Arbeitsweise:** Strukturiert und selbstständig Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Produktionsmitarbeiter (m/w/d) in Rheinau und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.4,
-   "de": "нужен",
-   "de_txt": ": Erweiterte Kenntnisse der deutschen Sprache",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Производство",
-   "first_seen": "2026-11-09T13:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 105,
-      "changes": 1,
-      "min_wait": 18,
-      "walk_end": 24,
-      "end_stop": "Freistett Busbahnhof",
-      "dep": "06:25",
-      "arr": "08:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 18,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Freistett Busbahnhof",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "08:10",
-        "min": 24
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 108
-     },
-     {
-      "kind": "как в приложении",
-      "min": 89,
-      "changes": 3,
-      "min_wait": 2,
-      "walk_end": 11,
-      "end_stop": "Rheinbischofsheim Kath.Kirche",
-      "dep": "06:32",
-      "arr": "08:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 4,
-        "min": 30
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "403",
-        "from": "Freistett Busbahnhof",
-        "to": "Rheinbischofsheim Kath.Kirche",
-        "dep": "07:48",
-        "arr": "07:51",
-        "wait": 2,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Rheinbischofsheim Kath.Kirche",
-        "to": "работа",
-        "dep": "07:51",
-        "arr": "08:01",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 110
-     },
-     {
-      "kind": "велосипед",
-      "min": 89,
-      "changes": 0,
-      "km": 21.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 89
-       }
-      ],
-      "risky": false,
-      "score": 158
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 299,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 273,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:20",
-        "min": 273
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 299
-     }
-    ],
-    "best": "транспорт",
-    "min": 105,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37581C26-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A35379C51-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105550A48439C16-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A36001C49-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A37600C48-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A43231C35-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A49639C5-S"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_13356-104240A28079C53-S",
-   "src": "Jobbörse",
-   "title": "Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d)",
-   "firma": "BS Pfeiffer GmbH",
-   "ort": "Oppenau",
-   "street": "",
-   "lat": 48.479055879,
-   "lon": 8.175704669,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A28079C53-S",
-   "posted": "2026-11-09",
-   "desc": "**Ort:** Oppenau **Arbeitszeitmodell:** Vollzeit **Vertragsart:** Arbeitnehmerüberlassung mit Übernahmeoption **Branche:** Lagerlogistik **Startzeitpunkt:** ab sofort **Die BS Pfeiffer GmbH ist Ihr Dienstleister im Großraum Achern für eine faire, professionelle Umsetzung Ihrer neuen beruflichen Herausforderungen. Gestalten auch Sie Ihre berufliche Zukunft mit uns!** **Zum nächstmöglichen Zeitpunkt suchen wir die ideale Besetzung für die Position:** **Lagermitarbeiter (m/w/d) / Lagerhelfer (m/w/d) TOP Bezahlung** Ihre Vorteile: * **All-in-One**: Umfassende Beratung und unkomplizierter Bewerbungsprozess mit BS Pfeiffer * **Bezahlung:**Attraktives Gehalt mit Zusatzleistungen (z.B. Weihnachtsgeld) * **Sicherheit**: Vermittlung in einen zukunftssicheren Arbeitsplatz * **Work-Life-Balance**: Geregelte Arbeitszeiten * **Onboarding**: Umfangreiche und gründliche Einarbeitung * **Arbeitsumgebung:**Flache Hierarchien, modernes Arbeitsumfeld und ein aufgeschlossenes Team * **Was wir von BS immer bieten können** : Persönlicher Ansprechpartner, großes Unternehmensnetzwerk, kostenlose Arbeitskleidung sowie eine zeitnahe Rückmeldung zum Bewerbungsstatus Ihre Aufgaben: * Durchführung **innerbetrieblicher Warentransporte** * Transportsicheres **Verpacken der Produkte** * Zuständig für die Koordination des **Warenein- und ausgangs** * Kontrolle und Erfassung der**Lagerbestände** * **Dokumentation** der ausgeführten Arbeiten Ihr Profil: * **Berufserfahrung:** Idealerweise erste Erfahrung im Lagerbereich * **Hard Skills:** Gute Deutschkenntnisse in Wort und Schrift * **Arbeitszeit:** Bereitschaft zur Schichtarbeit * **Soft Skills:** Teamgeist, Flexibilität und eine strukturierte Arbeitsweise Bewerben Sie sich jetzt und erfahren Sie mehr über den Kunden und weitere interessante Jobangebote als Lagerhelfer (m/w/d) in Oppenau und Umgebung!",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 9.0,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-09T13:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 35,
-      "changes": 1,
-      "min_wait": 6,
-      "walk_end": 6,
-      "end_stop": "Oppenau Oberes Stadttor",
-      "dep": "16:12",
-      "arr": "16:47",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "16:12",
-        "arr": "16:19",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Oppenau",
-        "dep": "16:19",
-        "arr": "16:32",
-        "wait": null,
-        "min": 13
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "425",
-        "from": "Oppenau",
-        "to": "Oppenau Oberes Stadttor",
-        "dep": "16:38",
-        "arr": "16:41",
-        "wait": 6,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Oppenau Oberes Stadttor",
-        "to": "работа",
-        "dep": "16:41",
-        "arr": "16:47",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 38
-     },
-     {
-      "kind": "велосипед",
-      "min": 47,
-      "changes": 0,
-      "km": 11.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 47
-       }
-      ],
-      "risky": false,
-      "score": 74
-     }
-    ],
-    "best": "транспорт",
-    "min": 35,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-104240A31043C62-S"
-   ],
    "person": "Марина"
   },
   {
@@ -122297,11 +124094,11 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1723-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1744-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982162706-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982654594-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1836-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985570791-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985847028-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985847028-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-986279199-S"
    ],
    "person": "Марина"
   },
@@ -136503,7 +138300,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-D2E6G6OCYX1PR1OJ-S"
+   ],
    "person": "Марина"
   },
   {
@@ -136927,8 +138726,6 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A45721C27-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A28264C71-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-105555A36010C49-S"
    ],
    "person": "Марина"
@@ -147671,7 +149468,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12739-M6MEBC2L2KEL7MG8-S"
+   ],
    "person": "Марина"
   },
   {
