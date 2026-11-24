@@ -1,9 +1,35 @@
 {
- "generated": "2026-11-24T10:12",
+ "generated": "2026-11-24T11:11",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 50,
+ "count": 51,
  "items": [
+  {
+   "id": "ba_10001-1004040058-S",
+   "src": "Jobbörse",
+   "title": "Mit Herz, Haltung und Engagement – Pädagogische Fachkraft (m/w/d) für unsere stationäre Jugendhilfe",
+   "firma": "Jugendhilfe Phoenix gGmbH",
+   "ort": "Lahr",
+   "plz": "77933",
+   "street": "Heiligenstraße 10",
+   "lat": 48.345484,
+   "lon": 7.8371641,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004040058-S",
+   "posted": "2026-11-19",
+   "ab": "2026-11-24",
+   "zeit": "Vollzeit / Teilzeit",
+   "befristet": false,
+   "quer": false,
+   "beruf": "Erzieher/in - Jugend- und Heimerziehung",
+   "km": 16.6,
+   "kind": "Jugend / Heim",
+   "ausb": false,
+   "first_seen": "2026-11-24T10:42",
+   "status": "open",
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4492180497"
+   ]
+  },
   {
    "id": "li_4461528816",
    "src": "LinkedIn",
@@ -1128,6 +1154,7 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },

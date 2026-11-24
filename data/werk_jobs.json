@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T10:12",
+ "generated": "2026-11-24T11:11",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 577,
-  "queue": 233,
-  "ai_focus": 304
+  "all": 579,
+  "queue": 234,
+  "ai_focus": 305
  },
  "jobs": [
   {
@@ -474,7 +474,9 @@
    "url": "https://de.linkedin.com/jobs/view/4487682306",
    "apply_url": "",
    "apply_email": "personal@woerner-gmbh.com",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4493722163"
+   ],
    "salary": "",
    "posted": "2026-11-09",
    "first_seen": "2026-11-17T12:54",
@@ -5102,6 +5104,34 @@
    "description": "Deine Aufgaben • Du bist mittendrin statt nur dabei: Planung & Umsetzung von digitalen Marketing-Maßnahmen (SEO, SEA & Social Media) • Du packst bei coolen Online-Kampagnen mit an – von der Idee bis zum Go-Live • Zahlen schrecken dich nicht ab – du zauberst Reportings, die wirklich was aussagen • Webseiten? Klar! Du pflegst die Seiten unserer Kunden • Recherchen, Analysen & Insights – hier darfst du in die Tasten hauen • Du bringst deine Ideen in Präsentationen für Kundentermine & Seminare ein Dein ProfilDu studierst mit Schwerpunkt Marketing, digitale Medien oder ähnliches mindestens im 3. Semester und bringst folgende Punkte mit: • Begeisterung für Digitales Marketing (SEO, Onlinewerbung, Social Media, Webanalyse) und digitale Medien • Empathie, Warmherzigkeit und Achtsamkeit zeichnen dich aus • Teamwork ist für dich mehr als ein Buzzword. • Du bist begeisterungsfähig und motiviert dich in großartige Projekte zu stürzen • Selbstständige und eigenverantwortliche Arbeitsweise • Du kommst aus der Nähe und kannst bei uns im Büro arbeiten Warum wir?Wohlfühl-Job mit allem Drum und Dran: tolle Kollegen, Kaffee-Bar, gefüllter Getränkekühlschrank, frisches Obst und was man dazu noch so braucht. Vielseitige Projekte, die dich fordern. Voll und ganz kannst du dich auf deine Leidenschaft und Stärken fokussieren und diese bei und mit uns ausbauen"
   },
   {
+   "id": "li_4494101749",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Web / Shop / SEO",
+   "title": "Werkstudent Online-Marketing (w/m/d)",
+   "company": "PaX AG",
+   "location": "Ingelheim am Rhein",
+   "distance_km": 160.6,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4494101749",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24T10:42",
+   "description": "Du möchtest Dein theoretisches Wissen aus dem Studium in die Praxis umsetzen und Erfahrungen im digitalen Marketing sammeln? Dann bist Du bei uns genau richtig! Zur Verstärkung unseres Online-Marketing-Teams bei der PaX AG suchen wir zum nächstmöglichen Zeitpunkt einen Werkstudenten (w/m/d) an unserem Standort in Ingelheim am Rhein/Homeoffice. Deine Aufgaben Du unterstützt bei der Erstellung und Optimierung von Inhalten für unsere Kunden-Webseiten. Du wertest die über unsere Kunden-Webseiten eingehenden Anfragen aus. Du wirkst bei der Themenfindung und Planung von Social-Media-Beiträgen mit. Du unterstützt uns bei verschiedenen Projekten im Online-Marketing und sammelst erste Erfahrungen im Projektmanagement. Du bringst eigene Ideen ein und arbeitest eng mit unserem Marketing-Team zusammen. Das bringst Du mit Du studierst Betriebswirtschaftslehre, Medienwirtschaft, Marketing, Kommunikation oder einen vergleichbaren Studiengang. Du hast ein Gespür für gute Texte, eine sichere Ausdrucksweise und Spaß daran, Inhalte kreativ und zielgruppengerecht zu formulieren. Du weißt, wie Du KI-Tools sinnvoll einsetzen kannst, um Texte zu erstellen, zu optimieren und neue Ideen zu entwickeln. Du hast idealerweise bereits Kenntnisse im Umgang mit Content-Management-Systemen. Erste Kenntnisse in der Bildbearbeitung sind von Vorteil. Das bieten wir Dir Flexible Arbeitszeiten, die sich mit Deinem Studium vereinbaren lassen. Die Möglichkeit, an unserem Standort in Ingelheim oder im Homeoffice zu arbeiten. Spannende und abwechslungsreiche Aufgaben im Online-Marketing. Ein junges, dynamisches Team. Flache Hierarchien und schnelle Entscheidungswege. Die Möglichkeit, eigene Ideen einzubringen und aktiv an Projekten mitzuwirken. Bei uns bist Du nicht einfach nur Werkstudent, sondern ein wichtiger Teil des Teams. Interesse geweckt? Dann freuen wir uns auf Deine Bewerbung und darauf, Dich kennenzulernen!"
+  },
+  {
    "id": "li_4478991071",
    "queue": true,
    "missing_skills": [],
@@ -6966,6 +6996,36 @@
    "description": "STAR werden. Zukunft machen. Für den STAR-Bereich | Böblingen | Teilzeit, Werkstudenten Gestalte mit uns intelligente Software, die in der Praxis etwas bewegt! Du möchtest nicht nur über Künstliche Intelligenz sprechen, sondern sie selbst entwickeln? In unserem AI-Team arbeitest Du an innovativen AI-Lösungen für internationale Top-Unternehmen. Gemeinsam mit erfahrenen AI-, Cloud- und Software-Experten entwickelst Du Prototypen, integrierst moderne KI-Modelle in Anwendungen und bringst neue Ideen von der ersten Skizze bis zum funktionierenden Use Case. Dabei erhältst Du echte Einblicke in anspruchsvolle Kundenprojekte und kannst Deine technischen Fähigkeiten direkt in der Praxis einsetzen. Statt klassischer Werkstudentenaufgaben erwarten Dich relevante Fragestellungen, moderne Technologien und viel Raum zum Ausprobieren. Deine Aufgaben Entwicklung von AI-Anwendungen: Du unterstützt bei der Konzeption und Umsetzung innovativer Anwendungen von Künstlicher Intelligenz und Generative AI. Prototyping und Proof of Concepts: Du entwickelst funktionsfähige Prototypen und demonstrierst, wie sich neue AI-Technologien in konkreten Business-Anwendungen einsetzen lassen Integration von AI-Modellen: Du bindest Large Language Models und weitere AI-Services über APIs in bestehende oder neu entwickelte Anwendungen ein. AI Agents und intelligente Workflows: Du wirkst bei der Entwicklung agentenbasierter Lösungen mit, die auf Informationen, Anwendungen und Unternehmensprozesse zugreifen können Backend- und Anwendungsentwicklung: Du entwickelst Softwarekomponenten, Schnittstellen und Services, beispielsweise mit Python oder JavaScript beziehungsweise TypeScript RAG und Unternehmenswissen: Du unterstützt bei der Entwicklung von Anwendungen, die Sprachmodelle sicher und gezielt mit Dokumenten, Datenbanken oder anderen Wissensquellen verbinden Testing und Qualitätssicherung: Du testest AI-Anwendungen systematisch und hilfst dabei, Qualität, Zuverlässigkeit und Nachvollziehbarkeit der Ergebnisse zu verbessern. Technologie-Scouting: Du analysierst neue Frameworks, Modelle und Entwicklungsmethoden und bewertest, wie sie sich sinnvoll in unseren Projekten einsetzen lassen Mitarbeit in Kundenprojekten: Du arbeitest eng mit unserem Team an realen AI-Projekten und bringst Deine technischen Ideen aktiv in die Lösungsentwicklung ein Dein Profil Du bist eingeschriebener Student (m/w/d), beispielsweise in Informatik, Wirtschaftsinformatik, Data Science, Software Engineering, Künstlicher Intelligenz oder einem vergleichbaren StudiengangDu verfügst über erste praktische Programmiererfahrung, idealerweise mit Python oder JavaScript beziehungsweise TypeScript Du hast ein ausgeprägtes Interesse an Artificial Intelligence, insbesondere an Generative AI, Large Language Models und AI Agents Du kennst grundlegende Konzepte der Softwareentwicklung und hast idealerweise bereits eigene Anwendungen, Studienprojekte oder Prototypen umgesetzt. Erste Erfahrungen mit APIs, Git, Datenbanken, Cloud-"
   },
   {
+   "id": "li_4482633818",
+   "queue": false,
+   "missing_skills": [
+    "Django"
+   ],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent / Praktikum – Data Scientist (m/w/d)",
+   "company": "quo data GmbH Qualitätsmanagement und Statistik",
+   "location": "Dresden",
+   "distance_km": 500.2,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4482633818",
+   "apply_url": "",
+   "apply_email": "karriere@quodata.de",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-09-29",
+   "first_seen": "2026-11-24T10:42",
+   "description": "# Werkstudent / Praktikum – Data Scientist (m/w/d) ## Deine Rolle im Data-Science-Team Du arbeitest in einem kleinen Team, das komplexe Daten in Ergebnisse verwandelt, auf die sich unsere Kunden verlassen können. Statistik, Mathematik und Software für reale, greifbare Probleme. Du übernimmst von Anfang an eigene Aufgaben und arbeitest mit denselben Tools wie der Rest des Teams. Als *Werkstudent:in - Data Scientist* schreibst du Python, automatisierst wiederkehrende Analysen und Reports und nutzt KI-Tools als festen Bestandteil deines Arbeitsalltags. ### Deine Aufgaben - Statistische Analysen für verschiedene Anwendungsbereiche: Lebensmittel, Verbraucherschutz, Umwelt, Werkstoffe, Biomedizin. - Entwicklung und Pflege agentenbasierter Workflows für Datenanalysen, Modellierung und Reporting. - Entwicklung und Erweiterung unserer webbasierten Softwarelösungen. - Einsatz von KI-Tools und Agenten zur Unterstützung von Analyse, Prototyping und Dokumentation. ### Dein Profil - Du studierst Informatik, Mathematik, Statistik, Physik, Ingenieurwissenschaften oder ein vergleichbares technisches Fach. - Praktische Erfahrung mit KI-Tools wie ChatGPT, Claude oder GitHub Copilot. Du kannst effektive Prompts schreiben, einschätzen, wo Agenten sinnvoll eingesetzt werden können, und ihre Ergebnisse kritisch prüfen. - Fundierte Python-Kenntnisse, idealerweise inklusive Erfahrung in der Anwendungsentwicklung. - Sicherer Umgang mit Git: Branches, Commits, Pull Requests, Lösen von Merge-Konflikten. - Interesse an Statistik und am Verständnis von Code, der von Coding-Agenten erstellt wurde. - Bereitschaft, dich selbstständig in neue Themen einzuarbeiten. - Klare und offene Kommunikation, auch mit Kolleg:innen aus anderen Fachbereichen. - Du lebst in oder in der Nähe von Dresden und kannst 10–20 Stunden pro Woche arbeiten. - Sehr gute Englischkenntnisse in Wort und Schrift. Deutschkenntnisse sind ein großes Plus. ### Wünschenswert - SQL, pandas, NumPy oder R. - Webtechnologien wie FastAPI, Django oder ein JavaScript-Framework. - Docker, CI/CD oder LaTeX. ### Was wir bieten - Ein tolles Team mit flacher Hierarchie und offener Unternehmenskultur. - Spannende und abwechslungsreiche Aufgaben mit interdisziplinären Kollegen. - Ein offenes Ohr für eigene kreative Ideen. - Flexible Arbeitszeiten passend zu deinem Vorlesungsplan. - Eine feste Ansprechperson im Team von Tag eins an. - Die Möglichkeit, deine Abschlussarbeit bei uns zu schreiben. - Gemeinsame Events, z.B. Sommer- und Weihnachtsfeiern. - Kaffee-Flatrate & Freigetränke. ### Haben wir Dein Interesse geweckt? Dann senden aussagekräftigen Bewerbungsunterlagen an Kristina Berger ([karriere@quodata.de](mailto:karriere@quodata.de)). #### Bitte beachten: Du kannst Deine Bewerbung gerne per E-Mail senden. Wir freuen uns auf Deine Bewerbung! #### Bewerbungsadresse QuoData GmbH Personalabteilung Frau Berger [karriere@quodata.de](mailto:karriere@quodata.de)"
+  },
+  {
    "id": "li_4493761883",
    "queue": false,
    "missing_skills": [
@@ -7491,7 +7551,9 @@
    "url": "https://de.linkedin.com/jobs/view/4483127366",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4494105220"
+   ],
    "salary": "",
    "posted": "2026-10-23",
    "first_seen": "2026-11-09T16:16",
@@ -7520,6 +7582,7 @@
    "apply_url": "",
    "apply_email": "",
    "also_urls": [
+    "https://de.linkedin.com/jobs/view/4494107126",
     "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-465884"
    ],
    "salary": "",
