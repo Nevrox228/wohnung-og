@@ -1,9 +1,517 @@
 {
- "generated": "2026-11-25T15:31",
+ "generated": "2026-11-25T19:46",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1055,
+ "count": 1058,
  "items": [
+  {
+   "id": "marina:ka_3582466573",
+   "src": "Kleinanzeigen",
+   "title": "Medizinische Fachangestellte (m/w/d) in unserer Sozialstation, Medizinische/r Fachangestellte/r, Arzthelfer/in",
+   "firma": "HeyJobs",
+   "ort": "Haslach im Kinzigtal",
+   "plz": "77716",
+   "street": "",
+   "lat": 48.2812336,
+   "lon": 8.0903666,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/medizinische-fachangestellte-m-w-d-in-unserer-sozialstation-medizinische-r-fachangestellte-r-arzthelfer-in/3582466573-123-18880",
+   "posted": "2026-11-25",
+   "posted_time": "18:56",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/fzzddwLOt_Op ⭐ MFA (Ambulante Pflege) ⭐ Der Caritasverband Kinzigtal e. V. ist ein zukunftsorientierter, dynamischer Wohlfahrtsverband der katholischen Kirche. In seinen vielfältigen Beratungs-, Leistungs- und Unterstützungsangeboten, 3 stationären, 2 teilstationären und 1 ambulanten Pflegeeinrichtung/en sind ca. 380 Mitarbeitende und ca. 200 ehrenamtliche Mitarbeitende tätig. Benefits: - Ein freundliches und kollegiales Betriebsklima - Einen unbefristeten Arbeitsvertrag - Ein attraktives Gehalt und die Rahmenbedingungen des AVR - BGM - Kirchliche Zusatzversorgung - Leistungsentgelt und Jahressonderzahlung - Hansefit und Jobrad - Mitarbeiterevents (z. b. Weihnachtsfeier, Sommerfest, etc. ) - Möglichkeiten zur beruflichen Weiterentwicklung im Verband Hauptaufgaben: - Ambulante Versorgung unserer Kunden/Kundinnen in deren Häuslichkeit - Durchführung der Körperpflege unter Beachtung geltenden Pflegestandards - Mitbeteiligt an der Durchführung und Evaluation des Pflegeprozesses - Zusammenarbeit mit Ärzten/Ärztinnen und therapeutischen Teams - Sorgfältige und gewissenhafte Führung der Pflegedokumentation Profil: - Erfolgreich abgeschlossene Ausbildung zur MFA oder vergleichbare Qualifikation - Positive Ausstrahlung und Einfühlungsvermögen - Teamfähigkeit - Ausgeprägte Kommunikations- und Sozialkompetenz - Führerschein Klasse B Wir setzen uns für einen grenzachtenden Umgang nach innen und außen ein. Wir freuen uns auf ihre Bewerbung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/fzzddwLOt_Op",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 27.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Erfolgreich abgeschlossene Ausbildung zur MFA oder vergleichbare Qualifikation",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-25T19:12",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 7,
+      "end_stop": "Haslach",
+      "dep": "05:21",
+      "arr": "06:21",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Haslach",
+        "dep": "05:54",
+        "arr": "06:14",
+        "wait": 6,
+        "min": 20
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Haslach",
+        "to": "работа",
+        "dep": "06:14",
+        "arr": "06:21",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 393,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 367,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:55",
+        "min": 367
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 393
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3582466573",
+   "src": "Kleinanzeigen",
+   "title": "Medizinische Fachangestellte (m/w/d) in unserer Sozialstation, Medizinische/r Fachangestellte/r, Arzthelfer/in",
+   "firma": "HeyJobs",
+   "ort": "Haslach im Kinzigtal",
+   "plz": "77716",
+   "street": "",
+   "lat": 48.2812336,
+   "lon": 8.0903666,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/medizinische-fachangestellte-m-w-d-in-unserer-sozialstation-medizinische-r-fachangestellte-r-arzthelfer-in/3582466573-123-18880",
+   "posted": "2026-11-25",
+   "posted_time": "18:56",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/fzzddwLOt_Op ⭐ MFA (Ambulante Pflege) ⭐ Der Caritasverband Kinzigtal e. V. ist ein zukunftsorientierter, dynamischer Wohlfahrtsverband der katholischen Kirche. In seinen vielfältigen Beratungs-, Leistungs- und Unterstützungsangeboten, 3 stationären, 2 teilstationären und 1 ambulanten Pflegeeinrichtung/en sind ca. 380 Mitarbeitende und ca. 200 ehrenamtliche Mitarbeitende tätig. Benefits: - Ein freundliches und kollegiales Betriebsklima - Einen unbefristeten Arbeitsvertrag - Ein attraktives Gehalt und die Rahmenbedingungen des AVR - BGM - Kirchliche Zusatzversorgung - Leistungsentgelt und Jahressonderzahlung - Hansefit und Jobrad - Mitarbeiterevents (z. b. Weihnachtsfeier, Sommerfest, etc. ) - Möglichkeiten zur beruflichen Weiterentwicklung im Verband Hauptaufgaben: - Ambulante Versorgung unserer Kunden/Kundinnen in deren Häuslichkeit - Durchführung der Körperpflege unter Beachtung geltenden Pflegestandards - Mitbeteiligt an der Durchführung und Evaluation des Pflegeprozesses - Zusammenarbeit mit Ärzten/Ärztinnen und therapeutischen Teams - Sorgfältige und gewissenhafte Führung der Pflegedokumentation Profil: - Erfolgreich abgeschlossene Ausbildung zur MFA oder vergleichbare Qualifikation - Positive Ausstrahlung und Einfühlungsvermögen - Teamfähigkeit - Ausgeprägte Kommunikations- und Sozialkompetenz - Führerschein Klasse B Wir setzen uns für einen grenzachtenden Umgang nach innen und außen ein. Wir freuen uns auf ihre Bewerbung. Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/fzzddwLOt_Op",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 27.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Erfolgreich abgeschlossene Ausbildung zur MFA oder vergleichbare Qualifikation",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-25T19:12",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 59,
+      "changes": 1,
+      "min_wait": 6,
+      "walk_end": 7,
+      "end_stop": "Haslach",
+      "dep": "05:21",
+      "arr": "06:21",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Haslach",
+        "dep": "05:54",
+        "arr": "06:14",
+        "wait": 6,
+        "min": 20
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Haslach",
+        "to": "работа",
+        "dep": "06:14",
+        "arr": "06:21",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 393,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 367,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:55",
+        "min": 367
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 393
+     }
+    ],
+    "best": "транспорт",
+    "min": 59,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3367913702",
+   "src": "Kleinanzeigen",
+   "title": "Maschinenbediener (m/w/d)",
+   "firma": "orizon GmbH",
+   "ort": "Achern",
+   "plz": "77855",
+   "street": "",
+   "lat": 48.6340095,
+   "lon": 8.0373249,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/maschinenbediener-m-w-d-/3367913702-111-8671",
+   "posted": "2026-11-25",
+   "posted_time": "18:04",
+   "desc": "Maschinenbediener (m/w/d) – 17,00 bis 18,00 € / Stunde – Achern-Wagshurst ✓ Sie haben Erfahrung als Maschinenbediener und arbeiten zuverlässig? ✓ Sie suchen einen Job mit geregelten Schichten? Dann ist das genau Ihr Job! Wir suchen für ein Unternehmen in Achern-Wagshurst einen Maschinenbediener (m/w/d). Ihre Aufgaben: ✓ Bedienung und Überwachung von Maschinen ✓ Sicherstellung eines reibungslosen Produktionsablaufs Ihr Profil: ✓ Erfahrung als Maschinenbediener ✓ Deutschkenntnisse mindestens B1 ✓ Führerschein und eigenes Fahrzeug Das erwartet Sie: ✓ Stundenlohn: 17,00 – 18,00 € zzgl. Fahrgeld ✓ Arbeitszeiten: 06:00 – 14:30 Uhr oder 10:00 – 18:30 Uhr ✓ Strukturierter Arbeitsplatz ✓ Langfristige Perspektive Einsatzort: Achern-Wagshurst Interesse? Einfach melden – schnell und unkompliziert! Telefon: 07222 40380 (Herr Schick) Auch passend für: Produktionsmitarbeiter, Anlagenbediener, Helfer Produktion",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 11.8,
+   "de": "нужен",
+   "de_txt": "Deutschkenntnisse mindestens B1",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Sie haben Erfahrung als Maschinenbediener und arbeiten zuverlässig?",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-25T19:12",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 37,
+      "end_stop": "Achern",
+      "dep": "06:25",
+      "arr": "07:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Achern",
+        "to": "работа",
+        "dep": "06:58",
+        "arr": "07:35",
+        "min": 37
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 70
+     },
+     {
+      "kind": "велосипед",
+      "min": 62,
+      "changes": 0,
+      "km": 15.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 62
+       }
+      ],
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 113,
+      "changes": 2,
+      "min_wait": 4,
+      "walk_end": 22,
+      "end_stop": "Großweier Seehotel",
+      "dep": "06:32",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Gamshurst Ziegelhütte",
+        "dep": "07:16",
+        "arr": "07:31",
+        "wait": 4,
+        "min": 15
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Gamshurst Ziegelhütte",
+        "to": "Großweier Seehotel",
+        "dep": "08:02",
+        "arr": "08:04",
+        "wait": null,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Großweier Seehotel",
+        "to": "работа",
+        "dep": "08:04",
+        "arr": "08:26",
+        "min": 22
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 131
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3582183656",
    "src": "Kleinanzeigen",
@@ -131601,134 +132109,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10000-1207864744-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d) in Voll- und Teilzeit",
-   "firma": "Hotel Heselbacher Hof GmbH & Co. KG",
-   "ort": "Baiersbronn",
-   "street": "Heselbacher Weg 72",
-   "lat": 48.538188,
-   "lon": 8.403588,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207864744-S",
-   "posted": "2026-09-11",
-   "desc": "Unser familiär geführtes Hotel \"Heselbacher Hof\" in Baiersbronn im Schwarzwald ist ein Vier-Sterne-Hotel (80 Betten) mit dem typischen Wohlfühlcharakter. Es bietet kulinarische Genüsse für aktive Gäste als auch für Feinschmecker und Genießer, optimale Erholung und Entspannung für Körper, Geist und Seele mit umfangreichen Wellnessangeboten. Wir suchen ab sofort oder nach Vereinbarung eine Reinigungskraft (m/w/d) in Voll- oder Teilzeit (hier: 08:30 - 13:30) - Reinigung des Wellnessbereichs - Unterstützung bei der Reinigung der Hotelzimmer Selbstständiges Arbeiten ist erforderlich. Gerne mit Erfahrung, bei entsprechendem Engagement lernen wir Sie jedoch auch gerne an. Unweit unseres Hotels befindet sich die S-Bahn-Haltestelle, sodass wir auch sehr gut mit öffentlichen Verkehrsmitteln zu erreichen sind. Sind Sie interessiert? Dann freuen wir uns über Ihre Bewerbung! Informationen über unser Haus erhalten Sie unter www.heselbacher-hof.de",
-   "zeit": "Vollzeit / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 23.6,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 134,
-      "changes": 2,
-      "min_wait": 7,
-      "walk_end": 8,
-      "end_stop": "Heselbach Bahnhof",
-      "dep": "06:32",
-      "arr": "08:46",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Rastatt",
-        "dep": "07:03",
-        "arr": "07:31",
-        "wait": 11,
-        "min": 28
-       },
-       {
-        "walk": false,
-        "mode": "S-Bahn",
-        "line": "S81",
-        "from": "Rastatt",
-        "to": "Heselbach Bahnhof",
-        "dep": "07:38",
-        "arr": "08:39",
-        "wait": 7,
-        "min": 61
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Heselbach Bahnhof",
-        "to": "работа",
-        "dep": "08:39",
-        "arr": "08:46",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 140
-     },
-     {
-      "kind": "велосипед",
-      "min": 145,
-      "changes": 0,
-      "km": 35.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 145
-       }
-      ],
-      "risky": false,
-      "score": 270
-     }
-    ],
-    "best": "транспорт",
-    "min": 134,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/reinigungskraft-m-w-d-in-voll-und-teilzeit-064126957"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_19220-3e5ae1dc961dec9f-S",
    "src": "Jobbörse",
    "title": "Reinigungskraft in der Filiale Minijob (m/w/d)",
@@ -162336,6 +162716,177 @@
     "best": "транспорт",
     "min": 190,
     "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:jw_064126957",
+   "src": "Jobware",
+   "title": "Reinigungskraft (m/w/d) in Voll- und Teilzeit",
+   "firma": "Hotel Heselbacher Hof GmbH & Co. KG",
+   "street": "",
+   "lat": 48.5069519,
+   "lon": 8.3720124,
+   "ort": "Baiersbronn",
+   "url": "https://www.jobware.de/job/reinigungskraft-m-w-d-in-voll-und-teilzeit-064126957",
+   "posted": "2026-09-12",
+   "desc": "",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 21.4,
+   "de": "?",
+   "de_txt": "",
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 140,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Baiersbronn Bahnhof",
+      "dep": "06:32",
+      "arr": "08:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Rastatt",
+        "dep": "07:03",
+        "arr": "07:31",
+        "wait": 11,
+        "min": 28
+       },
+       {
+        "walk": false,
+        "mode": "S-Bahn",
+        "line": "S81",
+        "from": "Rastatt",
+        "to": "Baiersbronn Bahnhof",
+        "dep": "07:38",
+        "arr": "08:47",
+        "wait": 7,
+        "min": 69
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Baiersbronn Bahnhof",
+        "to": "работа",
+        "dep": "08:47",
+        "arr": "08:52",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 146
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 31.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 632,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 606,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:54",
+        "min": 606
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 632
+     }
+    ],
+    "best": "транспорт",
+    "min": 140,
+    "changes": 2
    },
    "status": "open",
    "also_urls": [],
