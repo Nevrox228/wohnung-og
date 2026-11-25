@@ -1,9 +1,136 @@
 {
- "generated": "2026-11-25T19:46",
+ "generated": "2026-11-25T20:50",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1058,
+ "count": 1059,
  "items": [
+  {
+   "id": "mykyta:ka_3553064878",
+   "src": "Kleinanzeigen",
+   "title": "Lagerhelfer (m/w/d), Lagerhelfer/in, Kommissionierer/in, Sorti...",
+   "firma": "Smash Jobs",
+   "ort": "Baden-Baden",
+   "plz": "76530",
+   "street": "",
+   "lat": 48.7636635,
+   "lon": 8.241719,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-lagerhelfer-in-kommissionierer-in-sorti-/3553064878-109-9049",
+   "posted": "2026-11-25",
+   "posted_time": "20:08",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/Mo9tb7UvYJk_ Über uns Die van Eupen Logistik GmbH und Co. KG ist ein traditionsreiches, mittelständisches Logistikunternehmen der Grupo Sesé mit Hauptsitz in Essen und bundesweit verteilten Standorten sowie Tochtergesellschaften in der Tschechischen Republik und Ungarn. Unter dem Dach der Kontraktlogistik bieten wir branchenübergreifend hochwertige Dienstleistungen in den Bereichen Logistik- und Warehouse, Automotive, Reverse Logistics, Repair-Management und Refurbishment sowie Beratung und Entwicklung an. Hier startet Ihre Karriere Lagerhelfer (m/w/d) - ​Rastatt - ​befristet - ​Vollzeit Das bringen Sie mit: - Berufserfahrung als Kommissionierer - PC-Kenntnisse - Deutsche Sprache in Wort und Schrift- Bereitschaft zu regelmäßiger 2 oder 3-Schichtarbeit (Früh-, Spät-, Nacht-Schicht)- Flexibilität- Zuverlässige Arbeitsweise Ihre Aufgabengebiete: - Scannen und verbuchen der Ware im System - Prüfung der Produkte und Versanddokumente auf Vollständigkeit - Verpacken der Waren Darauf können Sie sich freuen: - 30 Urlaubstage - Spannende Aufgaben in einem dynamischen und wachstumsorientierten Umfeld mit flachen Hierarchien- Angemessene Vergütung sowie Corporate Benefits- Moderne Arbeitsgeräte und vielfältige Arbeitsbereiche- Kollegiale und offene Unternehmenskultur Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/Mo9tb7UvYJk_",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 28.3,
+   "de": "нужен",
+   "de_txt": "Deutsche Sprache in Wort und Schrift- Bereitschaft zu regelmäßiger 2 oder 3-Schichtarbeit (Früh-, Spät-, Nacht-Schicht)- Flexibilität- Zuverlässige Arbeitsweise",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Berufserfahrung als Kommissionierer",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-25T20:16",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 80,
+      "changes": 2,
+      "min_wait": 8,
+      "walk_end": 7,
+      "end_stop": "BAD Hindenburgplatz/Stadtbib.",
+      "dep": "05:21",
+      "arr": "06:41",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "05:32",
+        "arr": "05:41",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Baden-Baden",
+        "dep": "05:53",
+        "arr": "06:15",
+        "wait": 12,
+        "min": 22
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "201",
+        "from": "Baden-Baden Bahnhof",
+        "to": "BAD Hindenburgplatz/Stadtbib.",
+        "dep": "06:23",
+        "arr": "06:35",
+        "wait": 8,
+        "min": 12
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "BAD Hindenburgplatz/Stadtbib.",
+        "to": "работа",
+        "dep": "06:35",
+        "arr": "06:41",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 86
+     },
+     {
+      "kind": "велосипед",
+      "min": 168,
+      "changes": 0,
+      "km": 41.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 168
+       }
+      ],
+      "risky": false,
+      "score": 316
+     }
+    ],
+    "best": "транспорт",
+    "min": 80,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3582466573",
    "src": "Kleinanzeigen",
