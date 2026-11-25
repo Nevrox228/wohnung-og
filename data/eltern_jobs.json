@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T14:32",
+ "generated": "2026-11-25T15:31",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1057,
+ "count": 1055,
  "items": [
   {
    "id": "marina:ka_3582183656",
@@ -1953,328 +1953,6 @@
     ],
     "best": "транспорт",
     "min": 50,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "marina:ba_12122-986380806-S",
-   "src": "Jobbörse",
-   "title": "Versandmitarbeiter (m/w/d)",
-   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
-   "ort": "Friesenheim",
-   "street": "",
-   "lat": 48.378133736001,
-   "lon": 7.884557754,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-986380806-S",
-   "posted": "2026-11-25",
-   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 22.4,
-   "de": "нужен",
-   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад",
-   "first_seen": "2026-11-25T07:07",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 92,
-      "changes": 1,
-      "min_wait": 29,
-      "walk_end": 7,
-      "end_stop": "Friesenheim Schule",
-      "dep": "05:21",
-      "arr": "06:54",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Schule",
-        "dep": "06:17",
-        "arr": "06:47",
-        "wait": 29,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Schule",
-        "to": "работа",
-        "dep": "06:47",
-        "arr": "06:54",
-        "min": 7
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 95
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 203,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 177,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "09:55",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "09:55",
-        "min": 177
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 203
-     },
-     {
-      "kind": "велосипед",
-      "min": 127,
-      "changes": 0,
-      "km": 31.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 127
-       }
-      ],
-      "risky": false,
-      "score": 234
-     }
-    ],
-    "best": "транспорт",
-    "min": 92,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "mykyta:ba_12122-986380806-S",
-   "src": "Jobbörse",
-   "title": "Versandmitarbeiter (m/w/d)",
-   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
-   "ort": "Friesenheim",
-   "street": "",
-   "lat": 48.378133736001,
-   "lon": 7.884557754,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-986380806-S",
-   "posted": "2026-11-25",
-   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 22.4,
-   "de": "нужен",
-   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-25T07:07",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 92,
-      "changes": 1,
-      "min_wait": 29,
-      "walk_end": 7,
-      "end_stop": "Friesenheim Schule",
-      "dep": "05:21",
-      "arr": "06:54",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Schule",
-        "dep": "06:17",
-        "arr": "06:47",
-        "wait": 29,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Friesenheim Schule",
-        "to": "работа",
-        "dep": "06:47",
-        "arr": "06:54",
-        "min": 7
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 95
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 203,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 177,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "09:55",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "09:55",
-        "min": 177
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 203
-     },
-     {
-      "kind": "велосипед",
-      "min": 127,
-      "changes": 0,
-      "km": 31.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 127
-       }
-      ],
-      "risky": false,
-      "score": 234
-     }
-    ],
-    "best": "транспорт",
-    "min": 92,
     "changes": 1
    },
    "status": "open",
@@ -23264,134 +22942,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_12951-ab3a7c1e-5bb5-4ca5--S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 15 bis 18 Uhr (m/w/d)",
-   "firma": "Klüh Cleaning GmbH",
-   "ort": "Rheinau",
-   "street": "Am Erlenpark",
-   "lat": 48.6215791,
-   "lon": 7.88879,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-ab3a7c1e-5bb5-4ca5--S",
-   "posted": "2026-11-20",
-   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH und Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 3 Stunden täglich von 15.00 bis 18.00 Uhr. Werden auch Sie Teil des Klüh-Teams! Ihre Vorteile ✓ 30 Tage Urlaub/Jahr✓ Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit✓ Pünktliche und sichere Vergütung nach Tarifvertrag✓ Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen✓ Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl)✓ Kostenloser Parkplatz✓ Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie✓ Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr Ihre Aufgaben ✓ Reinigung von Büros✓ Reinigung von Sanitärräumen✓ Reinigung von Ausstellungsflächen Ihr Profil ✓ Erfahrung als Reinigungskraft von Vorteil✓ Zuverlässigkeit✓ Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.3,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-20T10:35",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 108,
-      "changes": 2,
-      "min_wait": 17,
-      "walk_end": 5,
-      "end_stop": "Linx Süd",
-      "dep": "05:21",
-      "arr": "07:09",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "05:32",
-        "arr": "05:41",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS4",
-        "from": "Appenweier",
-        "to": "Kehl",
-        "dep": "06:25",
-        "arr": "06:36",
-        "wait": 44,
-        "min": 11
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Kehl",
-        "to": "Linx Süd",
-        "dep": "06:53",
-        "arr": "07:05",
-        "wait": 17,
-        "min": 12
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Linx Süd",
-        "to": "работа",
-        "dep": "07:05",
-        "arr": "07:09",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 114
-     },
-     {
-      "kind": "велосипед",
-      "min": 107,
-      "changes": 0,
-      "km": 26.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 107
-       }
-      ],
-      "risky": false,
-      "score": 194
-     }
-    ],
-    "best": "транспорт",
-    "min": 108,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-15-bis-18-uhr-m-w-d-/3576852507-109-8667"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_13356-101850A28926C68-S",
    "src": "Jobbörse",
    "title": "Produktionshelfer - Sichtkontrolle (m/w/d) mit Löterfahrung",
@@ -24625,6 +24175,247 @@
     ],
     "best": "транспорт",
     "min": 53,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3576852507",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 15 bis 18 Uhr (m/w/d)",
+   "firma": "Klüh Service Management GmbH",
+   "ort": "Rheinau",
+   "plz": "77866",
+   "street": "",
+   "lat": 48.6567433,
+   "lon": 7.9354027,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-15-bis-18-uhr-m-w-d-/3576852507-109-8667",
+   "posted": "2026-11-20",
+   "posted_time": "09:06",
+   "desc": "********************************************** Bitte bewerben Sie sich jetzt direkt über diesen Link: https://jobs.klueh.de/jobs-finden/details/job/68846360 (oder klicken Sie einfach auf den Bewerben-Button) ********************************************** Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH & Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 3 Stunden täglich von 15.00 bis 18.00 Uhr. Werden auch Sie Teil des Klüh-Teams! Ihre Vorteile ● 30 Tage Urlaub/Jahr ● Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit ● Pünktliche und sichere Vergütung nach Tarifvertrag ● Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen ● Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl) ● Kostenloser Parkplatz ● Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie ● Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr Ihre Aufgaben ● Reinigung von Büros ● Reinigung von Sanitärräumen ● Reinigung von Ausstellungsflächen Ihr Profil ● Erfahrung als Reinigungskraft von Vorteil ● Zuverlässigkeit ● Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.5,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-20T10:35",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 98,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 18,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:04",
+        "min": 18
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 101
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 13,
+      "end_stop": "Freistett Seniorenzentrum",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Freistett Seniorenzentrum",
+        "dep": "07:48",
+        "arr": "07:49",
+        "wait": 2,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Seniorenzentrum",
+        "to": "работа",
+        "dep": "07:49",
+        "arr": "08:01",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 110
+     },
+     {
+      "kind": "велосипед",
+      "min": 90,
+      "changes": 0,
+      "km": 21.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 90
+       }
+      ],
+      "risky": false,
+      "score": 160
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 98,
     "changes": 1
    },
    "status": "open",

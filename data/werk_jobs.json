@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T14:32",
+ "generated": "2026-11-25T15:31",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 598,
-  "queue": 240,
-  "ai_focus": 311
+  "all": 599,
+  "queue": 241,
+  "ai_focus": 312
  },
  "jobs": [
   {
@@ -2471,6 +2471,36 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4493419617",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [
+    "Power BI"
+   ],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student – Data & AI Platform (m/f/d)",
+   "company": "Redcare Pharmacy",
+   "location": "Köln",
+   "distance_km": 279.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4493419617",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25T15:02",
+   "description": "About Redcare Pharmacy: As Europe’s No.1 e-pharmacy Redcare Pharmacy is powered by passionate teams and cutting-edge innovation. We strive to create a healthy collaborative work environment where every employee feels valued and inspired to contribute to our vision “Until every human has their health”. If you’re seeking a career that offers purpose and aligns with your values join us and start your #Redcareer today. Job Description About the role: Are you eager to turn your knowledge into real-world experience and contribute to the future of data and AI? Join our Data & AI department in Cologne, where you'll work at the intersection of technology and people: helping our platform teams stay aligned, making our data platform easier to understand and use, and supporting the teams that rely on it. About your tasks: Build data products for the platform team: Develop and maintain KPI reporting and dashboards in Databricks, and help build a registry of the data and AI use cases running on our platform. Make technical topics accessible: Turn technical topics into clear documentation, updates, and presentations for non-technical stakeholders and platform users. Drive automation: Identify repetitive tasks in our reporting and coordination processes and simplify or automate them through the use of AI. Investigate recurring issues: Analyze recurring tickets and questions, identify root causes together with our experts, and help find lasting solutions. Support continuous improvement: Help improve processes to help streamline our development workflows. Learn and collaborate: Work closely with our Data & AI experts, gain insights into modern cloud technologies and platform product management, and bring your own ideas. Qualifications About you: You're currently enrolled in a degree program with a technical or digital focus, such as Computer Science, Data Science, Business Informatics, Information Systems, or a related field. You have an interest in data, cloud technologies, and automation. Ideally, you have working knowledge of SQL and basic Python, and you are comfortable writing clear documentation. Experience with Databricks, Microsoft Azure, Git, Power BI or Databricks dashboards, the Atlassian stack (Jira, Confluence), AI/LLM tools, or AI-assisted coding (“vibe coding”) is a plus. You enjoy solving problems, both technical and organizational: exploring root causes and finding practical ways to make systems and processes better. You're comfortable communicating in English, our main working language. German language skills are a plus but not required. Additional Information About your benefits: In order to provide you with the best possible support for your individual needs - whether it‘s living a healthy life, having enough time for your family, or developing your skills - we offer a wide range of different, site-specific benefits. Welcome days: We want you to feel at home with us from the very first day. Therefore, we welcome you with our comprehensive onboa"
   },
   {
    "id": "li_4481932629",
