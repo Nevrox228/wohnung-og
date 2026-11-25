@@ -1,9 +1,248 @@
 {
- "generated": "2026-11-25T10:47",
+ "generated": "2026-11-25T12:16",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1053,
+ "count": 1055,
  "items": [
+  {
+   "id": "marina:ba_10001-1004067054-S",
+   "src": "Jobbörse",
+   "title": "Küchenhilfe",
+   "firma": "Gasthaus Wagen Patrick Vogel",
+   "ort": "Achern",
+   "street": "Kirchwegstr. 10",
+   "lat": 48.657807581,
+   "lon": 8.086453158,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004067054-S",
+   "posted": "2026-11-25",
+   "desc": "**Ohne dich läuft in unserer Küche gar nichts!** 🍽️✨ Du bist der heimliche Held hinter den Kulissen: Während vorne die Gäste schlemmen, sorgst du dafür, dass das Geschirr wieder blitzt und die kalte Küche glänzt. Lust auf einen Job mit Abwechslung und einem großartigen Team? Dann werde unsere neue **Küchenhilfe (m/w/d)**! ### Deine Superkräfte bei uns: - **Meister der Sauberkeit:** Du rockst die Spülküche, bedienst unsere Spülmaschine wie ein Profi und sorgst dafür, dass Töpfe, Teller und Besteck im Handumdrehen wieder einsatzbereit sind. - **Teamplayer mit Überblick:** Auch wenn es mal heiß hergeht, behältst du einen kühlen Kopf und unterstützt die Crew genau da, wo gerade eine helfende Hand gebraucht wird. ### Das macht dich aus: - Egal, ob du schon Küchenluft geschnuppert hast oder als motivierter Quereinsteiger durchstarten willst – bei uns zählt deine Begeisterung! - Du hast ein Herz für Hygiene, Ordnung und packst gerne mit an. - Zuverlässigkeit und gute Laune gehören für dich genauso dazu wie das Salz in der Suppe. ### Warum du uns lieben wirst: - **Echtes Teamwork:** Familiäre Atmosphäre, in der man sich gegenseitig unterstützt und zusammen lacht. - **Faire Konditionen:** Pünktliche, gute Bezahlung und verlässliche Dienstpläne. - **Kein Sprung ins kalte Wasser:** Wir arbeiten dich Schritt für Schritt in Ruhe ein. **Klingt nach deinem neuen Lieblingsjob?** Kein langes Anschreiben nötig! Ruf uns einfach direkt an, schreib uns eine kurze Nachricht (WhatsApp +4978411660) oder schau persönlich vorbei. Wir freuen uns auf dich",
+   "zeit": " / Minijob",
+   "schicht": false,
+   "quer": true,
+   "who": "marina",
+   "km": 14.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Кухня",
+   "first_seen": "2026-11-25T11:42",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 72,
+      "changes": 1,
+      "min_wait": 17,
+      "walk_end": 13,
+      "end_stop": "Abzweig Sasbachried",
+      "dep": "06:25",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "06:33",
+        "arr": "07:06",
+        "wait": null,
+        "min": 33
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7135",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Abzweig Sasbachried",
+        "dep": "07:23",
+        "arr": "07:25",
+        "wait": 17,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Abzweig Sasbachried",
+        "to": "работа",
+        "dep": "07:25",
+        "arr": "07:38",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 75
+     },
+     {
+      "kind": "велосипед",
+      "min": 70,
+      "changes": 0,
+      "km": 17.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 70
+       }
+      ],
+      "risky": false,
+      "score": 120
+     }
+    ],
+    "best": "транспорт",
+    "min": 72,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_10001-1004067652-S",
+   "src": "Jobbörse",
+   "title": "Saisonarbeitskraft (m/w/d) – Obst- und Gemüsebau 2027",
+   "firma": "Alexandra Wilhelm",
+   "ort": "Oberkirch",
+   "street": "Weinbergstr. 11",
+   "lat": 48.5692583,
+   "lon": 8.0649961,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004067652-S",
+   "posted": "2026-11-25",
+   "desc": "**Saisonarbeitskräfte (m/w/d) für unseren Demeterhof gesucht – 2027** Wir sind ein familiengeführter Demeter-Obst- und Gemüsebaubetrieb in Oberkirch-Haslach und suchen für die Saison 2027 zuverlässige, motivierte Saisonarbeitskräfte. **Deine Aufgaben:** - Pflanzen und Pflegen von Obst- und Gemüsekulturen - Ernten von Erdbeeren, Himbeeren und Gemüse - Sortieren, Kontrollieren und Verpacken der Ernte - Allgemeine landwirtschaftliche Tätigkeiten **Das bieten wir:** - Saisonbeschäftigung in Vollzeit, befristet für bis zu 90 Kalendertage - 14,60 € brutto pro Stunde als garantierte Untergrenze - Leistungsbezogene Vergütung bei geeigneten Erntearbeiten möglich - Unterkunft direkt am Hof für 15 € pro Person und Kalendertag - Einarbeitung und Zusammenarbeit in einem eingespielten Team **Das erwarten wir:** - Zuverlässigkeit, sorgfältiges Arbeiten und körperliche Belastbarkeit - Bereitschaft zu landwirtschaftlicher Arbeit - Erfahrung in der Landwirtschaft ist von Vorteil, aber nicht zwingend erforderlich Wir freuen uns über Bewerbungen unter dem Stichwort „Saison 2027“ an [demeterhofwilhelm@gmx.de](https://mailto:demeterhofwilhelm@gmx.de).",
+   "zeit": "Vollzeit / Minijob",
+   "schicht": false,
+   "quer": true,
+   "who": "marina",
+   "km": 4.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Поле / сезон",
+   "first_seen": "2026-11-25T11:42",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 23,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 8,
+      "end_stop": "Haslach Rathaus",
+      "dep": "05:55",
+      "arr": "06:18",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "05:55",
+        "arr": "06:03",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "RB1",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Haslach Rathaus",
+        "dep": "06:03",
+        "arr": "06:10",
+        "wait": null,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Haslach Rathaus",
+        "to": "работа",
+        "dep": "06:10",
+        "arr": "06:18",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 23
+     },
+     {
+      "kind": "велосипед",
+      "min": 24,
+      "changes": 0,
+      "km": 5.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 24
+       }
+      ],
+      "risky": false,
+      "score": 28
+     },
+     {
+      "kind": "пешком",
+      "min": 71,
+      "changes": 0,
+      "km": 5.4,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 71
+       }
+      ],
+      "risky": false,
+      "score": 112
+     }
+    ],
+    "best": "транспорт",
+    "min": 23,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3581947196",
    "src": "Kleinanzeigen",
@@ -108959,7 +109198,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-offenburg-umgebung/3575092460-107-9038"
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-offenburg-umgebung/3575092460-107-9038",
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-offenburg-umgebung/3581913959-107-9038"
    ],
    "person": "mykyta"
   },
@@ -117563,7 +117803,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/sushi-shop-mitarbeiter-m-w-d-in-haslach-im-kinzigtal/3582021990-110-18880"
+   ],
    "person": "Марина"
   },
   {
@@ -117679,7 +117921,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/sushi-shop-mitarbeiter-m-w-d-in-buehl/3582009380-110-8746"
+   ],
    "person": "Марина"
   },
   {
@@ -117784,7 +118028,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/sushi-shop-mitarbeiter-m-w-d-in-appenweier/3582003447-110-9035"
+   ],
    "person": "Марина"
   },
   {
