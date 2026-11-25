@@ -1,9 +1,331 @@
 {
- "generated": "2026-11-25T06:37",
+ "generated": "2026-11-25T07:36",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1047,
+ "count": 1049,
  "items": [
+  {
+   "id": "marina:ba_12122-986380806-S",
+   "src": "Jobbörse",
+   "title": "Versandmitarbeiter (m/w/d)",
+   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
+   "ort": "Friesenheim",
+   "street": "",
+   "lat": 48.378133736001,
+   "lon": 7.884557754,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-986380806-S",
+   "posted": "2026-11-25",
+   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 22.4,
+   "de": "нужен",
+   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-25T07:07",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 92,
+      "changes": 1,
+      "min_wait": 29,
+      "walk_end": 7,
+      "end_stop": "Friesenheim Schule",
+      "dep": "05:21",
+      "arr": "06:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7141",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Friesenheim Schule",
+        "dep": "06:17",
+        "arr": "06:47",
+        "wait": 29,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Friesenheim Schule",
+        "to": "работа",
+        "dep": "06:47",
+        "arr": "06:54",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 95
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 203,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 177,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "09:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "09:55",
+        "min": 177
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 203
+     },
+     {
+      "kind": "велосипед",
+      "min": 127,
+      "changes": 0,
+      "km": 31.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 127
+       }
+      ],
+      "risky": false,
+      "score": 234
+     }
+    ],
+    "best": "транспорт",
+    "min": 92,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_12122-986380806-S",
+   "src": "Jobbörse",
+   "title": "Versandmitarbeiter (m/w/d)",
+   "firma": "persona service AG & Co. KG Offenburg Arbeitnehmerüberlassung",
+   "ort": "Friesenheim",
+   "street": "",
+   "lat": 48.378133736001,
+   "lon": 7.884557754,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-986380806-S",
+   "posted": "2026-11-25",
+   "desc": "#### ​ Du willst durchstarten, ganz ohne komplizierten Bewerbungsprozess? Dann bist du bei genau uns richtig. Wir haben für dich den richtigen Job, der zu deinem Leben passt! ## Deine Aufgaben - du verpackst Kleinteile sorgfältig und normgerecht für den Versand - eine gründliche Sichtkontrolle der Ware führst du vor der Verpackung durch - du kommissionierst die bestellten Artikel anhand der Versandaufträge - Ordnung und Sauberkeit an deinem Arbeitsplatz im Versandbereich hältst du eigenständig ein ## Das wünschen wir uns - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft ## Das bieten wir - soziale Leistungen und diverse zusätzliche Sozialleistungen - - Überdurchschnittlicher Jahresurlaub - Zuzahlung für Fitnessstudio oder Sportverein - Weiterbildungsmöglichkeiten/ Aufstiegschancen - interne Entwicklungs- und Karriereperspektiven - betriebliche Altersvorsorge - Job-Bike Fahrrad-/E-Bike-Leasing über den Arbeitgeber - betriebliches Gesundheitsmanagement sowie eine Gesundheitsförderung am Arbeitsplatz - flexible Arbeitszeiten auch im Schichtbetrieb - Berücksichtigung von Schichtmodellen (3-Schichtbetrieb) - Betriebsarzt und Betriebsärztliche Versorgung vor Ort **Worauf du dich immer bei persona service verlassen kannst:** - 50 € monatlich geschenkt für deine Mobilität je nach Stelle, z. B. für das Deutschlandticket uvm. - Prämien sowie Urlaubs- und Weihnachtsgeld - kostenlose Nachhilfe für deine Kinder auf der Lern- und Nachhilfeplattform Ubimaster - zahlreiche Shopping-Rabatte bei namhaften Marken über unser corporate benefits Programm - exzellente persönliche Betreuung und regelmäßige Feedbackgespräche - vielfältige Weiterbildungsmöglichkeiten Bei persona service geben wir 100% für dich! Deine Arbeitssuche hat Vorfahrt – deshalb garantieren wir dir einen Erstkontakt innerhalb von 100 Minuten(\\*). Und weil wir dich sehen, kannst du dich auch ohne Lebenslauf bewerben. Entdecke viele weitere Vorteile und starte jetzt unkompliziert durch! (\\*) Innerhalb unserer ausgeschriebenen Geschäftszeiten #### ​ - als Quereinsteiger (m/w/d) bist du herzlich willkommen - du bringst ein gutes Auge für Details mit - sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil - Verantwortungsbewusstsein und Zuverlässigkeit sind für dich selbstverständlich - du arbeitest motiviert und mit hoher Einsatzbereitschaft",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 22.4,
+   "de": "нужен",
+   "de_txt": "sehr gute Deutschkenntnisse in Wort und Schrift sowie eine gültige Arbeitserlaubnis gehören zu deinem Profil",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-25T07:07",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 92,
+      "changes": 1,
+      "min_wait": 29,
+      "walk_end": 7,
+      "end_stop": "Friesenheim Schule",
+      "dep": "05:21",
+      "arr": "06:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7141",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Friesenheim Schule",
+        "dep": "06:17",
+        "arr": "06:47",
+        "wait": 29,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Friesenheim Schule",
+        "to": "работа",
+        "dep": "06:47",
+        "arr": "06:54",
+        "min": 7
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 95
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 203,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 177,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "09:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "09:55",
+        "min": 177
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 203
+     },
+     {
+      "kind": "велосипед",
+      "min": 127,
+      "changes": 0,
+      "km": 31.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 127
+       }
+      ],
+      "risky": false,
+      "score": 234
+     }
+    ],
+    "best": "транспорт",
+    "min": 92,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_11868-13936429-S",
    "src": "Jobbörse",
