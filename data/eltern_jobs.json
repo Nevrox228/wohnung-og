@@ -1,9 +1,596 @@
 {
- "generated": "2026-11-25T08:48",
+ "generated": "2026-11-25T10:47",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1052,
+ "count": 1053,
  "items": [
+  {
+   "id": "marina:ka_3581947196",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) mit Übernahmeoption",
+   "firma": "I.K. Hofmann GmbH",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-mit-uebernahmeoption/3581947196-111-8047",
+   "posted": "2026-11-25",
+   "posted_time": "09:53",
+   "desc": "Verschiedene Auszeichnungen und Zertifikate von namhaften Institutionen, dazu gehören zum Beispiel Great Place to Work, Audit Beruf und Familie, sowie der Deutsche Qualitätspreis, belegen unsere Arbeitsplatz- und Dienstleistungsqualität. Wir suchen Sie! - Ab sofort, als Produktionsmitarbeiter (m/w/d) für unseren Kunden in 77933 Lahr. Ihre Aufgaben: ● Bauteile auf ein Gestell auf- und abstecken ● Sichtkontrolle der Bauteile und Dokumentation Ihre Qualifikation: ● 4-Schichtbereitschaft ● Erfahrung in der Montage wünschenswert ● gute Deutschkenntnisse Ihr Vorteil: Wir sind eine internationale Unternehmensgruppe mit über 20.000 Mitarbeitern in Deutschland, Österreich, Tschechien, Slowakei, Schweiz, Italien, Ungarn und den USA. ● Schneller und unkomplizierter Einstieg ● Übertarifliche Bezahlung ● Lohnsteigerung durch tarifliche Branchenzuschläge ● Weitere Zusatzleistungen und optionale Zulagen ● Urlaubs- und Weihnachtsgeld ● Kostenlose, persönliche Schutzausrüstung ● Chance auf Übernahme durch unsere Kunden Wir begleiten Sie mit einer individuellen Beratung! Ihr Kontakt zu Hofmann: Interesse? Bewerben Sie sich noch heute und werden Sie Teil eines großartigen Teams! Fragen? Wir freuen uns, bald von Ihnen zu hören! Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. ********************************************** Bitte bewerben Sie sich jetzt direkt per WhatsApp über diesen Link: https://hofmann.pitchyou.de/OUAAM (oder klicken Sie einfach auf den Bewerben-Button) **********************************************",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "нужен",
+   "de_txt": "gute Deutschkenntnisse Ihr Vorteil: Wir sind eine internationale Unternehmensgruppe mit über 20.000 Mitarbeitern in Deutschland, Österreich, Tschechien, Slowake",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-25T10:15",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3581798455",
+   "src": "Kleinanzeigen",
+   "title": "Praxismanagement / Rezeptionsmitarbeiter*in (m/w/d) (28978322)",
+   "firma": "hokify GmbH",
+   "ort": "Rheinau",
+   "plz": "77866",
+   "street": "",
+   "lat": 48.6567433,
+   "lon": 7.9354027,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/praxismanagement-rezeptionsmitarbeiter-in-m-w-d-28978322-/3581798455-123-8667",
+   "posted": "2026-11-24",
+   "posted_time": "22:31",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/lfvoP6I ⬅️ - - - - - - - - ️ Du liebst es, den Überblick zu behalten, mit Menschen zu arbeiten und dafür zu sorgen, dass im Hintergrund alles rundläuft? Dann bist Du bei uns genau richtig. Denn unsere Rezeption ist nicht „Anmeldung“. Sie ist das Herzstück unserer Praxis. Kurzüberblick der Stelle * Organisation & Patientenempfang im modernen Gesundheitszentrum * Geregelte Arbeitszeiten zwischen 8:00–20:00 Uhr * Strukturierte Einarbeitung & digitale Prozesse * 40 € Tankgutschein + Getränke frei * Jährliche Gehaltsentwicklung * Kostenloses Training an allen Geräten AUFGABEN * Empfang und Betreuung unserer Patienten vor Ort und am Telefon * Terminvergabe und Koordination der Behandlungspläne * Organisation von Rezepten, Verordnungen und Abläufen * Unterstützung beim Verkauf unserer Gesundheitsleistungen * Arbeiten mit unseren digitalen Systemen und E-Learnings * Enge Zusammenarbeit mit Therapeuten und Trainingsbereich QUALIFIKATION * Freude am Umgang mit Menschen * Organisationsstärke und Überblick, auch wenn es mal voller wird * Kommunikationsfähigkeit und ein freundliches Auftreten * Sicherheit im Umgang mit dem PC * Teamfähigkeit und Verantwortungsbewusstsein * Idealerweise Erfahrung an Rezeption, Empfang oder im Servicebereich im Gesundheitswesen oder Hotelerie BENEFITS * Faire und transparente Bezahlung * Strukturierte Einarbeitung durch E-Learnings und feste Abläufe * Kostenloses Training an Milon, Five, Vibrationstraining u. v. m. * 40 € Tankgutschein pro Monat * Gratis Getränke * Wöchentliche Teammeetings für Austausch und klare Kommunikation * Ein respektvolles, zuverlässiges Team * Persönliche Entwicklung steht bei uns im Mittelpunkt Klingt Interessant? Wir freuen uns auf deine Bewerbung und ein unverbindliches Gespräch zum kennenlernen! Bitte hier bewerben ➡️ -> https://hy.hokify.de/lfvoP6I",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-25T10:15",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 98,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 18,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:04",
+        "min": 18
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 101
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 13,
+      "end_stop": "Freistett Seniorenzentrum",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Freistett Seniorenzentrum",
+        "dep": "07:48",
+        "arr": "07:49",
+        "wait": 2,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Seniorenzentrum",
+        "to": "работа",
+        "dep": "07:49",
+        "arr": "08:01",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 110
+     },
+     {
+      "kind": "велосипед",
+      "min": 90,
+      "changes": 0,
+      "km": 21.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 90
+       }
+      ],
+      "risky": false,
+      "score": 160
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 98,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3581947196",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) mit Übernahmeoption",
+   "firma": "I.K. Hofmann GmbH",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-mit-uebernahmeoption/3581947196-111-8047",
+   "posted": "2026-11-25",
+   "posted_time": "09:53",
+   "desc": "Verschiedene Auszeichnungen und Zertifikate von namhaften Institutionen, dazu gehören zum Beispiel Great Place to Work, Audit Beruf und Familie, sowie der Deutsche Qualitätspreis, belegen unsere Arbeitsplatz- und Dienstleistungsqualität. Wir suchen Sie! - Ab sofort, als Produktionsmitarbeiter (m/w/d) für unseren Kunden in 77933 Lahr. Ihre Aufgaben: ● Bauteile auf ein Gestell auf- und abstecken ● Sichtkontrolle der Bauteile und Dokumentation Ihre Qualifikation: ● 4-Schichtbereitschaft ● Erfahrung in der Montage wünschenswert ● gute Deutschkenntnisse Ihr Vorteil: Wir sind eine internationale Unternehmensgruppe mit über 20.000 Mitarbeitern in Deutschland, Österreich, Tschechien, Slowakei, Schweiz, Italien, Ungarn und den USA. ● Schneller und unkomplizierter Einstieg ● Übertarifliche Bezahlung ● Lohnsteigerung durch tarifliche Branchenzuschläge ● Weitere Zusatzleistungen und optionale Zulagen ● Urlaubs- und Weihnachtsgeld ● Kostenlose, persönliche Schutzausrüstung ● Chance auf Übernahme durch unsere Kunden Wir begleiten Sie mit einer individuellen Beratung! Ihr Kontakt zu Hofmann: Interesse? Bewerben Sie sich noch heute und werden Sie Teil eines großartigen Teams! Fragen? Wir freuen uns, bald von Ihnen zu hören! Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen - unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität. ********************************************** Bitte bewerben Sie sich jetzt direkt per WhatsApp über diesen Link: https://hofmann.pitchyou.de/OUAAM (oder klicken Sie einfach auf den Bewerben-Button) **********************************************",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "нужен",
+   "de_txt": "gute Deutschkenntnisse Ihr Vorteil: Wir sind eine internationale Unternehmensgruppe mit über 20.000 Mitarbeitern in Deutschland, Österreich, Tschechien, Slowake",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-25T10:15",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_19220-fdf906818e60a1d5-S",
    "src": "Jobbörse",
@@ -1267,7 +1854,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-3-schicht-metallbranche-m-w-d-/3581947167-111-8045"
+   ],
    "person": "Марина"
   },
   {
@@ -22090,6 +22679,134 @@
    "person": "Марина"
   },
   {
+   "id": "marina:ba_12951-ab3a7c1e-5bb5-4ca5--S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 15 bis 18 Uhr (m/w/d)",
+   "firma": "Klüh Cleaning GmbH",
+   "ort": "Rheinau",
+   "street": "Am Erlenpark",
+   "lat": 48.6215791,
+   "lon": 7.88879,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-ab3a7c1e-5bb5-4ca5--S",
+   "posted": "2026-11-20",
+   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH und Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 3 Stunden täglich von 15.00 bis 18.00 Uhr. Werden auch Sie Teil des Klüh-Teams! Ihre Vorteile ✓ 30 Tage Urlaub/Jahr✓ Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit✓ Pünktliche und sichere Vergütung nach Tarifvertrag✓ Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen✓ Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl)✓ Kostenloser Parkplatz✓ Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie✓ Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr Ihre Aufgaben ✓ Reinigung von Büros✓ Reinigung von Sanitärräumen✓ Reinigung von Ausstellungsflächen Ihr Profil ✓ Erfahrung als Reinigungskraft von Vorteil✓ Zuverlässigkeit✓ Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "zeit": " / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.3,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-20T10:35",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 108,
+      "changes": 2,
+      "min_wait": 17,
+      "walk_end": 5,
+      "end_stop": "Linx Süd",
+      "dep": "05:21",
+      "arr": "07:09",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "05:32",
+        "arr": "05:41",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS4",
+        "from": "Appenweier",
+        "to": "Kehl",
+        "dep": "06:25",
+        "arr": "06:36",
+        "wait": 44,
+        "min": 11
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "301",
+        "from": "Kehl",
+        "to": "Linx Süd",
+        "dep": "06:53",
+        "arr": "07:05",
+        "wait": 17,
+        "min": 12
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Linx Süd",
+        "to": "работа",
+        "dep": "07:05",
+        "arr": "07:09",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 114
+     },
+     {
+      "kind": "велосипед",
+      "min": 107,
+      "changes": 0,
+      "km": 26.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 107
+       }
+      ],
+      "risky": false,
+      "score": 194
+     }
+    ],
+    "best": "транспорт",
+    "min": 108,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-15-bis-18-uhr-m-w-d-/3576852507-109-8667"
+   ],
+   "person": "Марина"
+  },
+  {
    "id": "marina:ba_13356-101850A28926C68-S",
    "src": "Jobbörse",
    "title": "Produktionshelfer - Sichtkontrolle (m/w/d) mit Löterfahrung",
@@ -24087,7 +24804,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3578798018-247-9039"
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3578798018-247-9039",
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3581918949-247-9039"
    ],
    "person": "Марина"
   },
@@ -25985,7 +26703,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3578798018-247-9039"
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3578798018-247-9039",
+    "https://www.kleinanzeigen.de/s-anzeige/lagerhelfer-m-w-d-35-stunden-woche-offenburg/3581918949-247-9039"
    ],
    "person": "mykyta"
   },
@@ -28546,135 +29265,6 @@
    "status": "open",
    "also_urls": [],
    "person": "mykyta"
-  },
-  {
-   "id": "marina:ba_17710-0068846600-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft, Teilzeit, Mo - Fr, 15 bis 18 Uhr (m/w/d)",
-   "firma": "Klüh Cleaning GmbH",
-   "ort": "Rheinau",
-   "street": "Am Erlenpark",
-   "lat": 48.6215791,
-   "lon": 7.88879,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17710-0068846600-S",
-   "posted": "2026-11-19",
-   "desc": "Das familiengeführte Unternehmen Klüh Cleaning GmbH sucht ab sofort eine Reinigungskraft (m/w/d) in Teilzeit für sein Objekt WeberHaus GmbH & Co. KG in Rheinau-Linx. Arbeitszeit von Mo - Fr für 3 Stunden täglich von 15.00 bis 18.00 Uhr. Werden auch Sie Teil des Klüh-Teams! **Ihre Vorteile** * 30 Tage Urlaub/Jahr * Direkteinstellung bei Klüh Cleaning GmbH - KEINE Zeitarbeit * Pünktliche und sichere Vergütung nach Tarifvertrag * Sicherer Arbeitsplatz in einem seit über 100 Jahren bestehenden Familienunternehmen * Auch mit dem Bus erreichbar - Haltestelle \"Linx-Süd\" (Buslinie 301 von Kehl) * Kostenloser Parkplatz * Weiterbildungsmöglichkeiten an unserer TÜV-zertifizierten Klüh-Akademie * Vergünstigte FitX-Mitgliedschaft deutschlandweit ohne Anmeldegebühr **Ihre Aufgaben** * Reinigung von Büros * Reinigung von Sanitärräumen * Reinigung von Ausstellungsflächen **Ihr Profil** * Erfahrung als Reinigungskraft von Vorteil * Zuverlässigkeit * Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.3,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse zur mühelosen Kommunikation mit Kollegen erforderlich",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-19T14:31",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 108,
-      "changes": 2,
-      "min_wait": 17,
-      "walk_end": 5,
-      "end_stop": "Linx Süd",
-      "dep": "05:21",
-      "arr": "07:09",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "05:32",
-        "arr": "05:41",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS4",
-        "from": "Appenweier",
-        "to": "Kehl",
-        "dep": "06:25",
-        "arr": "06:36",
-        "wait": 44,
-        "min": 11
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "301",
-        "from": "Kehl",
-        "to": "Linx Süd",
-        "dep": "06:53",
-        "arr": "07:05",
-        "wait": 17,
-        "min": 12
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Linx Süd",
-        "to": "работа",
-        "dep": "07:05",
-        "arr": "07:09",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 114
-     },
-     {
-      "kind": "велосипед",
-      "min": 107,
-      "changes": 0,
-      "km": 26.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 107
-       }
-      ],
-      "risky": false,
-      "score": 194
-     }
-    ],
-    "best": "транспорт",
-    "min": 108,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-ab3a7c1e-5bb5-4ca5--S",
-    "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft-teilzeit-mo-fr-15-bis-18-uhr-m-w-d-/3576852507-109-8667"
-   ],
-   "person": "Марина"
   },
   {
    "id": "mykyta:ka_3576279811",
@@ -36569,7 +37159,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-lahr-sulz-umgebung/3581914008-107-8047"
+   ],
    "person": "mykyta"
   },
   {
@@ -36904,7 +37496,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/werkstudent-m-w-d-content-erstellung-28999945-/3581978072-114-9038"
+   ],
    "person": "mykyta"
   },
   {
@@ -42497,178 +43091,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1004029345-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d) in Lahr",
-   "firma": "Prior & Peußner GmbH u. Co. KG",
-   "ort": "Lahr",
-   "street": "",
-   "lat": 48.339735198,
-   "lon": 7.872018726,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004029345-S",
-   "posted": "2026-11-17",
-   "desc": "**15 € Stundenlohn | Montags, Mittwochs, Freitags | 17.00 bis 19.00 Uhr| Geringfügige Beschäftigung** Du suchst eine zuverlässige Beschäftigung in der Gebäudereinigung mit einem festen Stundenlohn? Dann werde Teil von **Prior & Peußner** und unterstütze uns bei der Reinigung in **Lahr (Ortenaukreis)**. **Das erwartet Dich** - **15 Euro pro Stunde** - **Montags, Mittwochs, Freitags** - **17.00 bis 19.00 Uhr** - Geringfügige Beschäftigung - Ein etabliertes, familiengeführtes Unternehmen als Arbeitgeber **Wer wir sind** Prior & Peußner ist ein familiengeführtes Unternehmen mit langjähriger Erfahrung in der Gebäudereinigung und umfassenden Gebäudedienstleistungen. Seit 1910 stehen wir für Zuverlässigkeit, Innovation und sorgfältige Arbeit. Wir betreuen unsere Kunden an mehr als 2.000 Einsatzorten. **Deine Aufgaben** - Reinigung der zugewiesenen Räumlichkeiten - Sorgfältige und zuverlässige Ausführung der Reinigungsarbeiten - Einhaltung der vereinbarten Reinigungsabläufe **Das bringst Du mit** - Zuverlässigkeit und Sorgfalt - Eine selbstständige und gewissenhafte Arbeitsweise **Jetzt telefonisch bewerben!** Du hast Interesse? Dann melde dich unkompliziert telefonisch bei uns. **Mobil:** 0163 3494231 Wir freuen uns auf deinen Anruf! **Auch passend für folgende Berufsgruppen oder Titel:** Gebäudereiniger, Reinigungskraft, Raumpfleger, Reinigungshilfe, Putzkraft, Mitarbeiter Gebäudereinigung, Reinigungspersonal, Reinigungskraft Teilzeit, Reinigungskraft Unterhaltsreinigung, Helfer Gebäudereinigung, Hauswirtschaftskraft",
-   "zeit": " / Minijob",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 26.3,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-17T17:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 66,
-      "changes": 2,
-      "min_wait": 7,
-      "walk_end": 3,
-      "end_stop": "Lahr Lammstraße",
-      "dep": "06:32",
-      "arr": "07:38",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RB26",
-        "from": "Offenburg Bahnhof",
-        "to": "Lahr (Schwarzw)",
-        "dep": "07:06",
-        "arr": "07:16",
-        "wait": 7,
-        "min": 10
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Lahr",
-        "line": "105",
-        "from": "Lahr (Schwarzw)",
-        "to": "Lahr Lammstraße",
-        "dep": "07:27",
-        "arr": "07:35",
-        "wait": 11,
-        "min": 8
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Lahr Lammstraße",
-        "to": "работа",
-        "dep": "07:35",
-        "arr": "07:38",
-        "min": 3
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 72
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 266,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 240,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "10:58",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "10:58",
-        "min": 240
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 266
-     },
-     {
-      "kind": "велосипед",
-      "min": 146,
-      "changes": 0,
-      "km": 35.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 146
-       }
-      ],
-      "risky": false,
-      "score": 272
-     }
-    ],
-    "best": "транспорт",
-    "min": 66,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ka_3387904386",
    "src": "Kleinanzeigen",
    "title": "Lagerhelfer (m/w/d)_Oppenau_SW_4146",
@@ -45058,167 +45480,6 @@
     "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-m-w-d-in-teilzeit-oder-als-minijob-zeitungszusteller-in-postbote-botin-briefzusteller-in/3577016363-247-8043"
    ],
    "person": "mykyta"
-  },
-  {
-   "id": "marina:ba_16526-77abcefd009df777-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter Reinigung (m/w/d)",
-   "firma": "ISS Communication Serv. GmbH Düsseldorf",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.472817233,
-   "lon": 7.975432664,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16526-77abcefd009df777-S",
-   "posted": "2026-11-17",
-   "desc": "ISS ist ein internationales Facility Management-Unternehmen: Wir erbringen unterschiedliche Dienstleistungen rund um die Bewirtschaftung von Gebäuden, Büros, Produktionsstätten und technischen Anlagen. Unsere Mitarbeitenden leisten Services in den Bereichen Technik, Reinigung, Catering, Security, Bauen im Bestand und Workplace. Wir geben unseren Mitarbeitenden auf der ganzen Welt das Werteversprechen ‚A Place to be You!‘ Denn wir begrüßen Vielfältigkeit in allen Dimensionen und unterstützen Dich bei deiner Weiterentwicklung. Bei ISS bist Du Teil einer globalen Community: Hier kannst Du so sein, wie Du bist. **Unsere Benefits**- **Branchenkonf. Bezahlung** Dein Gehalt richtet sich nach Deiner Erfahrung und Qualifikation. Wir bieten Dir eine faire und transparente Vergütung, die zu deinem Profil passt. - **Onboardingbuddy** Dein Buddy kennt den Weg und alle Tricks. Gemeinsam starten . - **Mitarbeitervergünstigungen** Du erhältst vielseitige Mitarbeiterrabatte bei verschiedensten Onlineportalen – rund um Bereiche wie Sport, Gesundheit, Lifestyle, Reisen u.v.m. - **Modernes Equipment** Profitiere von modernen HP-Laptops, iPhone- oder Android-Smartphones sowie den neuesten Headsets. - **Pünktliche Bezahlung** Zuverlässige und pünktliche Gehaltszahlung, weil Wertschätzung auch im Timing steckt. - **Tolles Team** Uns prägt eine offene Unternehmenskultur. Dich erwartet ein engagiertes und hilfsbereites Team, wo ihr gemeinsam an einem Strang zieht. **Deine Aufgaben** - Du hast den sicheren Blick für die verschiedenen Reinigungsfeldern und sorgst für die gründliche Reinigung der Fläche, der Büroräume und Sanitäranlagen - Die Einhaltung von Gesundheits-, Hygiene und Reinigungsrichtlinien liegt dir in Deinem beruflichen Alltag am Herzen - Die Durchführung von Sonderreinigungen, nach Absprache, stellt für Dich kein Problem dar **Arbeitszeitrahmen: Montag bis Freitag jeweils von15:00 Uhr bis 18:30 Uhr** **Dein Profil** - Idealerweise hast du bereits Erfahrung in der Unterhalts- oder Gebäudereinigung, aber auch Quereinsteiger sind willkommen - Der effektive und umweltbewusste Umgang mit Reinigungsmittel und -maschinen ist für Dich ebenso selbstverständlich, wie Pünktlichkeit und Einsatzbereitschaft - Du arbeitest selbstständig, bist aber trotzdem ein Teamplayer - Gute Deutschkenntnisse runden Dein Profil ab ISS fördert Vielfalt und begrüßt daher alle Bewerbungen – unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, sexueller Orientierung und Identität, Weltanschauung, Alter und Behinderung. Bewerber\\*innen mit einer Schwerbehinderung und ihnen gleichgestellte Personen werden bei gleicher Eignung bevorzugt berücksichtig.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 10.2,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse runden Dein Profil ab ISS fördert Vielfalt und begrüßt daher alle Bewerbungen",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": true,
-   "kind": "Уборка",
-   "first_seen": "2026-11-17T12:54",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 59,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 33,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:20",
-        "min": 33
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 59
-     },
-     {
-      "kind": "как в приложении",
-      "min": 61,
-      "changes": 1,
-      "min_wait": 12,
-      "walk_end": 12,
-      "end_stop": "Offenburg Zur Lindenhöhe",
-      "dep": "05:21",
-      "arr": "06:23",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Stadtbus Offenburg",
-        "line": "S5",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Offenburg Zur Lindenhöhe",
-        "dep": "06:00",
-        "arr": "06:11",
-        "wait": 12,
-        "min": 11
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Zur Lindenhöhe",
-        "to": "работа",
-        "dep": "06:11",
-        "arr": "06:23",
-        "min": 12
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 64
-     },
-     {
-      "kind": "велосипед",
-      "min": 67,
-      "changes": 0,
-      "km": 16.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 67
-       }
-      ],
-      "risky": false,
-      "score": 114
-     }
-    ],
-    "best": "транспорт",
-    "min": 59,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
   },
   {
    "id": "marina:ba_16526-8d8adda4b08e2bb5-S",
@@ -47640,7 +47901,7 @@
     "min": 11,
     "changes": 0
    },
-   "status": "open",
+   "status": "not_interested",
    "also_urls": [],
    "person": "mykyta"
   },
@@ -47989,7 +48250,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-fuer-wochenendzeitung-in-achern-oberachern-moesbach/3581913767-107-8671"
+   ],
    "person": "mykyta"
   },
   {
@@ -102725,7 +102988,8 @@
    "status": "open",
    "also_urls": [
     "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-lahr-in-schwarzwald/3568981235-247-9040",
-    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-lahr-in-schwarzwald/3560301880-247-9040"
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-lahr-in-schwarzwald/3560301880-247-9040",
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-m-w-d-lahr-in-schwarzwald/3581919153-247-9040"
    ],
    "person": "mykyta"
   },
@@ -108870,7 +109134,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-friesenheim-umgebung/3576017429-107-8045"
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-friesenheim-umgebung/3576017429-107-8045",
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-friesenheim-umgebung/3581913949-107-8045"
    ],
    "person": "mykyta"
   },
@@ -110309,7 +110574,8 @@
    "status": "open",
    "also_urls": [
     "https://www.jobware.de/job/produktionshelfer-3-schicht-metallbranche-m-w-d-064775831",
-    "https://www.jobware.de/job/produktionshelfer-3-schicht-metallbranche-m-w-d-065265233"
+    "https://www.jobware.de/job/produktionshelfer-3-schicht-metallbranche-m-w-d-065265233",
+    "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-3-schicht-metallbranche-m-w-d-/3581947167-111-8045"
    ],
    "person": "mykyta"
   },
@@ -113805,7 +114071,7 @@
     "min": 11,
     "changes": 0
    },
-   "status": "open",
+   "status": "not_interested",
    "also_urls": [],
    "person": "Марина"
   },

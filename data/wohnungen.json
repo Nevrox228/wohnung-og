@@ -1,9 +1,138 @@
 {
- "generated": "2026-11-25T08:48",
+ "generated": "2026-11-25T10:47",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 407,
+ "count": 410,
  "items": [
+  {
+   "id": "3581966081",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3581966081",
+   "title": "Helle 3-Zi Wohnung in Urloffen mit Balkon",
+   "price_txt": "950 €",
+   "plz": "77767",
+   "ort": "Appenweier",
+   "lat": 48.5606801,
+   "lon": 7.9698734,
+   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b05490d-cade-46fd-962b-a6d89f3e95af?rule=$_59.JPG",
+   "tags": [
+    "Balkon",
+    "Einbauküche",
+    "Badewanne",
+    "Keller",
+    "Garage/Stellplatz"
+   ],
+   "desc": "Schöne, helle 3-Zimmer Wohnung in Urloffen an berufstätige Person ohne Haustiere zu vermieten. Einbauküche, Bad mit Dusche und Wanne. Es gibt einen Anschluss für die Waschmaschine in der Wohnung. Ein Kellerraum steht ebenfalls zur Verfügung. Zur Wohnung gehört auch ein PKW-Stellplatz und ein Balkon. Kosten: 700€ (Kaltmiete) + 25€ (Stellplatz) + 225€ (Nebenkosten) = 950€ Warmmiete Falls Sie Interesse haben, schicken Sie eine kurze Nachricht und erzählen sie etwas über sich und wer einziehen möchte. Für eine Bewerbung benötigen Sie eine aktuelle SCHUFA-Auskunft, einen unbefristeten Arbeitsvertrag und die letzten 3 Gehaltsnachweise. Wir freuen uns auf ihre Bewerbung!",
+   "m2": 87.0,
+   "zimmer": 3.0,
+   "kalt": 950.0,
+   "nk": null,
+   "warm": 950.0,
+   "kaution": 2100.0,
+   "ab": "November 2026",
+   "typ": "",
+   "posted": "2026-11-25",
+   "street": "",
+   "loc_prec": "примерно: Urloffen",
+   "warm_calc": 950.0,
+   "warm_est": false,
+   "moebl": false,
+   "ebk": true,
+   "km": 11.5,
+   "allowed": 1000,
+   "eur_m2": 10.9,
+   "zone": "близко",
+   "verdict": "норм",
+   "notes": [
+    "3 комн. — больше, чем нужно"
+   ],
+   "first_seen": "2026-11-25T10:15",
+   "source": "поиск",
+   "route": {},
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "3581941121",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3581941121",
+   "title": "WG-Zimmer in sehr guter Lage – ab sofort verfügbar!t",
+   "price_txt": "550 €",
+   "plz": "77694",
+   "ort": "Kehl",
+   "lat": 48.554394212905365,
+   "lon": 7.818533731688262,
+   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da4269d2-141e-44a4-8fd7-5aa67dadfcde?rule=$_59.JPG",
+   "tags": [],
+   "desc": "WG-Zimmer in sehr guter Lage – ab sofort verfügbar! In einer 3-Zimmer-WG ist ein Zimmer frei und ab sofort verfügbar. Die Wohnung befindet sich in einer sehr guten Lage. Bushaltestellen, Supermärkte und Schulen sind direkt in der Nähe und bequem erreichbar. Die Wohnung ist komplett ausgestattet, unter anderem mit: - Küche - Backofen - Mikrowelle - Kaffeemaschine - Waschmaschine - Internet Miete: 550 € monatlich – alles inklusive (Heizung, Internet und Nebenkosten). Kaution: 1.000 € Das Zimmer ist ab sofort verfügbar. Bei Interesse oder weiteren Fragen gerne melden!",
+   "m2": 65.0,
+   "zimmer": 1.0,
+   "kalt": 550.0,
+   "nk": null,
+   "warm": null,
+   "kaution": null,
+   "ab": "2026",
+   "typ": "Etagenwohnung",
+   "posted": "2026-11-25",
+   "street": "",
+   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
+   "warm_calc": 732.0,
+   "warm_est": true,
+   "moebl": false,
+   "ebk": false,
+   "km": 14.1,
+   "allowed": 990,
+   "eur_m2": 11.3,
+   "zone": "далеко",
+   "verdict": "нет",
+   "notes": [
+    "тёплая ≈ (холодная + NK на глаз)",
+    "WG/WBS/монтёр/пендлер — не наш формат",
+    "далеко: Kehl, 14.1 км по прямой"
+   ],
+   "first_seen": "2026-11-25T10:15",
+   "source": "поиск",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "iw_23XBFIYSRT4K",
+   "url": "https://www.immowelt.de/expose/dd122fd9-3e53-4fbc-9ea5-798d9be1e16f",
+   "title": "Wohnung zur Miete · Almstraße 25, Durbach, Durbach (77770)",
+   "price_txt": "380 € Kaltmiete",
+   "plz": "77770",
+   "ort": "Durbach",
+   "street": "Almstraße 25",
+   "img": null,
+   "tags": [],
+   "desc": "",
+   "m2": 44.0,
+   "zimmer": 1.0,
+   "kalt": 380.0,
+   "warm": null,
+   "nk": null,
+   "kaution": null,
+   "ab": "sofort",
+   "posted": null,
+   "loc_prec": "точный адрес",
+   "lat": 48.4922506,
+   "lon": 8.0012313,
+   "warm_calc": 503.0,
+   "warm_est": true,
+   "moebl": false,
+   "ebk": false,
+   "km": 5.6,
+   "allowed": 864,
+   "eur_m2": 11.4,
+   "zone": "близко",
+   "verdict": "отлично",
+   "notes": [
+    "тёплая ≈ (холодная + NK на глаз)"
+   ],
+   "first_seen": "2026-11-25T10:15",
+   "source": "immowelt",
+   "route": {},
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "3581780707",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3581780707",
@@ -6088,7 +6217,7 @@
    "first_seen": "2026-11-10T12:59",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -8552,7 +8681,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -8867,7 +8996,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -8963,7 +9092,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -9011,7 +9140,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10526,7 +10655,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10574,7 +10703,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10893,7 +11022,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10935,7 +11064,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -11078,7 +11207,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -11178,7 +11307,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11313,7 +11442,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11358,7 +11487,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -11404,7 +11533,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11680,7 +11809,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11862,7 +11991,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -12552,7 +12681,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -12964,7 +13093,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -13601,7 +13730,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -14281,7 +14410,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15496,7 +15625,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15674,7 +15803,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15953,7 +16082,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -16400,7 +16529,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -16748,7 +16877,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -17212,7 +17341,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -17519,7 +17648,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
