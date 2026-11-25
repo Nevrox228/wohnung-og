@@ -1,9 +1,98 @@
 {
- "generated": "2026-11-25T13:29",
+ "generated": "2026-11-25T14:32",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 406,
+ "count": 408,
  "items": [
+  {
+   "id": "3582144881",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3582144881",
+   "title": "Ab Sofort, 2 Zimmerwohnung zum Vermieten",
+   "price_txt": "500 €",
+   "plz": "77740",
+   "ort": "Bad Peterstal-Griesbach",
+   "lat": 48.4298736,
+   "lon": 8.2012285,
+   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3dbcf0ba-b765-481e-bb4b-d1fea89b0ff8?rule=$_59.JPG",
+   "tags": [
+    "Balkon",
+    "Einbauküche",
+    "Badewanne",
+    "Gäste WC",
+    "Altbau"
+   ],
+   "desc": "Ab sofort zu vermieten. Einen 2-Zimmerwohnung im ruhige Lager und Sonnenseite Bad Peterstal, an ruhige Einzelperson (NR). Neue EBK mit Geschirrspüler, Waschmaschine zur Verfügung.",
+   "m2": 53.0,
+   "zimmer": 2.0,
+   "kalt": 500.0,
+   "nk": 130.0,
+   "warm": 500.0,
+   "kaution": 1000.0,
+   "ab": "Januar 2027",
+   "typ": "Dachgeschosswohnung",
+   "posted": "2026-11-25",
+   "street": "Birkenstraße 16,",
+   "loc_prec": "точный адрес",
+   "warm_calc": 500.0,
+   "warm_est": false,
+   "moebl": false,
+   "ebk": true,
+   "km": 19.2,
+   "allowed": 978,
+   "eur_m2": 9.4,
+   "zone": "далеко",
+   "verdict": "далеко",
+   "notes": [
+    "далеко: Bad Peterstal-Griesbach, 19.2 км по прямой"
+   ],
+   "first_seen": "2026-11-25T14:02",
+   "source": "поиск",
+   "route": {},
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "3582157509",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3582157509",
+   "title": "Helle 3 Zimmer Etagenwohnung Lahr",
+   "price_txt": "850 €",
+   "plz": "77933",
+   "ort": "Lahr",
+   "lat": 48.343025981968964,
+   "lon": 7.837637503019437,
+   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/34b968e6-a8df-4343-80a4-a7bd2f919e4e?rule=$_59.JPG",
+   "tags": [],
+   "desc": "Vermutlich ab Januar verfügbar. Zur Verfügung wird eine 3 Zimmer Wohnung mit hellen Räumen und Einbauküche stehen. Bei Interesse bitte vorstellen und melden. Die Warmmiete wird etwa 1100€ sein.",
+   "m2": 68.0,
+   "zimmer": 3.0,
+   "kalt": 850.0,
+   "nk": 260.0,
+   "warm": 1100.0,
+   "kaution": 3000.0,
+   "ab": "Januar 2027",
+   "typ": "Etagenwohnung",
+   "posted": "2026-11-25",
+   "street": "",
+   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
+   "warm_calc": 1100.0,
+   "warm_est": false,
+   "moebl": false,
+   "ebk": true,
+   "km": 15.1,
+   "allowed": 1000,
+   "eur_m2": 16.2,
+   "zone": "далеко",
+   "verdict": "нет",
+   "notes": [
+    "тёплая 1100 > 1000",
+    "3 комн. — больше, чем нужно",
+    "далеко: Lahr, 15.1 км по прямой"
+   ],
+   "first_seen": "2026-11-25T14:02",
+   "source": "поиск",
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "3582036759",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3582036759",
@@ -6140,7 +6229,7 @@
    "first_seen": "2026-11-10T12:59",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -8556,7 +8645,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -8871,7 +8960,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -8967,7 +9056,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -9015,7 +9104,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10489,7 +10578,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10537,7 +10626,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10856,7 +10945,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10898,7 +10987,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -11041,7 +11130,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -11141,7 +11230,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11276,7 +11365,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11321,7 +11410,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -11367,7 +11456,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11643,7 +11732,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11825,7 +11914,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -12515,7 +12604,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -12927,7 +13016,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -13564,7 +13653,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -14244,7 +14333,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15459,7 +15548,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15637,7 +15726,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15916,7 +16005,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -16363,7 +16452,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -16711,7 +16800,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -17175,7 +17264,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -17482,7 +17571,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {

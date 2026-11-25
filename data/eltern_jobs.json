@@ -1,9 +1,355 @@
 {
- "generated": "2026-11-25T13:29",
+ "generated": "2026-11-25T14:32",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1055,
+ "count": 1057,
  "items": [
+  {
+   "id": "marina:ka_3582183656",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) in Lahr",
+   "firma": "частное",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-in-lahr/3582183656-111-8047",
+   "posted": "2026-11-25",
+   "posted_time": "14:01",
+   "desc": "Sie suchen einen zuverlässigen Arbeitgeber und einen langfristigen Arbeitsplatz? Kommen Sie zu uns, denn wir garantieren Ihnen - WIR HALTEN UNSER VERSPRECHEN! Wir suchen für einen unserer Kunden in Lahr und Umgebung zuverlässige und engagierte Produktionshelfer (m/w/d) in Vollzeit. Aufgaben: • Bestücken und Bedienen von Produktionsmaschinen • Entnahme und Kontrolle gefertigter Teile Durchführung von Sicht- und Qualitätskontrollen • Einfache Montage- und Zusammenbauarbeiten Sortieren und Verpacken von Fertigprodukten Nachbearbeitung von Produktionsteilen • Bereitstellung von Materialien für die Produktion Durchführung einfacher Reinigungsarbeiten • Einhaltung der Qualitäts-, Sicherheits- und Hygienevorschriften Ihr Profil: • Deutschkenntnisse • Bereitschaft zur 3-Schicht Das bieten wir Ihnen: • einen unbefristeten Arbeitsvertrag • Interner Fahrdienst • Persönlicher Ansprechpartner vor Ort • eine angemessene übertarifliche Bezahlung auf Grundlage des Tarifvertrages • Bonuszahlungen Fühlen Sie sich angesprochen und erkennen Ihr Profil? Dann bewerben Sie sich noch heute! Wir freuen uns auf Ihre Bewerbung! KPM GmbH Friedrichstraße 3 77933 Lahr/Schwarzwald Für weitere Fragen steht Ihnen Frau Kaiser gerne auch telefonisch zur Verfügung unter: 07821 9769 214 WhatsApp: +49 175 686 1791",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-25T14:02",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3582183656",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) in Lahr",
+   "firma": "частное",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-in-lahr/3582183656-111-8047",
+   "posted": "2026-11-25",
+   "posted_time": "14:01",
+   "desc": "Sie suchen einen zuverlässigen Arbeitgeber und einen langfristigen Arbeitsplatz? Kommen Sie zu uns, denn wir garantieren Ihnen - WIR HALTEN UNSER VERSPRECHEN! Wir suchen für einen unserer Kunden in Lahr und Umgebung zuverlässige und engagierte Produktionshelfer (m/w/d) in Vollzeit. Aufgaben: • Bestücken und Bedienen von Produktionsmaschinen • Entnahme und Kontrolle gefertigter Teile Durchführung von Sicht- und Qualitätskontrollen • Einfache Montage- und Zusammenbauarbeiten Sortieren und Verpacken von Fertigprodukten Nachbearbeitung von Produktionsteilen • Bereitstellung von Materialien für die Produktion Durchführung einfacher Reinigungsarbeiten • Einhaltung der Qualitäts-, Sicherheits- und Hygienevorschriften Ihr Profil: • Deutschkenntnisse • Bereitschaft zur 3-Schicht Das bieten wir Ihnen: • einen unbefristeten Arbeitsvertrag • Interner Fahrdienst • Persönlicher Ansprechpartner vor Ort • eine angemessene übertarifliche Bezahlung auf Grundlage des Tarifvertrages • Bonuszahlungen Fühlen Sie sich angesprochen und erkennen Ihr Profil? Dann bewerben Sie sich noch heute! Wir freuen uns auf Ihre Bewerbung! KPM GmbH Friedrichstraße 3 77933 Lahr/Schwarzwald Für weitere Fragen steht Ihnen Frau Kaiser gerne auch telefonisch zur Verfügung unter: 07821 9769 214 WhatsApp: +49 175 686 1791",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "немного",
+   "de_txt": "Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-25T14:02",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_10001-1004067054-S",
    "src": "Jobbörse",
@@ -48140,7 +48486,7 @@
     "min": 11,
     "changes": 0
    },
-   "status": "open",
+   "status": "not_interested",
    "also_urls": [],
    "person": "mykyta"
   },
@@ -80442,7 +80788,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1723-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1779-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982654594-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1836-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985570791-S",
     "https://www.jobware.de/job/produktionsmitarbeiter-m-w-d-065035888",
@@ -114311,7 +114656,7 @@
     "min": 11,
     "changes": 0
    },
-   "status": "open",
+   "status": "not_interested",
    "also_urls": [],
    "person": "Марина"
   },
@@ -127926,7 +128271,6 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1723-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1744-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A143770-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-982654594-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1836-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985570791-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12122-985847028-S",

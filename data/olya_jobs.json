@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:29",
+ "generated": "2026-11-25T14:32",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
  "count": 51,
@@ -67,6 +67,28 @@
    "kind": "Общее / другое",
    "ausb": true,
    "first_seen": "2026-11-25T10:15",
+   "status": "open",
+   "also_urls": []
+  },
+  {
+   "id": "li_4482330431",
+   "src": "LinkedIn",
+   "title": "Betreuung (m/w/d) von Kindern zwischen 6 und 15 Jahren",
+   "firma": "SozKom Ges. f. soziales und Kommunikation Haus Herztal Stationäre Jugendhilfe",
+   "ort": "Oberkirch",
+   "plz": "",
+   "street": "",
+   "lat": 48.5308586,
+   "lon": 8.078657,
+   "url": "https://de.linkedin.com/jobs/view/4482330431",
+   "posted": "2026-09-29",
+   "zeit": "",
+   "beruf": "",
+   "approx": true,
+   "km": 11.4,
+   "kind": "Hort / Schule",
+   "ausb": false,
+   "first_seen": "2026-11-25T01:39",
    "status": "open",
    "also_urls": []
   },
@@ -1006,32 +1028,6 @@
    "status": "open",
    "also_urls": [
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-059713811"
-   ]
-  },
-  {
-   "id": "ba_10000-1206601865-S",
-   "src": "Jobbörse",
-   "title": "Betreuung (m/w/d) von Kindern zwischen 6 und 15 Jahren",
-   "firma": "SozKom Ges. f. soziales und Kommunikation Haus Herztal Stationäre Jugendhilfe",
-   "ort": "Oberkirch",
-   "plz": "77704",
-   "street": "Herztal 44",
-   "lat": 48.531816,
-   "lon": 8.028657,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206601865-S",
-   "posted": "2026-05-22",
-   "ab": "2026-11-03",
-   "zeit": "Vollzeit",
-   "befristet": false,
-   "quer": false,
-   "beruf": "Erzieher/in",
-   "km": 8.6,
-   "kind": "Hort / Schule",
-   "ausb": false,
-   "first_seen": "2026-11-03T17:32",
-   "status": "open",
-   "also_urls": [
-    "https://de.linkedin.com/jobs/view/4482330431"
    ]
   },
   {
