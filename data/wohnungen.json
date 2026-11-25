@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:36",
+ "generated": "2026-11-25T08:48",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
  "count": 407,
@@ -6088,7 +6088,7 @@
    "first_seen": "2026-11-10T12:59",
    "source": "поиск",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -8552,7 +8552,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -8867,7 +8867,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -8963,7 +8963,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -9011,7 +9011,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10526,7 +10526,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10574,7 +10574,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10893,7 +10893,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10935,7 +10935,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11078,7 +11078,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11178,7 +11178,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11313,7 +11313,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11358,7 +11358,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11404,7 +11404,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11680,7 +11680,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11862,7 +11862,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -12552,7 +12552,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -12964,7 +12964,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -13601,7 +13601,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -14281,7 +14281,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -15496,7 +15496,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -15674,7 +15674,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -15953,7 +15953,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -16400,7 +16400,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -16748,7 +16748,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -17212,7 +17212,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -17519,7 +17519,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
