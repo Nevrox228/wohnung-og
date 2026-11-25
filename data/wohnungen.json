@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T12:16",
+ "generated": "2026-11-25T13:29",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 408,
+ "count": 406,
  "items": [
   {
    "id": "3582036759",
@@ -138,46 +138,6 @@
    ],
    "first_seen": "2026-11-25T10:15",
    "source": "поиск",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "iw_23XBFIYSRT4K",
-   "url": "https://www.immowelt.de/expose/dd122fd9-3e53-4fbc-9ea5-798d9be1e16f",
-   "title": "Wohnung zur Miete · Almstraße 25, Durbach, Durbach (77770)",
-   "price_txt": "380 € Kaltmiete",
-   "plz": "77770",
-   "ort": "Durbach",
-   "street": "Almstraße 25",
-   "img": null,
-   "tags": [],
-   "desc": "",
-   "m2": 44.0,
-   "zimmer": 1.0,
-   "kalt": 380.0,
-   "warm": null,
-   "nk": null,
-   "kaution": null,
-   "ab": "sofort",
-   "posted": null,
-   "loc_prec": "точный адрес",
-   "lat": 48.4922506,
-   "lon": 8.0012313,
-   "warm_calc": 503.0,
-   "warm_est": true,
-   "moebl": false,
-   "ebk": false,
-   "km": 5.6,
-   "allowed": 864,
-   "eur_m2": 11.4,
-   "zone": "близко",
-   "verdict": "отлично",
-   "notes": [
-    "тёплая ≈ (холодная + NK на глаз)"
-   ],
-   "first_seen": "2026-11-25T10:15",
-   "source": "immowelt",
-   "route": {},
    "status": "open",
    "also_urls": []
   },
@@ -6180,7 +6140,7 @@
    "first_seen": "2026-11-10T12:59",
    "source": "поиск",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -7963,54 +7923,6 @@
    "also_urls": []
   },
   {
-   "id": "3563545071",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3563545071",
-   "title": "Großzügige 3,5 Zimmer Wohnung mit Terrasse und Garage",
-   "price_txt": "890 €",
-   "plz": "77948",
-   "ort": "Friesenheim",
-   "lat": 48.37534293149644,
-   "lon": 7.858066584916969,
-   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00474c94-7f13-4b02-9877-2e9016812fa7?rule=$_59.JPG",
-   "tags": [
-    "Terrasse",
-    "Badewanne",
-    "Keller",
-    "Garage/Stellplatz"
-   ],
-   "desc": "Bitte haben Sie Verständnis, dass wir aus Datenschutzgründen nur schriftliche Anfragen entgegen nehmen. Anfragen ohne Telefonnummern werden leider nicht berücksichtigt. Diese Wohnung wird an berufstätige Paare, Rentner oder an Familien mit max 1 Kind vermietet. Diese 3,5-Zimmerwohnung befindet sich im UG (Hanghaus) eines Mehrfamilienhauses. Hier wurden 104 m² aufgeteilt in Bad, Gäste WC, Küche, Wohn/Essbereich -und 2 Schlafzimmer. Die nach Westen ausgerichtete großzügige Terrasse erreichen Sie über das Wohnzimmer. Das Tageslichtbad ist gefliest und mit WC, Dusche, Badewanne und zwei Handwaschbecken ausgestattet. Im gesamten Wohn und Schlafbereich befindet sich Laminat und in Küche und Bad ein pflegeleichter Fliesenboden. Zu dieser Wohnung gehören ein Keller, ein gemeinschflich genutzter Fahrradraum eine Waschküche/Trockenraum und eine Garage. Haustiere sind in dieser Wohnung nicht gestattet. # Ausstattung - EBK-Übernahme möglich - Bad gefliest und ausgestattet mit WC, Badewanne, Dusche und zwei Handwaschbecken - Gäste WC - Laminat im gesamten Wohn und Schlafbereich - Fliesenboden in Küche und Bad - Kabelanschluss - Kunststofffenster mit Rollladen - Nach Westen ausgerichtete Terrasse - Gemeinschaftlich genutzte Waschküche, Trockenraum und Fahrradraum - Keller - Garage # Weitere Angaben - Separate WCs: 1 - Garagen/Stellplätze: 1 - Verfügbar ab: 1.12.26 - Objektzustand: gepflegt - Qualität der Ausstattung: Standard - Bodenbelag: Fliesen, Laminat - Garagen/Stellplatzmiete: 50,00 € # Lagebeschreibung Diese Wohnung befindet sich in Friesenheim. Sämtliche Einkaufsmöglichkeiten, Schule und Nahverkehr befinden sich in unmittelbarer Nähe. Durch die sehr gute Verkehrsanbindung zur B3 (Offenburg-Lahr) und A5 erreichen Sie Ihre Ziele in kürzester Zeit. # Sonstiges Alle Objektangaben beruhen auf Mitteilungen des Vermieters. Eine Haftung für deren Richtigkeit wird nicht übernommen. Besichtigung und Verhandlungen erfolgen ausschließlich über uns. Im Übrigen verweisen wir auf unsere allgemeinen Geschäftsbedingungen. Bitte haben Sie Verständnis dafür, dass wir für den Exposéversand Ihre vollständige Anschrift und Telefonnummer benötigen. # Energie - Energieausweis: Energieverbrauchsausweis - Wesentliche Energieträger: GAS - Energieverbrauch: 133 kWh/(m²*a) - Energieverbrauch für Warmwasser enthalten - Energieeffizienzklasse: E - Ausstellungsdatum: 01.01.1900 - Baujahr: 1994 - Heizungsart: Zentralheizung - Wesentliche Energieträger: Gas Anbieter-Objekt-ID: 391710",
-   "m2": 104.0,
-   "zimmer": 3.5,
-   "kalt": 890.0,
-   "nk": 250.0,
-   "warm": null,
-   "kaution": 1800.0,
-   "ab": "",
-   "typ": "Etagenwohnung",
-   "posted": "2026-11-06",
-   "street": "",
-   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "warm_calc": 1140.0,
-   "warm_est": true,
-   "moebl": false,
-   "ebk": true,
-   "km": 11.2,
-   "allowed": 1000,
-   "eur_m2": 11.0,
-   "zone": "можно",
-   "verdict": "нет",
-   "notes": [
-    "тёплая ≈ (холодная + NK)",
-    "тёплая 1140 > 1000",
-    "3.5 комн. — больше, чем нужно",
-    "на грани по дороге (Friesenheim, 11.2 км)"
-   ],
-   "first_seen": "2026-11-08T13:52",
-   "source": "поиск",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "iw_23MCF747EJZD",
    "url": "https://www.immowelt.de/expose/23mcf747ejzd",
    "title": "Wohnung zur Miete · Nordoststadt, Offenburg (77654)",
@@ -8644,7 +8556,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -8959,7 +8871,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -9055,7 +8967,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -9103,7 +9015,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10577,7 +10489,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10625,7 +10537,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10944,7 +10856,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -10986,7 +10898,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11129,7 +11041,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11229,7 +11141,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11364,7 +11276,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11409,7 +11321,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "applied",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11455,7 +11367,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11731,7 +11643,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -11913,7 +11825,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -12603,7 +12515,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -13015,7 +12927,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -13652,7 +13564,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -14332,7 +14244,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -15547,7 +15459,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -15725,7 +15637,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -16004,7 +15916,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -16451,7 +16363,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -16799,7 +16711,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -17263,7 +17175,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "rejected",
+   "status": "open",
    "also_urls": []
   },
   {
@@ -17570,7 +17482,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "not_interested",
+   "status": "open",
    "also_urls": []
   },
   {
