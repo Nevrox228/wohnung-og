@@ -1,9 +1,1002 @@
 {
- "generated": "2026-11-26T10:20",
+ "generated": "2026-11-26T11:39",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1068,
+ "count": 1070,
  "items": [
+  {
+   "id": "marina:ba_10000-1208806306-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter m/w/d für die Warenwirtschaft / Lagerlogistik (m/w/d) in Vollzeit",
+   "firma": "BÖWE Textile Cleaning GmbH",
+   "ort": "Sasbach bei Achern",
+   "street": "Lochmatt 1A",
+   "lat": 48.647623,
+   "lon": 8.076801,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208806306-S",
+   "posted": "2026-11-26",
+   "desc": "BÖWE Textile Cleaning GmbH ist ein mittelständisches, international agierendes Unternehmen im Bereich Wäscherei- und Reinigungstechnik mit einem Exportanteil von über 90 % und 80 Jahren Erfahrung. Wir suchen Mitarbeiter m/w/d für die Warenwirtschaft / Lagerlogistik (m/w/d) in Vollzeit – für unseren nationalen und internationales Ersatzteilverkauf. Ihre Aufgaben: Termin- und kundenorientierte Abwicklung von Aufträgen im In- und Ausland Bearbeitung von telefonischen und schriftlichen Anfragen und Bestellungen Buchung im SAP System (kann angelernt werden) Bearbeitung von Retouren und Reklamationen Wareneingangsprüfung Kommissionieren, Verpacken und Verladen von Aufträgen Ihr Profil: Abgeschlossene Lager- oder kaufmännische Ausbildung oder eine vergleichbare Ausbildung idealerweise Berufserfahrung in der Lagerarbeit und Auftragsbearbeitung Englischkenntnisse Teamorientierte, selbständige, strukturierte Arbeitsweise körperliche Belastbarkeit Technisches Verständnis Gabelstaplerschein wünschenswert Wir bieten: Unbefristeten Arbeitsvertrag Leistungsgerechte Vergütung und Entwicklungsperspektiven Wir freuen uns auf Ihre Bewerbung! Ihre Ansprechpartnerin: Angelika Ziermann Tel. +49 (0)7841-6002-216 | E-Mail: angelika.ziermann@bowe-germany.de BÖWE Textile Cleaning GmbH | Lochmatt 1A | 77880 Sasbach",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 12.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-26T10:50",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 67,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 27,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "06:25",
+      "arr": "07:32",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "06:33",
+        "arr": "07:06",
+        "wait": null,
+        "min": 33
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "07:06",
+        "arr": "07:32",
+        "min": 27
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 67
+     },
+     {
+      "kind": "как в приложении",
+      "min": 84,
+      "changes": 1,
+      "min_wait": 17,
+      "walk_end": 26,
+      "end_stop": "Sasbach Ochsen",
+      "dep": "06:25",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "06:33",
+        "arr": "07:06",
+        "wait": null,
+        "min": 33
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7135",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Sasbach Ochsen",
+        "dep": "07:23",
+        "arr": "07:24",
+        "wait": 17,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Ochsen",
+        "to": "работа",
+        "dep": "07:24",
+        "arr": "07:49",
+        "min": 26
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 87
+     },
+     {
+      "kind": "велосипед",
+      "min": 70,
+      "changes": 0,
+      "km": 17.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 70
+       }
+      ],
+      "risky": false,
+      "score": 120
+     }
+    ],
+    "best": "транспорт",
+    "min": 67,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3582802610",
+   "src": "Kleinanzeigen",
+   "title": "Küchenhilfe / Spüler (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Baiersbronn",
+   "plz": "72270",
+   "street": "",
+   "lat": 48.5416972,
+   "lon": 8.3252756,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/kuechenhilfe-spueler-m-w-d-/3582802610-110-8719",
+   "posted": "2026-11-26",
+   "posted_time": "10:21",
+   "desc": "Küchenhilfe / Spüler (m/w/d) bei Hotel Schliffkopf HIER BEWERBEN: https://www.stepstone.de/job/14788318/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Unser 4-Sterne-Wellness- und Nationalparkhotel Schliffkopf liegt auf 1025 Metern Höhe, eingebettet im Nationalpark Schwarzwald - ein wahrer Ort der Ruhe und Inspiration, sowohl für unsere Gäste als auch für unser Schliffkopf-Team. Mit 68 Zimmern und Suiten, einem großzügigen Wellnessbereich und einer Umgebung, die Natur pur verspricht, bieten wir nicht nur eine außergewöhnliche Urlaubserfahrung für unsere Gäste, sondern auch ein einzigartiges Arbeitsumfeld für alle, die eine Leidenschaft für Gastfreundschaft haben. Hier im Herzen des Schwarzwalds bieten wir mehr als nur einen Job - wir bieten die Möglichkeit, in einem innovativen und herzlichen Team zu arbeiten, das Qualität, Freundlichkeit und Zusammenarbeit lebt Erleben Sie den Zauber des Schwarzwaldes, arbeiten Sie in einer der schönsten Regionen Deutschlands und werden Sie Teil eines Teams, das mit Herzblut und Hingabe dafür sorgt, dass unsere Gäste einen unvergesslichen Aufenthalt genießen. Anstellungsart: Vollzeit Aufgaben ● Sorgfältiges Reinigen, Spülen und Verräumen von Geschirr, Besteck, Gläsern und Küchenutensilien ● Bedienung und Pflege der gewerblichen Spülmaschine unter Einhaltung der Hygienevorschriften ● Sicherstellung von Sauberkeit und Ordnung in der Spülküche sowie in den Küchenbereichen ● Reinigung und Pflege der Küchenarbeitsflächen, Geräte und Fußböden ● Unterstützung des Küchenteams bei allgemeinen Reinigungs- und Vorbereitungsarbeiten ● Fachgerechte Mülltrennung und Entsorgung sämtlicher Abfälle ● Reinigung und Pflege der öffentlichen Hotelbereiche sowie der Außenanlagen nach Bedarf ● Einhaltung der HACCP-Richtlinien und der betrieblichen Hygienestandards ● Sorgfältiger Umgang mit hochwertigem Geschirr, Gläsern und Küchenequipment ● Sicherstellung eines reibungslosen Ablaufs im Spülbereich während der Servicezeiten Profil ● Teamorientierter Arbeitsstil: als Teamplayer auf gemeinsame Erfolge im Arbeitsalltag wertlegen ● Kreativer Arbeitsansatz: Schätzt die Abwechslung im Berufsleben und bringt die Bereitschaft mit, sich flexibel auf unterschiedliche Herausforderungen einzustellen ● Kommunikationsgeschick: Besitzt ausgezeichnete Deutschkenntnisse, um sich effektiv sowohl mit Kollegen als auch mit unseren Gästen verständigen zu können Wir bieten ● Ein motiviertes, eingespieltes Team mit viel Leidenschaft für Gastfreundschaft ● Leistungsgerechte Vergütung sowie attraktive Mitarbeiter-Benefits ● elektronische Zeiterfassung ● Nutzung einer Mitarbeiter-APP ● gratis Zugang zu unserem Fitnessbereich und Schwimmbad ● täglich frisch gekochtes Essen und kostenfreie Getränke (Wasser und Kaffeespezialitäten) ● freiwillige Mitarbeiterveranstaltungen KLED1_DE",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.9,
+   "de": "немного",
+   "de_txt": "Kommunikationsgeschick: Besitzt ausgezeichnete Deutschkenntnisse, um sich effektiv sowohl mit Kollegen als auch mit unseren Gästen verständigen zu können Wir bi",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Отель",
+   "first_seen": "2026-11-26T10:50",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 190,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 59,
+      "end_stop": "Mitteltal Lamm",
+      "dep": "16:36",
+      "arr": "19:46",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "16:36",
+        "arr": "16:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "16:47",
+        "arr": "16:56",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "17:07",
+        "arr": "17:15",
+        "wait": 11,
+        "min": 8
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "400",
+        "from": "Achern",
+        "to": "Ruhestein",
+        "dep": "17:21",
+        "arr": "18:00",
+        "wait": 6,
+        "min": 39
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "200",
+        "from": "Ruhestein",
+        "to": "Mitteltal Lamm",
+        "dep": "18:32",
+        "arr": "18:48",
+        "wait": 32,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Mitteltal Lamm",
+        "to": "работа",
+        "dep": "18:48",
+        "arr": "19:46",
+        "min": 59
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 199
+     },
+     {
+      "kind": "велосипед",
+      "min": 121,
+      "changes": 0,
+      "km": 29.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 121
+       }
+      ],
+      "risky": false,
+      "score": 222
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 570,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 544,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "14:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "14:52",
+        "min": 544
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 570
+     }
+    ],
+    "best": "транспорт",
+    "min": 190,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3553639105",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "firma": "BITE GmbH",
+   "ort": "Niederschopfheim",
+   "plz": "77749",
+   "street": "",
+   "lat": 48.4155747,
+   "lon": 7.9080426,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-/3553639105-111-29372",
+   "posted": "2026-11-26",
+   "posted_time": "11:07",
+   "desc": "Hermann Uhl KG Ortenau Kies - Transportbeton - Betonerzeugnisse Werde ein UHL Rockstar! Sie möchten Teil unseres Teams werden? Dann freuen wir uns auf Ihre Bewerbung! Ihre Benefits - Moderne Arbeitsmittel und Technologien - Familienunternehmen / keine Konzernstruktur - 30 Tage Urlaub im Jahr - Weiterbildungsmöglichkeiten - Möglichkeiten zur Altersvorsorge - Vermögenswirksame Leistungen - Prämie bei langjähriger Betriebszugehörigkeit - Hansefit - Bikeleasing - Attraktive Firmenrabatte & Sonderkonditionen für unsere Mitarbeitenden - Team-Events - Sommerfest, Waldspeck oder auch unsere Weihnachtsfeiern Produktionsmitarbeiter (m/w/d) Wir sind ein zukunftsorientiertes Familienunternehmen mit 9 Standorten in der Ortenau und am Kaiserstuhl. Seit über 90 Jahren sind wir im Bereich der Sand- und Kiesgewinnung sowie der Herstellung von Transportbeton und Betonerzeugnissen tätig. Unsere Mission ist es, unsere Region nachhaltig mit herausragenden natürlichen Baustoffen zu versorgen. Wir suchen zum nächstmöglichen Zeitpunkt Verstärkung in unserem Werk. Das sind Ihre Aufgaben - Führen, Bedienen und Überwachen von Aufbereitungs- und Verladeanlagen z.B. Sand- und Kieswäsche, Siebanlagen, Brecheranlagen und Mischkiesanlagen - Selbstständiges Erkennen von Abweichungen/Störungen, Fehlersuche und Fehlerbehebung - Durchführung einfacher Wartungs-, Reparatur-, Umrüst- und Reinigungsarbeiten an den Anlagen - Pflegen der Arbeitsmittel und Maschinen sowie Unterstützen bei der Erledigung von weiteren im Werk anfallenden Arbeiten - Optimierung bestehender Prozesse und Einhaltung der Qualitäts- und Sicherheitsanforderungen Das bringen Sie mit - Handwerkliches Geschick und eine sorgfältige Arbeitsweise - Idealerweise eine handwerkliche Ausbildung, z. B. als Aufbereitungsmechaniker (m/w/d), Industriemechaniker (m/w/d) oder in einem ähnlichen Beruf - Technisches Verständnis und Interesse an Technik - Fähigkeit, bei Problemen schnell gute Lösungen zu finden - Zuverlässige, sorgfältige und selbstständige Arbeitsweise - Teamfähigkeit, Flexibilität und Belastbarkeit - Führerschein Klasse B erforderlich - Radlader- oder LKW-Führerschein von Vorteil Ihr Mehrwert - Moderne Arbeitsmittel und Technologien - Familienunternehmen / keine Konzernstruktur - 30 Urlaubstage im Jahr - Keine Schichtarbeit - Pünktliche und leistungsorientierte Vergütung - Weiterbildungsmöglichkeiten - Möglichkeiten zur Altersvorsorge - Vermögenswirksame Leistungen - Prämie bei langjähriger Betriebszugehörigkeit - Hansefit - Bikeleasing - Attraktive Firmenrabatte und Sonderkonditionen für unsere Mitarbeitenden - Arbeitskleidung - damit Sie bestens für Ihren Job gerüstet sind. - Team-Events - Sommerfest, Waldspeck oder auch unsere Weihnachtsfeiern - Einen Platz in der ersten Reihe am See für eine erholsame Mittagspause Interesse? Dann freuen wir uns über Ihre aussagekräftige Bewerbung und Angabe Ihrer Gehaltsvorstellung - gerne über das Bewerberformular. Keyfacts - Ab sofort - Vollzeit - unbefristet - Berufseinsteiger, Fachkraft - Niederschopfheim Ihr AnsprechpartnerChristian Heß Tel.: 0781 508-2612 Einblick in eines unserer Events Sei es beim zünftigen Besuch der Cannstatter Wasen, bei fröhlichen Sommerfesten, einem entspannten Waldspeck oder unserer festlichen Weihnachtsfeier - diese Events stärken nicht nur den Teamgeist, sondern sorgen auch für unvergessliche Erinnerungen. Es sind die gemeinsamen Momente, die unser Team noch enger zusammenschweißen und immer wieder für gute Stimmung sorgen. Über uns Arbeiten mit Herz und Zukunft - Willkommen bei der Hermann UHL KG Bei der Hermann UHL KG sind Sie mehr als nur eine Nummer - Sie sind ein geschätzter Teil eines traditionsreichen Familienunternehmens, das seit 1932 für Menschlichkeit, Innovation und Zusammenhalt steht. Hier erwarten Sie... ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ Bewerbungsformular: https://s.b-ite.com/qd7hu (kopieren Sie die gewünschte URL einfach in die Adressleiste Ihres Browsers) ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 18.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-26T10:50",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 72,
+      "changes": 1,
+      "min_wait": 7,
+      "walk_end": 19,
+      "end_stop": "Hofweier Süd",
+      "dep": "05:21",
+      "arr": "06:34",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7141",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Hofweier Süd",
+        "dep": "05:55",
+        "arr": "06:15",
+        "wait": 7,
+        "min": 20
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Hofweier Süd",
+        "to": "работа",
+        "dep": "06:15",
+        "arr": "06:34",
+        "min": 19
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 75
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 144,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 118,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "08:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "08:56",
+        "min": 118
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 144
+     },
+     {
+      "kind": "велосипед",
+      "min": 108,
+      "changes": 0,
+      "km": 26.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 108
+       }
+      ],
+      "risky": false,
+      "score": 196
+     }
+    ],
+    "best": "транспорт",
+    "min": 72,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3582623644",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) in 3-4 Schicht (29003965)",
+   "firma": "hokify GmbH",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-in-3-4-schicht-29003965-/3582623644-111-8670",
+   "posted": "2026-11-25",
+   "posted_time": "22:19",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/YUWVdK0 ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Produktionsmitarbeiter (m/w/d) für unseren Kunden in Sasbach. In der spannenden Branche der Textilverarbeitung bieten wir Ihnen die Möglichkeit, Ihre Fähigkeiten in einem dynamischen Umfeld einzubringen und weiterzuentwickeln. Aufgaben: - Gefertigte Rollenware abnehmen und verpacken - Bedienung und Überwachung von Maschinen - Sichtkontrolle der produzierten Waren - Bereitstellen und Öffnen von Faser- und Kaschiermateralien - Scannen von Rohstoffen und gefertigten Materialien - Verbuchen der Rohstoffe und Materialien Anforderungen: - Abgeschlossene Ausbildung oder Erfahrung im Bereich Produktion - Handwerkliches Geschick und technisches Verständnis - Kenntnisse im Umgang mit Computern und Scannern - Bereitschaft zur Schichtarbeit im 3-4-Schichtbetrieb - Sie arbeiten selbstständig, sind flexibel und teamfähig - Sie verfügen über Englischkenntnisse Wir bieten - Festanstellung bei der DEKRA Arbeit Gruppe nach DGB/GVP-Tarifvertrag - Attraktive Vergütung nach Tarif mit sämtlichen Sozialleistungen - Entwicklungsmöglichkeiten und Weiterbildungsoptionen - Berufliche Orientierungshilfe und Karriere-/Talentförderung Sie haben Interesse? Dann nutzen Sie Ihre Chance und senden Sie uns Ihre aussagekräftigen Bewerbungs- unterlagen noch heute zu oder rufen Sie uns an! Wir freuen uns darauf, Sie kennen zu lernen! Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/YUWVdK0",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Ausbildung oder Erfahrung im Bereich Produktion",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-26T10:50",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3553639105",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "firma": "BITE GmbH",
+   "ort": "Niederschopfheim",
+   "plz": "77749",
+   "street": "",
+   "lat": 48.4155747,
+   "lon": 7.9080426,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-/3553639105-111-29372",
+   "posted": "2026-11-26",
+   "posted_time": "11:07",
+   "desc": "Hermann Uhl KG Ortenau Kies - Transportbeton - Betonerzeugnisse Werde ein UHL Rockstar! Sie möchten Teil unseres Teams werden? Dann freuen wir uns auf Ihre Bewerbung! Ihre Benefits - Moderne Arbeitsmittel und Technologien - Familienunternehmen / keine Konzernstruktur - 30 Tage Urlaub im Jahr - Weiterbildungsmöglichkeiten - Möglichkeiten zur Altersvorsorge - Vermögenswirksame Leistungen - Prämie bei langjähriger Betriebszugehörigkeit - Hansefit - Bikeleasing - Attraktive Firmenrabatte & Sonderkonditionen für unsere Mitarbeitenden - Team-Events - Sommerfest, Waldspeck oder auch unsere Weihnachtsfeiern Produktionsmitarbeiter (m/w/d) Wir sind ein zukunftsorientiertes Familienunternehmen mit 9 Standorten in der Ortenau und am Kaiserstuhl. Seit über 90 Jahren sind wir im Bereich der Sand- und Kiesgewinnung sowie der Herstellung von Transportbeton und Betonerzeugnissen tätig. Unsere Mission ist es, unsere Region nachhaltig mit herausragenden natürlichen Baustoffen zu versorgen. Wir suchen zum nächstmöglichen Zeitpunkt Verstärkung in unserem Werk. Das sind Ihre Aufgaben - Führen, Bedienen und Überwachen von Aufbereitungs- und Verladeanlagen z.B. Sand- und Kieswäsche, Siebanlagen, Brecheranlagen und Mischkiesanlagen - Selbstständiges Erkennen von Abweichungen/Störungen, Fehlersuche und Fehlerbehebung - Durchführung einfacher Wartungs-, Reparatur-, Umrüst- und Reinigungsarbeiten an den Anlagen - Pflegen der Arbeitsmittel und Maschinen sowie Unterstützen bei der Erledigung von weiteren im Werk anfallenden Arbeiten - Optimierung bestehender Prozesse und Einhaltung der Qualitäts- und Sicherheitsanforderungen Das bringen Sie mit - Handwerkliches Geschick und eine sorgfältige Arbeitsweise - Idealerweise eine handwerkliche Ausbildung, z. B. als Aufbereitungsmechaniker (m/w/d), Industriemechaniker (m/w/d) oder in einem ähnlichen Beruf - Technisches Verständnis und Interesse an Technik - Fähigkeit, bei Problemen schnell gute Lösungen zu finden - Zuverlässige, sorgfältige und selbstständige Arbeitsweise - Teamfähigkeit, Flexibilität und Belastbarkeit - Führerschein Klasse B erforderlich - Radlader- oder LKW-Führerschein von Vorteil Ihr Mehrwert - Moderne Arbeitsmittel und Technologien - Familienunternehmen / keine Konzernstruktur - 30 Urlaubstage im Jahr - Keine Schichtarbeit - Pünktliche und leistungsorientierte Vergütung - Weiterbildungsmöglichkeiten - Möglichkeiten zur Altersvorsorge - Vermögenswirksame Leistungen - Prämie bei langjähriger Betriebszugehörigkeit - Hansefit - Bikeleasing - Attraktive Firmenrabatte und Sonderkonditionen für unsere Mitarbeitenden - Arbeitskleidung - damit Sie bestens für Ihren Job gerüstet sind. - Team-Events - Sommerfest, Waldspeck oder auch unsere Weihnachtsfeiern - Einen Platz in der ersten Reihe am See für eine erholsame Mittagspause Interesse? Dann freuen wir uns über Ihre aussagekräftige Bewerbung und Angabe Ihrer Gehaltsvorstellung - gerne über das Bewerberformular. Keyfacts - Ab sofort - Vollzeit - unbefristet - Berufseinsteiger, Fachkraft - Niederschopfheim Ihr AnsprechpartnerChristian Heß Tel.: 0781 508-2612 Einblick in eines unserer Events Sei es beim zünftigen Besuch der Cannstatter Wasen, bei fröhlichen Sommerfesten, einem entspannten Waldspeck oder unserer festlichen Weihnachtsfeier - diese Events stärken nicht nur den Teamgeist, sondern sorgen auch für unvergessliche Erinnerungen. Es sind die gemeinsamen Momente, die unser Team noch enger zusammenschweißen und immer wieder für gute Stimmung sorgen. Über uns Arbeiten mit Herz und Zukunft - Willkommen bei der Hermann UHL KG Bei der Hermann UHL KG sind Sie mehr als nur eine Nummer - Sie sind ein geschätzter Teil eines traditionsreichen Familienunternehmens, das seit 1932 für Menschlichkeit, Innovation und Zusammenhalt steht. Hier erwarten Sie... ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ Bewerbungsformular: https://s.b-ite.com/qd7hu (kopieren Sie die gewünschte URL einfach in die Adressleiste Ihres Browsers) ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 18.1,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-26T10:50",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 72,
+      "changes": 1,
+      "min_wait": 7,
+      "walk_end": 19,
+      "end_stop": "Hofweier Süd",
+      "dep": "05:21",
+      "arr": "06:34",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7141",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Hofweier Süd",
+        "dep": "05:55",
+        "arr": "06:15",
+        "wait": 7,
+        "min": 20
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Hofweier Süd",
+        "to": "работа",
+        "dep": "06:15",
+        "arr": "06:34",
+        "min": 19
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 75
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 144,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 118,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "08:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "08:56",
+        "min": 118
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 144
+     },
+     {
+      "kind": "велосипед",
+      "min": 108,
+      "changes": 0,
+      "km": 26.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 108
+       }
+      ],
+      "risky": false,
+      "score": 196
+     }
+    ],
+    "best": "транспорт",
+    "min": 72,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3582623644",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter (m/w/d) in 3-4 Schicht (29003965)",
+   "firma": "hokify GmbH",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-in-3-4-schicht-29003965-/3582623644-111-8670",
+   "posted": "2026-11-25",
+   "posted_time": "22:19",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/YUWVdK0 ⬅️ - - - - - - - - ️ Wir suchen einen engagierten Produktionsmitarbeiter (m/w/d) für unseren Kunden in Sasbach. In der spannenden Branche der Textilverarbeitung bieten wir Ihnen die Möglichkeit, Ihre Fähigkeiten in einem dynamischen Umfeld einzubringen und weiterzuentwickeln. Aufgaben: - Gefertigte Rollenware abnehmen und verpacken - Bedienung und Überwachung von Maschinen - Sichtkontrolle der produzierten Waren - Bereitstellen und Öffnen von Faser- und Kaschiermateralien - Scannen von Rohstoffen und gefertigten Materialien - Verbuchen der Rohstoffe und Materialien Anforderungen: - Abgeschlossene Ausbildung oder Erfahrung im Bereich Produktion - Handwerkliches Geschick und technisches Verständnis - Kenntnisse im Umgang mit Computern und Scannern - Bereitschaft zur Schichtarbeit im 3-4-Schichtbetrieb - Sie arbeiten selbstständig, sind flexibel und teamfähig - Sie verfügen über Englischkenntnisse Wir bieten - Festanstellung bei der DEKRA Arbeit Gruppe nach DGB/GVP-Tarifvertrag - Attraktive Vergütung nach Tarif mit sämtlichen Sozialleistungen - Entwicklungsmöglichkeiten und Weiterbildungsoptionen - Berufliche Orientierungshilfe und Karriere-/Talentförderung Sie haben Interesse? Dann nutzen Sie Ihre Chance und senden Sie uns Ihre aussagekräftigen Bewerbungs- unterlagen noch heute zu oder rufen Sie uns an! Wir freuen uns darauf, Sie kennen zu lernen! Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/YUWVdK0",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Abgeschlossene Ausbildung oder Erfahrung im Bereich Produktion",
+   "prof": true,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-26T10:50",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_12122-986701573-S",
    "src": "Jobbörse",
@@ -159,6 +1152,258 @@
     ],
     "best": "транспорт",
     "min": 45,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_12518-CTJ1ID-BRC-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter (m/w/d) in der Morgenreinigung",
+   "firma": "Hotel Bareiss",
+   "ort": "Baiersbronn",
+   "street": "",
+   "lat": 48.5539092,
+   "lon": 8.3215604,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CTJ1ID-BRC-S",
+   "posted": "2026-11-26",
+   "desc": "Das Hotel Bareiss im Schwarzwald ist eines der führenden Ferienhotels in Deutschland und Mitteleuropa. Von Anfang an ein Privathotel, wird das Bareiss auch heute noch sehr persönlich von Familie Bareiss geführt. Exzellente Gastfreundlichkeit verbinden wir mit einer herausragenden Gastronomie (3 * im Guide Michelin und 19 Pkt. im Gault Millau für Restaurant Bareiss) und mit Mitgliedschaften in erstklassigen Hotelverbänden (5*S im Dehoga, Mitglied bei Relais & Chateaux). Das Hotel Bareiss im Schwarzwald ist das am persönlichsten, privat geführte Ferienhotel der Spitzenklasse in Europa. Es steht für exzellente Gastfreundlichkeit und herausragende Gastronomie. Im Bareiss-Team erwartet Sie eine ganz besondere Atmosphäre. Ein Bareissianer zu sein - das ist jeden Tag Leidenschaft, Freude und Gastfreundschaft auf höchstem Niveau.Zur Bereicherung unseres Teams suchen wir Sie als Wir bieten: herzliche und individuelle Betreuung vom ersten Kontakt an fachliche und persönliche Weiterentwicklung in unserer Bareiss Akademie regelmäßige Feedback- und Entwicklungsgespräche mit Karriereplanung faire Konditionen: Gehalt mind. nach Tarif, E-Bike-Leasing und Geschäftswagen als Gehaltsumwandlung, Ticket-Plus-Karte, betriebl. Altersversorgung Vollverpflegung in unserem Mitarbeiterrestaurant \"Casino\" Mitarbeiterwohnungen und Unterstützung bei der Wohnungssuche Familienfreundliche Teilzeitmodelle möglich Kostenloses Mitarbeiter-Fitnessstudio (24/7) in unserer Akademie, Nutzung der hoteleigenen Freizeitanlagen (Schwimmbad, E-Bikes, Tennisplatz) \"Bareiss Card\" mit vielen Vorteilen und Vergünstigungen Mitglied bei \"Relais & Chateaux\"-und \"Fairjob\" mit vergünstigten Übernachtungen zu preiswerten Mitarbeiter-Konditionen attraktive Lage am Rande des Nationalparks Nordschwarzwald und den badischen Weinanbaugebieten; Schnelle Erreichbarkeit innerhalb von 1-2 Stunden von Baden-Baden, Karlsruhe, Stuttgart, Freiburg und Strasbourg. Ihre Aufgaben: Ihre Arbeitszeit beginnt in den frühen Morgenstunden (ca. 4:30 Uhr) und endet zur Mittagszeit. Dabei sind wir flexibel und finden gemeinsam mit Ihnen eine passende Lösung. Reinigung aller öffentlichen Bereiche unseres Hotels, einschließlich Restaurants, Bar, Lobby, Hintergrundbereiche und Kinderhäuser Gründliche Säuberung der Böden, Sanitäranlagen und Glasflächen Ordnungsgemäße Nutzung und Pflege der Reinigungsgeräte und -mittel Sicherstellung der Einhaltung von Hygiene- und Qualitätsstandards Ihr Profil: Sie bringen Schwung und Freude an der Arbeit mit Sie sind flexibel, engagiert und belastbar Sie stehen auch an den Wochenenden und Feiertagen zur Verfügung Sie suchen einen sicheren und abwechslungsreichen Arbeitsplatz Freundliches und offenes Auftreten sowie Kontaktfreudigkeit gehören zu Ihren Eigenschaften Wir freuen uns über die Zusendung Ihrer Bewerbungsunterlagen. Hotel Bareiss im Schwarzwald 72270 Baiersbronn-Mitteltal, Deutschland Telefon: 07442-47-347 Telefax: 07442-47-330 Internet: www.bareiss.com/bareissianer Ansprechpartner: Claire Bauer & Tanja Broegger Position/Abteilung: Mitarbeiterbüro",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.7,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-26T09:48",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 127,
+      "changes": 0,
+      "km": 31.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 127
+       }
+      ],
+      "risky": false,
+      "score": 234
+     }
+    ],
+    "best": "велосипед",
+    "min": 127,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_12513-0007663466-S",
+   "src": "Jobbörse",
+   "title": "Kurzbewerbung für die Produktion",
+   "firma": "WeberHaus GmbH & Co. KG",
+   "ort": "Rheinau",
+   "street": "",
+   "lat": 48.6549546,
+   "lon": 7.9329446,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007663466-S",
+   "posted": "2026-11-26",
+   "desc": "WIR BRAUCHEN SIE! KURZBEWERBUNG FÜR DIE PRODUKTION IHRE AUFGABEN Wer Häuser bauen will, die bei Qualität und Nachhaltigkeit Standards setzen, braucht die besten Mitarbeiterinnen und Mitarbeiter. Vom Zimmerer über den Anlagenmechaniker SHK bis zum Klempner und Maler suchen wir motivierte Handwerker (m/w/d), die bereit sind, jedes WeberHaus so vorzufertigen, als wäre es ihr eigenes. Die Kombination aus hochmoderner Fertigungstechnik und traditioneller Handwerkskunst garantiert Wertigkeit, Qualität und Sicherheit. Dazu können Sie künftig mit Ihrem Engagement, Ihrem Können und Ihrer Kreativität beitragen. Werden Sie Teil des WeberHaus-Teams! Sie wollen eine/-r von uns werden? Wir machen es Ihnen ganz einfach: Folgende Fragen jetzt online beantworten und einfach abschicken. Schon ist Ihre Kurzbewerbung bei uns. Wir melden uns bald bei Ihnen. IHR PROFIL Wir suchen Handwerker (m/w/d), die * eine einschlägige Berufsausbildung haben * ihren Job lieben und darin richtig gut sind * hochmotiviert sind, als Teil des \"Team WeberHaus\" mit uns die Zukunft zu bauen * die Freude in den Augen der Bauherren sehen * und Teil eines starken Teams sein wollen. IHRE VORTEILE * Mitarbeiterbeteiligung am Unternehmenserfolg * Betriebliche Altersvorsorge * Attraktive Konditionen beim Bau eines Weber-Hauses * Gesundheitsfreundliche und sichere Arbeitsplätze * Betriebliches Gesundheitsmanagement * Ideenmanagement zur Einbindung bei Entscheidungen * Bike-Leasing * ...und vieles mehr! Sollten Sie Rückfragen zur Position oder zum Unternehmen haben stehen wir Ihnen unter den folgenden Kontaktdaten gerne zur Verfügung: Daniel Donnerstag Daniel.Donnerstag@weberhaus.de +49 7853 837103 DAS KLINGT SPANNEND ? DANN SOLLTEN WIR UNS UNBEDINGT KENNENLERNEN ! Jetzt bewerben [https://recruitingapp-5639.de.umantis.com/Vacancies/367/Application/CheckLogin/1] Über WhatsApp bewerben [https://weberhaus.pitchyou.de/go/367?jkey=PRODUCTION&title=Kurzbewerbung%20f%C3%BCr%20die%20Produktion] WEBERHAUS GMBH & CO. KG AM ERLENPARK 1 77866 RHEINAU-LINX",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-26T09:48",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 101,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 20,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:06",
+        "min": 20
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 86,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 8,
+      "end_stop": "Rheinbischofsheim Kath.Kirche",
+      "dep": "06:32",
+      "arr": "07:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Rheinbischofsheim Kath.Kirche",
+        "dep": "07:48",
+        "arr": "07:51",
+        "wait": 2,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Rheinbischofsheim Kath.Kirche",
+        "to": "работа",
+        "dep": "07:51",
+        "arr": "07:58",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 88,
+      "changes": 0,
+      "km": 21.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 88
+       }
+      ],
+      "risky": false,
+      "score": 156
+     }
+    ],
+    "best": "транспорт",
+    "min": 101,
     "changes": 1
    },
    "status": "open",
@@ -558,6 +1803,200 @@
    "status": "open",
    "also_urls": [],
    "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_12513-0007663466-S",
+   "src": "Jobbörse",
+   "title": "Kurzbewerbung für die Produktion",
+   "firma": "WeberHaus GmbH & Co. KG",
+   "ort": "Rheinau",
+   "street": "",
+   "lat": 48.6549546,
+   "lon": 7.9329446,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007663466-S",
+   "posted": "2026-11-26",
+   "desc": "WIR BRAUCHEN SIE! KURZBEWERBUNG FÜR DIE PRODUKTION IHRE AUFGABEN Wer Häuser bauen will, die bei Qualität und Nachhaltigkeit Standards setzen, braucht die besten Mitarbeiterinnen und Mitarbeiter. Vom Zimmerer über den Anlagenmechaniker SHK bis zum Klempner und Maler suchen wir motivierte Handwerker (m/w/d), die bereit sind, jedes WeberHaus so vorzufertigen, als wäre es ihr eigenes. Die Kombination aus hochmoderner Fertigungstechnik und traditioneller Handwerkskunst garantiert Wertigkeit, Qualität und Sicherheit. Dazu können Sie künftig mit Ihrem Engagement, Ihrem Können und Ihrer Kreativität beitragen. Werden Sie Teil des WeberHaus-Teams! Sie wollen eine/-r von uns werden? Wir machen es Ihnen ganz einfach: Folgende Fragen jetzt online beantworten und einfach abschicken. Schon ist Ihre Kurzbewerbung bei uns. Wir melden uns bald bei Ihnen. IHR PROFIL Wir suchen Handwerker (m/w/d), die * eine einschlägige Berufsausbildung haben * ihren Job lieben und darin richtig gut sind * hochmotiviert sind, als Teil des \"Team WeberHaus\" mit uns die Zukunft zu bauen * die Freude in den Augen der Bauherren sehen * und Teil eines starken Teams sein wollen. IHRE VORTEILE * Mitarbeiterbeteiligung am Unternehmenserfolg * Betriebliche Altersvorsorge * Attraktive Konditionen beim Bau eines Weber-Hauses * Gesundheitsfreundliche und sichere Arbeitsplätze * Betriebliches Gesundheitsmanagement * Ideenmanagement zur Einbindung bei Entscheidungen * Bike-Leasing * ...und vieles mehr! Sollten Sie Rückfragen zur Position oder zum Unternehmen haben stehen wir Ihnen unter den folgenden Kontaktdaten gerne zur Verfügung: Daniel Donnerstag Daniel.Donnerstag@weberhaus.de +49 7853 837103 DAS KLINGT SPANNEND ? DANN SOLLTEN WIR UNS UNBEDINGT KENNENLERNEN ! Jetzt bewerben [https://recruitingapp-5639.de.umantis.com/Vacancies/367/Application/CheckLogin/1] Über WhatsApp bewerben [https://weberhaus.pitchyou.de/go/367?jkey=PRODUCTION&title=Kurzbewerbung%20f%C3%BCr%20die%20Produktion] WEBERHAUS GMBH & CO. KG AM ERLENPARK 1 77866 RHEINAU-LINX",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-26T09:48",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 101,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 20,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:06",
+        "min": 20
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 86,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 8,
+      "end_stop": "Rheinbischofsheim Kath.Kirche",
+      "dep": "06:32",
+      "arr": "07:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Rheinbischofsheim Kath.Kirche",
+        "dep": "07:48",
+        "arr": "07:51",
+        "wait": 2,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Rheinbischofsheim Kath.Kirche",
+        "to": "работа",
+        "dep": "07:51",
+        "arr": "07:58",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 88,
+      "changes": 0,
+      "km": 21.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 88
+       }
+      ],
+      "risky": false,
+      "score": 156
+     }
+    ],
+    "best": "транспорт",
+    "min": 101,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
   },
   {
    "id": "mykyta:ba_12951-e8726427-99be-4d59--S",
@@ -1375,6 +2814,200 @@
    "status": "open",
    "also_urls": [],
    "person": "mykyta"
+  },
+  {
+   "id": "alexey:ba_12513-0007663448-S",
+   "src": "Jobbörse",
+   "title": "Pflegegärtner (m/w/d) – Garten- und Landschaftsbau",
+   "firma": "WeberHaus GmbH & Co. KG",
+   "ort": "Rheinau",
+   "street": "",
+   "lat": 48.6549546,
+   "lon": 7.9329446,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007663448-S",
+   "posted": "2026-11-26",
+   "desc": "WIR BRAUCHEN SIE! PFLEGEGÄRTNER (M/W/D) - GARTEN- UND LANDSCHAFTSBAU IHRE AUFGABEN * Fachgerechte Pflege und Unterhaltung von Privatgärten, Gewerbe- und Außenanlagen * Rückschnitt von Gehölzen, Stauden und Hecken sowie Düngung und Unkrautbeseitigung * Rasenpflege (Mähen, Vertikutieren, Nachsaat, Bewässerung) * Durchführung von Maßnahmen im Bereich Pflanzenschutz sowie einfache Baumpflegearbeiten * Reinigung und Pflege von Wegen, Terrassen und sonstigen Außenanlagen * Unterstützung bei Tätigkeiten im Facility Management (z. B. kleinere Reparaturen, Instandhaltungsarbeiten) IHR PROFIL * Abgeschlossene Ausbildung als Gärtner (m/w/d), idealerweise im Garten- und Landschaftsbau, alternativ Baumschule oder Staudengärtnerei * Gute Pflanzenkenntnisse und ein ausgeprägtes Qualitätsbewusstsein * Technisches Verständnis und handwerkliches Geschick zur Übernahme ergänzender Facility-Management-Tätigkeiten * Führerschein Klasse B, idealerweise BE * Freundliches Auftreten sowie Freude am Umgang mit Kunden IHRE VORTEILE * Mitarbeiterbeteiligung am Unternehmenserfolg * Betriebliche Altersvorsorge * Attraktive Konditionen beim Bau eines Weber-Hauses * Gesundheitsfreundliche und sichere Arbeitsplätze * Betriebliches Gesundheitsmanagement * Ideenmanagement zur Einbindung bei Entscheidungen * Bike-Leasing * ...und vieles mehr! Sollten Sie Rückfragen zur Position oder zum Unternehmen haben stehen wir Ihnen unter den folgenden Kontaktdaten gerne zur Verfügung: Clarissa Malerczyk clarissa.malerczyk@weberhaus.de +49 7853 83443 DAS KLINGT SPANNEND ? DANN SOLLTEN WIR UNS UNBEDINGT KENNENLERNEN ! Jetzt bewerben [https://recruitingapp-5639.de.umantis.com/Vacancies/698/Application/CheckLogin/1] WEBERHAUS GMBH & CO. KG AM ERLENPARK 1 77866 RHEINAU-LINX",
+   "zeit": "Vollzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "alexey",
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Garten- & Landschaftsbau",
+   "first_seen": "2026-11-26T09:48",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 101,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 20,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:06",
+        "min": 20
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 104
+     },
+     {
+      "kind": "как в приложении",
+      "min": 86,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 8,
+      "end_stop": "Rheinbischofsheim Kath.Kirche",
+      "dep": "06:32",
+      "arr": "07:58",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Rheinbischofsheim Kath.Kirche",
+        "dep": "07:48",
+        "arr": "07:51",
+        "wait": 2,
+        "min": 3
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Rheinbischofsheim Kath.Kirche",
+        "to": "работа",
+        "dep": "07:51",
+        "arr": "07:58",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 107
+     },
+     {
+      "kind": "велосипед",
+      "min": 88,
+      "changes": 0,
+      "km": 21.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 88
+       }
+      ],
+      "risky": false,
+      "score": 156
+     }
+    ],
+    "best": "транспорт",
+    "min": 101,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Алексей"
   },
   {
    "id": "mykyta:ka_3553064878",
@@ -48942,110 +50575,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_10001-1004021248-S",
-   "src": "Jobbörse",
-   "title": "Aushilfe (m/w/d) Offenburg Steinstraße",
-   "firma": "Unternehmensgruppe Dr. Eckert GmbH",
-   "ort": "Offenburg",
-   "street": "Steinstrasse 14",
-   "lat": 48.469178,
-   "lon": 7.9445861,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004021248-S",
-   "posted": "2026-11-16",
-   "desc": "**Das erwartet Sie bei uns:** -Verkauf von Tabakwaren, Rauchbedarfsartikeln und Zusatzsortimenten -Beratung und Bedienung unserer Kunden -Sortimentspflege und Warenpräsentation -Kassenbedienung und Fertigung der Kassenabschlüsse **Was uns überzeugt:** -Erfahrungen im filialisierten Einzelhandel und Branchenkenntnisse im Tabak- und Rauchwarenhandel -Sicherheit im Umgang mit Lottoprodukten sind von Vorteil -Freundlichkeit und kompetenter Umgang mit unseren Kunden -Ehrlichkeit, Flexibilität und hohe Belastbarkeit (Arbeit im Mehrschichtsystem entsprechend der Öffnungszeiten) **Das bieten wir Ihnen:** -Interessante und verantwortungsvolle Aufgaben in einem wachstumsorientierten Einzelhandelsunternehmen -Betriebliche Altersvorsorge -Betriebliche Gesundheitsangebote -Ergebnisbeteiligung -Einkaufsrabatte in den Filialen der UGDE -Entwicklungschancen und Freiraum für Eigeninitiative Arbeitszeit: nach Vereinbarung auf Minijob-Basis Öffnungszeiten der Filiale: Mo-Fr 9:00 Uhr bis 18:00 Uhr Sa 9:00 Uhr bis 16:00 Uhr Bitte beachten Sie, dass wir Papierbewerbungen inkl. Mappen nicht zurückschicken können.",
-   "zeit": " / Teilzeit / Minijob",
-   "schicht": true,
-   "quer": false,
-   "who": "mykyta",
-   "km": 12.2,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-17T10:04",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 39,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 13,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:12",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:12",
-        "min": 13
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 39
-     },
-     {
-      "kind": "велосипед",
-      "min": 75,
-      "changes": 0,
-      "km": 18.1,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 75
-       }
-      ],
-      "risky": false,
-      "score": 130
-     }
-    ],
-    "best": "транспорт",
-    "min": 39,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
    "id": "marina:ka_3489330352",
    "src": "Kleinanzeigen",
    "title": "Helfer Produktion (m/w/d) in 2-3 Schicht (29138297)",
@@ -59848,9 +61377,7 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-0dfd23ea78335d24-S"
-   ],
+   "also_urls": [],
    "person": "mykyta"
   },
   {
@@ -89571,248 +91098,6 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_12513-0007660696-S",
-   "src": "Jobbörse",
-   "title": "Kurzbewerbung für die Produktion",
-   "firma": "WeberHaus GmbH & Co. KG",
-   "ort": "Rheinau",
-   "street": "",
-   "lat": 48.6552076,
-   "lon": 7.9357109,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007660696-S",
-   "posted": "2026-10-29",
-   "desc": "WIR BRAUCHEN SIE! KURZBEWERBUNG FÜR DIE PRODUKTION IHRE AUFGABEN Wer Häuser bauen will, die bei Qualität und Nachhaltigkeit Standards setzen, braucht die besten Mitarbeiterinnen und Mitarbeiter. Vom Zimmerer über den Anlagenmechaniker SHK bis zum Klempner und Maler suchen wir motivierte Handwerker (m/w/d), die bereit sind, jedes WeberHaus so vorzufertigen, als wäre es ihr eigenes. Die Kombination aus hochmoderner Fertigungstechnik und traditioneller Handwerkskunst garantiert Wertigkeit, Qualität und Sicherheit. Dazu können Sie künftig mit Ihrem Engagement, Ihrem Können und Ihrer Kreativität beitragen. Werden Sie Teil des WeberHaus-Teams! Sie wollen eine/-r von uns werden? Wir machen es Ihnen ganz einfach: Folgende Fragen jetzt online beantworten und einfach abschicken. Schon ist Ihre Kurzbewerbung bei uns. Wir melden uns bald bei Ihnen. IHR PROFIL Wir suchen Handwerker (m/w/d), die * eine einschlägige Berufsausbildung haben * ihren Job lieben und darin richtig gut sind * hochmotiviert sind, als Teil des \"Team WeberHaus\" mit uns die Zukunft zu bauen * die Freude in den Augen der Bauherren sehen * und Teil eines starken Teams sein wollen. IHRE VORTEILE * Mitarbeiterbeteiligung am Unternehmenserfolg * Betriebliche Altersvorsorge * Attraktive Konditionen beim Bau eines Weber-Hauses * Gesundheitsfreundliche und sichere Arbeitsplätze * Betriebliches Gesundheitsmanagement * Ideenmanagement zur Einbindung bei Entscheidungen * Bike-Leasing * ...und vieles mehr! Sollten Sie Rückfragen zur Position oder zum Unternehmen haben stehen wir Ihnen unter den folgenden Kontaktdaten gerne zur Verfügung: Daniel Donnerstag Daniel.Donnerstag@weberhaus.de +49 7853 837103 DAS KLINGT SPANNEND ? DANN SOLLTEN WIR UNS UNBEDINGT KENNENLERNEN ! Jetzt bewerben [https://recruitingapp-5639.de.umantis.com/Vacancies/367/Application/CheckLogin/1] Über WhatsApp bewerben [https://weberhaus.pitchyou.de/go/367?jkey=PRODUCTION&title=Kurzbewerbung%20f%C3%BCr%20die%20Produktion] WEBERHAUS GMBH & CO. KG AM ERLENPARK 1 77866 RHEINAU-LINX",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 17.4,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 105,
-      "changes": 1,
-      "min_wait": 18,
-      "walk_end": 24,
-      "end_stop": "Freistett Busbahnhof",
-      "dep": "06:25",
-      "arr": "08:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 18,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Freistett Busbahnhof",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "08:10",
-        "min": 24
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 108
-     },
-     {
-      "kind": "как в приложении",
-      "min": 89,
-      "changes": 3,
-      "min_wait": 2,
-      "walk_end": 11,
-      "end_stop": "Rheinbischofsheim Kath.Kirche",
-      "dep": "06:32",
-      "arr": "08:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 4,
-        "min": 30
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "403",
-        "from": "Freistett Busbahnhof",
-        "to": "Rheinbischofsheim Kath.Kirche",
-        "dep": "07:48",
-        "arr": "07:51",
-        "wait": 2,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Rheinbischofsheim Kath.Kirche",
-        "to": "работа",
-        "dep": "07:51",
-        "arr": "08:01",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 110
-     },
-     {
-      "kind": "велосипед",
-      "min": 89,
-      "changes": 0,
-      "km": 21.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 89
-       }
-      ],
-      "risky": false,
-      "score": 158
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 299,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 273,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:20",
-        "min": 273
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 299
-     }
-    ],
-    "best": "транспорт",
-    "min": 105,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007663466-S"
-   ],
-   "person": "mykyta"
-  },
-  {
    "id": "mykyta:ba_10001-1002647323-S",
    "src": "Jobbörse",
    "title": "Mitarbeiter für die Produktion von Transformatoren (m/w/d)",
@@ -97788,167 +99073,6 @@
     ],
     "best": "велосипед",
     "min": 134,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_10001-1003914513-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter (m/w/d) für unsere Brillenmanufaktur",
-   "firma": "PM Frost GmbH",
-   "ort": "Sasbach bei Achern",
-   "street": "Mättich 29a",
-   "lat": 48.6464164,
-   "lon": 8.0894752,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003914513-S",
-   "posted": "2026-10-26",
-   "desc": "# Mitarbeiter (m/w/d) für unsere Brillenmanufaktur ### Fertigung · Qualitätskontrolle · Kommissionierung · Verpackung **Made in the Black Forest. Worn around the world.** Seit über 30 Jahren steht frost eyewear für außergewöhnliches Design, handwerkliche Präzision und den Mut, Brillen anders zu denken. Was in Sasbach im Schwarzwald entsteht, findet seinen Weg zu ausgewählten Augenoptikern und Brillenliebhabern in vielen Ländern der Welt. Unsere Kollektionen sind international – unsere Wurzeln, unsere Entwicklung und ein großer Teil unserer Fertigung sind es ganz bewusst nicht. Denn bei frost entsteht eine Brille nicht einfach am Fließband. Viele Arbeitsschritte werden bei uns in der Manufaktur von Hand ausgeführt – mit Sorgfalt, Erfahrung und viel Liebe zum Detail. Genau dafür suchen wir Verstärkung. Du musst dafür keinen bestimmten Beruf gelernt haben. Viel wichtiger ist uns, dass du gerne sorgfältig arbeitest, ein gutes Gespür für Qualität hast und Freude daran findest, mit hochwertigen Produkten und kleinen Bauteilen umzugehen. ## Deine Aufgaben Du begleitest unsere Brillen und ihre einzelnen Komponenten auf ihrem Weg durch die Manufaktur bis hin zum Versand an unsere Kunden weltweit. Zu deinen Aufgaben gehören unter anderem: - Qualitätskontrolle von Brillenfassungen, Bauteilen und zugelieferten Komponenten - Reinigen und Vorbereiten von Fertigungsteilen - sorgfältiges Kommissionieren von Kundenaufträgen - Prüfen der Ware auf Vollständigkeit und einwandfreie Qualität - hochwertiges und sorgfältiges Verpacken unserer Brillen und Bestellungen - Zusammenstellen von Muster- und Vertriebskollektionen - Unterstützung bei weiteren handwerklichen Tätigkeiten innerhalb unserer Brillenmanufaktur Dabei geht es nicht um schwere Lagerarbeit oder industrielle Massenfertigung. Du arbeitest mit kleinen, hochwertigen Produkten, bei denen Genauigkeit, Sauberkeit und ein gutes Auge wichtiger sind als Geschwindigkeit und Stückzahlen. ## Das bringst du mit Eine bestimmte Berufsausbildung ist für uns nicht entscheidend. Vielleicht kommst du aus dem Handwerk, der Produktion, dem Einzelhandel oder einem ganz anderen Bereich. Auch Quereinsteigerinnen und Quereinsteiger sind bei uns ausdrücklich willkommen. Wichtig ist uns vor allem: - Freude an sorgfältiger und präziser Arbeit - Fingerspitzengefühl und ein gutes Auge für Details - ein hohes Qualitätsbewusstsein - Zuverlässigkeit und eine strukturierte Arbeitsweise - ein verantwortungsvoller Umgang mit hochwertigen Produkten - Teamgeist, Eigeninitiative und die Bereitschaft, mitzudenken Du siehst Details, die andere vielleicht übersehen, und gibst dich nicht mit „passt schon“ zufrieden. Genau das passt zu uns. ## Warum frost? Weil bei uns **Design, Handwerk und Internationalität** jeden Tag zusammenkommen. Wir sind kein anonymer Industriebetrieb und kein großes Logistikzentrum. Wir sind eine unabhängige Brillenmanufaktur mit einem kleinen, persönlichen Team, kurzen Wegen und direkter Kommunikation. Die Brille, die du heute kontrollierst, reinigst, kommissionierst oder für den Versand vorbereitest, kann wenige Tage später bei einem Optiker in Paris, New York, Toronto, Sydney oder Tokio liegen. Genau das macht unsere Arbeit besonders. Bei uns zählt nicht nur, **was** du machst, sondern auch **wie** du es machst: mit Sorgfalt, Verantwortungsbewusstsein und Freude an einem außergewöhnlichen Produkt. Und genau diese Mischung aus **Schwarzwald und Welt, Manufaktur und Design, Präzision und Persönlichkeit** ist frost. ## Lust, Teil davon zu werden? Dann freuen wir uns darauf, dich kennenzulernen. Schick uns deine Bewerbung mit deinem möglichen Eintrittstermin und deiner Gehaltsvorstellung. Ein Lebenslauf hilft uns, deinen bisherigen Weg kennenzulernen. Noch wichtiger sind uns aber ein paar persönliche Zeilen darüber, wer du bist, was dich antreibt und warum du glaubst, dass frost und du gut zusammenpassen. ## Dein Ansprechpartner Paris Frost [p.frost@pm-frost.de](https://mailto:p.frost@pm-frost.de) +49 7841 6031-0 **PM Frost GmbH – frost eyewear** Mättich 29A 77880 Sasbach",
-   "zeit": "Vollzeit / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "mykyta",
-   "km": 12.7,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Склад / логистика",
-   "first_seen": "2026-11-15T20:24",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 51,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 21,
-      "end_stop": "Sasbach Heimschule Lender",
-      "dep": "07:42",
-      "arr": "08:33",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Sasbach Heimschule Lender",
-        "to": "работа",
-        "dep": "08:13",
-        "arr": "08:33",
-        "min": 21
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "как в приложении",
-      "min": 53,
-      "changes": 1,
-      "min_wait": 7,
-      "walk_end": 14,
-      "end_stop": "Sasbach Ochsen",
-      "dep": "07:42",
-      "arr": "08:35",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7135",
-        "from": "Sasbach Heimschule Lender",
-        "to": "Sasbach Ochsen",
-        "dep": "08:20",
-        "arr": "08:22",
-        "wait": 7,
-        "min": 2
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Sasbach Ochsen",
-        "to": "работа",
-        "dep": "08:22",
-        "arr": "08:35",
-        "min": 14
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "велосипед",
-      "min": 64,
-      "changes": 0,
-      "km": 15.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 64
-       }
-      ],
-      "risky": false,
-      "score": 108
-     }
-    ],
-    "best": "транспорт",
-    "min": 51,
     "changes": 0
    },
    "status": "open",
@@ -108577,7 +109701,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/montagehelfer-m-w-d-in-2-3-schicht-29144956-/3561081501-111-8047"
+   ],
    "person": "mykyta"
   },
   {
@@ -131328,110 +132454,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_16334-n3kqc8eho68nwvq8ne-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d)",
-   "firma": "Hotel Adlerbad OHG",
-   "ort": "Bad Peterstal-Griesbach",
-   "street": "",
-   "lat": 48.4381434,
-   "lon": 8.2196769,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16334-n3kqc8eho68nwvq8ne-S",
-   "posted": "2026-10-27",
-   "desc": "Über uns Herzlich Willkommen im Häfners FlairHotel Adlerbad in der Nationalparkregion Schwarzwlad Das Häfners FlairHotel Adlerbad im Schwarzwald ist ein familiengeführtes Ferienhotel mit 44 Betten und 3 Restaurants. Ein Lächeln, ein paar nette Worte und das Gefühl bei uns im Adlerbad angekommen zu sein .... Ganz nach dem Motto unserer Küche: \"Schmeck den Schwarzwald\" kochen wir mit frischen, saisonalen, regionalen Produkten. Die Gäste schätzen das umfangreiche Frühstücksbüffet, das abwechslungsreiche 5 GAng Abend Menu und unser à la carte Angebot. Für Gruppen bis 40 Personen bieten wir Bankettservice an. Als familiengeführtes Hotel wissen wir, wie wichtig es motiviertes Team ist. Wir sind stolz auf unsere Mitarbeiter, die mit Herz und Leidenschaft täglich für das Wohl der Gäste sorgen. Werde Teil unseres Teams und leiste deinen Anteil daran, dass unsere Gäste sich bei uns wie zu Hause fühlen. Wir freuen uns auf dich! Das bieten wir dir: Deine Vorteile bei uns: * ein familiäres Miteinander – geprägt durch Respekt und Anerkennung * 4 / 5 oder 6 Tage Woche – Vollzeit / Teilzeit oder Mini-Job ist möglich * familienfreundliche Teilzeitmodelle – an deine Lebenssituation angepasst * rotierendes Frei an Sonn- und Feiertagen * übertarifliche, leistungsgerechte Bezahlung * Sonntags- und Feiertagszuschläge, Weihnachtsgeld * Fahrtkostenzuschuss oder Tankgutschein * plus und minus Stunden werden in einem Stundenkonto dokumentiert – in Freizeit vergütet oder ausbezahlt * Verpflegung zu vergünstigten Mitarbeiterkonditionen * vergünstigte Übernachtungen zu preiswerten Mitarbeiterkonditionen in allen 40 Flair Hotels Das könnten bald deine Aufgaben sein: Deine Aufgaben: * du liebst es die Gästezimmer herzurichten * du achtest auf Kleinigkeiten * du pflegst die Restauant- und Nebenräume * mit Liebe versorgst du die Balkonblumen Das solltest du mitbringen: Was dich ausmacht: * Erfahrung im Bereich Housekeeping oder auch Quereinsteiger * du hast Spaß an der Arbeit – mit Herz und Leidenschaft * du bist freundlich und zuvorkommend * für dich ist rotierendes Frei am Wochenende und an Feiertagen kein Problem * Einsatzbereitschaft gehört zu deinen Eigenschaften * einfache Deutschkenntnisse sind von Vorteil",
-   "zeit": "",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 14.5,
-   "de": "немного",
-   "de_txt": "einfache Deutschkenntnisse sind von Vorteil",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 40,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 6,
-      "end_stop": "Bad Peterstal Mülben",
-      "dep": "12:12",
-      "arr": "12:52",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "12:12",
-        "arr": "12:19",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Bad Peterstal Mülben",
-        "dep": "12:19",
-        "arr": "12:46",
-        "wait": null,
-        "min": 27
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bad Peterstal Mülben",
-        "to": "работа",
-        "dep": "12:46",
-        "arr": "12:52",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 40
-     },
-     {
-      "kind": "велосипед",
-      "min": 83,
-      "changes": 0,
-      "km": 20.2,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 83
-       }
-      ],
-      "risky": false,
-      "score": 146
-     }
-    ],
-    "best": "транспорт",
-    "min": 40,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10001-1001630033-S",
    "src": "Jobbörse",
    "title": "Reinigungskraft",
@@ -136169,191 +137191,6 @@
    "ru": "",
    "status": "open",
    "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_12518-CTJ1ID-4A5-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter (m/w/d) in der Morgenreinigung",
-   "firma": "Hotel Bareiss",
-   "ort": "Baiersbronn",
-   "street": "",
-   "lat": 48.54634,
-   "lon": 8.3518841,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CTJ1ID-4A5-S",
-   "posted": "2026-11-01",
-   "desc": "Das Hotel Bareiss im Schwarzwald ist eines der führenden Ferienhotels in Deutschland und Mitteleuropa. Von Anfang an ein Privathotel, wird das Bareiss auch heute noch sehr persönlich von Familie Bareiss geführt. Exzellente Gastfreundlichkeit verbinden wir mit einer herausragenden Gastronomie (3 * im Guide Michelin und 19 Pkt. im Gault Millau für Restaurant Bareiss) und mit Mitgliedschaften in erstklassigen Hotelverbänden (5*S im Dehoga, Mitglied bei Relais & Chateaux). Das Hotel Bareiss im Schwarzwald ist das am persönlichsten, privat geführte Ferienhotel der Spitzenklasse in Europa. Es steht für exzellente Gastfreundlichkeit und herausragende Gastronomie. Im Bareiss-Team erwartet Sie eine ganz besondere Atmosphäre. Ein Bareissianer zu sein - das ist jeden Tag Leidenschaft, Freude und Gastfreundschaft auf höchstem Niveau.Zur Bereicherung unseres Teams suchen wir Sie als Wir bieten: herzliche und individuelle Betreuung vom ersten Kontakt an fachliche und persönliche Weiterentwicklung in unserer Bareiss Akademie regelmäßige Feedback- und Entwicklungsgespräche mit Karriereplanung faire Konditionen: Gehalt mind. nach Tarif, E-Bike-Leasing und Geschäftswagen als Gehaltsumwandlung, Ticket-Plus-Karte, betriebl. Altersversorgung Vollverpflegung in unserem Mitarbeiterrestaurant \"Casino\" Mitarbeiterwohnungen und Unterstützung bei der Wohnungssuche Familienfreundliche Teilzeitmodelle möglich Kostenloses Mitarbeiter-Fitnessstudio (24/7) in unserer Akademie, Nutzung der hoteleigenen Freizeitanlagen (Schwimmbad, E-Bikes, Tennisplatz) \"Bareiss Card\" mit vielen Vorteilen und Vergünstigungen Mitglied bei \"Relais & Chateaux\"-und \"Fairjob\" mit vergünstigten Übernachtungen zu preiswerten Mitarbeiter-Konditionen attraktive Lage am Rande des Nationalparks Nordschwarzwald und den badischen Weinanbaugebieten; Schnelle Erreichbarkeit innerhalb von 1-2 Stunden von Baden-Baden, Karlsruhe, Stuttgart, Freiburg und Strasbourg. Ihre Aufgaben: Ihre Arbeitszeit beginnt in den frühen Morgenstunden (ca. 4:30 Uhr) und endet zur Mittagszeit. Dabei sind wir flexibel und finden gemeinsam mit Ihnen eine passende Lösung. Reinigung aller öffentlichen Bereiche unseres Hotels, einschließlich Restaurants, Bar, Lobby, Hintergrundbereiche und Kinderhäuser Gründliche Säuberung der Böden, Sanitäranlagen und Glasflächen Ordnungsgemäße Nutzung und Pflege der Reinigungsgeräte und -mittel Sicherstellung der Einhaltung von Hygiene- und Qualitätsstandards Ihr Profil: Sie bringen Schwung und Freude an der Arbeit mit Sie sind flexibel, engagiert und belastbar Sie stehen auch an den Wochenenden und Feiertagen zur Verfügung Sie suchen einen sicheren und abwechslungsreichen Arbeitsplatz Freundliches und offenes Auftreten sowie Kontaktfreudigkeit gehören zu Ihren Eigenschaften Wir freuen uns über die Zusendung Ihrer Bewerbungsunterlagen. Hotel Bareiss im Schwarzwald 72270 Baiersbronn-Mitteltal, Deutschland Telefon: 07442-47-347 Telefax: 07442-47-330 Internet: www.bareiss.com/bareissianer Ansprechpartner: Claire Bauer & Tanja Broegger Position/Abteilung: Mitarbeiterbüro",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 19.8,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 138,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 16,
-      "end_stop": "Tonbach Traube/Tanne",
-      "dep": "16:12",
-      "arr": "18:30",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Bismarckstraße",
-        "dep": "16:12",
-        "arr": "16:19",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7137",
-        "from": "Oberkirch Bismarckstraße",
-        "to": "Oppenau",
-        "dep": "16:19",
-        "arr": "16:32",
-        "wait": null,
-        "min": 13
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "425",
-        "from": "Oppenau",
-        "to": "Ruhestein",
-        "dep": "16:38",
-        "arr": "17:15",
-        "wait": 6,
-        "min": 37
-       },
-       {
-        "walk": false,
-        "mode": "Nationalparklinie",
-        "line": "200",
-        "from": "Ruhestein",
-        "to": "Baiersbronn Wilh.-Münster-Pl.",
-        "dep": "17:32",
-        "arr": "17:53",
-        "wait": 17,
-        "min": 21
-       },
-       {
-        "walk": false,
-        "mode": "Freizeitbus",
-        "line": "F 16",
-        "from": "Baiersbronn Wilh.-Münster-Pl.",
-        "to": "Tonbach Traube/Tanne",
-        "dep": "18:06",
-        "arr": "18:15",
-        "wait": 13,
-        "min": 9
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Tonbach Traube/Tanne",
-        "to": "работа",
-        "dep": "18:15",
-        "arr": "18:30",
-        "min": 16
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 147
-     },
-     {
-      "kind": "велосипед",
-      "min": 140,
-      "changes": 0,
-      "km": 34.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 140
-       }
-      ],
-      "risky": false,
-      "score": 260
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 635,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 609,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "15:56",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "15:56",
-        "min": 609
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 635
-     }
-    ],
-    "best": "транспорт",
-    "min": 138,
-    "changes": 3
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CTJ1ID-BRC-S"
-   ],
    "person": "Марина"
   },
   {
@@ -147225,248 +148062,6 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14527-k61529.1835-S"
-   ],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_12513-0007660696-S",
-   "src": "Jobbörse",
-   "title": "Kurzbewerbung für die Produktion",
-   "firma": "WeberHaus GmbH & Co. KG",
-   "ort": "Rheinau",
-   "street": "",
-   "lat": 48.6552076,
-   "lon": 7.9357109,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007660696-S",
-   "posted": "2026-10-29",
-   "desc": "WIR BRAUCHEN SIE! KURZBEWERBUNG FÜR DIE PRODUKTION IHRE AUFGABEN Wer Häuser bauen will, die bei Qualität und Nachhaltigkeit Standards setzen, braucht die besten Mitarbeiterinnen und Mitarbeiter. Vom Zimmerer über den Anlagenmechaniker SHK bis zum Klempner und Maler suchen wir motivierte Handwerker (m/w/d), die bereit sind, jedes WeberHaus so vorzufertigen, als wäre es ihr eigenes. Die Kombination aus hochmoderner Fertigungstechnik und traditioneller Handwerkskunst garantiert Wertigkeit, Qualität und Sicherheit. Dazu können Sie künftig mit Ihrem Engagement, Ihrem Können und Ihrer Kreativität beitragen. Werden Sie Teil des WeberHaus-Teams! Sie wollen eine/-r von uns werden? Wir machen es Ihnen ganz einfach: Folgende Fragen jetzt online beantworten und einfach abschicken. Schon ist Ihre Kurzbewerbung bei uns. Wir melden uns bald bei Ihnen. IHR PROFIL Wir suchen Handwerker (m/w/d), die * eine einschlägige Berufsausbildung haben * ihren Job lieben und darin richtig gut sind * hochmotiviert sind, als Teil des \"Team WeberHaus\" mit uns die Zukunft zu bauen * die Freude in den Augen der Bauherren sehen * und Teil eines starken Teams sein wollen. IHRE VORTEILE * Mitarbeiterbeteiligung am Unternehmenserfolg * Betriebliche Altersvorsorge * Attraktive Konditionen beim Bau eines Weber-Hauses * Gesundheitsfreundliche und sichere Arbeitsplätze * Betriebliches Gesundheitsmanagement * Ideenmanagement zur Einbindung bei Entscheidungen * Bike-Leasing * ...und vieles mehr! Sollten Sie Rückfragen zur Position oder zum Unternehmen haben stehen wir Ihnen unter den folgenden Kontaktdaten gerne zur Verfügung: Daniel Donnerstag Daniel.Donnerstag@weberhaus.de +49 7853 837103 DAS KLINGT SPANNEND ? DANN SOLLTEN WIR UNS UNBEDINGT KENNENLERNEN ! Jetzt bewerben [https://recruitingapp-5639.de.umantis.com/Vacancies/367/Application/CheckLogin/1] Über WhatsApp bewerben [https://weberhaus.pitchyou.de/go/367?jkey=PRODUCTION&title=Kurzbewerbung%20f%C3%BCr%20die%20Produktion] WEBERHAUS GMBH & CO. KG AM ERLENPARK 1 77866 RHEINAU-LINX",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 17.4,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Производство",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 105,
-      "changes": 1,
-      "min_wait": 18,
-      "walk_end": 24,
-      "end_stop": "Freistett Busbahnhof",
-      "dep": "06:25",
-      "arr": "08:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 18,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Freistett Busbahnhof",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "08:10",
-        "min": 24
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 108
-     },
-     {
-      "kind": "как в приложении",
-      "min": 89,
-      "changes": 3,
-      "min_wait": 2,
-      "walk_end": 11,
-      "end_stop": "Rheinbischofsheim Kath.Kirche",
-      "dep": "06:32",
-      "arr": "08:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 4,
-        "min": 30
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "403",
-        "from": "Freistett Busbahnhof",
-        "to": "Rheinbischofsheim Kath.Kirche",
-        "dep": "07:48",
-        "arr": "07:51",
-        "wait": 2,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Rheinbischofsheim Kath.Kirche",
-        "to": "работа",
-        "dep": "07:51",
-        "arr": "08:01",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 110
-     },
-     {
-      "kind": "велосипед",
-      "min": 89,
-      "changes": 0,
-      "km": 21.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 89
-       }
-      ],
-      "risky": false,
-      "score": 158
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 299,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 273,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:20",
-        "min": 273
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 299
-     }
-    ],
-    "best": "транспорт",
-    "min": 105,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007663466-S"
    ],
    "person": "Марина"
   },
@@ -161145,167 +161740,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1003914513-S",
-   "src": "Jobbörse",
-   "title": "Mitarbeiter (m/w/d) für unsere Brillenmanufaktur",
-   "firma": "PM Frost GmbH",
-   "ort": "Sasbach bei Achern",
-   "street": "Mättich 29a",
-   "lat": 48.6464164,
-   "lon": 8.0894752,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003914513-S",
-   "posted": "2026-10-26",
-   "desc": "# Mitarbeiter (m/w/d) für unsere Brillenmanufaktur ### Fertigung · Qualitätskontrolle · Kommissionierung · Verpackung **Made in the Black Forest. Worn around the world.** Seit über 30 Jahren steht frost eyewear für außergewöhnliches Design, handwerkliche Präzision und den Mut, Brillen anders zu denken. Was in Sasbach im Schwarzwald entsteht, findet seinen Weg zu ausgewählten Augenoptikern und Brillenliebhabern in vielen Ländern der Welt. Unsere Kollektionen sind international – unsere Wurzeln, unsere Entwicklung und ein großer Teil unserer Fertigung sind es ganz bewusst nicht. Denn bei frost entsteht eine Brille nicht einfach am Fließband. Viele Arbeitsschritte werden bei uns in der Manufaktur von Hand ausgeführt – mit Sorgfalt, Erfahrung und viel Liebe zum Detail. Genau dafür suchen wir Verstärkung. Du musst dafür keinen bestimmten Beruf gelernt haben. Viel wichtiger ist uns, dass du gerne sorgfältig arbeitest, ein gutes Gespür für Qualität hast und Freude daran findest, mit hochwertigen Produkten und kleinen Bauteilen umzugehen. ## Deine Aufgaben Du begleitest unsere Brillen und ihre einzelnen Komponenten auf ihrem Weg durch die Manufaktur bis hin zum Versand an unsere Kunden weltweit. Zu deinen Aufgaben gehören unter anderem: - Qualitätskontrolle von Brillenfassungen, Bauteilen und zugelieferten Komponenten - Reinigen und Vorbereiten von Fertigungsteilen - sorgfältiges Kommissionieren von Kundenaufträgen - Prüfen der Ware auf Vollständigkeit und einwandfreie Qualität - hochwertiges und sorgfältiges Verpacken unserer Brillen und Bestellungen - Zusammenstellen von Muster- und Vertriebskollektionen - Unterstützung bei weiteren handwerklichen Tätigkeiten innerhalb unserer Brillenmanufaktur Dabei geht es nicht um schwere Lagerarbeit oder industrielle Massenfertigung. Du arbeitest mit kleinen, hochwertigen Produkten, bei denen Genauigkeit, Sauberkeit und ein gutes Auge wichtiger sind als Geschwindigkeit und Stückzahlen. ## Das bringst du mit Eine bestimmte Berufsausbildung ist für uns nicht entscheidend. Vielleicht kommst du aus dem Handwerk, der Produktion, dem Einzelhandel oder einem ganz anderen Bereich. Auch Quereinsteigerinnen und Quereinsteiger sind bei uns ausdrücklich willkommen. Wichtig ist uns vor allem: - Freude an sorgfältiger und präziser Arbeit - Fingerspitzengefühl und ein gutes Auge für Details - ein hohes Qualitätsbewusstsein - Zuverlässigkeit und eine strukturierte Arbeitsweise - ein verantwortungsvoller Umgang mit hochwertigen Produkten - Teamgeist, Eigeninitiative und die Bereitschaft, mitzudenken Du siehst Details, die andere vielleicht übersehen, und gibst dich nicht mit „passt schon“ zufrieden. Genau das passt zu uns. ## Warum frost? Weil bei uns **Design, Handwerk und Internationalität** jeden Tag zusammenkommen. Wir sind kein anonymer Industriebetrieb und kein großes Logistikzentrum. Wir sind eine unabhängige Brillenmanufaktur mit einem kleinen, persönlichen Team, kurzen Wegen und direkter Kommunikation. Die Brille, die du heute kontrollierst, reinigst, kommissionierst oder für den Versand vorbereitest, kann wenige Tage später bei einem Optiker in Paris, New York, Toronto, Sydney oder Tokio liegen. Genau das macht unsere Arbeit besonders. Bei uns zählt nicht nur, **was** du machst, sondern auch **wie** du es machst: mit Sorgfalt, Verantwortungsbewusstsein und Freude an einem außergewöhnlichen Produkt. Und genau diese Mischung aus **Schwarzwald und Welt, Manufaktur und Design, Präzision und Persönlichkeit** ist frost. ## Lust, Teil davon zu werden? Dann freuen wir uns darauf, dich kennenzulernen. Schick uns deine Bewerbung mit deinem möglichen Eintrittstermin und deiner Gehaltsvorstellung. Ein Lebenslauf hilft uns, deinen bisherigen Weg kennenzulernen. Noch wichtiger sind uns aber ein paar persönliche Zeilen darüber, wer du bist, was dich antreibt und warum du glaubst, dass frost und du gut zusammenpassen. ## Dein Ansprechpartner Paris Frost [p.frost@pm-frost.de](https://mailto:p.frost@pm-frost.de) +49 7841 6031-0 **PM Frost GmbH – frost eyewear** Mättich 29A 77880 Sasbach",
-   "zeit": "Vollzeit / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 12.7,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Склад",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 51,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 21,
-      "end_stop": "Sasbach Heimschule Lender",
-      "dep": "07:42",
-      "arr": "08:33",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Sasbach Heimschule Lender",
-        "to": "работа",
-        "dep": "08:13",
-        "arr": "08:33",
-        "min": 21
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 51
-     },
-     {
-      "kind": "как в приложении",
-      "min": 53,
-      "changes": 1,
-      "min_wait": 7,
-      "walk_end": 14,
-      "end_stop": "Sasbach Ochsen",
-      "dep": "07:42",
-      "arr": "08:35",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "07:42",
-        "arr": "07:50",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Sasbach Heimschule Lender",
-        "dep": "07:50",
-        "arr": "08:13",
-        "wait": null,
-        "min": 23
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7135",
-        "from": "Sasbach Heimschule Lender",
-        "to": "Sasbach Ochsen",
-        "dep": "08:20",
-        "arr": "08:22",
-        "wait": 7,
-        "min": 2
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Sasbach Ochsen",
-        "to": "работа",
-        "dep": "08:22",
-        "arr": "08:35",
-        "min": 14
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 56
-     },
-     {
-      "kind": "велосипед",
-      "min": 64,
-      "changes": 0,
-      "km": 15.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 64
-       }
-      ],
-      "risky": false,
-      "score": 108
-     }
-    ],
-    "best": "транспорт",
-    "min": 51,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10000-1207203780-S",
    "src": "Jobbörse",
    "title": "Zimmermädchen/Roomboy (M/W/D)",
@@ -165379,248 +165813,6 @@
    "ru": "",
    "status": "open",
    "also_urls": [],
-   "person": "Алексей"
-  },
-  {
-   "id": "alexey:ba_12513-0007660678-S",
-   "src": "Jobbörse",
-   "title": "Pflegegärtner (m/w/d) – Garten- und Landschaftsbau",
-   "firma": "WeberHaus GmbH & Co. KG",
-   "ort": "Rheinau",
-   "street": "",
-   "lat": 48.6552076,
-   "lon": 7.9357109,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007660678-S",
-   "posted": "2026-10-29",
-   "desc": "WIR BRAUCHEN SIE! PFLEGEGÄRTNER (M/W/D) - GARTEN- UND LANDSCHAFTSBAU IHRE AUFGABEN * Fachgerechte Pflege und Unterhaltung von Privatgärten, Gewerbe- und Außenanlagen * Rückschnitt von Gehölzen, Stauden und Hecken sowie Düngung und Unkrautbeseitigung * Rasenpflege (Mähen, Vertikutieren, Nachsaat, Bewässerung) * Durchführung von Maßnahmen im Bereich Pflanzenschutz sowie einfache Baumpflegearbeiten * Reinigung und Pflege von Wegen, Terrassen und sonstigen Außenanlagen * Unterstützung bei Tätigkeiten im Facility Management (z. B. kleinere Reparaturen, Instandhaltungsarbeiten) IHR PROFIL * Abgeschlossene Ausbildung als Gärtner (m/w/d), idealerweise im Garten- und Landschaftsbau, alternativ Baumschule oder Staudengärtnerei * Gute Pflanzenkenntnisse und ein ausgeprägtes Qualitätsbewusstsein * Technisches Verständnis und handwerkliches Geschick zur Übernahme ergänzender Facility-Management-Tätigkeiten * Führerschein Klasse B, idealerweise BE * Freundliches Auftreten sowie Freude am Umgang mit Kunden IHRE VORTEILE * Mitarbeiterbeteiligung am Unternehmenserfolg * Betriebliche Altersvorsorge * Attraktive Konditionen beim Bau eines Weber-Hauses * Gesundheitsfreundliche und sichere Arbeitsplätze * Betriebliches Gesundheitsmanagement * Ideenmanagement zur Einbindung bei Entscheidungen * Bike-Leasing * ...und vieles mehr! Sollten Sie Rückfragen zur Position oder zum Unternehmen haben stehen wir Ihnen unter den folgenden Kontaktdaten gerne zur Verfügung: Clarissa Malerczyk clarissa.malerczyk@weberhaus.de +49 7853 83443 DAS KLINGT SPANNEND ? DANN SOLLTEN WIR UNS UNBEDINGT KENNENLERNEN ! Jetzt bewerben [https://recruitingapp-5639.de.umantis.com/Vacancies/698/Application/CheckLogin/1] WEBERHAUS GMBH & CO. KG AM ERLENPARK 1 77866 RHEINAU-LINX",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "alexey",
-   "km": 17.4,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Garten- & Landschaftsbau",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 105,
-      "changes": 1,
-      "min_wait": 18,
-      "walk_end": 24,
-      "end_stop": "Freistett Busbahnhof",
-      "dep": "06:25",
-      "arr": "08:10",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch Renchener Straße",
-        "dep": "06:25",
-        "arr": "06:33",
-        "min": 6
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7124",
-        "from": "Oberkirch Renchener Straße",
-        "to": "Achern",
-        "dep": "06:33",
-        "arr": "06:58",
-        "wait": null,
-        "min": 25
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 18,
-        "min": 30
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Freistett Busbahnhof",
-        "to": "работа",
-        "dep": "07:46",
-        "arr": "08:10",
-        "min": 24
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 108
-     },
-     {
-      "kind": "как в приложении",
-      "min": 89,
-      "changes": 3,
-      "min_wait": 2,
-      "walk_end": 11,
-      "end_stop": "Rheinbischofsheim Kath.Kirche",
-      "dep": "06:32",
-      "arr": "08:01",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Appenweier",
-        "dep": "06:43",
-        "arr": "06:52",
-        "wait": null,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE2",
-        "from": "Appenweier",
-        "to": "Achern",
-        "dep": "07:03",
-        "arr": "07:12",
-        "wait": 11,
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "405",
-        "from": "Achern",
-        "to": "Freistett Busbahnhof",
-        "dep": "07:16",
-        "arr": "07:46",
-        "wait": 4,
-        "min": 30
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "403",
-        "from": "Freistett Busbahnhof",
-        "to": "Rheinbischofsheim Kath.Kirche",
-        "dep": "07:48",
-        "arr": "07:51",
-        "wait": 2,
-        "min": 3
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Rheinbischofsheim Kath.Kirche",
-        "to": "работа",
-        "dep": "07:51",
-        "arr": "08:01",
-        "min": 11
-       }
-      ],
-      "full": true,
-      "risky": true,
-      "score": 110
-     },
-     {
-      "kind": "велосипед",
-      "min": 89,
-      "changes": 0,
-      "km": 21.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 89
-       }
-      ],
-      "risky": false,
-      "score": 158
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 299,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 273,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "10:20",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "10:20",
-        "min": 273
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 299
-     }
-    ],
-    "best": "транспорт",
-    "min": 105,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007663448-S"
-   ],
    "person": "Алексей"
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:20",
+ "generated": "2026-11-26T11:39",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 606,
+  "all": 605,
   "queue": 248,
-  "ai_focus": 317
+  "ai_focus": 315
  },
  "jobs": [
   {
@@ -7176,34 +7176,6 @@
    "description": "We are hiring an Intern (m/f/d) – AI-Driven Optimization to join our Generative 3D MODSIM R&D team. In this role, you will help shape the next generation of Generative Design technology within Dassault Systèmes. You will bridge cutting-edge AI techniques with finite element simulation and multiphysics optimization, driving innovation that redefines how engineers design the products of tomorrow. Starting date for the internship is 01st of April 2027 in Karlsruhe. Role Description And Responsibilities Research and develop AI/ML multi-fidelity approaches for non-parametric optimization processes (e.g., enabling the generation of highly detailed structures based on coarser finite element meshes). Participate in the development and implementation of structural optimization algorithms. Prototype and test implementation of algorithmic routines in a C++ and Python environment. Perform modeling within the context of the Finite Element Method (FEM). Investigate, evaluate, and test cutting-edge methods in the fast-moving field of AI and Machine Learning. Optionally, combine your internship with a subsequent Master's Thesis on advanced Generative Design topics. Qualifications Currently pursuing a Master's degree in Mechanical Engineering, Civil Engineering, Aerospace, Computational Engineering, or a related field. First practical or theoretical experience with CAE (Computer-Aided Engineering) and FEM. Initial experience with AI, Machine Learning, or related data science technologies is preferred. Solid understanding of structural mechanics, mathematics, and numerical methods. Programming skills in Python and/or C++ are advantageous. Strong fascination for simulation-based optimization and generative engineering. Self-motivated, goal-oriented mindset with high team spirit. Very good communication skills in English and German (both written and spoken). What’s In It For You Deep insights and practical hands-on training with industry-leading CAE solutions, including 3DEXPERIENCE MODSIM, Tosca Structure, Abaqus, fe-safe, and CATIA. Flexible working hours. Collaborative environment working alongside highly qualified, dedicated, and diverse engineering teams. Clear opportunities for professional development, including access to our 3DEXPERIENCE University and LinkedIn Learning programs. Additional benefits & perks (e.g., Urban Sports Club membership discounts, fresh fruit, drinks, and coffee at the office). Inclusion statement As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future."
   },
   {
-   "id": "ba_13644-314332-S",
-   "queue": false,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 4,
-   "ai_focus": true,
-   "type": "Junior",
-   "track": "KI / Automatisierung",
-   "title": "Junior Data Scientist für automatische Dienstplanung (m/w/d)",
-   "company": "Nesto Software",
-   "location": "Karlsruhe",
-   "distance_km": 58.5,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-314332-S",
-   "apply_url": "https://www.get-in-it.de/jobsuche/p314332?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-17T12:54",
-   "description": "## Diese Aufgaben erwarten Dich bei uns - Als Teil unseres Scheduling-Teams setzt Du neue Funktionen unseres automatischen Dienstplans in Python um und übernimmst Schritt für Schritt Verantwortung für einzelne Bausteine unserer Optimierungsmodelle. - Du formulierst und erweiterst lineare Optimierungsmodelle aus dem Operations Research und löst sie mit Gurobi. Dafür arbeitest Du mit Daten aus MongoDB und bringst Deine Lösungen über Tests, Reviews und CI/CD in Produktion. - Deine Arbeit landet direkt in den Dienstplänen unserer Kunden aus der Hospitality-Branche: Du hilfst mit, ihr Feedback zu verstehen und in bessere Pläne zu übersetzen. Gelegentlich stehst Du dabei auch direkt mit Kunden im Austausch. - Du entwickelst mit uns die lernenden Komponenten unseres Dienstplans weiter, probierst dabei eigene Ideen aus und arbeitest Dich in Ansätze ein, wie das Feedback der Nutzer laufend in die Optimierungsentscheidungen einfließen kann. Dabei begleiten Dich erfahrene Kolleginnen und Kollegen, mit denen Du Deine Lösungen regelmäßig reflektierst. ## Dein Hintergrund, der Dich auszeichnet - Du bringst einen quantitativen Hintergrund mit, etwa aus einem Studium der (Wirtschafts-)Mathematik, Informatik oder einem vergleichbaren Fach, und hast erste praktische Erfahrung aus Werkstudententätigkeit, Projekten oder Deiner Abschlussarbeit. - Du schreibst sauberen, gut strukturierten Python-Code, gehst sicher mit Zeitstempeln, Zeitintervallen und Zeitzonen um und hast bereits praktisch mit Operations Research bzw. Linear Programming gearbeitet: Du verstehst Zielfunktionen, Constraints und Zielkonflikte und kannst nachvollziehen, warum ein Modell ein bestimmtes Ergebnis liefert. - Idealerweise hast Du erste Erfahrung mit Machine Learning oder hast schon einmal Code in der Cloud, etwa auf AWS, deployt. - Qualität ist Dir wichtig: Du testest Deinen Code automatisiert, arbeitest mit Git und Code Reviews, sprichst technische Schulden offen an und teilst Dein Wissen im Team. Außerdem hast Du Lust, KI-gestützte Coding-Assistenten intensiv in Deinen Arbeitsalltag einzubinden. - Du gehst neugierig an neue Themen heran, stellst auch vermeintlich einfache Fragen und nimmst Feedback als Chance zum Lernen. Du diskutierst gerne in der Sache, bringst eigene Vorschläge aktiv ein, klärst Blockaden zügig mit dem Team und erklärst die Ergebnisse unserer Optimierung auch Menschen ohne technischen Hintergrund ruhig und verständlich. - Du verfügst über gute Deutsch- und Englischkenntnisse in Wort und Schrift. ## Du bist bei uns genau richtig, wenn … - Dich unsere Vorteile ansprechen: Freue Dich auf Vertrauensurlaub, flexibel gestaltbare Arbeitszeiten in einem modernen Bürogebäude sowie die Möglichkeit, mobil zu arbeiten. - Du eine Unternehmenskultur voller Vertrauen erleben willst: Wir ziehen alle an einem Strang und schenken uns gegenseitig einen Vertrauensvorschuss. Wir suchen nicht nach Fehlern, sondern nach Lösungen und feiern unsere Erfolge gegenseitig. - Du Teil unseres Geheimco"
-  },
-  {
    "id": "ba_13151-1654259-1-S",
    "queue": false,
    "missing_skills": [
@@ -10152,37 +10124,6 @@
    "description": "Aufgaben Tauche ein in die Welt von Data & AI und gestalte gemeinsam mit uns die digitale Zukunft! Du berätst unsere Kund:innen auf ihrem Weg zur datengetriebenen Organisation , teilst deine Begeisterung für Data Storytelling und hilfst ihnen, fundierte Entscheidungen zu treffen. Dabei arbeitest eng mit Ansprechpartner:innen und Entscheider:innen bis zum C-Level zusammen, um Ziele, Herausforderungen und Chancen zu erkennen. Du identifizierst spannende Data & AI Use Cases – von GenAI bis zu effizienzsteigernden Lösungen – und bringst sie auf den Weg. Geschäftsanforderungen übersetzt du in innovative Data & AI-Konzepte und arbeitest dabei Hand in Hand mit Architekt:innen und Data Engineers. Du entwickelst und realisierst Strategien – von der ersten Vision bis zum skalierbaren Betrieb – und sorgst dafür, dass alle Beteiligten immer auf dem Laufenden sind. Du setzt aktuelle Trends wie GenAI, Data Governance oder EU AI Act in konkrete Lösungen für unsere Kund:innen um und machst komplexe Themen verständlich und anwendbar. Mit deinen Ideen stärkst du das Team, teilst dein Wissen und gestaltest unsere Beratungsansätze aktiv mit. Benefits Buddy-Programm: Dein Buddy unterstützt dich beim Onboarding und hilft dir, dich schnell im Team und in unserer Unternehmenskultur zurechtzufinden. Hybrides Arbeiten: Eine individuell abgestimmte Mischung aus Remote Work, Büropräsenz und Einsätzen beim Kunden. Innovation & Vielfalt: Bundesweite, branchenübergreifende Projekte mit klarem Fokus auf Data & AI. Ausgezeichnetes Netzwerk: Mehrfache „Best Employer“-Auszeichnungen innerhalb des Reply-Netzwerks. Modernes Setup: Hochwertige Hardware nach Wahl sowie ein internationales, teamorientiertes Arbeitsumfeld mit flachen Hierarchien und starkem Teamzusammenhalt. Qualifikationen Abgeschlossenes Studium z. B. in Wirtschaft, (Wirtschafts-)Informatik, Data Science oder einem vergleichbaren Studiengang. Analytische und konzeptionelle Stärke sowie großes Interesse an Data & AI, digitalen Geschäftsmodellen und Transformation. Sehr gute Kommunikations- und Teamfähigkeit sowie Freude an der Arbeit mit Kund:innen und Stakeholdern. Begeisterung für Data & AI-Strategie , Use Case Discovery, Governance und digitale Transformation sowie das Verständnis, wie Data & AI Geschäftsziele unterstützen können. Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift. Nice to have: erste Consulting- oder Projekterfahrung, Kenntnisse in agilen Methoden, Data Visualization, Cloud-Technologien oder Programmierung (z. B. Python). When Data Calls, We Reply! Data Reply unterstützt als Teil der Reply Gruppe Kunden darin, datengetrieben zu arbeiten. Data Reply ist in verschiedenen Branchen und Geschäftsbereichen tätig und arbeitet intensiv mit Kunden zusammen, damit diese durch die effektive Nutzung von Daten aussagekräftige Ergebnisse erzielen können. Hierfür konzentriert sich Data Reply auf die Entwicklung von Data-Analytics-Plattformen, Machine-Learning-Lösungen und Streaming-Anwendungen – automa"
   },
   {
-   "id": "ba_13151-1654989-1-S",
-   "queue": false,
-   "missing_skills": [
-    "Java",
-    "C++"
-   ],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 2,
-   "ai_focus": true,
-   "type": "Praktikum",
-   "track": "KI / Automatisierung",
-   "title": "Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)",
-   "company": "Mercedes-Benz Group AG",
-   "location": "Stuttgart",
-   "distance_km": 78.5,
-   "remote": true,
-   "german_level": "C1+",
-   "german_quote": "Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654989-1-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-18T17:19",
-   "description": "Tätigkeitsbereich: IT/Telekommunikation Gesellschaft: Mercedes-Benz Tech Innovation GmbH Standort: Stuttgart Startdatum: 01.01.2027 Veröffentlichungsdatum: 2027-01-01 Stellennummer: V000080978 Aufgaben Welche Aufgaben erwarten dich? - Als Praktikant Software Engineering – AI Defect Analysis (m/w/d/x) unterstützt du das Team bei der Entwicklung eines innovativen Softwareprodukts zur KI-gestützten Fehleranalyse. - Du wirkst bei der Entwicklung und Weiterentwicklung moderner Web-UIs und nutzerorientierter Funktionen mit. - Zudem unterstützt du bei der Entwicklung REST-basierter Backend-Komponenten und arbeitest mit containerisierten Softwarearchitekturen. - Du unterstützt beim Aufbau und der Weiterentwicklung der Cloud-Infrastruktur auf Microsoft Azure, beispielsweise mithilfe von Infrastructure-as-Code. - Du entwickelst und erprobst KI-, LLM- und AI-Agent-basierte Lösungen zur Analyse und Automatisierung. - Darüber hinaus arbeitest du aktiv am gesamten Entwicklungsprozess mit – von der Idee über die Implementierung und das Testing bis hin zur Integration – und bringst deine eigenen Ideen ein. Qualifikationen Wie passt du in unser Team? Bereit, durchzustarten? Wenn du uns mit nachweislich hervorragenden Deutsch- und Englischkenntnissen überzeugst und deine vollständigen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Notenübersicht, Immatrikulationsbescheinigung sowie ggf. Aufenthaltsgenehmigung/Arbeitserlaubnis) vorliegen, bist du nur noch einen Klick von deiner Chance entfernt. Kleiner Tipp: Bei der Flut an Top-Bewerbungen, die wir bekommen, ist eine lückenlose Bewerbung dein einziges Ticket ins Spiel. Ohne das komplette Paket geht's für dich leider nicht weiter – no exceptions! - Du studierst Informatik, Software Engineering oder einen vergleichbaren Studiengang. - Du bringst Kenntnisse in Python, Java oder C++ sowie grundlegende Erfahrungen mit Git und Softwareentwicklungsprozessen mit. - Du interessierst dich für moderne Web- und UI-Entwicklung und hast idealerweise bereits erste praktische Erfahrungen in diesem Bereich gesammelt. - Du begeisterst dich für Cloud-Technologien wie Microsoft Azure, Infrastructure-as-Code oder REST-basierte Backend-Entwicklung. - Idealerweise bringst du erste Erfahrungen mit Generative AI, Large Language Models (LLMs) oder AI Agents mit. - Du arbeitest selbstständig, bist motiviert, Neues zu lernen, und bringst eine ausgeprägte Leidenschaft für Software und Technologie mit. Benefits - Barriere­frei­heit - Kantine, Café - Coaching - Mobilitäts­angebote - Mit­arbeiter Events - Mit­arbeiter­rabatte möglich - Mit­arbeiter­beteili­gung möglich - Mit­arbeiter­handy möglich - Essens­zulagen - Gesund­heits­maß­nahmen - Hybrides Arbeiten möglich - Lebens­langes Lernen - Betrieb­liche Alters­ver­sorgung - Park­platz - Gute An­bindung - Flexible Arbeits­zeit möglich Kontakt Gropiusplatz 10 70563 Stuttgart Wilhelm-Runge-Str. 11 89081 Ulm"
-  },
-  {
    "id": "li_4491796927",
    "queue": false,
    "missing_skills": [],
@@ -13105,6 +13046,34 @@
    "posted": "2026-10-17",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "an_werkstudentin-pr-marketingkommunikation-social-media-munich-10362",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "Online-Marketing",
+   "title": "Werkstudent:in PR, Marketingkommunikation & Social Media (m/w/d)",
+   "company": "nanacom Kommunikationskollektiv GmbH",
+   "location": "Munich",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "arbeitnow",
+   "url": "https://www.arbeitnow.com/jobs/companies/nanacom-kommunikationskollektiv-gmbh/werkstudentin-pr-marketingkommunikation-social-media-munich-10362",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26T10:50",
+   "description": "Das nanacom Kommunikationskollektiv bietet als ganzheitliche Beratungsagentur eine umfassende Betreuung in den Bereichen Public Relations, der Erstellung und Umsetzung von Marketing- und Kommunikationsstrategien sowie Content Creation. Unsere Expertise liegt dabei in der Sport-, Outdoor-, Active-Lifestyle- und Tourismusbranche, in der wir mit führenden Herstellern und Marken zusammenarbeiten. Wir suchen Dich – am liebsten ab 15.01.27: Für circa 15-20 Stunden pro Woche – Verteilung nach Absprache. Arbeitsort ist München – remote arbeiten ist nach Absprache flexibel möglich. Deine Schwerpunkte: PR hautnah: Lerne, wie Media Relations wirklich funktionieren – Du unterstützt uns beim Aufbau von Medienverteilern über die Pflege von Basisverteilern bis zum direkten Kontakt mit Journalist:innen. Monitoring & Reporting: Behalte den Überblick über Medien und unterstütze vor allem bei der Erstellung von Reportings und Clipping-Reports. Sample Management: Du unterstützt die Teams beim Sample-Management sowie bei Seedings an Journalist:innen und Creator. Darüber hinaus unterstützt Du uns bei: Pressemitteilungen: Unterstütze beim Einstellen und Versand von Pressemittelungen. Events & Social Media: Sei bei Events dabei und unterstütze auch unser Social Media Team – vom Texten bis zum Posting. Hands-on im Daily Business: Sei mittendrin im Agenturalltag und unterstütze uns bei laufenden Projekten und täglichen Aufgaben. Das bringst du mit: Eingeschriebene:r Student:in in Wirtschafts-, Sport-, Kommunikations- oder Medienwissenschaften (oder ähnlich). Gute Skills in Deutsch & Englisch (schriftlich & mündlich). Eigeninitiative, Zuverlässigkeit und Motivation, Verantwortung zu übernehmen. Teamplayer mit Hands-on-Mentalität. MS Office-Grundkenntnisse (Excel, Word, Powerpoint) und schnelle Auffassungsgabe für neue Tools (Adobe, Canva und co). Unser Angebot: Praxis pur: Einblicke in PR, Marketing & Social Media. Flexibilität: Arbeitszeiten, die sich easy mit Deinem Studium vereinbaren lassen. Teamspirit: Ein motiviertes Team, das Leidenschaft für Sport & Abenteuer lebt. Basecamp: Ein Büro mitten in München – mit Hybrid-Option. Fair & ehrlich: Faire Bezahlung & die Chance, wirklich mitzugestalten. Find more English Speaking Jobs in Germany on Arbeitnow"
   },
   {
    "id": "ba_10001-1004065410-S",
