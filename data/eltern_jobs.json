@@ -1,9 +1,182 @@
 {
- "generated": "2026-11-26T16:52",
+ "generated": "2026-11-26T20:15",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1075,
+ "count": 1076,
  "items": [
+  {
+   "id": "mykyta:ka_3368863872",
+   "src": "Kleinanzeigen",
+   "title": "Kommissionierer (w/m/d) (ZG Raiffeisen)",
+   "firma": "HeyJobs",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-w-m-d-zg-raiffeisen-/3368863872-109-8088",
+   "posted": "2026-11-26",
+   "posted_time": "18:04",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/SlgjGERGnJjH ⭐ Kommissionierer/in Lagerlogistik ⭐ DU FÜR UNS - Du kommissionierst unsere Waren zuverlässig und sorgst für eine termingerechten Bereitstellung. - Du erstellst die notwendigen Begleitdokumente. - Du behältst unsere Lagerbestände im Blick und unterstützt bei deren Kontrolle und Verwaltung. - Du wirkst bei Inventuren mit und trägst zu einer sauberen und strukturierten Lagerorganisation bei. DEIN PROFIL - Du hast eine Ausbildung im Bereich Lagerlogistik oder bringst praktische Erfahrung in der Kommissionierung mit. - Du hast grundlegende Kenntnisse in Warenwirtschaft, Logistik und Qualitätssicherung. - Du verfügst über gute Deutschkenntnisse. - Du arbeitest sorgfältig, zuverlässig und bist ein echter Teamplayer. WIR FÜR DICH - Work-Life-Balance im Fokus: Flexible Arbeitszeitmodelle (z. B. Teilzeit, Aushilfe) mit einer 38,5-Stunden-Woche in Vollzeit, 30 Tagen Urlaub und familienfreundlichen Arbeitszeiten durch attraktive Öffnungszeiten. - Leistung, die sich lohnt: Attraktive tarifliche Vergütung, Urlaubs- und Weihnachtsgeld, betriebliche Altersversorgung - Deine Entwicklung zählt: Individuelle fachliche und persönliche Weiterentwicklung – von Fachschulungen zum Sortiment (z. B. Tiernahrung, regionale Lebensmittel) bis zu Verkaufsschulungen oder vielfältige E-Learning-Angebote. - Gemeinsam stark: Offene Unternehmenskultur, familiäres Miteinander und ein sicheres Arbeitsumfeld, auf das du bauen kannst. - Das gewisse Extra: Badenliebe - regional verwurzelt und in unserer Heimat unterwegs; exklusive Mitarbeitendevorteile – Rabatte auf unsere eigenen Produkte, Bikeleasing sowie Corporate Benefits. - Unser WIR ist deine Wurzel zum Wachsen! Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/SlgjGERGnJjH",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 17.6,
+   "de": "нужен",
+   "de_txt": "Du verfügst über gute Deutschkenntnisse.",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast eine Ausbildung im Bereich Lagerlogistik oder bringst praktische Erfahrung in",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-26T19:44",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3497360484",
    "src": "Kleinanzeigen",
@@ -23918,7 +24091,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/kommissionierer-w-m-d-pfalz-personalservice-gmbh-/3583318948-109-8047"
+   ],
    "person": "mykyta"
   },
   {
