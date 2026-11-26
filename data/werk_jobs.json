@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T21:19",
+ "generated": "2026-11-26T23:23",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,8 +13,8 @@
   ]
  },
  "counts": {
-  "all": 616,
-  "queue": 259,
+  "all": 617,
+  "queue": 260,
   "ai_focus": 324
  },
  "jobs": [
@@ -2174,7 +2174,9 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1658526-1-S",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Praktikantin-Data-Engineering-und-Machine-Learning-fuer-die-Fehlerdiagnose-elektrischer-Antriebe-Sindelfingen-Mercedes-Benz-AG--14799887-inline.html"
+   ],
    "salary": "",
    "posted": "2026-11-26",
    "first_seen": "2026-11-26T19:44",
@@ -2202,7 +2204,9 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1658490-1-S",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.stepstone.de/stellenangebote--Intern-Agentic-AI-for-Embedded-System-SW-Integration-Sindelfingen-Mercedes-Benz-AG--14799880-inline.html"
+   ],
    "salary": "",
    "posted": "2026-11-26",
    "first_seen": "2026-11-26T19:44",
@@ -7120,6 +7124,34 @@
    "posted": "2026-10-30",
    "first_seen": "2026-11-04T12:29",
    "description": "GEDORE Group ist ein weltweit führender Hersteller von Premium-Handwerkzeugen mit Sitz in Deutschland. Gesucht wird ein Werkstudent e-Commerce (m/w/d) zur Unterstützung des operativen Amazon-Managements und Content-Crawlings. Ein laufendes Studium in Informatik oder Wirtschaftswissenschaften, Programmierkenntnisse, sichere MS-Office-Anwendungen und sehr gute Deutschkenntnisse werden vorausgesetzt."
+  },
+  {
+   "id": "ss_14801994",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": false,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent*in Digitalisierung und Datenanalyse in der Rohbauentwicklung",
+   "company": "Mercedes-Benz AG",
+   "location": "Sindelfingen",
+   "distance_km": 70.7,
+   "remote": false,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudentin-Digitalisierung-und-Datenanalyse-in-der-Rohbauentwicklung-Sindelfingen-Mercedes-Benz-AG--14801994-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26T21:49",
+   "description": "Mercedes-Benz entwickelt Karosseriestrukturen und digitale Infrastrukturen für zukünftige Fahrzeuggenerationen. Gesucht wird ein Werkstudent*in Digitalisierung und Datenanalyse (m/w/d) zur Konzeption und Umsetzung eines Proof of Concept für automatisierte Produktdatenanalyse. Ein Studium in Informatik, Wirtschaftsinformatik, Data Science oder vergleichbar, erste Programmiererfahrung und analytisches Denkvermögen werden vorausgesetzt."
   },
   {
    "id": "jw_064539725",
