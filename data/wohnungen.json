@@ -1,9 +1,50 @@
 {
- "generated": "2026-11-26T08:59",
+ "generated": "2026-11-26T10:20",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
  "count": 408,
  "items": [
+  {
+   "id": "3582708410",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3582708410",
+   "title": "1 Zimmer Wohnung",
+   "price_txt": "680 €",
+   "plz": "77656",
+   "ort": "Offenburg",
+   "lat": 48.45166067026304,
+   "lon": 7.915758175202882,
+   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de3946ab-0ca8-47e6-bdf4-44c5d75f84d1?rule=$_59.JPG",
+   "tags": [
+    "Einbauküche"
+   ],
+   "desc": "Schöne 1-Zimmer-Wohnung in Offenburg ab Dezember zu vermieten Ab Dezember wird eine gemütliche 1-Zimmer-Wohnung in der 77656 Offenburg, vermietet. Die Wohnung befindet sich im 3. Obergeschoss (rechts) und verfügt über ca. 38 m² Wohnfläche. Zur Wohnung gehören eine Küche, ein Flur, ein Bad/WC sowie ein Wohn-Schlafzimmer. Zusätzlich steht ein eigener Kellerraum zur Verfügung. Voraussetzungen: • Mindestalter: 40 Jahre • Nichtraucher • Keine Haustiere • Zuverlässige und ordentliche Mieter gesucht Bei ernsthaftem Interesse gerne melden. Weitere Informationen zu Miete, Nebenkosten und Besichtigung können bei Kontaktaufnahme mitgeteilt werden.",
+   "m2": 38.0,
+   "zimmer": 1.0,
+   "kalt": 680.0,
+   "nk": 190.0,
+   "warm": 680.0,
+   "kaution": 980.0,
+   "ab": "Dezember 2026",
+   "typ": "Etagenwohnung",
+   "posted": "2026-11-26",
+   "street": "",
+   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
+   "warm_calc": 680.0,
+   "warm_est": false,
+   "moebl": false,
+   "ebk": true,
+   "km": 2.2,
+   "allowed": 888,
+   "eur_m2": 17.9,
+   "zone": "близко",
+   "verdict": "отлично",
+   "notes": [],
+   "first_seen": "2026-11-26T09:48",
+   "source": "поиск",
+   "route": {},
+   "status": "open",
+   "also_urls": []
+  },
   {
    "id": "3582608142",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3582608142",
@@ -5779,54 +5820,6 @@
    "also_urls": []
   },
   {
-   "id": "3517629779",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3517629779",
-   "title": "TAUSCHWOHNUNG Tausche 1-Zimmer-Wohnung in Kehl",
-   "price_txt": "550 €",
-   "plz": "77694",
-   "ort": "Kehl",
-   "lat": 48.57495151702854,
-   "lon": 7.841902524492639,
-   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f18df8ca-049e-45b5-a010-8ac6ebb50cbc?rule=$_59.JPG",
-   "tags": [
-    "Balkon",
-    "Terrasse",
-    "Einbauküche",
-    "Badewanne",
-    "Keller"
-   ],
-   "desc": "Es handelt sich hierbei um ein Tauschangebot. (Anbieter-ID: 486741) Wohnungstausch Kehl → Freiburg oder Emmendingen Ich biete meine schöne 1-Zimmer-Wohnung mit ca. 45 m² in Kehl zum Wohnungstausch an und suche dafür eine mindestens 2-Zimmer-Wohnung in Freiburg oder Emmendingen. Die Wohnung kostet 550 € Kaltmiete. Die Warmmiete beträgt 700 € inklusive 50 € für den Stellplatz. Die Wohnung verfügt über: • einen großen Balkon • eine Einbauküche • einen sehr großen Kellerraum • einen eigenen Stellplatz • eine freundliche und angenehme Nachbarschaft Die Lage ist ebenfalls sehr praktisch: Die Wohnung befindet sich direkt an der Grenze zu Straßburg. Straßburg ist sogar zu Fuß erreichbar. Eine Tram-Haltestelle ist ca. 10 Minuten entfernt, sodass man bequem mit der Tram nach Straßburg fahren kann. Für den täglichen Einkauf befinden sich REWE und Action in der Nähe. Auch eine Bushaltestelle ist schnell erreichbar. Da ich mich wohnlich vergrößern möchte, suche ich eine 2- bis 3-Zimmer-Wohnung in Freiburg oder Emmendingen. Ein Balkon oder eine Terrasse wäre schön. Kein Dachgeschoss bevorzugt. Ich suche: • mindestens 2 Zimmer • Freiburg oder Emmendingen • möglichst bis ca. 750–780 € warm • gerne Balkon oder Terrasse • möglichst kein Dachgeschoss Bei Interesse an einem Tausch freue ich mich über eine Nachricht. Diese Anzeige wurde von einem Nutzer eingestellt. Tauschwohnung.com stellt nur die Plattform bereit und ist nicht Anbieter der Wohnung. Hinweise auf mögliche Rechtsverletzungen (z. B. bei Fotos) bitte hier melden: https://www.tauschwohnung.com/reporting-process-for-illegal-content # Weitere Angaben - Bodenbelag: Laminat Anbieter-Objekt-ID: 486741",
-   "m2": 45.0,
-   "zimmer": 1.0,
-   "kalt": 550.0,
-   "nk": 100.0,
-   "warm": null,
-   "kaution": null,
-   "ab": "",
-   "typ": "Andere Wohnungstypen",
-   "posted": "2026-10-20",
-   "street": "",
-   "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "warm_calc": 650.0,
-   "warm_est": true,
-   "moebl": false,
-   "ebk": true,
-   "km": 14.9,
-   "allowed": 930,
-   "eur_m2": 14.4,
-   "zone": "далеко",
-   "verdict": "нет",
-   "notes": [
-    "тёплая ≈ (холодная + NK)",
-    "WG/WBS/монтёр/пендлер — не наш формат",
-    "далеко: Kehl, 14.9 км по прямой"
-   ],
-   "first_seen": "2026-11-11T10:11",
-   "source": "поиск",
-   "status": "open",
-   "also_urls": []
-  },
-  {
    "id": "3567899512",
    "url": "https://www.kleinanzeigen.de/s-anzeige/3567899512",
    "title": "Mietwohnung mit großem Garten und Terrasse",
@@ -6236,7 +6229,7 @@
    "first_seen": "2026-11-10T12:59",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -8652,7 +8645,7 @@
    "first_seen": "2026-11-05T09:50",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -8967,7 +8960,7 @@
    "first_seen": "2026-11-04T13:15",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -9063,7 +9056,7 @@
    "first_seen": "2026-11-04T11:23",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -9111,7 +9104,7 @@
    "first_seen": "2026-11-04T10:00",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10585,7 +10578,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10633,7 +10626,7 @@
    "first_seen": "2026-11-01T23:39",
    "source": "поиск",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10952,7 +10945,7 @@
    "posted": "2026-11-01",
    "street": "Renchener Straße 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -10994,7 +10987,7 @@
    "street": "",
    "loc_prec": "примерно: Sand",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -11137,7 +11130,7 @@
    "street": "",
    "loc_prec": "примерно: Niederschopfheim",
    "route": {},
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -11237,7 +11230,7 @@
    "posted": "2026-10-25",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11372,7 +11365,7 @@
    "posted": "2026-10-25",
    "street": "Rheinstraße 11,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11417,7 +11410,7 @@
    "posted": "2026-10-26",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "applied",
    "also_urls": []
   },
   {
@@ -11463,7 +11456,7 @@
    "street": "",
    "loc_prec": "примерно: Berghaupten",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11739,7 +11732,7 @@
    "posted": "2026-10-31",
    "street": "Hildastraße 200,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -11921,7 +11914,7 @@
    "posted": "2026-10-30",
    "street": "Hauptstraße 47,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -12611,7 +12604,7 @@
    "posted": "2026-10-28",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -13023,7 +13016,7 @@
    "posted": "2026-10-27",
    "street": "Ernetstr. 3,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -13660,7 +13653,7 @@
    "posted": "2026-10-23",
    "street": "Theodor-Heuss-Str. 12,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -14340,7 +14333,7 @@
    "street": "",
    "loc_prec": "примерно: Ebersweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15555,7 +15548,7 @@
    "street": "",
    "loc_prec": "примерно: Bohlsbach",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -15733,7 +15726,7 @@
    "street": "",
    "loc_prec": "примерно: Ichenheim",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -16012,7 +16005,7 @@
    "street": "",
    "loc_prec": "примерно: Zunsweier",
    "route": {},
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -16459,7 +16452,7 @@
    "posted": "2026-10-04",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -16807,7 +16800,7 @@
    "posted": "2026-09-29",
    "street": "Kestengässle 2,",
    "loc_prec": "точный адрес",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
@@ -17271,7 +17264,7 @@
    "posted": "2026-09-24",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "rejected",
    "also_urls": []
   },
   {
@@ -17578,7 +17571,7 @@
    "posted": "2026-09-18",
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
-   "status": "open",
+   "status": "not_interested",
    "also_urls": []
   },
   {
