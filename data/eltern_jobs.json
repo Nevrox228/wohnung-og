@@ -1,9 +1,517 @@
 {
- "generated": "2026-11-26T14:47",
+ "generated": "2026-11-26T15:52",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1072,
+ "count": 1075,
  "items": [
+  {
+   "id": "marina:ka_3497360484",
+   "src": "Kleinanzeigen",
+   "title": "Montagehelfer (m/w/d) mit 2-3 Schichtbereitschaft (29144954)",
+   "firma": "hokify GmbH",
+   "ort": "Offenburg",
+   "plz": "77652",
+   "street": "",
+   "lat": 48.5043898,
+   "lon": 7.9388417,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/montagehelfer-m-w-d-mit-2-3-schichtbereitschaft-29144954-/3497360484-111-9040",
+   "posted": "2026-11-26",
+   "posted_time": "15:07",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/Mza3uSc ⬅️ - - - - - - - - ️ Wir suchen engagierte Montagehelfer (m/w/d) mit Schichtbereitschaft für unseren Kunden in Offenburg. In dieser Position unterstützen Sie die Produktionsabläufe und tragen zur Effizienz und Qualität der Produkte bei. Aufgaben: - Werkstücke einlegen und entnehmen - Vormontage und Zusammenbau von Duschbrausen und Wandstangen - Sicht- und Dichtigkeitsprüfungen durchführen - Verpacken der hergestellten Produkte - Durchführen von Qualitätsprüfungen Anforderungen: - Erfahrung im Produktionsbereich ist wünschenswert - Bereitschaft zur Arbeit im 2-3 Schichtbetrieb - Fingerfertigkeit - Teamfähigkeit sowie eine selbstständige Arbeitsweise - Gute Deutschkenntnisse - Sie bringen Zuverlässigkeit und Flexibilität mit Wir bieten - Festanstellung bei der DEKRA Arbeit Gruppe (DGB/GVP-Tarifvertrag) - Attraktive Vergütung nach Tarif mit sämtlichen Sozialleistungen - Entwicklungsmöglichkeiten und Weiterbildungsoptionen - Berufliche Orientierungshilfe und Karriere-/Talentförderung Sie haben Interesse? Dann nutzen Sie Ihre Chance und senden Sie uns Ihre aussagekräftigen Bewerbungs- unterlagen noch heute zu oder rufen Sie uns an! Wir freuen uns darauf, Sie kennen zu lernen! Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/Mza3uSc",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 10.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-26T15:17",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 56,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 14,
+      "end_stop": "Griesheim Am Schwabweg",
+      "dep": "06:59",
+      "arr": "07:55",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Griesheim Am Schwabweg",
+        "dep": "07:34",
+        "arr": "07:42",
+        "wait": 8,
+        "min": 8
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Griesheim Am Schwabweg",
+        "to": "работа",
+        "dep": "07:42",
+        "arr": "07:55",
+        "min": 14
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 59
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 84,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 58,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "06:45",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "06:45",
+        "min": 58
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 84
+     },
+     {
+      "kind": "велосипед",
+      "min": 60,
+      "changes": 0,
+      "km": 14.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 60
+       }
+      ],
+      "risky": false,
+      "score": 100
+     }
+    ],
+    "best": "транспорт",
+    "min": 56,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3368801365",
+   "src": "Kleinanzeigen",
+   "title": "Schichtführer Kommissionierung (w/m/d) (ZG Raiffeisen)",
+   "firma": "HeyJobs",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/schichtfuehrer-kommissionierung-w-m-d-zg-raiffeisen-/3368801365-111-8088",
+   "posted": "2026-11-26",
+   "posted_time": "15:05",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/D-ch0Js2W_U3 ⭐ Schichtleiter Lagerlogistik ⭐ DU FÜR UNS - Du planst und koordinierst den Personaleinsatz innerhalb Deiner Schicht und sorgst für reibungslose Abläufe im Lager. - Du bist erste Ansprechperson für Dein Team und findest schnell Lösungen, wenn im Tagesgeschäft Herausforderungen auftreten. - Du steuerst und überwachst die Warenausgänge und stellst eine termingerechte Abwicklung sicher. - Du unterstützt den Lagermeister und übernimmst bei Bedarf dessen Vertretung. - Du behältst jederzeit den Überblick und sorgst für Struktur, Qualität und Effizienz in der Kommissionierung. DEIN PROFIL - Du hast eine Ausbildung im Bereich Lagerlogistik (z. B. Fachkraft für Lagerlogistik) oder eine vergleichbare Qualifikation – gerne auch mit Weiterbildung zum Logistikmeister (m/w/d). - Du bringst mehrjährige Erfahrung in der Lagerwirtschaft mit und hast idealerweise bereits erste Führungserfahrung gesammelt. - Du gehst sicher mit Lagerverwaltungssystemen um. - Du arbeitest selbstständig, strukturiert und bist gleichzeitig ein Teamplayer mit klarer Kommunikation. WIR FÜR DICH - Work-Life-Balance im Fokus: Flexible Arbeitszeitmodelle (z. B. Teilzeit, Aushilfe) mit einer 38,5-Stunden-Woche in Vollzeit, 30 Tagen Urlaub und familienfreundlichen Arbeitszeiten durch attraktive Öffnungszeiten. - Leistung, die sich lohnt: Attraktive tarifliche Vergütung, Urlaubs- und Weihnachtsgeld, betriebliche Altersversorgung - Deine Entwicklung zählt: Individuelle fachliche und persönliche Weiterentwicklung – von Fachschulungen zum Sortiment (z. B. Tiernahrung, regionale Lebensmittel) bis zu Verkaufsschulungen oder vielfältige E-Learning-Angebote. - Gemeinsam stark: Offene Unternehmenskultur, familiäres Miteinander und ein sicheres Arbeitsumfeld, auf das du bauen kannst. - Das gewisse Extra: Badenliebe - regional verwurzelt und in unserer Heimat unterwegs; exklusive Mitarbeitendevorteile – Rabatte auf unsere eigenen Produkte, Bikeleasing sowie Corporate Benefits. - Unser WIR ist deine Wurzel zum Wachsen! Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/D-ch0Js2W_U3",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast eine Ausbildung im Bereich Lagerlogistik (z.",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-26T15:17",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3368801365",
+   "src": "Kleinanzeigen",
+   "title": "Schichtführer Kommissionierung (w/m/d) (ZG Raiffeisen)",
+   "firma": "HeyJobs",
+   "ort": "Kehl",
+   "plz": "77694",
+   "street": "",
+   "lat": 48.5713905,
+   "lon": 7.8495212,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/schichtfuehrer-kommissionierung-w-m-d-zg-raiffeisen-/3368801365-111-8088",
+   "posted": "2026-11-26",
+   "posted_time": "15:05",
+   "desc": "⭐ Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/D-ch0Js2W_U3 ⭐ Schichtleiter Lagerlogistik ⭐ DU FÜR UNS - Du planst und koordinierst den Personaleinsatz innerhalb Deiner Schicht und sorgst für reibungslose Abläufe im Lager. - Du bist erste Ansprechperson für Dein Team und findest schnell Lösungen, wenn im Tagesgeschäft Herausforderungen auftreten. - Du steuerst und überwachst die Warenausgänge und stellst eine termingerechte Abwicklung sicher. - Du unterstützt den Lagermeister und übernimmst bei Bedarf dessen Vertretung. - Du behältst jederzeit den Überblick und sorgst für Struktur, Qualität und Effizienz in der Kommissionierung. DEIN PROFIL - Du hast eine Ausbildung im Bereich Lagerlogistik (z. B. Fachkraft für Lagerlogistik) oder eine vergleichbare Qualifikation – gerne auch mit Weiterbildung zum Logistikmeister (m/w/d). - Du bringst mehrjährige Erfahrung in der Lagerwirtschaft mit und hast idealerweise bereits erste Führungserfahrung gesammelt. - Du gehst sicher mit Lagerverwaltungssystemen um. - Du arbeitest selbstständig, strukturiert und bist gleichzeitig ein Teamplayer mit klarer Kommunikation. WIR FÜR DICH - Work-Life-Balance im Fokus: Flexible Arbeitszeitmodelle (z. B. Teilzeit, Aushilfe) mit einer 38,5-Stunden-Woche in Vollzeit, 30 Tagen Urlaub und familienfreundlichen Arbeitszeiten durch attraktive Öffnungszeiten. - Leistung, die sich lohnt: Attraktive tarifliche Vergütung, Urlaubs- und Weihnachtsgeld, betriebliche Altersversorgung - Deine Entwicklung zählt: Individuelle fachliche und persönliche Weiterentwicklung – von Fachschulungen zum Sortiment (z. B. Tiernahrung, regionale Lebensmittel) bis zu Verkaufsschulungen oder vielfältige E-Learning-Angebote. - Gemeinsam stark: Offene Unternehmenskultur, familiäres Miteinander und ein sicheres Arbeitsumfeld, auf das du bauen kannst. - Das gewisse Extra: Badenliebe - regional verwurzelt und in unserer Heimat unterwegs; exklusive Mitarbeitendevorteile – Rabatte auf unsere eigenen Produkte, Bikeleasing sowie Corporate Benefits. - Unser WIR ist deine Wurzel zum Wachsen! Direkt bewerben & mehr erfahren: Klicke einfach auf den 'Bewerben' Button oben rechts, um Dich sofort zu bewerben. ⭐️ Alternativ kannst Du auch folgenden Link kopieren, im Browser einfügen und Dich sofort bewerben: https://hey.jobs/D-ch0Js2W_U3",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 17.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Du hast eine Ausbildung im Bereich Lagerlogistik (z.",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-26T15:17",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 85,
+      "changes": 2,
+      "min_wait": 5,
+      "walk_end": 15,
+      "end_stop": "Neumühl Am Kinzigwehr",
+      "dep": "06:59",
+      "arr": "08:25",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Rössel",
+        "dep": "07:34",
+        "arr": "07:55",
+        "wait": 8,
+        "min": 21
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Willstätt Rössel",
+        "to": "Neumühl Am Kinzigwehr",
+        "dep": "08:00",
+        "arr": "08:10",
+        "wait": 5,
+        "min": 10
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Neumühl Am Kinzigwehr",
+        "to": "работа",
+        "dep": "08:10",
+        "arr": "08:25",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 91
+     },
+     {
+      "kind": "велосипед",
+      "min": 86,
+      "changes": 0,
+      "km": 21.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 86
+       }
+      ],
+      "risky": false,
+      "score": 152
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 239,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 213,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "09:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "09:20",
+        "min": 213
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 239
+     }
+    ],
+    "best": "транспорт",
+    "min": 85,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_10000-1208781127-S",
    "src": "Jobbörse",
@@ -1073,7 +1581,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-/3553639044-111-8045"
+   ],
    "person": "Марина"
   },
   {
@@ -1397,7 +1907,9 @@
     "changes": 1
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-/3553639044-111-8045"
+   ],
    "person": "mykyta"
   },
   {
@@ -142945,7 +143457,6 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-G5W1C8WWK1Y7T2RK-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-IE3OSSE90LQUFKPK-S"
    ],
    "person": "Марина"
