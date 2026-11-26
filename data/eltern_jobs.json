@@ -1,9 +1,125 @@
 {
- "generated": "2026-11-26T11:39",
+ "generated": "2026-11-26T13:46",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
  "count": 1070,
  "items": [
+  {
+   "id": "marina:ka_3522603827",
+   "src": "Kleinanzeigen",
+   "title": "Minijob Reinigung (m/w/d) Bühl Mo-Fr 15:00 Uhr 1,5 Std.",
+   "firma": "Büba Büro- und Industriereinigung",
+   "ort": "Bühl",
+   "plz": "77815",
+   "street": "",
+   "lat": 48.7016606,
+   "lon": 8.1350401,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/minijob-reinigung-m-w-d-buehl-mo-fr-15-00-uhr-1-5-std-/3522603827-109-8746",
+   "posted": "2026-11-24",
+   "posted_time": null,
+   "desc": "Liebe Bewerberin, lieber Bewerber, für unser Objekt in Bühl suchen wir fleißige und zuverlässige...",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 19.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-26T12:30",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 10,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:27",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "велосипед",
+      "min": 117,
+      "changes": 0,
+      "km": 28.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 117
+       }
+      ],
+      "risky": false,
+      "score": 214
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ba_10000-1208806306-S",
    "src": "Jobbörse",
@@ -6874,7 +6990,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208781127-S"
+   ],
    "person": "mykyta"
   },
   {
@@ -64336,167 +64454,6 @@
     ],
     "best": "транспорт",
     "min": 71,
-    "changes": 1
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_20403-206869388-S",
-   "src": "Jobbörse",
-   "title": "Aushilfe (w/m/d)",
-   "firma": "GALERIA S.à r.l. & Co. KG Nordrhein-Westfalen - Verwaltung",
-   "ort": "Offenburg",
-   "street": "",
-   "lat": 48.496721913,
-   "lon": 7.936377556,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20403-206869388-S",
-   "posted": "2026-10-27",
-   "desc": "Du bist Student, Schüler oder Quereinsteiger und suchst einen Nebenjob oder Minijob mit flexiblen Einsatzmöglichkeiten? Dann bist du bei GALERIA genau richtig! Wir suchen engagierte und zuverlässige studentische Aushilfen, Verkaufshilfen, Werkstudenten oder Verkaufsunterstützer in Teil- und Vollzeit, die Lust haben, unser Team in der GALERIA Filiale in ihrer Nähe zu unterstützen. Lass dich von unserer Begeisterung anstecken und gestalte mit uns das Warenhaus der Zukunft. Deine Aufgaben - Verkauf – Wünscheversteher & Wünscheerfüller: Du bist Ansprechpartner für unsere Kunden und berätst sie zu unserer großen Auswahl an Produkten & Services. - Kasse – Das Geld geht über deinen Tisch: Du sorgst an der Kasse für einen reibungslosen Abschluss des Einkaufs. - Warenverräumung – Ohne dich bewegt sich hier nichts: Unsere Produkte werden von dir für den Verkauf vorbereitet und das Erscheinungsbild der Verkaufsfläche hast du immer im Blick. Ihr Profil - Ausgeprägte Kundenorientierung und serviceorientiertes Handeln - Leidenschaft für den Einzelhandel und Interesse am Verkauf - Kommunikations- und Organisationstalent - Idealerweise erste Erfahrungen als Aushilfe oder Mitarbeiter im Einzelhandel, der Gastronomie oder in der Logistik Wir Bieten - Faire Bezahlung - Gute Work-Life-Balance mit minutengenauer Zeiterfassung, transparenter Einsatzplanung und flexiblen Einsatzzeiten - Attraktive Personalrabatte sowie Mitarbeiterangebote über Corporate Benefits - Spannende Karrieremöglichkeiten durch flache Hierarchien",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 11.4,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Другое",
-   "first_seen": "2026-11-15T23:00",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 45,
-      "changes": 1,
-      "min_wait": 8,
-      "walk_end": 5,
-      "end_stop": "Bühl Talackerweg",
-      "dep": "06:59",
-      "arr": "07:45",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Bühl Talackerweg",
-        "dep": "07:34",
-        "arr": "07:40",
-        "wait": 8,
-        "min": 6
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Bühl Talackerweg",
-        "to": "работа",
-        "dep": "07:40",
-        "arr": "07:45",
-        "min": 5
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 48
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 66,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 40,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "06:27",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "06:27",
-        "min": 40
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 66
-     },
-     {
-      "kind": "велосипед",
-      "min": 64,
-      "changes": 0,
-      "km": 15.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 64
-       }
-      ],
-      "risky": false,
-      "score": 108
-     }
-    ],
-    "best": "транспорт",
-    "min": 45,
     "changes": 1
    },
    "status": "open",
