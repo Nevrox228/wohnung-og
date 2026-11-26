@@ -1,9 +1,354 @@
 {
- "generated": "2026-11-26T13:46",
+ "generated": "2026-11-26T14:47",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1070,
+ "count": 1072,
  "items": [
+  {
+   "id": "marina:ba_10000-1208781127-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter Helfer/in - Elektro (m/w/d)",
+   "firma": "Fe-Fe ELEKTRONIK e.K.",
+   "ort": "Offenburg",
+   "street": "Im Unteren Angel 17",
+   "lat": 48.4766843,
+   "lon": 7.9360796,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208781127-S",
+   "posted": "2026-11-24",
+   "desc": "**Über uns** Als mittelständischer und inhabergeführter Dienstleister in Offenburg liegt unsere Stärke in der präzisen Fertigung elektronischer Baugruppen. In unserem familiären Betrieb mit rund 10 Mitarbeitenden verbinden wir hohen Qualitätsanspruch mit einer persönlichen, wertschätzenden Arbeitsatmosphäre und flachen Hierarchien. Zur Verstärkung unseres Teams suchen wir ab sofort zuverlässige Unterstützung. **Das bieten wir Ihnen** - Attraktive Arbeitszeiten: Geregelte Arbeitszeiten ohne Schichtdienst (Kernarbeitszeit Montag bis Freitag von 07:00 bis 15:45 Uhr) z.B. Vollzeit (37 Std./Woche) oder Teilzeit (ab 6 Std./Tag) - Faire Konditionen: Bei uns gibt es 4 Tage mehr Urlaub pro Jahr als gesetzlich vorgesehen, je nach Betriebszugehörigkeit steigt der Urlaubsanspruch bei uns - Langfristige Perspektive und Leistungsgerechte Vergütung - Wohlfühl-Atmosphäre: Ein familiäres Team, 100% Frauenanteil in der Produktion, gründliche Einarbeitung für deinen optimalen Start bei uns - Gute Erreichbarkeit: Unser Standort ist zentral gelegen und Fußläufig sehr gut vom Bahnhof Offenburg aus zu erreichen. **Ihre Aufgaben** - Bestücken & Löten: Bestücken von Leiterplatten sowie fachgerechtes Löten elektronischer Baugruppen - Montage: Durchführung allgemeiner Montage- und Konfektionierungstätigkeiten in der Elektronikfertigung - Qualitätssicherung: Sorgfältiges und genaues Arbeiten zur Sicherstellung unserer hohen Produktqualität **Ihr Profil** - Erfahrung & Quereinstieg: Erste Erfahrungen im Bereich Elektronik oder im Löten sind von Vorteil, aber kein Muss – motivierte Quereinsteiger (m/w/d) mit handwerklichem Geschick sind bei uns herzlich willkommen - Arbeitsweise: Eine ruhige Hand, Sorgfalt sowie Freude an feinmotorischen Tätigkeiten und Teamarbeit - Sprachkenntnisse: Grundlegende Deutschkenntnisse (mindestens Niveau B1) zur sicheren Verständigung im Arbeitsalltag und bei Arbeitsanweisungen **Interessiert? So erreichen Sie uns!** Wir legen Wert auf einen unkomplizierten Einstieg – melden Sie sich gerne telefonisch, per E-Mail oder kommen Sie einfach kurz persönlich bei uns vorbei. - **Ansprechpartnerin:** Frau Feucht - **Telefon:** +49 (781) 26068 - **E-Mail: **[info@fe-fe.de](mailto:info@fe-fe.de) - **Adresse:** Im Unteren Angel 17, 77652 Offenburg",
+   "zeit": "Vollzeit / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 12.3,
+   "de": "нужен",
+   "de_txt": "Sprachkenntnisse: Grundlegende Deutschkenntnisse (mindestens Niveau B1) zur sicheren Verständigung im Arbeitsalltag und bei Arbeitsanweisungen",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-26T14:17",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 38,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 12,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:11",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:11",
+        "min": 12
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 38
+     },
+     {
+      "kind": "велосипед",
+      "min": 74,
+      "changes": 0,
+      "km": 17.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 74
+       }
+      ],
+      "risky": false,
+      "score": 128
+     }
+    ],
+    "best": "транспорт",
+    "min": 38,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3582946584",
+   "src": "Kleinanzeigen",
+   "title": "Reinigungskraft",
+   "firma": "частное",
+   "ort": "Rheinau",
+   "plz": "77866",
+   "street": "",
+   "lat": 48.6567433,
+   "lon": 7.9354027,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/reinigungskraft/3582946584-109-8667",
+   "posted": "2026-11-26",
+   "posted_time": "13:00",
+   "desc": "Zuverlässige Reinigungskraft (m/w/d) für Ferienwohnungen in Rheinau Freistett gesucht. Ich vermiete mehrere Ferienwohnungen und suche Verstärkung für die Endreinigung nach Abreise der Gäste. Es geht um Reinigung, Bettwäsche wechseln und das Auffüllen von Verbrauchsmaterial, meist zwischen 11 und 15 Uhr, auch an Wochenenden. Ich biete: faire Bezahlung von 30€ - 45€ pro Wohnung und einen wertschätzenden Umgang. Ich wünsche mir: Zuverlässigkeit, Flexibilität, Sorgfalt und Diskretion. Erfahrung ist von Vorteil, aber kein Muss. Interesse? Melden Sie sich einfach per WhatsApp oder E-Mail bei mir.",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 17.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-26T14:17",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 98,
+      "changes": 1,
+      "min_wait": 18,
+      "walk_end": 18,
+      "end_stop": "Freistett Busbahnhof",
+      "dep": "06:25",
+      "arr": "08:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:25",
+        "arr": "06:33",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Achern",
+        "dep": "06:33",
+        "arr": "06:58",
+        "wait": null,
+        "min": 25
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 18,
+        "min": 30
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Busbahnhof",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:04",
+        "min": 18
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 101
+     },
+     {
+      "kind": "как в приложении",
+      "min": 89,
+      "changes": 3,
+      "min_wait": 2,
+      "walk_end": 13,
+      "end_stop": "Freistett Seniorenzentrum",
+      "dep": "06:32",
+      "arr": "08:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Achern",
+        "dep": "07:03",
+        "arr": "07:12",
+        "wait": 11,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "405",
+        "from": "Achern",
+        "to": "Freistett Busbahnhof",
+        "dep": "07:16",
+        "arr": "07:46",
+        "wait": 4,
+        "min": 30
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "403",
+        "from": "Freistett Busbahnhof",
+        "to": "Freistett Seniorenzentrum",
+        "dep": "07:48",
+        "arr": "07:49",
+        "wait": 2,
+        "min": 1
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Freistett Seniorenzentrum",
+        "to": "работа",
+        "dep": "07:49",
+        "arr": "08:01",
+        "min": 13
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 110
+     },
+     {
+      "kind": "велосипед",
+      "min": 90,
+      "changes": 0,
+      "km": 21.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 90
+       }
+      ],
+      "risky": false,
+      "score": 160
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 303,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 277,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "10:24",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "10:24",
+        "min": 277
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 303
+     }
+    ],
+    "best": "транспорт",
+    "min": 98,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "marina:ka_3522603827",
    "src": "Kleinanzeigen",
@@ -119,6 +464,110 @@
    "status": "open",
    "also_urls": [],
    "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_10000-1208781127-S",
+   "src": "Jobbörse",
+   "title": "Produktionsmitarbeiter Helfer/in - Elektro (m/w/d)",
+   "firma": "Fe-Fe ELEKTRONIK e.K.",
+   "ort": "Offenburg",
+   "street": "Im Unteren Angel 17",
+   "lat": 48.4766843,
+   "lon": 7.9360796,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208781127-S",
+   "posted": "2026-11-24",
+   "desc": "**Über uns** Als mittelständischer und inhabergeführter Dienstleister in Offenburg liegt unsere Stärke in der präzisen Fertigung elektronischer Baugruppen. In unserem familiären Betrieb mit rund 10 Mitarbeitenden verbinden wir hohen Qualitätsanspruch mit einer persönlichen, wertschätzenden Arbeitsatmosphäre und flachen Hierarchien. Zur Verstärkung unseres Teams suchen wir ab sofort zuverlässige Unterstützung. **Das bieten wir Ihnen** - Attraktive Arbeitszeiten: Geregelte Arbeitszeiten ohne Schichtdienst (Kernarbeitszeit Montag bis Freitag von 07:00 bis 15:45 Uhr) z.B. Vollzeit (37 Std./Woche) oder Teilzeit (ab 6 Std./Tag) - Faire Konditionen: Bei uns gibt es 4 Tage mehr Urlaub pro Jahr als gesetzlich vorgesehen, je nach Betriebszugehörigkeit steigt der Urlaubsanspruch bei uns - Langfristige Perspektive und Leistungsgerechte Vergütung - Wohlfühl-Atmosphäre: Ein familiäres Team, 100% Frauenanteil in der Produktion, gründliche Einarbeitung für deinen optimalen Start bei uns - Gute Erreichbarkeit: Unser Standort ist zentral gelegen und Fußläufig sehr gut vom Bahnhof Offenburg aus zu erreichen. **Ihre Aufgaben** - Bestücken & Löten: Bestücken von Leiterplatten sowie fachgerechtes Löten elektronischer Baugruppen - Montage: Durchführung allgemeiner Montage- und Konfektionierungstätigkeiten in der Elektronikfertigung - Qualitätssicherung: Sorgfältiges und genaues Arbeiten zur Sicherstellung unserer hohen Produktqualität **Ihr Profil** - Erfahrung & Quereinstieg: Erste Erfahrungen im Bereich Elektronik oder im Löten sind von Vorteil, aber kein Muss – motivierte Quereinsteiger (m/w/d) mit handwerklichem Geschick sind bei uns herzlich willkommen - Arbeitsweise: Eine ruhige Hand, Sorgfalt sowie Freude an feinmotorischen Tätigkeiten und Teamarbeit - Sprachkenntnisse: Grundlegende Deutschkenntnisse (mindestens Niveau B1) zur sicheren Verständigung im Arbeitsalltag und bei Arbeitsanweisungen **Interessiert? So erreichen Sie uns!** Wir legen Wert auf einen unkomplizierten Einstieg – melden Sie sich gerne telefonisch, per E-Mail oder kommen Sie einfach kurz persönlich bei uns vorbei. - **Ansprechpartnerin:** Frau Feucht - **Telefon:** +49 (781) 26068 - **E-Mail: **[info@fe-fe.de](mailto:info@fe-fe.de) - **Adresse:** Im Unteren Angel 17, 77652 Offenburg",
+   "zeit": "Vollzeit / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 12.3,
+   "de": "нужен",
+   "de_txt": "Sprachkenntnisse: Grundlegende Deutschkenntnisse (mindestens Niveau B1) zur sicheren Verständigung im Arbeitsalltag und bei Arbeitsanweisungen",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-26T12:30",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 38,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 12,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:11",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:11",
+        "min": 12
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 38
+     },
+     {
+      "kind": "велосипед",
+      "min": 74,
+      "changes": 0,
+      "km": 17.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 74
+       }
+      ],
+      "risky": false,
+      "score": 128
+     }
+    ],
+    "best": "транспорт",
+    "min": 38,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
   },
   {
    "id": "marina:ba_10000-1208806306-S",
@@ -6887,112 +7336,6 @@
    },
    "status": "open",
    "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_10000-1208745416-S",
-   "src": "Jobbörse",
-   "title": "Produktionsmitarbeiter Helfer/in - Elektro (m/w/d)",
-   "firma": "Fe-Fe ELEKTRONIK e.K.",
-   "ort": "Offenburg",
-   "street": "Im Unteren Angel 17",
-   "lat": 48.4766843,
-   "lon": 7.9360796,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208745416-S",
-   "posted": "2026-11-20",
-   "desc": "Als mittelständischer und inhabergeführter Dienstleister liegen unsere Stärken in der Fertigung elektronischen Baugruppen. Wenn Sie bereits erste Erfahrungen im Bereich Elektronik gesammelt haben und sich vorstellen können in einem kleinen Betrieb mit hohem Qualitätsanspruch mitarbeiten zu wollen, dann sollten wir in Gespräch kommen. Löten von elektronischen Baugruppen, Bestücken von Leiterplatten und Montagearbeiten gehören bei uns zu Ihren Hauptaufgaben. Sollten wir Ihr Interesse geweckt haben, dann freuen wir uns auf Ihre Bewerbung. Melden Sie sich gerne telefonisch, per Email oder per Post bei uns. Ansprechpartnerin: Fr. Feucht Tel: +49 (781) 26068 Email: info@fe-fe.de",
-   "zeit": "Vollzeit / Teilzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 12.3,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-24T12:49",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 38,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 12,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:11",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:11",
-        "min": 12
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 38
-     },
-     {
-      "kind": "велосипед",
-      "min": 74,
-      "changes": 0,
-      "km": 17.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 74
-       }
-      ],
-      "risky": false,
-      "score": 128
-     }
-    ],
-    "best": "транспорт",
-    "min": 38,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208781127-S"
-   ],
    "person": "mykyta"
   },
   {
@@ -69809,24 +70152,24 @@
    "person": "mykyta"
   },
   {
-   "id": "mykyta:ba_12704-G5W1C8WWK1Y7T2RK-S",
+   "id": "mykyta:ba_10001-1003430959-S",
    "src": "Jobbörse",
-   "title": "Produktionshelfer (m/w/d)",
-   "firma": "SYNERGIE Personal Deutschland GmbH Rastatt",
-   "ort": "Friesenheim",
+   "title": "Produktionshelfer m/w/d",
+   "firma": "Personal Support Dienstleistungs GmbH",
+   "ort": "Zell am Harmersbach",
    "street": "",
-   "lat": 48.381191850001,
-   "lon": 7.877854369,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-G5W1C8WWK1Y7T2RK-S",
-   "posted": "2026-11-06",
-   "desc": "Über SYNERGIE Erfolg entsteht im WIR - als Karriere-Coach begleiten wir Menschen auf ihrem beruflichen Weg und eröffnen ihnen neue Job-Chancen – persönlich, individuell, nachhaltig! Wir möchten Dir einen Job vermitteln, der eine langfristige Perspektive bietet. Du startest mit Zeitarbeit, doch eine Übernahme durch den Einsatzbetrieb in eine dauerhafte Stelle ist das erklärte Ziel. Wir machen Chancen zu Perspektiven! Produktionshelfer (m/w/d) Standort: Friesenheim (Baden) Anstellungsart(en): Schichtarbeit, Vollzeit Ein sicherer Job mit starken Vorteilen – genau jetzt – für Dich! Starte als Produktionshelfer (m/w/d) in Friesenheim bei einem mittelständigen Familienunternehmen in der Metallbranche und sichere Dir einen unbefristeten Arbeitsvertrag als Produktionshelfer (m/w/d) – mit übertariflicher Bezahlung und vielen Extras. Mach den ersten Schritt und komm ins Team als Produktionshelfer (m/w/d), Fertigungsmitarbeiter (m/w/d), Helfer in der Metallbearbeitung (m/w/d) oder Helfer im Metallbau (m/w/d) in Friesenheim. Kein Anschreiben nötig – einfach bewerben und sofort durchstarten! Über diesen Link(https://spd.pitchyou.de/HSYEY) ganz unkompliziert und direkt per WhatsApp oder unter unten stehenden Kontaktdaten bewerben. Deine Aufgaben - Bestücken und Bedienen von Siebdruck-Maschinen - Auf- und Abstecken - Verpackung der Ware - Durchführung von Qualitätskontrollen Das bringst Du mit - Bereitschaft zur Arbeit im 3-Schicht - Gute Deutschkenntnisse - Erfahrung in der Metallindustrie - Mobilität, wegen schlechte Erreichbarkeit mit Öffentlichen Verkehrsmitteln Wir bieten Dir - Unbefristeter Arbeitsvertrag - Übertarifliche Vergütung, plus aller Zuschläge - Weihnachts- und Urlaubsgeld - Einkaufsrabatte bei zahlreichen Firmen - Persönliche Betreuung vor Ort - Vorschuss- und Abschlagszahlungen nach Vereinbarung - Mitarbeiter werben Mitarbeiter (Bonus 300 €) - Kontakte zu vielen Firmen Christian Klipfel Telefon:07222 774 60 Mail: rastatt-jobs@synergie.de Abteilung(en): Sonstige Branchen Art(en) des Personalbedarfs: AÜ mit Übernahmemöglichkeit, Arbeitnehmerüberlassung Tarifvertrag: GVP Entgeltgruppe: 1",
+   "lat": 48.3461725,
+   "lon": 8.0875787,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003430959-S",
+   "posted": "2026-07-23",
+   "desc": "**Wir suchen Produktionshelfer m/w/d** **Deine Aufgaben:** -Auftragsbearbeitung -Sichtkontrolle -Prüfung der Einzelteile -Montage der Einzelteile -Produktion **Dein Profil:** Zuverlässigkeit, Teamfähigkeit Handwerkliches Geschick Schichtbereitschaft 3 Schicht Haben wir Ihr Interesse geweckt? Dann freue ich mich auf Ihre aussagekräftige Bewerbung und das persönliche Kennenlernen! Personal Support Dienstleistungs GmbH Frau Oksana Iordanidi Hauptstr. 46 77652 Offenburg Telefonnummer: +49 (7 81) 94 85 50 50",
    "zeit": "Vollzeit",
    "schicht": true,
    "quer": false,
    "who": "mykyta",
-   "km": 22.4,
-   "de": "нужен",
-   "de_txt": "Gute Deutschkenntnisse",
+   "km": 20.6,
+   "de": "?",
+   "de_txt": "",
    "help": "",
    "ru": "",
    "prof_txt": "",
@@ -69838,13 +70181,13 @@
     "opts": [
      {
       "kind": "транспорт",
-      "min": 98,
-      "changes": 1,
-      "min_wait": 29,
-      "walk_end": 13,
-      "end_stop": "Friesenheim Schule",
+      "min": 67,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 10,
+      "end_stop": "Birach",
       "dep": "05:21",
-      "arr": "06:59",
+      "arr": "06:29",
       "legs": [
        {
         "walk": true,
@@ -69869,39 +70212,71 @@
        },
        {
         "walk": false,
-        "mode": "Regionalbus",
-        "line": "7141",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Friesenheim Schule",
-        "dep": "06:17",
-        "arr": "06:47",
-        "wait": 29,
-        "min": 30
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
        },
        {
         "walk": true,
         "mode": "пешком",
         "line": "",
-        "from": "Friesenheim Schule",
+        "from": "Birach",
         "to": "работа",
-        "dep": "06:47",
-        "arr": "06:59",
-        "min": 13
+        "dep": "06:19",
+        "arr": "06:29",
+        "min": 10
        }
       ],
       "full": true,
       "risky": false,
-      "score": 101
+      "score": 73
+     },
+     {
+      "kind": "велосипед",
+      "min": 118,
+      "changes": 0,
+      "km": 29.1,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 118
+       }
+      ],
+      "risky": false,
+      "score": 216
      },
      {
       "kind": "до вокзала + пешком",
-      "min": 211,
+      "min": 338,
       "changes": 0,
       "min_wait": null,
-      "walk_end": 185,
+      "walk_end": 312,
       "end_stop": "Offenburg Bahnhof",
       "dep": "05:21",
-      "arr": "08:52",
+      "arr": "11:00",
       "legs": [
        {
         "walk": true,
@@ -69931,43 +70306,22 @@
         "from": "Offenburg Bahnhof",
         "to": "работа",
         "dep": "05:48",
-        "arr": "08:52",
-        "min": 185
+        "arr": "11:00",
+        "min": 312
        }
       ],
       "full": false,
       "risky": false,
-      "score": 211
-     },
-     {
-      "kind": "велосипед",
-      "min": 129,
-      "changes": 0,
-      "km": 31.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 129
-       }
-      ],
-      "risky": false,
-      "score": 238
+      "score": 338
      }
     ],
     "best": "транспорт",
-    "min": 98,
-    "changes": 1
+    "min": 67,
+    "changes": 2
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003430959-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-IE3OSSE90LQUFKPK-S",
     "https://www.jobware.de/job/produktionshelfer-m-w-d-064997805"
    ],
    "person": "mykyta"
@@ -133785,180 +134139,6 @@
    "person": "Марина"
   },
   {
-   "id": "marina:ba_10001-1002589413-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d), Kehl",
-   "firma": "Nils Bogdol GmbH",
-   "ort": "Kehl",
-   "street": "Straßburgerstr",
-   "lat": 48.5755316,
-   "lon": 7.8204323,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002589413-S",
-   "posted": "2026-02-12",
-   "desc": "Glänzende Zukunft gesucht?** Werde Teil des ray-Teams als Reinigungskraft (m/w/d) in 77694 Kehl, Straßburgerstr.!** **Arbeitszeit (SV-pflichtig): ** Mo. - Fr. jeweils 3 Std. nach Absprache **Über uns:** Sauberkeit ist unsere Leidenschaft! Wir sind ein herzliches Team, das gemeinsam dafür sorgt, dass sich Menschen in gepflegten Räumen wohlfühlen. Jetzt suchen wir Verstärkung – vielleicht bist Du genau die richtige Person? **Das bieten wir Dir:** - Pünktliche und faire Bezahlung **nach Tariflohn** **(15,00 €/Stunde)** - Einen sicheren Arbeitsplatz in einem tollen Team - Respekt und Wertschätzung auf allen Ebenen - Ein kollegiales Team mit flachen Hierarchien, in dem Ihre Meinung zählt - Individuelle Aufstiegs- und Weiterbildungsmöglichkeiten, z. B. zum Vorarbeiter (m/w/d) oder zur Assistenz der Objektleitung (m/w/d) **Deine Aufgaben:** - Reinigung unseres Objektes unter Einhaltung von Hygienestandards - Mit Deinem Einsatz sorgst Du für ein angenehmes Umfeld **Das bringst Du mit:** - Ein Auge für Ordnung und Sauberkeit - Zuverlässigkeit und Pünktlichkeit - Verhandlungssichere Deutschkenntnisse - Erfahrung ist super, aber kein Muss – wir arbeiten Dich gerne ein! **Klingt gut?** Dann freuen wir uns auf Dich! Bewirb Dich jetzt unter der Telefonnummer: **0162 200 34 20.** Wir sind von Mo. bis Fr. zwischen 08:00 – 16:00 Uhr erreichbar.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "marina",
-   "km": 19.8,
-   "de": "нужен",
-   "de_txt": "Verhandlungssichere Deutschkenntnisse",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 78,
-      "changes": 2,
-      "min_wait": 5,
-      "walk_end": 4,
-      "end_stop": "Kehl Hochschule/Läger",
-      "dep": "06:59",
-      "arr": "08:17",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:59",
-        "arr": "07:10",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "07:10",
-        "arr": "07:26",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7146",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Willstätt Rössel",
-        "dep": "07:34",
-        "arr": "07:55",
-        "wait": 8,
-        "min": 21
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7136",
-        "from": "Willstätt Rössel",
-        "to": "Kehl Hochschule/Läger",
-        "dep": "08:00",
-        "arr": "08:14",
-        "wait": 5,
-        "min": 14
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Kehl Hochschule/Läger",
-        "to": "работа",
-        "dep": "08:14",
-        "arr": "08:17",
-        "min": 4
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 84
-     },
-     {
-      "kind": "велосипед",
-      "min": 100,
-      "changes": 0,
-      "km": 24.4,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 100
-       }
-      ],
-      "risky": false,
-      "score": 180
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 245,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 219,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "09:27",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "09:27",
-        "min": 219
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 245
-     }
-    ],
-    "best": "транспорт",
-    "min": 78,
-    "changes": 2
-   },
-   "status": "open",
-   "also_urls": [
-    "https://www.jobware.de/job/reinigungskraft-m-w-d-kehl-060704788"
-   ],
-   "person": "Марина"
-  },
-  {
    "id": "marina:ba_10001-1003022467-S",
    "src": "Jobbörse",
    "title": "Reinigungskraft auf Minijobbasis",
@@ -142765,7 +142945,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-G5W1C8WWK1Y7T2RK-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-G5W1C8WWK1Y7T2RK-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-IE3OSSE90LQUFKPK-S"
    ],
    "person": "Марина"
   },
@@ -164799,6 +164980,120 @@
     "best": "транспорт",
     "min": 140,
     "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:jw_060704788",
+   "src": "Jobware",
+   "title": "Reinigungskraft (m/w/d), Kehl",
+   "firma": "Nils Bogdol GmbH",
+   "street": "",
+   "lat": 48.5733977,
+   "lon": 7.8114002,
+   "ort": "Kehl, Rhein",
+   "url": "https://www.jobware.de/job/reinigungskraft-m-w-d-kehl-060704788",
+   "posted": "2026-02-13",
+   "desc": "",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 20.4,
+   "de": "?",
+   "de_txt": "",
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 58,
+      "changes": 1,
+      "min_wait": 19,
+      "walk_end": 8,
+      "end_stop": "Kehl",
+      "dep": "06:32",
+      "arr": "07:30",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS4",
+        "from": "Appenweier",
+        "to": "Kehl",
+        "dep": "07:11",
+        "arr": "07:23",
+        "wait": 19,
+        "min": 12
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Kehl",
+        "to": "работа",
+        "dep": "07:23",
+        "arr": "07:30",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 61
+     },
+     {
+      "kind": "велосипед",
+      "min": 108,
+      "changes": 0,
+      "km": 26.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 108
+       }
+      ],
+      "risky": false,
+      "score": 196
+     }
+    ],
+    "best": "транспорт",
+    "min": 58,
+    "changes": 1
    },
    "status": "open",
    "also_urls": [],

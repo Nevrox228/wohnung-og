@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:46",
+ "generated": "2026-11-26T14:47",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 606,
-  "queue": 249,
-  "ai_focus": 315
+  "all": 608,
+  "queue": 251,
+  "ai_focus": 317
  },
  "jobs": [
   {
@@ -250,6 +250,34 @@
    "posted": "2026-10-14",
    "first_seen": "2026-11-04T12:29",
    "description": "Befristet auf 12 Monate - 15 Std./Woche Sie begeistern sich für Generative AI, Agentensysteme und moderne Softwareentwicklung? Sie möchten nicht nur über KI sprechen, sondern aktiv an innovativen Lösungen arbeiten? Dann werden Sie Teil unseres Teams! Gemeinsam erforschen und entwickeln wir den Einsatz generativer KI in der Produktentwicklung und treiben innovative Themen voran. Dabei arbeiten Sie sowohl an strategischen Zukunftsthemen als auch an konkreten Lösungen für den Entwicklungsalltag. Ihre Aufgaben Sie evaluieren, implementieren und dokumentieren KI-Agenten auf Basis von LangGraph und verwandten Frameworks Sie recherchieren und bewerten neue KI-Technologien, Frameworks und Tools im Bereich Generative AI und Agentic AI Sie unterstützen die Weiterentwicklung agentischer Systeme sowie der dazugehörigen Tool- und Agentenlandschaft Sie wirken bei der Integration, dem Betrieb und der Pflege bestehender KI-Lösungen mit Sie unterstützen die Organisation, Durchführung und Nachbereitung von Workshops und weiteren Teamaktivitäten Sie bereiten Best Practices, Erkenntnisse und Anwendungsbeispiele auf und teilen diese mit dem Team Sie unterstützen die Pflege von Backlogs, technischer Dokumentation und Wissensmanagement Ihr Profil Studium der Informatik, Technischen Informatik, Embedded Systems, Data Science oder eines vergleichbaren technischen Studiengangs Interesse an generativer KI, Large Language Models (LLMs), Agentic AI und moderner Softwareentwicklung Erste Programmiererfahrung, idealerweise mit Python oder C++, sowie Kenntnisse in Git von Vorteil Grundkenntnisse in der Embedded Softwareentwicklung, beispielsweise mit Linux-basierten Systemen, Mikrocontrollern oder Echtzeitsystemen, von Vorteil Erste Erfahrungen mit KI-Frameworks und aktuellen KI-Tools wünschenswert Neugier auf neue Technologien, Freude am Experimentieren und eigenständigen Lernen Strukturierte und selbstständige Arbeitsweise Gute Deutsch- und Englischkenntnisse Kontakt: Sarah Disch"
+  },
+  {
+   "id": "li_4493417999",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 5,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent:in Software & KI",
+   "company": "Spira Labs",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4493417999",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-26T14:17",
+   "description": "Über die Position Als Werkstudent:in entwickelst du zentrale Softwarekomponenten für ein Unternehmen, das wir gerade aufbauen. Du arbeitest eng mit unserem wissenschaftlichen Team zusammen und übersetzt fachliche Methoden in verlässliche Software. Dabei gestaltest du mit, wie wir Daten verarbeiten, Analysen durchführen und KI dort einsetzen, wo sie fachlich einen Mehrwert liefert. Du begleitest deine Lösungen von der ersten Umsetzung bis in den produktiven Betrieb. Deine Arbeit beeinflusst direkt, wie zuverlässig und nachvollziehbar die Ergebnisse unseres Produkts sind. Deine Aufgaben Wissenschaftliche Anforderungen gemeinsam mit dem Team konkretisieren und in Datenpipelines, Analyse-Workflows und APIs umsetzen. KI-Anwendungen entwickeln, geeignete Modelle und Werkzeuge auswählen und ihre Ergebnisse systematisch evaluieren. Software produktionsreif machen und betreiben. Dazu gehören automatisierte Tests, ein sauberer Umgang mit Fehlerfällen und Monitoring. Technische Entscheidungen mitgestalten, damit wir die Software mit neuen Daten und Methoden zuverlässig weiterentwickeln können. Dein Profil Du studierst Informatik, Data Science, Bioinformatik oder ein vergleichbares Fach und programmierst sicher in Python und dem Terminal. Du hast bereits eine KI-Anwendung selbst umgesetzt und kannst erklären, wie du ihre Ergebnisse geprüft, Fehlerfälle behandelt und die Anwendung für den Einsatz vorbereitet hast. Du verfügst über sehr gute Englischkenntnisse in Wort und Schrift und kannst technische und wissenschaftliche Themen auf Englisch besprechen und dokumentieren. Du möchtest Verantwortung dafür übernehmen, dass deine Lösungen im laufenden Betrieb zuverlässig funktionieren und für andere wartbar bleiben. Du arbeitest gerne mit Menschen aus anderen Fachgebieten zusammen und fragst nach, bis du die wissenschaftlichen Anforderungen verstanden hast. Wenn du Lust hast, die technische Grundlage eines entstehenden TechBio-Unternehmens mit aufzubauen, freuen wir uns auf deine Bewerbung!"
   },
   {
    "id": "ba_12951-e703673d-7879-4640--S",
@@ -2011,6 +2039,36 @@
    "posted": "2026-11-03",
    "first_seen": "2026-11-04T12:29",
    "description": "📍 Dorsten, NRW 🕒 Werkstudent (bis zu 20 Std./Woche) ⏰ Arbeitszeit schwerpunktmäßig vormittags unter der Woche 🏁 Start: ab sofort 🏢 Zunächst überwiegend vor Ort in Dorsten, später teilweise Homeoffice denkbar Gestalte mit, wie KI einen Mittelständler verändert – mit Code, Daten und KI. Du baust mit KI lieber echte Lösungen, als nur darüber zu lesen? Dann tu es nicht länger nur für Uni-Projekte. Bei uns entwickelst Du Tools, Automatisierungen und Reportings für ein echtes Unternehmen – mit eigenem Lager, echten Kunden und Daten aus dem Tagesgeschäft. Dafür bekommst Du einen Claude-Zugang im höchsten Tarif, den Du ausreizen darfst. Ob Informatik, Wirtschaftsinformatik oder Data Science: Unser Geschäft erklären wir Dir. Bauen musst Du wollen. Wer wir sind E-M-C-direct ist ein inhabergeführter technischer Großhandel in Dorsten. Wir liefern Kabelschutz, Kabelbinder, Befestigungstechnik und Werkzeuge an Firmenkunden aus Fahrzeugbau, Industrie und Solarbranche, direkt ab unserem eigenen Lager – im DACH-Raum und zunehmend international. KI ist bei uns Chefsache: Die Geschäftsführung treibt das Thema selbst voran, und Du baust direkt mit. Dein Job Du findest gemeinsam mit Vertrieb, Einkauf, Lager und Marketing heraus, wo KI echte Arbeit abnimmt – und setzt es um. Du entwickelst interne Tools, kleine Web-Anwendungen, Skripte und KI-Agenten für EMC. Du verbindest unsere Systeme und ersetzt manuelle Routinen durch stabile, automatisierte Abläufe. Du ziehst Daten aus unserer Warenwirtschaft und weiteren Quellen und baust daraus Dashboards und Kennzahlen, mit denen wir entscheiden. Du hilfst beim Aufbau unserer KI- und Dateninfrastruktur: Schnittstellen, Datenmodelle, Berechtigungen, Dokumentation – sicher und datenschutzkonform. Du zeigst Deinen Kollegen, wie sie KI-Tools gut nutzen, damit Deine Lösungen im Alltag auch ankommen. Was Du mitbringst Du bist als Student eingeschrieben, idealerweise in Informatik, Wirtschaftsinformatik, Data Science oder einem ähnlichen Fach. Du programmierst sicher, am liebsten in Python, und kommst mit SQL, Datenbanken und Excel klar. Du arbeitest täglich mit KI-Tools wie Claude oder ChatGPT und hast schon eigene Projekte damit gebaut. Du packst an, lieferst Ergebnisse und arbeitest Dich selbstständig in neue Systeme ein, auch wenn nicht alles vorgegeben ist. Dich interessiert, wie ein Unternehmen tickt. Erfahrung mit Warenwirtschaft, E-Commerce oder Reporting ist ein Plus. Du gehst verantwortungsvoll mit Daten um und hast ein Gespür für Datenschutz und IT-Sicherheit. Du sprichst gut Deutsch, Englisch ist ein Plus. Du wohnst in Dorsten oder Umgebung und kannst uns gut erreichen. Was Dich hier erwartet Kein Einzelkämpfer-Job: Du arbeitest mit anderen Werkstudenten und Kollegen zusammen, die ebenfalls mit KI bauen. Ihr entwickelt gemeinsam Anwendungen, teilt Prompts und Kniffe und lernt voneinander. Echte Wirkung: Was Du baust, läuft im Tagesgeschäft. Du siehst sofort, ob es hilft. Top-Werkzeuge: Claude im höchsten Tarif und modern"
+  },
+  {
+   "id": "ba_16963-REF553U-9971631117-S",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent:in (d/m/w) - Storytelling & AI Content",
+   "company": "Haufe-Lexware GmbH & Co.KG",
+   "location": "Freiburg im Breisgau",
+   "distance_km": 62.8,
+   "remote": false,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "Jobbörse",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16963-REF553U-9971631117-S",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [
+    "https://www.jobware.de/job/werkstudent-in-d-m-w-storytelling-and-ai-content-065304913"
+   ],
+   "salary": "",
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-26T14:17",
+   "description": "# Unternehmensbeschreibung Für unser **Lexware** Brand-&-Communications-Team suchen wir zum nächstmöglichen Zeitpunkt am Standort Freiburg eine:n **Werkstudent:in (d/m/w) - Storytelling & AI Content** (erst einmal auf ein Jahr befristet). Du hast Lust, spannende Geschichten von Selbstständigen aufzuspüren, inspirierende Menschen kennenzulernen und mit KI neue Wege der Content-Produktion zu gestalten? Du denkst AI-first, bist neugierig und hast ein Gespür für gute Geschichten? Dann werde Teil unseres Teams und gestalte mit uns Tell Your Story! Unser Office in **Freiburg im Breisgau** bietet die ideale Umgebung für Zusammenarbeit und kreativen Austausch. Wir legen Wert auf direkte Kommunikation vor Ort, daher treffen wir uns mehrmals die Woche im Office. # Stellenbeschreibung In deiner Rolle als **Werkstudent:in (d/m/w)** im Bereich Storytelling & AI Content bist du als Story Seeker für unser Format **Tell Your Story** unterwegs. Du spürst spannende Geschichten von Selbstständigen auf, lernst inspirierende Menschen kennen und machst ihre Geschichten sichtbar. - Du identifizierst Selbstständige und Unternehmer:innen mit besonderen Geschichten und Potenzial für unser Format Tell Your Story - Eigenständig führst du Interviews mit Selbstständigen und entwickelst daraus authentische Geschichten, in denen Menschen und ihre unternehmerischen Wege im Mittelpunkt stehen - Die Interviews bereitest du redaktionell auf und nutzt dafür unsere KI-Prozesse und Workflows - Du arbeitest aktiv mit verschiedenen KI-Tools, testest Neues und entdeckst neue Anwendungsmöglichkeiten. Gemeinsam mit dem Team entwickelst du unsere AI-first-Workflows weiter, damit die Content-Produktion effizienter, besser und skalierbar wird - Als Teil des Brand-&-Communications-Teams entwickelst du Tell Your Story mit: Eigene Themenideen und Feedback aus den Interviews bringst du ebenso ein wie Impulse für neue Formate # Qualifikationen - Eingeschrieben bist du idealerweise in einem Studiengang wie Journalismus, Kommunikation, Medien, Germanistik, Marketing oder einem vergleichbaren Bereich - Du interessierst dich ausgeprägt für Geschichten, Menschen und Unternehmertum und machst mit guten Fragen spannende Einblicke und persönliche Geschichten sichtbar - Kommunikativ und offen gehst du auf Menschen zu, führst gerne eigenständig Interviews und knüpfst Kontakte - Du hast ein gutes Gespür für Sprache, Storytelling und redaktionelle Qualität und bereitest Inhalte verständlich, authentisch und zielgruppengerecht auf - KI-Tools gehören für dich selbstverständlich zum Arbeitsalltag, und idealerweise hast du KI bereits für redaktionelle Aufgaben und die Content-Erstellung eingesetzt - Neue KI-Tools auszuprobieren, eigene Workflows aufzubauen und Prozesse weiterzuentwickeln reizt dich. Du denkst AI-first und hast keine Berührungsängste mit neuen Technologien - Eigenständig, strukturiert und lösungsorientiert arbeitest du und bringst gerne eigene Ideen ein - Unsere Teamsprache ist Deutsch, daher sind"
   },
   {
    "id": "ss_14796292",
@@ -8376,7 +8434,9 @@
    "url": "https://de.linkedin.com/jobs/view/4481312838",
    "apply_url": "",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://de.linkedin.com/jobs/view/4495028120"
+   ],
    "salary": "",
    "posted": "2026-10-22",
    "first_seen": "2026-11-04T18:01",
