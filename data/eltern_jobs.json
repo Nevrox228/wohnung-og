@@ -1,9 +1,113 @@
 {
- "generated": "2026-11-27T09:58",
+ "generated": "2026-11-27T11:00",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1078,
+ "count": 1077,
  "items": [
+  {
+   "id": "mykyta:ba_10000-1208824030-S",
+   "src": "Jobbörse",
+   "title": "Mitarbeiter/in Lager in TZ bzw. auf geringf. Basis (m/w/d)",
+   "firma": "Gotthard Vollmer Transporte",
+   "ort": "Oberkirch",
+   "street": "St.-Josefstr. 13",
+   "lat": 48.5318386,
+   "lon": 8.0198677,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208824030-S",
+   "posted": "2026-11-27",
+   "desc": "Zur Verstärkung unseres Teams suchen wir ab sofort eine/n ## Mitarbeiter/in Lager in TZ bzw. auf geringf. Basis (m/w/d) in Teilzeit Mo, Di, und Mi bzw. auf geringf. Basis - nach Absprache individuell gestaltbar Arbeitsort ist Offenburg ### Ihre Tätigkeit: - beladen von LKWs - kommissionieren - Staplerführerschein muss vorhanden sein - scannen ### Fühlen Sie sich angesprochen ? Dann freuen wir uns Sie kennenzulernen! Ansprechpartner ist Herr Vollmer 0176/ 11912240 v.transporte@gmx.de",
+   "zeit": " / Teilzeit",
+   "schicht": false,
+   "quer": false,
+   "who": "mykyta",
+   "km": 4.5,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T10:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 25,
+      "changes": 0,
+      "km": 5.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 25
+       }
+      ],
+      "risky": false,
+      "score": 30
+     },
+     {
+      "kind": "транспорт",
+      "min": 34,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 8,
+      "end_stop": "Nußbach Kirche",
+      "dep": "06:39",
+      "arr": "07:13",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "06:39",
+        "arr": "06:47",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "RB1",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Nußbach Kirche",
+        "dep": "06:47",
+        "arr": "07:06",
+        "wait": null,
+        "min": 19
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Nußbach Kirche",
+        "to": "работа",
+        "dep": "07:06",
+        "arr": "07:13",
+        "min": 8
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 34
+     }
+    ],
+    "best": "велосипед",
+    "min": 25,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3583504324",
    "src": "Kleinanzeigen",
@@ -62930,110 +63034,6 @@
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-9cbb6771-628e-460b--S"
    ],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_19220-c79eacc9b0284e1b-S",
-   "src": "Jobbörse",
-   "title": "Aushilfe Warenverräumung Minijob (m/w/d)",
-   "firma": "Lidl Dienstleistung GmbH & Co. KG",
-   "ort": "Offenburg",
-   "street": "Freiburger Str. 14",
-   "lat": 48.475899,
-   "lon": 7.94088,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-c79eacc9b0284e1b-S",
-   "posted": "2026-09-28",
-   "desc": "### Einleitung Wir finden, unsere Kunden verdienen nur das Beste. Dich zum Beispiel. Du erfüllst Kundenwünsche am laufenden Band und behältst als echtes Verkaufstalent immer den Überblick. Wir sind froh, dass du da bist, und zeigen dir das nicht nur über ein faires Gehalt, sondern auch durch ein faires Miteinander im Alltag ### Deine Aufgaben - Stundenweise unterstützt du die Kollegen in deiner Filiale bei der täglichen Warenverräumung - Du packst an und kümmerst dich mit vollem Einsatz um das Befüllen unserer Regale und Theken - Mit einer ansprechenden Warenpräsentation sorgst du für ein gepflegtes Filialbild und ein gelungenes Einkaufserlebnis für unsere Kunden ### Dein Profil - Lust auf die dynamische Welt des Handels, gerne auch als Quereinsteiger - Schnelle und effiziente Arbeitsweise - Teamgeist und Spaß am Anpacken - Zuverlässigkeit und zeitliche Flexibilität zur punktuellen Unterstützung v. a. in den Morgen- oder Abendstunden ### Wir bieten - Übertariflicher [Mindesteinstiegslohn](https://jobs.lidl.de/lidl-als-arbeitgeber/mindesteinstiegslohn) inklusive Urlaubs- und Weihnachtsgeld - Exklusiver 5 % Einkaufsrabatt in unseren Filialen - Bezahlte Überstunden bei minutengenauer Zeiterfassung - Unbefristeter Arbeitsvertrag und 6 Wochen Urlaub/Jahr - Weitere Leistungen gemäß Tarifvertrag (Zuschläge, Sonderurlaub, u.v.m.) - Intensive Einarbeitung mit Begleitung durch einen persönlichen Paten - Vielfältige betriebliche Gesundheitsangebote und exklusive Sonderkonditionen bei ausgewählten Fitnessanbietern deutschlandweit - Vergünstigtes Deutschlandticket Wir legen Wert darauf, dass sich dein Einstieg bei uns lohnt! Mit attraktiven Benefits und einer Unternehmenskultur, die auf Zutrauen, Vielfalt und ein transparentes Gehaltssystem unabhängig vom Geschlecht setzt. Hört sich gut an? Dann lass bald von dir hören! So wirst du Teil von #teamlidl: Wir benötigen kein Anschreiben und Lebenslauf von dir. Klick einfach auf „Jetzt bewerben“ und folge den weiteren Schritten. Wir freuen uns auf dich! Wenn deine Wunschposition mehrfach ausgeschrieben ist, bewirb dich bitte nur für deine bevorzugte Filiale. Wenn uns deine Bewerbung grundsätzlich überzeugt, tauschen wir uns zu einem späteren Zeitpunkt über mögliche alternative Einsatzorte aus.",
-   "zeit": " / Teilzeit / Minijob",
-   "schicht": false,
-   "quer": false,
-   "who": "mykyta",
-   "km": 12.0,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Другое",
-   "first_seen": "2026-11-15T23:00",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 34,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 8,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "06:32",
-      "arr": "07:07",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "06:59",
-        "arr": "07:07",
-        "min": 8
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 34
-     },
-     {
-      "kind": "велосипед",
-      "min": 72,
-      "changes": 0,
-      "km": 17.5,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 72
-       }
-      ],
-      "risky": false,
-      "score": 124
-     }
-    ],
-    "best": "транспорт",
-    "min": 34,
-    "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
    "person": "mykyta"
   },
   {
@@ -130196,7 +130196,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/spuelhilfe-m-w-d-aramark/3583580227-110-8047"
+   ],
    "person": "Марина"
   },
   {
@@ -136692,64 +136694,6 @@
     "best": "транспорт",
     "min": 89,
     "changes": 2
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10000-1203696097-S",
-   "src": "Jobbörse",
-   "title": "Reinigungskraft (m/w/d) für Zimmer & öffentliche Bereiche",
-   "firma": "Karl-Heinz Bühler e.K.",
-   "ort": "Biberach",
-   "street": "Dörfle 20",
-   "lat": 48.3210134,
-   "lon": 8.0031839,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1203696097-S",
-   "posted": "2025-09-09",
-   "desc": "**Reinigungskraft (m/w/d) für Zimmer & öffentliche Bereiche gesucht** **Teilzeit | ab sofort | 3–5 Tage/Woche | vormittags** Jahresvertrag mit Option auf ein unbefristetes Arbeitsverhältnis, wenn beide Seiten das wünschen. Für unser engagiertes Team suchen wir ab sofort eine zuverlässige und motivierte Reinigungskraft (m/w/d) zur Unterstützung bei der Reinigung unserer Zimmer und öffentlichen Bereiche. **Das bieten wir Ihnen:** - Teilzeitstelle mit flexibler Einsatzmöglichkeit (mind. 3, max. 5 Tage pro Woche) - Arbeitszeiten ausschließlich vormittags zwischen 7/8 Uhr und 12/13 Uhr – ideal für die Vereinbarkeit mit Familie oder Freizeit - 4 bis 5 Stunden täglich, je nach Arbeitsanfall - 6 Wochen Jahresurlaub - Elektronische Zeiterfassung – transparente und faire Arbeitszeitdokumentation - Zuschläge an Sonn- und Feiertagen - Regelmäßig freie Wochenenden zur Erholung - Benzinzuschuss für Pendler - Personalzimmer mit eigenem Bad kann bei Bedarf gegen Miete gestellt werden **Das bringen Sie mit:** - Erfahrung in der Reinigung von Vorteil, aber kein Muss – wir arbeiten Sie gründlich ein - Freude an Sauberkeit und Hygiene sowie ein Blick fürs Detail - Zuverlässigkeit, Pünktlichkeit und eine saubere, sorgfältige Arbeitsweise - Freundliches Auftreten und Teamfähigkeit - Flexibilität je nach Arbeitsanfall **Haben wir Ihr Interesse geweckt?** **Dann freuen wir uns auf Ihre Bewerbung – gerne per E-Mail, telefonisch oder persönlich vor Ort!**",
-   "zeit": " / Teilzeit",
-   "schicht": true,
-   "quer": true,
-   "who": "marina",
-   "km": 24.1,
-   "de": "?",
-   "de_txt": "",
-   "agency": false,
-   "kind": "Уборка",
-   "first_seen": "2026-11-04T13:04",
-   "prof": false,
-   "prof_txt": "",
-   "help": "",
-   "ru": "",
-   "route": {
-    "opts": [
-     {
-      "kind": "велосипед",
-      "min": 138,
-      "changes": 0,
-      "km": 33.9,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 138
-       }
-      ],
-      "risky": false,
-      "score": 256
-     }
-    ],
-    "best": "велосипед",
-    "min": 138,
-    "changes": 0
    },
    "status": "open",
    "also_urls": [],
