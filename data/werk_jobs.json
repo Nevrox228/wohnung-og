@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T00:24",
+ "generated": "2026-11-27T01:24",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 618,
-  "queue": 260,
-  "ai_focus": 324
+  "all": 619,
+  "queue": 261,
+  "ai_focus": 326
  },
  "jobs": [
   {
@@ -2847,6 +2847,34 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4489966020",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Praktikum im Bereich KI für Qualitätsmanagement (m/w/x)",
+   "company": "ZEISS Group",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4489966020",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-11",
+   "first_seen": "2026-11-27T00:54",
+   "description": "Seeing beyond - future of medical technology Seit mehr als 100 Jahren treibt die Medizintechnik von ZEISS den Fortschritt in der Augenheilkunde und Mikrochirurgie voran.In der Augenheilkunde unterstützen unsere Lösungen dabei, die Sehkraft von Menschen zu jedem Zeitpunkt des Lebens zu erhalten und zu verbessern. In der Mikrochirurgie ermöglichen unsere Lösungen gezielte Eingriffe am erkrankten Gewebe, sodass kleine und empfindliche Organe weiterhin optimal funktionieren Deine Rolle Bei uns hast Du die Möglichkeit, Studium und Praxis optimal miteinander zu verbinden und aktiv an spannenden Projekten mitzuarbeiten. So sammelst Du wertvolle Erfahrungen, baust Dein Netzwerk auf und entwickelst Dich sowohl fachlich als auch persönlich weiter. AI & Digitalisierung Unterstützung bei der Einführung und Betreuung von AI-gestützten Anwendungen im Qualitätsmanagement Mitarbeit an der Weiterentwicklung unseres AI-gestützten Qualitätsmanagementsystems Unterstützung beim Aufbau digitaler Wissensplattformen und intelligenter Such- und Assistenzsysteme Analyse bestehender QM-Prozesse sowie Identifikation von Automatisierungs- und Digitalisierungspotenzialen Mitwirkung bei Pilotprojekten und Proof-of-Concepts für neue AI-Anwendungen Erstellung von Dashboards, Datenmodellen und digitalen Workflows Training & Change Management Unterstützung bei Anwenderschulungen und Kommunikation neuer digitaler Lösungen Erstellung von Schulungsunterlagen, Anleitungen und Best-Practice-Dokumentationen Unterstützung bei der erfolgreichen Einführung neuer Technologien im Unternehmen Dein Profil Aktuelles Studium im Bereich Fachinformatik, Wirtschaftsinformatik, Digitalisierungsmanagement, Medizintechnik, Qualitätsmanagement oder vergleichbare Fachrichtungen Begeisterung für Künstliche Intelligenz, Digitalisierung und innovative Technologien Erste Kenntnisse in Programmierung (z. B. Python, SQL, JavaScript oder vergleichbar) Interesse an Datenanalyse, Datenbanken und modernen Softwarelösungen Strukturierte und selbstständige Arbeitsweise Hohes Qualitätsbewusstsein und Interesse an regulierten Umgebungen Gute Deutsch- und Englischkenntnisse in Wort und Schrift Es ist ebenfalls möglich, das Thema im Rahmen einer Abschlussarbeit zu bearbeiten. Klingt spannend? Dann werde Teil von #teamZEISS und gestalte mit uns die Zukunft! Reiche uns hierfür bitte Deine vollständigen Bewerbungsunterlagen (Lebenslauf, Zeugnisse etc.) ein. Your ZEISS Recruiting Team Falk Dymke"
   },
   {
    "id": "li_4440269223",
@@ -9616,6 +9644,34 @@
    "description": ""
   },
   {
+   "id": "li_4495564275",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Applied AI Intern – Go-to-Market (all genders)",
+   "company": "revel8",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "build with AI tools, not the name of your degree. Are an AI-native builder: comfortable building with AI t",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4495564275",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-26",
+   "first_seen": "2026-11-27T00:54",
+   "description": "Our mission We're on a mission to create 10 million human firewalls! At revel8, we redefine cybersecurity training with hyper-realistic simulations that reflect today's evolving attack landscape. Our innovative platform combines AI-driven multi-channel attacks with gamified, real-time learning to build resilience where it matters most: the people. Your mission Every deal we win starts with the right account and the right next step, and too much of that work still happens by hand. As our Applied AI Intern – Go-to-Market, you turn that manual work into systems that run themselves, from finding and enriching accounts to keeping our CRM clean and telling the right person what to do next. Success means AI workflows running in production that our BDRs and AEs use every day, a CRM that flags its own problems, and a prioritized account list waiting for every BDR and AE each morning. You won't wait months for a rollout. You get real ownership of live GTM systems, not side projects, and a front-row view of how a fast-growing B2B SaaS company scales its sales organization. What Your Day-to-day Will Look Like Workflow Design: You design and ship AI agents and workflows with Claude Code, Claude skills, Make and HubSpot that run core GTM processes on their own, from research and enrichment to routing and reporting. A CRM That Maintains Itself: You build automated research that maps group structures (parent, subsidiaries, headcount, industry, territory), finds duplicates and keeps HubSpot clean without manual work. Pipeline Hygiene on Autopilot: You turn our CRM into a system that flags what needs attention, such as stale deals or missing next steps, and pushes the right action to the right person. Smarter Account Targeting: You rebuild how we find and prioritize our next customers, so every BDR and AE starts the day with the right accounts and contacts. Tools for Sales: You build the tools the team reaches for every day, from account research to meeting prep, giving them an unfair advantage. Product Thinking: You work side by side with AEs and BDRs, learn where they lose time, and decide what's worth automating based on effort, revenue impact and time saved. Rethink, Then Ship: You take a manual, repetitive process, rebuild it from scratch, and have it live and in use within days, tested, documented and built to last. Is it you we are looking for? You... Are currently studying engineering, computer science, or business with a strong tech focus. What matters most is that you can build with AI tools, not the name of your degree. Are an AI-native builder: comfortable building with AI tools even if you didn't train as a software engineer, with something real to show, such as a prototype, an agent or an automation. Love building things with impact from day one and enjoy seeing them used. Are fluent in English, the language we work in across the whole team. Nice To Have, But Not a Must A curious generalist with B2B SaaS acumen: you understand how B2B companies win c"
+  },
+  {
    "id": "li_4491937628",
    "queue": false,
    "missing_skills": [
@@ -13080,34 +13136,6 @@
    "posted": "2026-10-28",
    "first_seen": "2026-11-04T12:29",
    "description": "An unserem Standort in Mössingen suchen wir **ab sofort** für die Abteilung **Vertrieb und Marketing einen** **Werkstudenten (m/w/d),** der die Internationalisierung unserer Website eigenständig vorantreibt. **Ihre Aufgaben:** - Sie betreuen die Sprachvarianten unserer Website. Bestehende Varianten halten Sie aktuell, neue Varianten planen Sie mit uns und setzen diese um. - Sie steuern hierbei in erster Linie den Prozess, holen Übersetzungen und Freigaben ein, üblicherweise in Kooperation mit unseren muttersprachlichen Partnern im Markt, behalten Fristen im Blick und klären Rückfragen. - Nach Erhalt der Übersetzungen legen Sie in unserem CMS Pimcore die jeweilige Landesvariante an und pflegen diese vollständig ein. - Sie prüfen die Landesvarianten unter anderem auf vollständige Inhalte, eine korrekte Darstellung und funktionierende Verlinkungen. - Sie halten Länderinhalte aktuell, beispielsweise Ansprechpartner, Kontaktdaten, Downloads und Grafiken. - Sie koordinieren die Erstellung landessprachlicher Grafiken in Zusammenarbeit mit unserer Mediengestaltung und pflegen diese im CMS ein. - Sie bauen ein internationales Glossar unserer Fachbegriffe auf und pflegen dieses. - Sie dokumentieren die Abläufe, damit diese für weitere Sprachen wiederverwendbar sind. - Beim laufenden Website-Relaunch bringen Sie die Perspektive der Sprachvarianten ein. **Das bringen Sie mit:** - Laufendes Studium, gerne Kommunikation, Medien, Sprachen, Wirtschaft oder vergleichbar - Noch mindestens zwei Jahre Studienzeit - Sehr gute Deutschkenntnisse und sicheres Englisch, auch in der schriftlichen Abstimmung mit internationalen Partnern; eine weitere Fremdsprache ist ein Plus - Organisationstalent, Teamfähigkeit und der Ehrgeiz, Abläufe selbst in die Hand zu nehmen - Sorgfalt, auch bei wiederkehrenden Aufgaben - Sicherer Umgang mit MS Office - Erfahrung mit einem CMS ist von Vorteil, aber keine Bedingung **Das bieten wir Ihnen:** - Bis zu 20 Stunden pro Woche in der Vorlesungszeit, in den Semesterferien nach Absprache mehr - Vergütung von 18,80 Euro pro Stunde - Flexible Arbeitszeiten rund um Ihre Vorlesungen und die Möglichkeit zum mobilen Arbeiten - Eine feste Patin oder ein fester Pate im Marketing für Ihre Einarbeitung - Echte Verantwortung für ein Projekt mit internationaler Sichtbarkeit - Moderne, ergonomische Arbeitsplätze **Haben wir Ihr Interesse geweckt?** Dann freuen wir uns auf Ihre Bewerbung mit vollständigen Bewerbungsunterlagen. Senden Sie uns diese gerne über unsere Karriereseite [Karriere | SIMTEK](https://www.simtek.com/de_DE/karriere) oder per E-Mail an **jobs@simtek.com** zu. Wir freuen uns darauf, Sie kennenzulernen!"
-  },
-  {
-   "id": "ba_10001-1003660319-S",
-   "queue": false,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 2,
-   "ai_focus": false,
-   "type": "Werkstudent",
-   "track": "Online-Marketing",
-   "title": "Werkstudent / Praxissemester (m/w/d) - CRM & Business Development Solarbranche",
-   "company": "BRC Solar GmbH",
-   "location": "Ettlingen",
-   "distance_km": 51.9,
-   "remote": false,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": false,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003660319-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "",
-   "posted": "2026-09-07",
-   "first_seen": "2026-11-04T12:29",
-   "description": "### **Du gestaltest mit uns die Energiewende!** **Werde ein Teil von BRC Solar als Werkstudent/Praxissemester (m/w/d) für CRM & Business Development!** Gestalte die Zukunft aktiv mit! Wir, die **BRC Solar GmbH**, stehen seit 2018 für smarte elektronische Lösungen im Bereich Photovoltaik. Wir entwickeln innovative Elektroniklösungen für Photovoltaikanlagen und unterstützt Installateure, Fachpartner und Kunden mit Ihren Lösungen dabei, Solaranlagen effizienter und leistungsfähiger zu betreiben. Für den Aufbau eines professionellen Customer-Relationship-Management Systems suchen wir einen motivierten Werkstudenten oder Praktikanten im Praxissemester (m/w/d). Du erhältst die Möglichkeit, ein zentrales Unternehmensprojekt aktiv mitzugestalten und gemeinsam mit unserem Vertriebs-Team eine CRM-Struktur von Grund auf aufzubauen. ### **DAS IST UNSER ANGEBOT** - Du bekommst die Chance, ein **CRM-System von Grund auf mit aufzubauen und aktiv mitzugestalten.** - **Ein Umfeld**, in welchem deine Eigeninitiative geschätzt wird und du schnell Verantwortung übernehmen kannst. - Spannende **Einblicke in den B2B-Vertrieb** und in eine dynamisch wachsende Solarbranche. - **Langfristige Perspektive:** Wir bieten dir die Möglichkeit, deine Abschlussarbeit bei uns zu schreiben und nahtlos in das Berufsleben einzusteigen - **Attraktiver Arbeitsplatz:** Dein Büro ist gut erreichbar – alternativ stehen Parkplätze mit Ladeoption für E-Auto oder E-Bike bereit. ### **DAS SIND DEINE AUFGABEN** **Aufbau unseres CRM-Systems** - Unterstützung bei der Einführung und dem Aufbau unseres CRM-Systems - Einarbeitung in die Funktionen und Möglichkeiten des CRM-Systems - Entwicklung sinnvoller Datenstrukturen, Kategorien und Kontaktsegmente - Erstellung von Vorschlägen für die optimale Nutzung des CRM-Systems im Vertrieb - Recherche und Bewertung weiterer CRM-Funktionen zur Effizienzsteigerung **Datenmanagement & Netzwerkaufbau** - Erfassung und Pflege bestehender Kontakte im CRM-System - Strukturierung von Kontakten aus den Bereichen Solarteure, Großhandel, Projektentwickler und Distributoren - Entwicklung einer sinnvollen Kategorisierung und Datenstruktur für unsere Kunden- und Partnernetzwerke - Unterstützung beim Aufbau eines nachhaltigen Customer-Relations-Netzwerks **CRM-Analysen & Prozesse** - Entwicklung von Kennzahlen (KPIs) zur Erfolgsmessung von Vertriebs- und Marketingaktivitäten - Erstellung von Auswertungen, Reports und Dashboards - Unterstützung bei der Entwicklung von E-Mail-Kampagnen und Mailing-Prozessen - Identifikation von Potenzialen zur Verbesserung von Kundenbindung, Vertriebssteuerung und internen Prozessen ### **DEIN PROFIL** - Eingeschriebener Student (m/w/d) im Bereich Betriebswirtschaft, Wirtschaftsinformatik, Wirtschaftsingenieurwesen, Marketing oder einer vergleichbare Fachrichtung und Qualifikation - Du bist interessiert an digitalen Systemen, Datenstrukturen und Vertriebsprozessen. - Dich zeichnen eine strukturierte und analytische Arbeitsweise aus. - Ho"
   },
   {
    "id": "ba_15086-44309461-713-S",
