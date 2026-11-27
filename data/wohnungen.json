@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T04:24",
+ "generated": "2026-11-27T05:23",
  "what": "Квартиры для Оли и Никиты рядом с Hochschule Offenburg",
  "page": "https://nevrox228.github.io/wohnung-og/",
- "count": 414,
+ "count": 413,
  "items": [
   {
    "id": "3583449182",
@@ -13876,51 +13876,6 @@
    "street": "",
    "loc_prec": "примерно (Kleinanzeigen размывает точку без улицы)",
    "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "3535416283",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/3535416283",
-   "title": "Einziehen & wohlfühlen – 2,5-Zimmer-Wohnung mit Balkon",
-   "price_txt": "642 €",
-   "plz": "77767",
-   "ort": "Appenweier",
-   "lat": 48.5346817,
-   "lon": 7.9886762,
-   "img": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65fe16e0-aba4-45e0-8bbd-3893b4988f35?rule=$_59.JPG",
-   "tags": [
-    "Balkon",
-    "Badewanne",
-    "Keller"
-   ],
-   "desc": "Auf ca. 54 m² erwartet Sie eine gemütliche 2,5-Zimmer-Wohnung mit praktischer Raumaufteilung und eigenem Balkon. Die Wohnung verfügt über ein Wohnzimmer, ein Schlafzimmer, ein weiteres kleines Zimmer sowie eine separate Küche, die Sie mit Ihrer eigenen Einbauküche nach Ihren Vorstellungen gestalten können. Im Zuge aktueller Modernisierungsarbeiten wird ein pflegeleichter Design-Vinylbelag in heller Holzoptik verlegt. Wände und Decken werden tapeziert und frisch gestrichen, sodass Sie ohne Renovierungsaufwand einziehen können. Auch das Badezimmer wird modernisiert und mit neuen Wand- und Bodenfliesen sowie zeitlosen Sanitärobjekten ausgestattet. Ein Balkon bietet zusätzlichen Platz im Freien und lädt zum Verweilen ein. Bitte beachten Sie, dass die Fotos teilweise den Zustand vor der Renovierung zeigen. Die beigefügten Musterbilder veranschaulichen den künftigen Bodenbelag sowie die Ausstattung des Badezimmers nach der Modernisierung. # Ausstattung Barrierearmes Gebäude; Balkon; Ausrichtung Freisitz: West; Bad mit Fenster; Boden in Holzoptik; Zentralheizung; Gas; Rollläden; Isolierverglasung; Mieterkeller; Fahrradabstellraum; Mehrfamilienhaus; Badewanne eingemauert; # Weitere Angaben - Verfügbar ab: 13.02.27 # Lagebeschreibung Ihr neues Zuhause befindet sich am Rande von Appenweier. In Appenweier befinden sich alle Einkaufsmöglichkeiten des täglichen Bedarfs. Es gibt eine Gemeinschaftsschule, ein Kindergarten sowie Ärzte und Apotheken. Das Mehrfamilienhaus ist von vielen Grünflächen umgeben. In unmittelbarer Nähe befinden sich zahlreiche Spazier-, Lauf- und Radwege. Zum nahe gelegenen Bahnhof Appenweier gelangen Sie in kürzester Zeit mit dem Auto. Appenweier liegt verkehrsgünstig an den Bundesstraßen B 3 und B 28. Die B 28 führt direkt auf die Autobahn A 5 (Basel-Frankfurt). # Sonstiges Profitieren Sie von Vonovia Grünstrom aus 100% erneuerbaren Energien und vielen weiteren Vorteilen: - Attraktive Arbeits- und Grundpreise - Sicherheit bei der Energieversorgung - unkomplizierter und schneller Wechselservice - alles im Blick mit der Mein Vonovia App Sprechen Sie unsere VermieterInnen gerne im Rahmen der Besichtigung auf die Möglichkeiten zum Bezug von Vonovia-Grünstrom an! Hinweise darüber, wie die Vonovia Ihre personenbezogenen Daten als Interessent verarbeitet, erhalten Sie unter www.vonovia.com/datenschutz. Alle Angaben in diesem Exposé wurden sorgfältig und so vollständig wie möglich gemacht. Gleichwohl kann das Vorhandensein von Fehlern nicht ausgeschlossen werden. Die Angaben in diesem Exposé erfolgen daher ohne jede Gewähr. Maßgeblich sind die im Mietvertrag geschlossenen Vereinbarungen. Soweit die Grundrissgrafiken Maßangaben und Einrichtungen enthalten, wird auch für diese jegliche Haftung ausgeschlossen. Mietverhandlungen sind ausschließlich über den benannten Ansprechpartner zu führen. Mietpreisänderungen bleiben vorbehalten. Weitere Immobilienangebote finden Sie unter www.vonovia.de und in der Mein Vonovia App. # Energie - Energieausweis: Energiebedarfsausweis - Endenergiebedarf: 149 kWh/(m²*a) - Energieverbrauch für Warmwasser enthalten - Energieeffizienzklasse: E - Gültig bis: 2030-08-31 - Baujahr: 1970 - Heizungsart: Zentralheizung - Wesentliche Energieträger: Gas Anbieter-Objekt-ID: 86-1258740003",
-   "m2": 53.93,
-   "zimmer": 3.0,
-   "kalt": 642.0,
-   "nk": 90.0,
-   "warm": 837.0,
-   "kaution": 1926.0,
-   "ab": "",
-   "typ": "Etagenwohnung",
-   "warm_calc": 837.0,
-   "warm_est": false,
-   "moebl": false,
-   "ebk": true,
-   "km": 9.1,
-   "allowed": 984,
-   "eur_m2": 15.5,
-   "verdict": "отлично",
-   "notes": [
-    "3 комн. — больше, чем нужно"
-   ],
-   "first_seen": "2026-10-31",
-   "source": "поиск",
-   "zone": "близко",
-   "route": {},
-   "posted": "2026-10-23",
-   "street": "Theodor-Heuss-Str. 12,",
-   "loc_prec": "точный адрес",
-   "status": "not_interested",
    "also_urls": []
   },
   {

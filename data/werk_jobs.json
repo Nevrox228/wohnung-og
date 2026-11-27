@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T04:24",
+ "generated": "2026-11-27T05:23",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 620,
+  "all": 621,
   "queue": 262,
-  "ai_focus": 328
+  "ai_focus": 329
  },
  "jobs": [
   {
@@ -9672,6 +9672,34 @@
    "posted": "2026-10-19",
    "first_seen": "2026-11-04T18:01",
    "description": ""
+  },
+  {
+   "id": "li_4431323750",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 3,
+   "ai_focus": true,
+   "type": "Junior",
+   "track": "KI / Automatisierung",
+   "title": "Junior KI-Berater/-in (m/w/d) – Vollzeit",
+   "company": "BZKI Bildungszentrum für künstliche Intelligenz GmbH",
+   "location": "Kempen",
+   "distance_km": 337.5,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": true,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4431323750",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-06-20",
+   "first_seen": "2026-11-27T04:54",
+   "description": "Wir suchen neue Mitarbeiter (m/w/d) für unser Beratungsteam, die uns dabei unterstützen, Fach- und Führungskräfte aus dem Mittelstand bei der Umsetzung von KI-Anwendungsfällen zu beraten, Video-Calls durchzuführen und Schulungsunterlagen zu erstellen. Wenn du zuverlässig arbeitest und KI-Wissen verständlich weitergeben kannst, bist du bei uns genau richtig! Quereinstieg möglich Während der Einarbeitung lernst du alles, was du für deine Aufgaben benötigst. Vorkenntnisse sind nicht notwendig. Deine Aufgaben Berate Fach- und Führungskräfte aus Mittelstandsunternehmen bei der Umsetzung konkreter KI-Anwendungsfälle Führe Video-Calls nach Leitfaden durch und beantworte fachliche Fragen Erstelle und pflege Schulungsunterlagen, Praxisbeispiele und Anleitungen Dokumentiere Beratungsergebnisse nach festen Vorgaben Sichere die Qualität der Beratungs- und Kursinhalte im laufenden Betrieb Über das BZKI Das BZKI Bildungszentrum für Künstliche Intelligenz mit Sitz in Kempen am Niederrhein ist ein TÜV- und AZAV-zertifizierter Bildungsträger in der Erwachsenenbildung. Mit rund 20 Mitarbeitern machen wir Künstliche Intelligenz für den Mittelstand nutzbar – mit zertifizierten Weiterbildungen, die als Live-Online-Unterricht nach einem bewährten, klar strukturierten Lehrplan stattfinden. Statt loser Theorie arbeiten wir praxisnah an konkreten KI-Anwendungsfällen, die sich direkt im Arbeitsalltag umsetzen lassen. Bei uns erwarten dich etablierte, zertifizierte Strukturen, erprobte Abläufe und eine klare Ausrichtung. Weitere Informationen zum Unternehmen findest du auf www.bzki-karriere.de. Gehalt: 3.500 € brutto pro Monat Einstiegsgehalt mit geregelter, leistungsbasierter Gehaltsentwicklung. Weiterentwicklungs- und Aufstiegsmöglichkeiten in den nächsten Jahren sind vorhanden und richten sich nach Leistung und Erfahrung. Einarbeitung Die Einarbeitung dauert in der Regel 2 bis 3 Monate und erfolgt anhand fester Prozesse und Vorlagen. Wir bieten Sicherer Arbeitsplatz mit klaren Zuständigkeiten: Jede Rolle hat einen definierten Aufgabenbereich und feste Verantwortlichkeiten. Du arbeitest vor Ort in Vollzeit mit 40 Stunden pro Woche und festen Kernzeiten – geregelte Arbeitstage ohne wechselnde Schichten. Gute Vergütung und Karrierechancen: Nach bestandener Probezeit kommen Urlaubs- und Weihnachtsgeld, ein Deutschlandticket für den Arbeitsweg, eine Internetpauschale und Sachbezug-Gutscheine hinzu. Wir wachsen kontinuierlich – daraus entstehen Aufstiegswege bis hin zu Führungspositionen. Stabile, eingespielte Abläufe: Du arbeitest nach erprobten Prozessen und mit fertigen Vorlagen. Kein ständiges Improvisieren, sondern verlässliche Strukturen, die funktionieren. Professionell ausgestatteter Arbeitsplatz: Höhenverstellbare Schreibtische, ergonomische Ausstattung und aktuelle Apple-Hardware. Du arbeitest mit Werkzeugen, die zuverlässig funktionieren. Praktisches KI-Wissen und sicherer Umgang mit gängigen KI-Tools wie Claude Cowork, ChatGPT, Microsoft Copilot, n8n Sicheres Auft"
   },
   {
    "id": "li_4495564275",
