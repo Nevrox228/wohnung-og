@@ -1,9 +1,344 @@
 {
- "generated": "2026-11-27T06:23",
+ "generated": "2026-11-27T09:58",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1075,
+ "count": 1078,
  "items": [
+  {
+   "id": "marina:ka_3583504324",
+   "src": "Kleinanzeigen",
+   "title": "Job als Reinigungskraft in Zell am Harmersbach – 14 € /Std.",
+   "firma": "my-perfect-job.de",
+   "ort": "Zell am Harmersbach",
+   "plz": "77736",
+   "street": "",
+   "lat": 48.3435884,
+   "lon": 8.0828409,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/job-als-reinigungskraft-in-zell-am-harmersbach-14-std-/3583504324-107-8051",
+   "posted": "2026-11-27",
+   "posted_time": "08:06",
+   "desc": "Job als Reinigungskraft in Zell am Harmersbach – 14 € /Std. JETZT BEWERBEN unter https://putzperle.de/de/jobs/6297724?utm_source=ebay ___________________________________________ **Sie putzen gründlich und gern? Dann melden Sie sich bei uns** -> 77736 Zell am Harmersbach -> Privathaushalt -> Stundenlohn: Verhandelbar EUR -> Teilzeit __________________ Interessiert? Alle Infos zu Aufgaben und Arbeitszeiten finden Sie unter: https://putzperle.de/de/jobs/6297724?utm_source=ebay Tipp: Diesen Link einfach kopieren und im Browser suchen ___________________________________________ **Warum Putzperle.de die beste Wahl ist für einen Zusatzverdienst:** -> Schnell passende Jobs in Ihrer Nähe finden -> Sie entscheiden, welche Jobs Sie annehmen -> Ihre Arbeit, Ihr Lohn – zu 100 % __________________",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 20.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Уборка",
+   "first_seen": "2026-11-27T06:53",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 73,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:35",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 79
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 345,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 319,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:06",
+        "min": 319
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 345
+     }
+    ],
+    "best": "транспорт",
+    "min": 73,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3554555174",
+   "src": "Kleinanzeigen",
+   "title": "Zusteller! Samstagszustellung in Willstätt & Umgebung",
+   "firma": "Joblicant GmbH",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-willstaett-umgebung/3554555174-107-9037",
+   "posted": "2026-11-27",
+   "posted_time": "09:07",
+   "desc": "⚡️Jetzt in 2 Minuten online und ohne Unterlagen direkt bei STAZ + GULLER Vertriebsgesellschaft mbH bewerben! Verdient euch euer erstes Taschengeld direkt vor der Haustür! Am Samstagmorgen - für maximal zwei Stunden - flexibel einteilbar! ✅ Klick einfach auf den Bewerben-Button auf der rechten Seite oder kopiere den folgenden Link in deine Browser-Adresszeile: https://jobli.me/0qwnvxe Für die zuverlässige Zustellung unserer Wochenendzeitung DER GULLER suchen wir engagierte Zusteller auf Basis einer gerinfügigen Beschäftigung. Was wir Ihnen bieten: ● Attraktiver Nebenverdienst mit leistungsorientierter Vergütung (Minijob) ● Bezahlten Urlaub ● Eigenständiges Arbeiten an der frischen Luft ● Anlieferung der Zeitungen direkt nach Hause oder an eine zentrale Ablagestelle ● Ein Zustellgebiet in Wohnortnähe – keine (lange) Anfahrt ● Zustellung von der Wochenendzeitung unter Einsatz geeigneter Hilfsmittel wie Handrollwagen, Bollerwagen oder Fahrradtaschen ● Es sind keine Vorkenntnisse erforderlich! ● Wir freuen uns auf ein persönliches Kennenlernen und ein offenes Gespräch – ganz ohne Verpflichtungen ● Eine faire Bezahlung: ca. 80€/Monat Das bringen Sie mit: ● Zuverlässigkeit und Verantwortungsbewusstsein ● Gute Ortskenntnisse von Vorteil ● Die Vergütung erfolgt im Rahmen einer vertraglich geregelten geringfügigen Beschäftigung und richtet sich nach dem tatsächlichen Zustellumfang. Jetzt bewerben und Teil unseres Teams werden! ✅ Bewirb dich direkt online: Auf dem Bewerben-Button oder unter https://jobli.me/0qwnvxe",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 13.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-27T06:53",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:jw_060322875",
    "src": "Jobware",
@@ -32454,7 +32789,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/werkstudent-in-kehl/3583508758-125-8088"
+   ],
    "person": "mykyta"
   },
   {
@@ -71180,7 +71517,8 @@
    "status": "open",
    "also_urls": [
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/12704-IE3OSSE90LQUFKPK-S",
-    "https://www.jobware.de/job/produktionshelfer-m-w-d-064997805"
+    "https://www.jobware.de/job/produktionshelfer-m-w-d-064997805",
+    "https://www.jobware.de/job/produktionshelfer-m-w-d-065317761"
    ],
    "person": "mykyta"
   },
@@ -112843,7 +113181,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zusteller-fuer-wochenendzeitung-in-lahr/3583534710-107-8047"
+   ],
    "person": "mykyta"
   },
   {
@@ -133494,6 +133834,110 @@
    "also_urls": [
     "https://www.kleinanzeigen.de/s-anzeige/mitarbeiter-lager-teilzeit-w-m-d-/3172067117-247-9032"
    ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ba_16334-n3kqc8eho68nwvq8ne-S",
+   "src": "Jobbörse",
+   "title": "Reinigungskraft (m/w/d)",
+   "firma": "Hotel Adlerbad OHG",
+   "ort": "Bad Peterstal-Griesbach",
+   "street": "",
+   "lat": 48.4381434,
+   "lon": 8.2196769,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16334-n3kqc8eho68nwvq8ne-S",
+   "posted": "2026-10-27",
+   "desc": "Über uns Herzlich Willkommen im Häfners FlairHotel Adlerbad in der Nationalparkregion Schwarzwlad Das Häfners FlairHotel Adlerbad im Schwarzwald ist ein familiengeführtes Ferienhotel mit 44 Betten und 3 Restaurants. Ein Lächeln, ein paar nette Worte und das Gefühl bei uns im Adlerbad angekommen zu sein .... Ganz nach dem Motto unserer Küche: \"Schmeck den Schwarzwald\" kochen wir mit frischen, saisonalen, regionalen Produkten. Die Gäste schätzen das umfangreiche Frühstücksbüffet, das abwechslungsreiche 5 GAng Abend Menu und unser à la carte Angebot. Für Gruppen bis 40 Personen bieten wir Bankettservice an. Als familiengeführtes Hotel wissen wir, wie wichtig es motiviertes Team ist. Wir sind stolz auf unsere Mitarbeiter, die mit Herz und Leidenschaft täglich für das Wohl der Gäste sorgen. Werde Teil unseres Teams und leiste deinen Anteil daran, dass unsere Gäste sich bei uns wie zu Hause fühlen. Wir freuen uns auf dich! Das bieten wir dir: Deine Vorteile bei uns: * ein familiäres Miteinander – geprägt durch Respekt und Anerkennung * 4 / 5 oder 6 Tage Woche – Vollzeit / Teilzeit oder Mini-Job ist möglich * familienfreundliche Teilzeitmodelle – an deine Lebenssituation angepasst * rotierendes Frei an Sonn- und Feiertagen * übertarifliche, leistungsgerechte Bezahlung * Sonntags- und Feiertagszuschläge, Weihnachtsgeld * Fahrtkostenzuschuss oder Tankgutschein * plus und minus Stunden werden in einem Stundenkonto dokumentiert – in Freizeit vergütet oder ausbezahlt * Verpflegung zu vergünstigten Mitarbeiterkonditionen * vergünstigte Übernachtungen zu preiswerten Mitarbeiterkonditionen in allen 40 Flair Hotels Das könnten bald deine Aufgaben sein: Deine Aufgaben: * du liebst es die Gästezimmer herzurichten * du achtest auf Kleinigkeiten * du pflegst die Restauant- und Nebenräume * mit Liebe versorgst du die Balkonblumen Das solltest du mitbringen: Was dich ausmacht: * Erfahrung im Bereich Housekeeping oder auch Quereinsteiger * du hast Spaß an der Arbeit – mit Herz und Leidenschaft * du bist freundlich und zuvorkommend * für dich ist rotierendes Frei am Wochenende und an Feiertagen kein Problem * Einsatzbereitschaft gehört zu deinen Eigenschaften * einfache Deutschkenntnisse sind von Vorteil",
+   "zeit": "",
+   "schicht": false,
+   "quer": false,
+   "who": "marina",
+   "km": 14.5,
+   "de": "немного",
+   "de_txt": "einfache Deutschkenntnisse sind von Vorteil",
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-04T13:04",
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 40,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 6,
+      "end_stop": "Bad Peterstal Mülben",
+      "dep": "12:12",
+      "arr": "12:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Bismarckstraße",
+        "dep": "12:12",
+        "arr": "12:19",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7137",
+        "from": "Oberkirch Bismarckstraße",
+        "to": "Bad Peterstal Mülben",
+        "dep": "12:19",
+        "arr": "12:46",
+        "wait": null,
+        "min": 27
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bad Peterstal Mülben",
+        "to": "работа",
+        "dep": "12:46",
+        "arr": "12:52",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 40
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 40,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
    "person": "Марина"
   },
   {

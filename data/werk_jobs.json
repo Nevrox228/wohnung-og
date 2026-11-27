@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:23",
+ "generated": "2026-11-27T09:58",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -10975,7 +10975,9 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2985001794006001-S",
    "apply_url": "https://www.empfehlungsbund.de/job/298500",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2985001795734001-S"
+   ],
    "salary": "",
    "posted": "2026-11-07",
    "first_seen": "2026-11-08T13:52",
@@ -15032,7 +15034,9 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3091761794006000-S",
    "apply_url": "https://www.empfehlungsbund.de/job/309176",
    "apply_email": "",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3091761795734001-S"
+   ],
    "salary": "",
    "posted": "2026-11-07",
    "first_seen": "2026-11-08T13:52",
