@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:02",
+ "generated": "2026-11-27T14:02",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 624,
-  "queue": 265,
-  "ai_focus": 330
+  "all": 625,
+  "queue": 266,
+  "ai_focus": 331
  },
  "jobs": [
   {
@@ -2846,6 +2846,34 @@
    "salary": "",
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
+   "description": ""
+  },
+  {
+   "id": "li_4495804656",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Praktikum",
+   "track": "KI / Automatisierung",
+   "title": "Intern Data Analysis & AI Motor Generator Unit (MGU-K)",
+   "company": "Audi Revolut F1 Team",
+   "location": "Neuburg",
+   "distance_km": 228.1,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4495804656",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-27",
+   "first_seen": "2026-11-27T13:32",
    "description": ""
   },
   {

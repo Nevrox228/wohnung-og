@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T13:01",
+ "generated": "2026-11-27T14:02",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1080,
+ "count": 1079,
  "items": [
   {
    "id": "marina:ba_11081-VVCS73BVENCN8LP7-S",
@@ -62374,7 +62374,8 @@
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14048-363991900046e62f-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14048-163991900046e62f-S",
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/14048-709011900046e62f-S",
-    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14048-222390900046e62f-S"
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14048-222390900046e62f-S",
+    "https://www.arbeitsagentur.de/jobsuche/jobdetail/14048-938113900046e62f-S"
    ],
    "person": "mykyta"
   },
@@ -64742,235 +64743,6 @@
     "best": "транспорт",
     "min": 40,
     "changes": 0
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "mykyta"
-  },
-  {
-   "id": "mykyta:ba_10000-1207036529-S",
-   "src": "Jobbörse",
-   "title": "Küchenhelfer (m/w/d)",
-   "firma": "SK Seniorenresidenz Kinzigtal GmbH",
-   "ort": "Gengenbach",
-   "street": "Auf dem Abtsberg 6",
-   "lat": 48.401172,
-   "lon": 8.027406,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207036529-S",
-   "posted": "2026-07-01",
-   "desc": "***Ihre Aufgaben:*** - ***portionieren von Mittagessen*** - **individuelles Anrichten von Abendessen** - **Arbeiten an unserer automatischen Spülstraße** ***Was wir Ihnen bieten:*** - ***Ein junges Team***Ein junges und engagiertes Team und eine offene, lebendige Kommunikation sorgen dafür, dass Sie sich bereits nach kurzer Zeit dazugehörig fühlen. - ***Wir fördern Sie*** - Wir helfen Ihnen dabei, sich weiterzuentwickeln, fördern Weiterbildung und honorieren Engagement. - ***Arbeit, die sich lohnt:*** Wir bieten Ihnen eine überdurchschnittliche Bezahlung sowie diverse Zulagen und Prämien. - ***Sozial abgesichert durch den Arbeitgeber:*** - Risiko Unfallversicherung - Betriebliche Altersvorsorge - Berufsunfähigkeitsversicherung - Fahrtkostenerstattung - Zuschuss zur privaten Zusatzkrankenversicherung - ***Ein Arbeitsplatz in bester Lage*** Inmitten von Wiesen, Bäumen und Weinbergen haben Sie einen sicheren Arbeitsplatz in einzigartiger Lage. Kostenfreier Mitarbeiterparkplatz ist vorhanden. Die Seniorenresidenz ist 15 Gehminuten zum Bahnhof entfernt. ***Was Sie mitbringen:*** - Idealerweise erste Erfahrungen im Bereich Hauswirtschaft / Küche - Freude an der Arbeit in einem jungen, motivierten Team - Zuverlässigkeit, Verantwortungsbewusstsein und Einfühlungsvermögen Sie sind sich noch nicht sicher? Gerne dürfen Sie sich jederzeit von uns überzeugen. Als familienfreundliches Unternehmen finden bei uns auch junge Menschen in der Familienphase einen Arbeitsplatz, an dem sie sich wohlfühlen, mit passenden Arbeitszeiten.",
-   "zeit": " / Teilzeit",
-   "schicht": false,
-   "quer": true,
-   "who": "mykyta",
-   "km": 15.0,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Производство / сборка",
-   "first_seen": "2026-11-15T23:00",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 100,
-      "changes": 1,
-      "min_wait": 11,
-      "walk_end": 28,
-      "end_stop": "Gengenbach Schulzentrum",
-      "dep": "06:32",
-      "arr": "08:13",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7134",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Gengenbach Schulzentrum",
-        "dep": "07:10",
-        "arr": "07:45",
-        "wait": 11,
-        "min": 35
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Gengenbach Schulzentrum",
-        "to": "работа",
-        "dep": "07:45",
-        "arr": "08:13",
-        "min": 28
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 103
-     },
-     {
-      "kind": "как в приложении",
-      "min": 105,
-      "changes": 2,
-      "min_wait": 8,
-      "walk_end": 6,
-      "end_stop": "Gengenbach Einach",
-      "dep": "06:32",
-      "arr": "08:18",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "06:32",
-        "arr": "06:43",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "06:43",
-        "arr": "06:59",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7134",
-        "from": "Offenburg Bahnhof / ZOB",
-        "to": "Gengenbach Schulzentrum",
-        "dep": "07:10",
-        "arr": "07:45",
-        "wait": 11,
-        "min": 35
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "7130",
-        "from": "Gengenbach Schulzentrum",
-        "to": "Gengenbach Einach",
-        "dep": "07:53",
-        "arr": "08:12",
-        "wait": 8,
-        "min": 19
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Gengenbach Einach",
-        "to": "работа",
-        "dep": "08:12",
-        "arr": "08:18",
-        "min": 6
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 111
-     },
-     {
-      "kind": "велосипед",
-      "min": 96,
-      "changes": 0,
-      "km": 23.6,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 96
-       }
-      ],
-      "risky": false,
-      "score": 172
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 195,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 169,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "08:36",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "08:36",
-        "min": 169
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 195
-     }
-    ],
-    "best": "транспорт",
-    "min": 100,
-    "changes": 1
    },
    "status": "open",
    "also_urls": [],
@@ -113178,7 +112950,8 @@
    },
    "status": "open",
    "also_urls": [
-    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-zustelleraktiv-schwarzwald-/3579274916-247-8045"
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-zustelleraktiv-schwarzwald-/3579274916-247-8045",
+    "https://www.kleinanzeigen.de/s-anzeige/zeitungszusteller-w-m-d-zustelleraktiv-schwarzwald-/3583778795-247-8038"
    ],
    "person": "mykyta"
   },

@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T13:01",
+ "generated": "2026-11-27T14:02",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 48,
+ "count": 47,
  "items": [
   {
    "id": "li_4461528816",
@@ -22,29 +22,6 @@
    "km": 19.4,
    "kind": "Общее / другое",
    "ausb": true,
-   "first_seen": "2026-11-27T11:30",
-   "status": "open",
-   "also_urls": []
-  },
-  {
-   "id": "ss_14801785",
-   "src": "StepStone",
-   "title": "Mitarbeiter (m, w, d) für die Kernzeitbetreuung in Teilzeit",
-   "firma": "Gemeindeverwaltung Kappel-Grafenhausen",
-   "ort": "Kappel-Grafenhausen",
-   "plz": "",
-   "street": "",
-   "lat": 48.2886221,
-   "lon": 7.7548982,
-   "url": "https://www.stepstone.de/stellenangebote--Mitarbeiter-m-w-d-fuer-die-Kernzeitbetreuung-in-Teilzeit-77966-Kappel-Grafenhausen-Gemeindeverwaltung-Kappel-Grafenhausen--14801785-inline.html",
-   "posted": "2026-11-26",
-   "desc": "Die Gemeinde Kappel-Grafenhausen betreibt Schulen und Betreuungseinrichtungen in der Region. Gesucht wird ein Mitarbeiter (m/w/d) für die Kernzeitbetreuung in Teilzeit zur Begleitung von Schülern beim freien Spiel und Durchführung altersgerechter Betreuungsangebote. Freude im Umgang mit Kindern, Flexibilität, Zuverlässigkeit und kooperative Zusammenarbeit im Team werden vorausgesetzt.",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 25.1,
-   "kind": "Hort / Schule",
-   "ausb": false,
    "first_seen": "2026-11-27T11:30",
    "status": "open",
    "also_urls": []
