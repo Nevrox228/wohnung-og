@@ -1,9 +1,180 @@
 {
- "generated": "2026-11-27T02:24",
+ "generated": "2026-11-27T03:24",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1074,
+ "count": 1075,
  "items": [
+  {
+   "id": "marina:jw_060322875",
+   "src": "Jobware",
+   "title": "Geschirr- und Besteckreinigungskraft (m/w/d)",
+   "firma": "Hotel Bareiss GmbH",
+   "street": "",
+   "lat": 48.5069519,
+   "lon": 8.3720124,
+   "ort": "Baiersbronn",
+   "url": "https://www.jobware.de/job/geschirr-und-besteckreinigungskraft-m-w-d-060322875",
+   "posted": "2026-01-23",
+   "desc": "",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 21.4,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Уборка",
+   "first_seen": "2026-11-27T02:55",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 140,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Baiersbronn Bahnhof",
+      "dep": "06:32",
+      "arr": "08:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Rastatt",
+        "dep": "07:03",
+        "arr": "07:31",
+        "wait": 11,
+        "min": 28
+       },
+       {
+        "walk": false,
+        "mode": "S-Bahn",
+        "line": "S81",
+        "from": "Rastatt",
+        "to": "Baiersbronn Bahnhof",
+        "dep": "07:38",
+        "arr": "08:47",
+        "wait": 7,
+        "min": 69
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Baiersbronn Bahnhof",
+        "to": "работа",
+        "dep": "08:47",
+        "arr": "08:52",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 146
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 31.9,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 632,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 606,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "15:54",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "15:54",
+        "min": 606
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 632
+     }
+    ],
+    "best": "транспорт",
+    "min": 140,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
   {
    "id": "mykyta:ka_3368863872",
    "src": "Kleinanzeigen",
