@@ -1,9 +1,259 @@
 {
- "generated": "2026-11-27T14:02",
+ "generated": "2026-11-27T15:08",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1079,
+ "count": 1081,
  "items": [
+  {
+   "id": "marina:ka_3497586761",
+   "src": "Kleinanzeigen",
+   "title": "#978063 - (REWE) Aushilfe / Minijob Warenverräumung (m/w/d)",
+   "firma": "REWE GROUP",
+   "ort": "Oberkirch",
+   "plz": "77704",
+   "street": "",
+   "lat": 48.5216194,
+   "lon": 8.0670732,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-978063-rewe-aushilfe-minijob-warenverraeumung-m-w-d-/3497586761-107-8226",
+   "posted": "2026-11-27",
+   "posted_time": "14:06",
+   "desc": "Ort: 77704 Oberkirch | Vertragsart: Minijob/Geringfügig, unbefristet | Job-ID: 978063 Du begeisterst dich für den Einzelhandel? Du suchst nach einem Minijob in deiner Nachbarschaft? Dann komm in unser Team und unterstütze uns dabei, dass sich in deinem REWE Markt alle willkommen fühlen. Was wir bieten: REWE ist dein sicherer und nachhaltiger Arbeitgeber - deutschlandweit und bei dir um die Ecke. Bei uns stehst du im Mittelpunkt. Du kannst schnell Verantwortung übernehmen und den Lebensmitteleinzelhandel mitgestalten - sogar bis in die Selbständigkeit mit deinem eigenen REWE Markt. Entdecke deine Vorteile in unserem Team: ● Mehr vom Gehalt - eine attraktive Vergütung und 5 % Einkaufsrabatt bei REWE und PENNY sowie weitere Rabatte beim toom Baumarkt und bei der DERTOUR Group ● Auf Nummer sicher gehen - du startest direkt in ein unbefristetes Arbeitsverhältnis: für mehr Planbarkeit und Sicherheit ● Ganz an dein Leben angepasst - flexible Einsatzplanung und die Möglichkeit, Führungspositionen in Teilzeit auszuüben ● Darf es noch etwas dazu sein? - Freu dich auf 6 Wochen Urlaub im Jahr sowie Sonderzahlungen wie Urlaubs- und Weihnachtsgeld ● Heute schon an morgen denken - wir bieten dir tolle Angebote zur Altersvorsorge in der REWE Group-Pensionskasse sowie zusätzliche Zahlungen für deinen Bausparvertrag ● Bleib mobil - mit einem rabattierten Deutschlandticket oder einem JobRad-Leasing ● Angebote für deine Freizeit - wir bieten dir Vergünstigungen in Fitnessstudios sowie Rabatte bei zahlreichen Onlineshops ● Gestalte deine Zukunft - mit unseren umfassenden Angeboten an Seminaren, Coachings und E-Learnings ● Für mehr Balance - zertifiziert durch das audit berufundfamilie unterstützen wir dich in jeder Lebenslage bei bspw. Pflege- und Kinderbetreuungsthemen durch die awo lifebalance sowie der Freizeitgestaltung u. a. mit dem Deutschen Jugendherbergswerk ● Vielfalt gemeinsam leben - konzernweite und regionale Netzwerke wie z. B. unser LGBTIQ-Netzwerk Was du bei uns bewegst: ● Du begeisterst unsere Kund:innen mit zuvorkommendem Service ● Du füllst Waren auf und prüfst das Mindesthaltbarkeitsdatum ● Du kontrollierst die Qualität und Frische unserer Waren und zeichnest die Preise aus ● Du hältst den Markt jederzeit sauber und ordentlich Was uns überzeugt: ● Deine Begeisterung für den Handel sowie deine Freude am Umgang mit Menschen ● Dein freundliches und gepflegtes Auftreten ● Deine Zuverlässigkeit und Gewissenhaftigkeit ● Deine Selbständigkeit und Motivation ● Deine Bereitschaft für folgende Einsatzzeiten: 07:00 - 11:00 Uhr Du bist dir nicht sicher, ob du alle Anforderungen erfüllst? Bewirb dich gern trotzdem auf die Stelle und wir prüfen deine Unterlagen. Weitere Informationen erhältst du unter rewe.de/karriere. Du hast noch Fragen zu deiner Online-Bewerbung oder zu unserem Bewerbungsprozess? Dann schau auf unseren FAQ vorbei. Wir betonen ausdrücklich, dass bei uns alle Menschen - unabhängig von Geschlecht/geschlechtlicher Identität, ethnischer Herkunft und Nationalität, sozialer Herkunft, Religion/Weltanschauung, körperlichen und geistigen Fähigkeiten, Alter sowie sexueller Orientierung oder weiteren individuellen Merkmalen - gleichermaßen willkommen sind. --------------------------------------------------------------------------------------------------- Wenn du dich bewerben möchtest, füge bitte den folgenden Link in die Adresszeile deines Web-Browsers (z. B. Chrome oder Firefox) ein oder bewerbe dich direkt über den „Bewerben“-Button oben rechts: https://karriere.rewe-group.com/rewe/job/Oberkirch-Aushilfe-Minijob-Warenverr%C3%A4umung-%28mwd%29-BW-77704/1431417233/?utm_source=EbayKleinanzeigen&ecid=pla_ebay_rerc|hr|enga|n|ebay_cpp_nn_nn_nn_nn_hiri",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 1.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-27T14:37",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 11,
+      "changes": 0,
+      "km": 2.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 11
+       }
+      ],
+      "risky": false,
+      "score": 11
+     },
+     {
+      "kind": "транспорт",
+      "min": 26,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 12,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:26",
+      "arr": "07:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:26",
+        "arr": "07:34",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": null,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:52",
+        "min": 12
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 26
+     },
+     {
+      "kind": "пешком",
+      "min": 29,
+      "changes": 0,
+      "km": 2.2,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 29
+       }
+      ],
+      "risky": false,
+      "score": 29
+     }
+    ],
+    "best": "велосипед",
+    "min": 11,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3497586761",
+   "src": "Kleinanzeigen",
+   "title": "#978063 - (REWE) Aushilfe / Minijob Warenverräumung (m/w/d)",
+   "firma": "REWE GROUP",
+   "ort": "Oberkirch",
+   "plz": "77704",
+   "street": "",
+   "lat": 48.5216194,
+   "lon": 8.0670732,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/-978063-rewe-aushilfe-minijob-warenverraeumung-m-w-d-/3497586761-107-8226",
+   "posted": "2026-11-27",
+   "posted_time": "14:06",
+   "desc": "Ort: 77704 Oberkirch | Vertragsart: Minijob/Geringfügig, unbefristet | Job-ID: 978063 Du begeisterst dich für den Einzelhandel? Du suchst nach einem Minijob in deiner Nachbarschaft? Dann komm in unser Team und unterstütze uns dabei, dass sich in deinem REWE Markt alle willkommen fühlen. Was wir bieten: REWE ist dein sicherer und nachhaltiger Arbeitgeber - deutschlandweit und bei dir um die Ecke. Bei uns stehst du im Mittelpunkt. Du kannst schnell Verantwortung übernehmen und den Lebensmitteleinzelhandel mitgestalten - sogar bis in die Selbständigkeit mit deinem eigenen REWE Markt. Entdecke deine Vorteile in unserem Team: ● Mehr vom Gehalt - eine attraktive Vergütung und 5 % Einkaufsrabatt bei REWE und PENNY sowie weitere Rabatte beim toom Baumarkt und bei der DERTOUR Group ● Auf Nummer sicher gehen - du startest direkt in ein unbefristetes Arbeitsverhältnis: für mehr Planbarkeit und Sicherheit ● Ganz an dein Leben angepasst - flexible Einsatzplanung und die Möglichkeit, Führungspositionen in Teilzeit auszuüben ● Darf es noch etwas dazu sein? - Freu dich auf 6 Wochen Urlaub im Jahr sowie Sonderzahlungen wie Urlaubs- und Weihnachtsgeld ● Heute schon an morgen denken - wir bieten dir tolle Angebote zur Altersvorsorge in der REWE Group-Pensionskasse sowie zusätzliche Zahlungen für deinen Bausparvertrag ● Bleib mobil - mit einem rabattierten Deutschlandticket oder einem JobRad-Leasing ● Angebote für deine Freizeit - wir bieten dir Vergünstigungen in Fitnessstudios sowie Rabatte bei zahlreichen Onlineshops ● Gestalte deine Zukunft - mit unseren umfassenden Angeboten an Seminaren, Coachings und E-Learnings ● Für mehr Balance - zertifiziert durch das audit berufundfamilie unterstützen wir dich in jeder Lebenslage bei bspw. Pflege- und Kinderbetreuungsthemen durch die awo lifebalance sowie der Freizeitgestaltung u. a. mit dem Deutschen Jugendherbergswerk ● Vielfalt gemeinsam leben - konzernweite und regionale Netzwerke wie z. B. unser LGBTIQ-Netzwerk Was du bei uns bewegst: ● Du begeisterst unsere Kund:innen mit zuvorkommendem Service ● Du füllst Waren auf und prüfst das Mindesthaltbarkeitsdatum ● Du kontrollierst die Qualität und Frische unserer Waren und zeichnest die Preise aus ● Du hältst den Markt jederzeit sauber und ordentlich Was uns überzeugt: ● Deine Begeisterung für den Handel sowie deine Freude am Umgang mit Menschen ● Dein freundliches und gepflegtes Auftreten ● Deine Zuverlässigkeit und Gewissenhaftigkeit ● Deine Selbständigkeit und Motivation ● Deine Bereitschaft für folgende Einsatzzeiten: 07:00 - 11:00 Uhr Du bist dir nicht sicher, ob du alle Anforderungen erfüllst? Bewirb dich gern trotzdem auf die Stelle und wir prüfen deine Unterlagen. Weitere Informationen erhältst du unter rewe.de/karriere. Du hast noch Fragen zu deiner Online-Bewerbung oder zu unserem Bewerbungsprozess? Dann schau auf unseren FAQ vorbei. Wir betonen ausdrücklich, dass bei uns alle Menschen - unabhängig von Geschlecht/geschlechtlicher Identität, ethnischer Herkunft und Nationalität, sozialer Herkunft, Religion/Weltanschauung, körperlichen und geistigen Fähigkeiten, Alter sowie sexueller Orientierung oder weiteren individuellen Merkmalen - gleichermaßen willkommen sind. --------------------------------------------------------------------------------------------------- Wenn du dich bewerben möchtest, füge bitte den folgenden Link in die Adresszeile deines Web-Browsers (z. B. Chrome oder Firefox) ein oder bewerbe dich direkt über den „Bewerben“-Button oben rechts: https://karriere.rewe-group.com/rewe/job/Oberkirch-Aushilfe-Minijob-Warenverr%C3%A4umung-%28mwd%29-BW-77704/1431417233/?utm_source=EbayKleinanzeigen&ecid=pla_ebay_rerc|hr|enga|n|ebay_cpp_nn_nn_nn_nn_hiri",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 1.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-27T14:37",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 11,
+      "changes": 0,
+      "km": 2.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 11
+       }
+      ],
+      "risky": false,
+      "score": 11
+     },
+     {
+      "kind": "транспорт",
+      "min": 26,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 12,
+      "end_stop": "Oberkirch H.-Furler-Gymnasium",
+      "dep": "07:26",
+      "arr": "07:52",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:26",
+        "arr": "07:34",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Oberkirch H.-Furler-Gymnasium",
+        "dep": "07:34",
+        "arr": "07:40",
+        "wait": null,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberkirch H.-Furler-Gymnasium",
+        "to": "работа",
+        "dep": "07:40",
+        "arr": "07:52",
+        "min": 12
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 26
+     },
+     {
+      "kind": "пешком",
+      "min": 29,
+      "changes": 0,
+      "km": 2.2,
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 29
+       }
+      ],
+      "risky": false,
+      "score": 29
+     }
+    ],
+    "best": "велосипед",
+    "min": 11,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ba_11081-VVCS73BVENCN8LP7-S",
    "src": "Jobbörse",

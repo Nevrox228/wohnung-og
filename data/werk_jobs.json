@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:02",
+ "generated": "2026-11-27T15:08",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 625,
-  "queue": 266,
-  "ai_focus": 331
+  "all": 627,
+  "queue": 268,
+  "ai_focus": 333
  },
  "jobs": [
   {
@@ -2847,6 +2847,62 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4493773499",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (w/m/d) Data Science",
+   "company": "Siemens Energy",
+   "location": "Berlin",
+   "distance_km": 589.7,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4493773499",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-27T14:37",
+   "description": "Standort: BLN H Art der Anstellung: Fixed Term / Part-time Momentaufnahme von deinem Tag Als Werkstudent (w/m/d) im Bereich Informatik, Data Science oder einem vergleichbaren Studiengang bringst Du Engagement, Zuverlässigkeit und Begeisterung für innovative Technologien mit. Anwendung und Vertiefung Deines theoretischen Wissens in den Bereichen Künstliche Intelligenz, Datenanalyse und Programmierung in einem praxisnahen Umfeld. Unterstützung bei der Weiterentwicklung innovativer AI-Anwendungen für eine global agierende Marketingorganisation. Mitwirkung an der Aufbereitung, Analyse und Interpretation von Daten sowie Bearbeitung spannender Herausforderungen in einem dynamischen und internationalen Arbeitsumfeld. Wie du etwas bewirken kannst Weiterentwicklung und Implementierung bestehender AI-basierter Anwendungen zur Unterstützung von Marketingaktivitäten (insbesondere mit Python) Datenaufbereitung, Datenanalyse und Datenvisualisierung zur Optimierung von AI-Algorithmen Testing, Validierung und kontinuierliche Verbesserung bestehender AI-Modelle und Anwendungen Zusammenarbeit mit interdisziplinären Teams zur Integration von AI-Lösungen in bestehende Systeme und Marketingprozesse Dokumentation von Datenstrukturen, Prozessen und bestehenden IT-Systemen Visualisierung technischer Zusammenhänge sowie Unterstützung bei der Transparenz und Nachvollziehbarkeit von Daten- und Systemlandschaften Was du mitbringst Laufendes Studium der Informatik, Data Science oder eines vergleichbaren technischen Studiengangs, idealerweise mit Schwerpunkt Künstliche Intelligenz und Programmierung Interesse an Marketing sowie an der technologischen Optimierung von Marketingprozessen Ausgeprägte Kommunikationsstärke und Teamfähigkeit Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Selbstständige Arbeitsweise, schnelle Auffassungsgabe und Begeisterung für innovative Technologien Kenntnisse in Python, Data-Science-Frameworks (z. B. Pandas, NumPy, Scikit-learn), SQL, Datenanalyse, Machine-Learning-Konzepten, Problemlösung und technischer Dokumentation Über das Team Unser Geschäftsbereich Gas Services bietet emissionsarme Stromerzeugung durch Service und Dekarbonisierung. Emissionsfreie oder emissionsarme Stromerzeugung und alle Gasturbinen unter einem Dach, Dampfturbinen und Generatoren. Dekarbonisierungschancen durch Serviceangebote, Modernisierung und Digitalisierung der Flotte. Wer ist Siemens Energy? Wir bei Siemens Energy sind mehr als nur ein Energietechnologieunternehmen. Mit ~100,000 engagierten Mitarbeitern in mehr als 90 Ländern entwickeln wir die Energiesysteme der Zukunft und stellen sicher, dass der wachsende Energiebedarf der Weltgemeinschaft zuverlässig und nachhaltig gedeckt wird. Die in unseren Forschungsabteilungen und Fabriken entstehenden Technologien treiben die Energiewende voran und bilden die Grundlage für ein Sechstel der weltweiten Stromerzeugung. Unser globales Team setzt sich dafür ein, nachhaltige, zuverlässige und bezahlbare Energie W"
+  },
+  {
+   "id": "ss_14803984",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Werkstudent (m/w/d) KI, Tools und Automatisierung",
+   "company": "Dentara Management GmbH",
+   "location": "München",
+   "distance_km": 259.8,
+   "remote": true,
+   "german_level": "sehr gut",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "StepStone",
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-KI-Tools-und-Automatisierung-Muenchen-Dentara-Management-GmbH--14803984-inline.html",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-27",
+   "first_seen": "2026-11-27T14:37",
+   "description": "Die dentara group ist eine Gruppe von über 25 Dentallaboren mit Standorten bundesweit und über 450 Mitarbeitenden. Gesucht wird ein Werkstudent (m/w/d) KI, Tools und Automatisierung, um manuelle Arbeitsprozesse durch KI-gestützte Lösungen zu automatisieren. Ein Studium in Wirtschaftsinformatik, Informatik oder Data Science, praktische Erfahrung mit KI-Coding-Tools, Kenntnisse in SQL oder Python sowie fließendes Deutsch und gutes Englisch werden vorausgesetzt."
   },
   {
    "id": "li_4495804656",
