@@ -1,31 +1,9 @@
 {
- "generated": "2026-11-27T01:24",
+ "generated": "2026-11-27T02:24",
  "what": "Работа для Оли: Kita, Krippe, Hort, Schule, Jugend (до 25 км от Offenburg)",
  "page": "https://nevrox228.github.io/wohnung-og/jobs.html",
- "count": 47,
+ "count": 46,
  "items": [
-  {
-   "id": "li_4361574268",
-   "src": "LinkedIn",
-   "title": "Arbeitserzieher, Erzieher, Erzieher - Jugend- und Heimerziehung (m/w/d) in der Eingliederungshilfe",
-   "firma": "AWO Bezirksverband Baden e.V.",
-   "ort": "Lahr/Schwarzwald",
-   "plz": "",
-   "street": "",
-   "lat": 48.338896,
-   "lon": 7.8710825,
-   "url": "https://de.linkedin.com/jobs/view/4361574268",
-   "posted": "2026-01-13",
-   "zeit": "",
-   "beruf": "",
-   "approx": true,
-   "km": 16.3,
-   "kind": "Jugend / Heim",
-   "ausb": false,
-   "first_seen": "2026-11-26T20:46",
-   "status": "open",
-   "also_urls": []
-  },
   {
    "id": "jw_065301823",
    "src": "Jobware",
@@ -1062,7 +1040,6 @@
    "first_seen": "2026-11-03T17:32",
    "status": "open",
    "also_urls": [
-    "https://de.linkedin.com/jobs/view/4462604074",
     "https://www.jobware.de/job/paedagogische-fachkraft-m-w-d-mit-perspektive-zur-fuehrungskraft-064674697"
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:24",
+ "generated": "2026-11-27T02:24",
  "files": {
   "wohnungen": {
    "json": "https://nevrox228.github.io/wohnung-og/data/wohnungen.json",
@@ -9,7 +9,7 @@
   "olya_jobs": {
    "json": "https://nevrox228.github.io/wohnung-og/data/olya_jobs.json",
    "xlsx": "https://nevrox228.github.io/wohnung-og/data/olya_jobs.xlsx",
-   "count": 47
+   "count": 46
   },
   "eltern_jobs": {
    "json": "https://nevrox228.github.io/wohnung-og/data/eltern_jobs.json",
@@ -19,7 +19,7 @@
   "werk_jobs": {
    "json": "https://nevrox228.github.io/wohnung-og/data/werk_jobs.json",
    "xlsx": "https://nevrox228.github.io/wohnung-og/data/werk_jobs.xlsx",
-   "count": 619
+   "count": 620
   }
  },
  "readme": "https://nevrox228.github.io/wohnung-og/data/README.md"

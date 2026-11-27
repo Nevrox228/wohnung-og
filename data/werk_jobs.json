@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:24",
+ "generated": "2026-11-27T02:24",
  "profile": {
   "name": "Mykyta Tkach",
   "home": "Oberkirch (77704)",
@@ -13,9 +13,9 @@
   ]
  },
  "counts": {
-  "all": 619,
-  "queue": 261,
-  "ai_focus": 326
+  "all": 620,
+  "queue": 262,
+  "ai_focus": 328
  },
  "jobs": [
   {
@@ -2847,6 +2847,34 @@
    "posted": "2026-10-18",
    "first_seen": "2026-11-04T12:29",
    "description": ""
+  },
+  {
+   "id": "li_4495563564",
+   "queue": true,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 4,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student (m/f/d) in AI",
+   "company": "Hosokawa Alpine Aktiengesellschaft",
+   "location": "Augsburg",
+   "distance_km": 207.3,
+   "remote": true,
+   "german_level": "normal",
+   "german_quote": "",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4495563564",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-27",
+   "first_seen": "2026-11-27T01:54",
+   "description": "We are looking for you as a working student (m/f/d) in the field of AI at our location in Augsburg. Hosokawa Alpine is internationally renowned for high-quality, durable machines and systems. We are among the world leaders in mechanical process engineering and film extrusion. With over 125 years of experience, we offer efficient solutions for numerous industries. Whether complex films or the finest powders in areas such as pharmaceuticals, chemicals, food, or recycling – we are a full-service provider across all process steps. With around 840 employees, we focus on sustainable technologies made in Germany and guarantee the highest level of customer satisfaction. Global presence, future orientation, flat hierarchies, and exciting tasks in special machine construction characterize our company. Your Tasks Automation of processes using artificial intelligence Development of AI-powered tools to address challenges in daily work—from the initial idea through prototyping to production deployment Identification of improvement potential and development of creative solutions through the use of AI Evaluating the developed tools in terms of their cost-effectiveness and benefits compared to conventional solutions Collaborating with various departments, gathering requirements, and obtaining relevant information and data to develop practical AI solutions All this appeals to you and you are interested in becoming a part of our company? Don't wait any longer and send us your application now. Your Profile Studies in any subject – what counts most for us is your enthusiasm for AI and your practical experience A strong interest in AI and, ideally, your own initial projects, experiments, or automation initiatives (privately or as part of your studies) Experience using AI tools and business-fluent German skills Initiative, creativity, and a hands-on mindset, as well as a passion for testing and implementing your own ideas Strong communication skills, an entrepreneurial mindset, and a passion for collaborating with other departments to gather requirements and information What We Offer You Attractive remuneration Flexible working time models Appreciative working environment with open communication Modern canteen subsidized by the employer Corporate Benefits Parking spaces and good connections to public transport Sounds interesting? Apply online using our online application form. Your Contact Katharina Krebs, +49 821 5906 - 956"
   },
   {
    "id": "li_4489966020",
@@ -10354,6 +10382,34 @@
    "description": "Begleite KPMG bei den zukünftigen Herausforderungen unserer Kund:innen. Begeistere auch Du Dich für die Vielfalt unserer Fragestellungen - und mach gemeinsam mit uns den Unterschied. Unterstütze Dein Team von Data-Expert:innen, die innovativen und datengesteuerten Lösungen für unsere Kund:innen zu entwickeln. Deine Aufgaben Du willst Big Data in Smart Data verwandeln? Bewirb Dich jetzt für Dein Praktikum bei uns und bringe Dich hiermit ein: Mit Deinem Praktikum im Bereich Data Science, Data Analytics und Business Intelligence gewinnst Du tiefgreifende Einblicke in das abwechslungsreiche Tagesgeschäft und sammelst wertvolle praktische Erfahrungen. In herausfordernden Aufgabenstellungen in der Analyse und Bewertung großer Datenmengen bringst Du Deine Fähigkeiten gezielt ein und schöpfst aus der reichhaltigen Expertise Deines Teams, um bei der Lösung komplexer Kundenprobleme zu unterstützen. Du unterstützt Dein Team dabei, aus großen strukturierten und unstrukturierten Datenbeständen unterschiedlicher Datenquellen eine Datenbasis zu schaffen und diese zu analysieren, visualisieren und zu interpretieren. Du lernst, mithilfe von Data Mining, Predictive Analytics und Machine-Learning-Methoden Muster zu erkennen und daraus Prognosen für die Zukunft zu erstellen. Du hilfst mit Präsentationen und Berichte zur Kommunikation mit Kund:innen und anderen Stakeholder:innen zu entwickeln. Des Weiteren wirst Du in die Entwicklung neuer Analysemethoden eingebunden, um die Datenbasis optimal zu prüfen und zu interpretieren. Zudem zählen wir auf Deine Mitwirkung bei der Konzipierung, Erstellung und Modellierung von Datenbankanwendungen. Dein Profil Um bei uns ein Praktikum im Bereich Data Science / Data Analytics & BI zu absolvieren, hast Du mindestens vier Fachsemester eines Studiums der Informatik, der Wirtschafts- oder der Naturwissenschaften erfolgreich abgeschlossen. Du konntest bereits erste berufliche Erfahrungen durch Praktika oder Werkstudierendentätigkeiten, idealerweise in der Unternehmensberatung oder in der IT sammeln. Idealerweise bringst Du erste relevante Berufserfahrungen durch vorhergehende Praktika sowie grundlegende Kenntnisse in einer der gängigen Programmiersprachen mit. Das Analysieren komplexer Zusammenhänge ist Deine Stärke und Du hast Spaß am Lösen von herausfordernden Problemstellungen. Du bringst Interesse an der kooperativen Arbeit in agilen Projektteams sowie Freude an komplexen Aufgaben und dem Umgang mit Daten mit. Du besitzt die Fähigkeit, in einem interdisziplinären, dynamischen und teamorientierten Umfeld zu arbeiten. Gute Kommunikations- und Präsentationsfähigkeiten auf Deutsch C1 und Englisch runden Deine Qualifikationen ab. Deine Benefits Willkommen im Team Damit Du von Beginn an voll bei uns durchstarten kannst, begleiten wir Dich mit strukturierten Onboarding-Maßnahmen während der gesamten Orientierungsphase – fachliches und persönliches Mentoring über Deinen gesamten Einsatzzeitraum inklusive. Faire Vergütung Wir sind eine Fa"
   },
   {
+   "id": "li_4491388226",
+   "queue": false,
+   "missing_skills": [],
+   "nice_to_have_missing": [],
+   "status": "open",
+   "stars": 2,
+   "ai_focus": true,
+   "type": "Werkstudent",
+   "track": "KI / Automatisierung",
+   "title": "Working Student AI, Data & Automation for A320 Customization (d/f/m)",
+   "company": "Airbus Aircraft",
+   "location": "Hamburg",
+   "distance_km": 575.0,
+   "remote": true,
+   "german_level": "C1+",
+   "german_quote": "and back to the university in the morning and at noon. Alternatively, you can take the ferry to Finkenwerd",
+   "video_in_job": false,
+   "source": "LinkedIn",
+   "url": "https://de.linkedin.com/jobs/view/4491388226",
+   "apply_url": "",
+   "apply_email": "",
+   "also_urls": [],
+   "salary": "",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-27T01:54",
+   "description": "Job Description: In order to support A320 Family Programme Customization, Airbus Operations is looking for a Working Student AI, Data & Automation for A320 Customization (d/f/m) Are you a full time student, looking for a working student position and want to get to know the work of AI, Data & Automation for A320 Customization? Then apply now! We look forward to you supporting us in the A320 Customization Digital Team to enable AI, Data and process automation as a working student (d/f/m) with approx. 18 hours a week! Location: Hamburg Start: 01.02.2027 Duration: 12 months (with option for extension) You will receive a collectively agreed salary of at least €18.53 per hour, depending on the job. There are also special payments such as vacation pay. Definition working student Working students are students who are enrolled at a University or some other institution of higher education, and who are employed in a reasonably long, fixed-term position parallel to their studies. This position must not be confused with an internship or with the possibility of writing a final thesis. This employment usually takes place directly on the company's premises. A working student's main focus remains on their studies, which is why, during term-time, working students are not allowed to work more than 20 hours per week. Working students therefore usually work near their place of study, so as to conveniently combine studying and employment. Your location: Hamburg Finkenwerder You will be working at the largest production site for civil aircraft situated in Hamburg. Its location on the southern banks of the river Elbe includes the option to commute by ferry. Experience the special flair of Hamburg in your spare time where vibrant cosmopolitan culture meets nautic legacy. Are you wondering how you actually get from university to Airbus? Your working student position is at the Finkenwerder plant and you can take the ferry from Teufelsbrück to the Airbus ferry terminal and back to the university in the morning and at noon. Alternatively, you can take the ferry to Finkenwerder and then ride your bike for about another 15 minutes to the main entrance. Your benefits Attractive salary and work-life balance with an 18-hour week (flexitime). A final thesis is possible after consultation with the department. International environment with the opportunity to network globally. Work with modern/diversified technologies. Opportunity to participate in the Generation Airbus Community to expand your own network. Your tasks and responsibilities Coordinating data & AI project based on ne eds from Customization and Management teams Understanding business data ecosystem Prototyping of solutions Industrialization of solutions in Skywise, AWS or Google Cloud environment (Airbus tool) Analyze processes: You analyze our daily and weekly operational procedures and specifically identify tasks suitable for automation. Consolidate ideas: You build a central, structured database in which all ideas fo"
+  },
+  {
    "id": "li_4494056127",
    "queue": false,
    "missing_skills": [
@@ -15037,34 +15093,6 @@
    "posted": "2026-11-06",
    "first_seen": "2026-11-06T13:38",
    "description": "_Teilzeit | möglichst 20 Stunden pro Woche | zum nächstmöglichen Zeitpunkt | zunächst auf ein Jahr befristet | Standort Warburg | Die Tätigkeit findet überwiegend vor Ort in Warburg statt. Nach Absprache ist bis zu ein Tag Homeoffice pro Woche möglich_ Coveris ist der drittgrößte Hersteller von Verpackungsfolien in Europa mit Hauptsitz in Wien. In 17 Werken produzieren wir mit insgesamt 2.500 Mitarbeitern nachhaltige Verpackungslösungen für namhafte Markenartikel weltweit. Unsere Kunden sind Marktführer im Bereich Lebensmittel, Medical, Haushalts-, Pflege- und Kosmetikprodukte. Für unser Unternehmen suchen wir zum nächstmöglichen Termin am Standort Warburgeine/n **﻿** **Werkstudent Produktentwicklung, Digitalisierung und Projektorganisation (m/w/d)** **﻿** **Deine Aufgaben:** * Du unterstützt unser Team etwa zur Hälfte bei Entwicklungsprojekten und zur Hälfte bei organisatorischen Aufgaben sowie der Digitalisierung und Automatisierung unserer Abläufe. * Du entwickelst und verbesserst gemeinsam mit uns digitale Arbeitsabläufe, beispielsweise mit Microsoft Power Automate, SharePoint und freigegebenen KI-Anwendungen. * Unterstützung bei der Vorbereitung, Begleitung und Dokumentation von Versuchen und Tests sowie bei der Erstellung und Prüfung von Produktmustern. * Aufbereitung und Auswertung von Versuchs- und Prüfdaten * Mitwirkung beim Wissensmanagement und bei der Dokumentation von Entwicklungsprozessen * Pflege von Projektübersichten, Terminplänen und Aufgabenlisten * Unterstützung bei der Nutzung und Weiterentwicklung von Microsoft Teams, SharePoint und Planner **Dein Profil:** * Du studierst einen technischen Studiengang, Betriebswirtschaftslehre mit IT-Verständnis, Informatik, Wirtschaftsinformatik oder eine vergleichbare Fachrichtung. Wichtig sind uns dein Interesse an technischen Themen und digitalen Lösungen sowie deine Bereitschaft, dich in neue Aufgaben einzuarbeiten. * Strukturierte, selbstständige und zuverlässige Arbeitsweise und Freude daran, praktisch mit anzupacken * Sicherer Umgang mit den Microsoft-Office-Anwendungen, insbesondere Excel und PowerPoint * Erste Erfahrungen mit SharePoint, Power Platform oder KI-Anwendungen sind von Vorteil * Gute Deutsch- und Englischkenntnisse in Wort und Schrift * Kommunikationsstärke und Freude an der Zusammenarbeit im Team **Wir bieten Dir:** * Eine strukturierte Einarbeitung und fachliche Unterstützung durch erfahrene Kolleginnen und Kollegen. * Eigenverantwortliches Arbeiten und die Möglichkeit eigene Ideen einbringen. * Spannende Einblicke in die Produktentwicklung eines internationalen Unternehmens * Mitarbeit an innovativen Entwicklungs- und Digitalisierungsprojekten * Flexible Arbeitszeiten, die sich optimal mit Deinem Studium vereinbaren lassen * Eigenverantwortliches Arbeiten und die Möglichkeit, eigene Ideen einzubringen * Moderne Arbeitsmittel und ein kollegiales Arbeitsumfeld * Wertvolle Praxiserfahrung sowie Perspektiven für Praktika, Abschlussarbeiten oder einen späteren Berufseinst"
-  },
-  {
-   "id": "ba_10001-1003973739-S",
-   "queue": false,
-   "missing_skills": [],
-   "nice_to_have_missing": [],
-   "status": "open",
-   "stars": 2,
-   "ai_focus": false,
-   "type": "Werkstudent",
-   "track": "Online-Marketing",
-   "title": "Werkstudent/-in für den Bereich Visuelle Kommunikation und Marketing (m/w/d)",
-   "company": "BG Holz und Metall",
-   "location": "Mainz am Rhein",
-   "distance_km": 163.0,
-   "remote": true,
-   "german_level": "normal",
-   "german_quote": "",
-   "video_in_job": true,
-   "source": "Jobbörse",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003973739-S",
-   "apply_url": "",
-   "apply_email": "",
-   "also_urls": [],
-   "salary": "STUNDENLOHN",
-   "posted": "2026-11-06",
-   "first_seen": "2026-11-06T09:33",
-   "description": "Für unser **Sachgebiet Visuelle Kommunikation** und Marketing der **Abteilung Kommunikation** innerhalb der **Hauptabteilung Organisation** suchen wir Sie am Standort **Mainz**. ### Über uns Die **Berufsgenossenschaft Holz und Metall (BGHM)** ist einer der größten Träger der gesetzlichen Unfallversicherung in Deutschland. Wir übernehmen den Versicherungsschutz für rund 4,8 Millionen Versicherte in mehr als 247.000 Betrieben beider Branchen. Unser Ziel ist es, Menschen zu helfen, die durch Arbeitsbedingungen gefährdet oder von Arbeitsunfällen oder Berufskrankheiten betroffen sind. Das **Sachgebiet Visuelle Kommunikation und Marketing** ist u.a. für den visuellen Innen- und Außenauftritt der BGHM verantwortlich. Dazu gehören z. B. die Pflege und Weiterentwicklung des Corporate Designs, die Konzeption und Kreation von medienübergreifenden Vermarktungsstrategien sowie Design-, Film-, und Kommunikationskonzepten. ### Ihre Aufgaben - Sie unterstützen bei der Gestaltung von Print- und digitalen Medien (z. B. Grafiken, Präsentationen). - Zudem entwickeln Sie neue Layouts und Templates. - Und wirken bei der Erstellung von Bewegtbildinhalten mit. - Außerdem unterstützen Sie bei der Umsetzung von Kampagnen und Kommunikationsmaßnahmen. ### Ihr Profil - Eingeschriebene/r Student/in der Fachrichtung Kommunikationsdesign, Grafikdesign, Medienmanagement, Mediendesign oder eines vergleichbaren Studiengangs - Für mindestens noch ein Jahr immatrikuliert - Erfahrungen im Umgang mit der Adobe Creative Suite insbesondere Photoshop, Illustrator und InDesign - Kreativität und Leidenschaft für Design und die Gestaltung visueller Medien - Erste Kenntnisse im Bereich der Videoproduktion und Erstellung von Bewegtbildinhalten - Hohe Bereitschaft, etwas Neues zu lernen - Strukturierte und zuverlässige Arbeitsweise - Ausgeprägte Kommunikations- und Teamfähigkeit ### Wir bieten - Wertvolle Praxiseinblicke in eine moderne Verwaltung - Einen Stundenlohn von 20,58 Euro brutto nach Entgeltgruppe 8 BG-AT - Flexible Arbeitszeitgestaltung bei 20 Stunden pro Woche - Möglichkeit des teilweisen mobilen Arbeitens - Ergonomische Arbeitsplätze mit moderner IT-Ausstattung - Angenehmes Betriebsklima und familienfreundliches Arbeitsumfeld mit Betriebskita - Verkehrsgünstige Lage und ausreichend kostenfreie Parkmöglichkeiten - Sehr gute Anbindung an den ÖPNV - Frühstücks- und Mittagsangebot in der Kantine - Corporate Benefits Die BGHM fördert aktiv die Vereinbarkeit von Beruf und Familie. In Bereichen, in denen Frauen unterrepräsentiert sind, strebt sie eine Erhöhung des Frauenanteils an. Deshalb begrüßen wir ausdrücklich Bewerbungen von Frauen. Wir schätzen Vielfalt und freuen uns, wenn Menschen mit unterschiedlichem Hintergrund, Erfahrungen und Perspektiven zu uns kommen. Wir unterstützen Menschen mit Behinderung bei ihrer Teilnahme am Bewerbungsverfahren. ### Interesse geweckt? Wir freuen uns auf Ihre Bewerbung mit der Kennung **3906337-HOT** bis zum **26.11.2026** unter www.bghm.de/karriere"
   },
   {
    "id": "li_4488009830",
