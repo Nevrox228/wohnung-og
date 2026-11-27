@@ -1,9 +1,353 @@
 {
- "generated": "2026-11-27T11:00",
+ "generated": "2026-11-27T12:00",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1077,
+ "count": 1080,
  "items": [
+  {
+   "id": "marina:ba_11081-VVCS73BVENCN8LP7-S",
+   "src": "Jobbörse",
+   "title": "Maschinenbediener / Produktionsmitarbeiter Metall (m/w/d) | bis 30,89 €/Std. | Zell am Harmersbach",
+   "firma": "Manpowergroup Deutschland GmbH & Co. KG",
+   "ort": "Zell am Harmersbach",
+   "street": "",
+   "lat": 48.343856671,
+   "lon": 8.087533316,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11081-VVCS73BVENCN8LP7-S",
+   "posted": "2026-11-27",
+   "desc": "Maschinenbediener / Produktionsmitarbeiter Metall (m/w/d) | bis 30,89 €/Std. | Zell am Harmersbach Standort: Zell am Harmersbach Anstellungsart(en): Vollzeit Ihre Zukunft als Maschinenbediener / Anlagenbediener / Produktionsmitarbeiter Metall (m/w/d) Sie möchten in einem modernen Industrieunternehmen der Metall- und Elektroindustrie arbeiten und suchen eine langfristige Perspektive mit attraktiven Verdienstmöglichkeiten? Dann sind Sie bei uns genau richtig. Für unseren Kunden am Standort Zell am Harmersbach suchen wir engagierte Maschinenbediener, Anlagenbediener und Produktionsmitarbeiter Metall (m/w/d), die mit technischem Verständnis und Einsatzbereitschaft den Produktionsprozess aktiv unterstützen. Ihre Aufgaben als Maschinenbediener / Anlagenbediener / Produktionsmitarbeiter Metall (m/w/d) - Ordnungsgemäße Dokumentation der Warenbewegungen - Etikettierung, Kommissionierung und Verpackung von Waren - Durchführung von Qualitäts- und Sichtkontrollen - Sicherung der Qualität der produzierten Bauteile - Bedienung, Pflege und Wartung der Strahl- und Reinigungsanlagen - Überwachung der Produktionsabläufe und Meldung von Störungen - Einhaltung der geltenden Qualitäts-, Sicherheits- und Umweltstandards - Unterstützung bei allgemeinen Produktions- und Lagertätigkeiten Das bringen Sie mit - Erfahrung im Metallbereich oder in der industriellen Produktion wünschenswert - Erfahrung als Maschinen- oder Anlagenbediener von Vorteil - Bereitschaft zur Arbeit im 3-Schicht-System - Selbstständige und verantwortungsbewusste Arbeitsweise - Teamfähigkeit und Zuverlässigkeit - Gute Deutschkenntnisse in Wort und Schrift - Idealerweise Staplerschein bzw. Fahrerlaubnis für Flurförderfahrzeuge Das bieten wir Ihnen - Attraktiver Startlohn von 17,71 €/Std. - Branchenzuschläge der Metall- und Elektroindustrie mit Entwicklung auf bis zu 30,89 €/Std. - Unbefristeter Arbeitsvertrag - Urlaubs- und Weihnachtsgeld nach GVP-Tarifvertrag - Langfristiger Einsatz mit sehr guten Übernahmechancen - 40-Stunden-Woche im 3-Schicht-System - Intensive Einarbeitung in Ihr neues Aufgabengebiet - Individuelle Betreuung durch das Manpower-Team - Weiterbildungsmöglichkeiten und Entwicklungsperspektiven - Moderner und sicherer Arbeitsplatz in einem erfolgreichen Industrieunternehmen - Gute Erreichbarkeit des Arbeitsortes Der schnellste Weg zu Ihrem neuen Job Sie möchten als Maschinenbediener / Anlagenbediener / Produktionsmitarbeiter Metall (m/w/d) in Zell am Harmersbach durchstarten? Dann freuen wir uns auf Ihre Bewerbung. Arif Aslan Manpower GmbH & Co. KG Telefon: 0541 1816627 E-Mail: arif.aslan@manpower.de Ihre Sicherheit und der Schutz Ihrer Daten sind uns wichtig Manpower steht für einen sicheren und transparenten Bewerbungsprozess. Wir fordern im Rahmen des Recruitings niemals Zahlungen, Bankdaten oder sensible persönliche Informationen an. Wenn Sie verdächtige Nachrichten erhalten, die vorgeben, von uns zu stammen, kontaktieren Sie uns bitte. Informationen und Kontaktlink finden Sie unter > Job-Scamming. Abteilung(en): Automobil Art(en) des Personalbedarfs: Arbeitnehmerüberlassung Tarifvertrag: GVP-Tarifvertrag",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": false,
+   "who": "marina",
+   "km": 20.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-27T11:30",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 72,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 15,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:33",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:33",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 343,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 317,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:04",
+        "min": 317
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 343
+     }
+    ],
+    "best": "транспорт",
+    "min": 72,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ba_11081-VVCS73BVENCN8LP7-S",
+   "src": "Jobbörse",
+   "title": "Maschinenbediener / Produktionsmitarbeiter Metall (m/w/d) | bis 30,89 €/Std. | Zell am Harmersbach",
+   "firma": "Manpowergroup Deutschland GmbH & Co. KG",
+   "ort": "Zell am Harmersbach",
+   "street": "",
+   "lat": 48.343856671,
+   "lon": 8.087533316,
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11081-VVCS73BVENCN8LP7-S",
+   "posted": "2026-11-27",
+   "desc": "Maschinenbediener / Produktionsmitarbeiter Metall (m/w/d) | bis 30,89 €/Std. | Zell am Harmersbach Standort: Zell am Harmersbach Anstellungsart(en): Vollzeit Ihre Zukunft als Maschinenbediener / Anlagenbediener / Produktionsmitarbeiter Metall (m/w/d) Sie möchten in einem modernen Industrieunternehmen der Metall- und Elektroindustrie arbeiten und suchen eine langfristige Perspektive mit attraktiven Verdienstmöglichkeiten? Dann sind Sie bei uns genau richtig. Für unseren Kunden am Standort Zell am Harmersbach suchen wir engagierte Maschinenbediener, Anlagenbediener und Produktionsmitarbeiter Metall (m/w/d), die mit technischem Verständnis und Einsatzbereitschaft den Produktionsprozess aktiv unterstützen. Ihre Aufgaben als Maschinenbediener / Anlagenbediener / Produktionsmitarbeiter Metall (m/w/d) - Ordnungsgemäße Dokumentation der Warenbewegungen - Etikettierung, Kommissionierung und Verpackung von Waren - Durchführung von Qualitäts- und Sichtkontrollen - Sicherung der Qualität der produzierten Bauteile - Bedienung, Pflege und Wartung der Strahl- und Reinigungsanlagen - Überwachung der Produktionsabläufe und Meldung von Störungen - Einhaltung der geltenden Qualitäts-, Sicherheits- und Umweltstandards - Unterstützung bei allgemeinen Produktions- und Lagertätigkeiten Das bringen Sie mit - Erfahrung im Metallbereich oder in der industriellen Produktion wünschenswert - Erfahrung als Maschinen- oder Anlagenbediener von Vorteil - Bereitschaft zur Arbeit im 3-Schicht-System - Selbstständige und verantwortungsbewusste Arbeitsweise - Teamfähigkeit und Zuverlässigkeit - Gute Deutschkenntnisse in Wort und Schrift - Idealerweise Staplerschein bzw. Fahrerlaubnis für Flurförderfahrzeuge Das bieten wir Ihnen - Attraktiver Startlohn von 17,71 €/Std. - Branchenzuschläge der Metall- und Elektroindustrie mit Entwicklung auf bis zu 30,89 €/Std. - Unbefristeter Arbeitsvertrag - Urlaubs- und Weihnachtsgeld nach GVP-Tarifvertrag - Langfristiger Einsatz mit sehr guten Übernahmechancen - 40-Stunden-Woche im 3-Schicht-System - Intensive Einarbeitung in Ihr neues Aufgabengebiet - Individuelle Betreuung durch das Manpower-Team - Weiterbildungsmöglichkeiten und Entwicklungsperspektiven - Moderner und sicherer Arbeitsplatz in einem erfolgreichen Industrieunternehmen - Gute Erreichbarkeit des Arbeitsortes Der schnellste Weg zu Ihrem neuen Job Sie möchten als Maschinenbediener / Anlagenbediener / Produktionsmitarbeiter Metall (m/w/d) in Zell am Harmersbach durchstarten? Dann freuen wir uns auf Ihre Bewerbung. Arif Aslan Manpower GmbH & Co. KG Telefon: 0541 1816627 E-Mail: arif.aslan@manpower.de Ihre Sicherheit und der Schutz Ihrer Daten sind uns wichtig Manpower steht für einen sicheren und transparenten Bewerbungsprozess. Wir fordern im Rahmen des Recruitings niemals Zahlungen, Bankdaten oder sensible persönliche Informationen an. Wenn Sie verdächtige Nachrichten erhalten, die vorgeben, von uns zu stammen, kontaktieren Sie uns bitte. Informationen und Kontaktlink finden Sie unter > Job-Scamming. Abteilung(en): Automobil Art(en) des Personalbedarfs: Arbeitnehmerüberlassung Tarifvertrag: GVP-Tarifvertrag",
+   "zeit": "Vollzeit",
+   "schicht": true,
+   "quer": false,
+   "who": "mykyta",
+   "km": 20.9,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-27T11:30",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 72,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 15,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:33",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:33",
+        "min": 15
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 78
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 343,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 317,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:04",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:04",
+        "min": 317
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 343
+     }
+    ],
+    "best": "транспорт",
+    "min": 72,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "mykyta:ba_10000-1208824030-S",
    "src": "Jobbörse",
@@ -120468,7 +120812,9 @@
     "changes": 2
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/zimmermaedchen-roomboy-m-w-d-spezialist-in-fuer-wohlfuehlambient/3583665609-110-8538"
+   ],
    "person": "Марина"
   },
   {
@@ -165148,6 +165494,168 @@
     "https://www.kleinanzeigen.de/s-anzeige/rust-spueler-m-w-d-europa-park/3577853473-110-9040",
     "https://www.kleinanzeigen.de/s-anzeige/rust-spueler-m-w-d-europa-park/3577852942-110-8088"
    ],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3447144340",
+   "src": "Kleinanzeigen",
+   "title": "Küchenhilfe in Vollzeit / Teilzeit",
+   "firma": "частное",
+   "ort": "Durbach",
+   "plz": "77770",
+   "street": "",
+   "lat": 48.4848066,
+   "lon": 8.0287206,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/kuechenhilfe-in-vollzeit-teilzeit/3447144340-110-9034",
+   "posted": "2026-10-28",
+   "posted_time": null,
+   "desc": "Zur Unterstützung für unser Team suchen wir zum nächstmöglichen Zeitpunkt * Küchenhilfe * (m/w/d) in Vollzeit / Teilzeit oder als Aushilfe Du liebst es, den Gästen ein Lächeln zu zaubern. Du servierst gerne regionale und saisonale Gerichte. Dann bist du bei uns genau richtig! Für unser traditionsreiches Gasthaus in Durbach-Ebersweier suchen wir genau Dich! Arbeitszeiten: Vollzeit: Schichtbetrieb mittags & abends von Mittwoch - Sonntag Teilzeit / Minijob: Mittwoch - Freitag am Mittag 10:30-15 Uhr und / oder Abend 17-23Uhr Was du mitbringst: * idealerweise schon Vorkenntnisse in der Küche * Leidenschaft für gutes, regionales Essen und Teamarbeit * Eigenständiges, zuverlässiges Arbeiten – auch in stressigen Situationen * gute Grundkenntnisse der deutschen Sprache Wir bieten: * Spaß und Freude beim Arbeiten * gute Bezahlung * angenehme Atmosphäre. Bewerbungen gerne per Nachricht, Mail oder per Telefon 0781/42612 Werde Teil des Kreuz-Teams. Wir freuen uns auf Dich!!",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 6.5,
+   "de": "немного",
+   "de_txt": "gute Grundkenntnisse der deutschen Sprache Wir bieten:",
+   "agency": false,
+   "kind": "Кухня",
+   "first_seen": "2026-11-04T13:04",
+   "route": {
+    "opts": [
+     {
+      "kind": "велосипед",
+      "min": 41,
+      "changes": 0,
+      "km": 9.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 41
+       }
+      ],
+      "risky": false,
+      "score": 62
+     },
+     {
+      "kind": "транспорт",
+      "min": 103,
+      "changes": 1,
+      "min_wait": 26,
+      "walk_end": 30,
+      "end_stop": "Durbach Rebstock",
+      "dep": "06:32",
+      "arr": "08:16",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7142",
+        "from": "Offenburg Bahnhof Ost",
+        "to": "Durbach Rebstock",
+        "dep": "07:25",
+        "arr": "07:46",
+        "wait": 26,
+        "min": 21
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Durbach Rebstock",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "08:16",
+        "min": 30
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 106
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 145,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 119,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "13:36",
+      "arr": "16:02",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "13:36",
+        "arr": "13:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "13:47",
+        "arr": "14:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "14:03",
+        "arr": "16:02",
+        "min": 119
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 145
+     }
+    ],
+    "best": "велосипед",
+    "min": 41,
+    "changes": 0
+   },
+   "prof": false,
+   "prof_txt": "",
+   "help": "",
+   "ru": "",
+   "status": "open",
+   "also_urls": [],
    "person": "Марина"
   },
   {
