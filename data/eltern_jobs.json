@@ -1,9 +1,3775 @@
 {
- "generated": "2026-11-27T15:08",
+ "generated": "2026-11-28T11:35",
  "what": "Работа для родителей: Марина (без хорошего немецкого), Алексей (сад/зелень), до 30 км от Oberkirch",
  "page": "https://nevrox228.github.io/wohnung-og/eltern.html",
- "count": 1081,
+ "count": 1103,
  "items": [
+  {
+   "id": "marina:ka_3584369587",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "Yourfirm GmbH & Co. KG",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584369587-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:38",
+   "desc": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d) MARECHAL GmbH Produktionsmitarbeiter Montage / Wareneingang (m/w/d) Standort: Willstätt-Sand Werden Sie Teil unseres Teams! Die MARECHAL GmbH mit Sitz in Willstätt-Sand ist Hersteller von elektrischen Industriesteckvorrichtungen und gehört zur internationalen MARECHAL ELECTRIC GROUP. Seit über 50 Jahren entwickeln und vertreiben wir innovative Lösungen für die industrielle Stromversorgung in Deutschland, Österreich, der Schweiz sowie in Osteuropa. Zur Verstärkung unseres Produktionsteams an unserem Standort in Willstätt-Sand suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Produktionsmitarbeiter Montage / Wareneingang (m/w/d). Ihre Aufgaben ● Montage von Baugruppen und Komponenten nach Arbeitsanweisung ● Durchführung von Wareneingangskontrollen ● Erfassung und Buchung von Wareneingängen im ERP-System ● Kontrolle der Lieferdokumente und Waren auf Vollständigkeit ● Unterstützung bei Lager- und Produktionsprozessen ● Mitarbeit bei der Optimierung interner Abläufe ● Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich Ihr Profil ● Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil ● Technisches Verständnis und handwerkliches Geschick ● Sorgfältige, zuverlässige und strukturierte Arbeitsweise ● Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen ● Teamfähigkeit, Flexibilität und Belastbarkeit ● Gute Deutschkenntnisse in Wort und Schrift Das erwartet Sie bei uns ● Unbefristeter Arbeitsplatz in einem international erfolgreichen Unternehmen ● Attraktive und leistungsgerechte Vergütung ● 30 Urlaubstage pro Jahr ● Kostenfreie Getränke und Mittagessen ● Gründliche Einarbeitung und abwechslungsreiche Tätigkeit ● Kurze Entscheidungswege und angenehmes Betriebsklima ● Kollegiales Team mit gegenseitiger Unterstützung ● Langfristige Entwicklungsmöglichkeiten Und das Wichtigste: Wir feiern unsere Erfolge gemeinsam und legen Wert auf ein gutes Miteinander! Interessiert? Dann freuen wir uns auf Ihre aussagekräftige Bewerbung unter Angabe Ihres frühestmöglichen Eintrittstermins sowie Ihrer Gehaltsvorstellungen. MARECHAL GmbH Personalabteilung - Corinne Ribo Im Lossenfeld 8 D-77731 Willstätt-Sand Internet: www.marechal.com MARECHAL GmbH Im Lossenfeld 8, D-77731 Willstätt-Sand ... ________________________________________ Klicken Sie einfach oben rechts auf den Bewerben-Button, oder kopieren Sie den folgenden Link in die URL-Zeile Ihres Browers, um auf die vollständige Stellenanzeige weitergeleitet zu werden: https://www.yourfirm.de/job/kleinanzeigen/YF-55088 ________________________________________ Noch mehr passende Jobs finden Sie auf www.yourfirm.de",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Das erwartet Sie bei uns",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3584365550",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "JobNinja - Mit einem Click zum neuen Job!",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584365550-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:34",
+   "desc": "Einleitung Produktionsmitarbeiter Montage / Wareneingang (m/w/d) Standort: Willstätt-Sand Werden Sie Teil unseres Teams! Die MARECHAL GmbH mit Sitz in Willstätt-Sand ist Hersteller von elektrischen Industriesteckvorrichtungen und gehört zur internationalen MARECHAL ELECTRIC GROUP. Seit über 50 Jahren entwickeln und vertreiben wir innovative Lösungen für die industrielle Stromversorgung in Deutschland, Österreich, der Schweiz sowie in Osteuropa. Zur Verstärkung unseres Produktionsteams an unserem Standort in Willstätt-Sand suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Produktionsmitarbeiter Montage / Wareneingang (m/w/d). Aufgaben ● Montage von Baugruppen und Komponenten nach Arbeitsanweisung ● Durchführung von Wareneingangskontrollen ● Erfassung und Buchung von Wareneingängen im ERP-System ● Kontrolle der Lieferdokumente und Waren auf Vollständigkeit ● Unterstützung bei Lager- und Produktions­prozessen ● Mitarbeit bei der Optimierung interner Abläufe ● Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich Profil ● Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil ● Technisches Verständnis und handwerkliches Geschick ● Sorgfältige, zuverlässige und strukturierte Arbeitsweise ● Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen ● Teamfähigkeit, Flexibilität und Belastbarkeit ● Gute Deutschkenntnisse in Wort und Schrift Wir bieten ● Unbefristeter Arbeitsplatz in einem international erfolgreichen Unternehmen ● Attraktive und leistungsgerechte Vergütung ● 30 Urlaubstage pro Jahr ● Kostenfreie Getränke und Mittagessen ● Gründliche Einarbeitung und abwechslungsreiche Tätigkeit ● Kurze Entscheidungswege und angenehmes Betriebsklima ● Kollegiales Team mit gegenseitiger Unterstützung ● Langfristige Entwicklungsmöglichkeiten",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Wir bieten",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3584360525",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "Jobware GmbH",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584360525-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:28",
+   "desc": "# Produktionsmitarbeiter Montage / Wareneingang (m/w/d) bei MARECHAL GmbH in Willstätt —————————————————————- **Die vollständige Anzeige finden Sie unter folgendem Link:** https://www.jobware.de/job/produktionsmitarbeiter-montage-wareneingang-m-w-d.2089624705.html?jw_chl_seg=ebayk_ver (Bitte Link in den Browser kopieren) —————————————————————- **Aufgabe:** * Montage von Baugruppen und Komponenten nach Arbeitsanweisung * Durchführung von Wareneingangskontrollen * Erfassung und Buchung von Wareneingängen im ERP-System * Kontrolle der Lieferdokumente und Waren auf Vollständigkeit * Unterstützung bei Lager- und Produktionsprozessen * Mitarbeit bei der Optimierung interner Abläufe * Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich **Qualifikation:** * Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil * Technisches Verständnis und handwerkliches Geschick * Sorgfältige, zuverlässige und strukturierte Arbeitsweise * Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen * Teamfähigkeit, Flexibilität und Belastbarkeit * Gute Deutschkenntnisse in Wort und Schrift —————————————————————- **Weitere Informationen und Link zur Bewerbung:** https://www.jobware.de/job/produktionsmitarbeiter-montage-wareneingang-m-w-d.2089624705.html?jw_chl_seg=ebayk_ver Kennziffer: 065321418",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift —————————————————————",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3556128915",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) in 2-Schicht (29157876)",
+   "firma": "hokify GmbH",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-in-2-schicht-29157876-/3556128915-111-9039",
+   "posted": "2026-11-28",
+   "posted_time": "09:08",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/EFGvpsd ⬅️ - - - - - - - - ️ Wir suchen einen motivierten Produktionshelfer (m/w/d) für unseren Kunden in Offenburg. In dieser Position tragen Sie aktiv zur Produktion bei und unterstützen die verschiedenen Abläufe in der Fertigung. Wenn Sie Interesse an einem dynamischen Arbeitsumfeld haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Unterstützung bei der Metallbearbeitung - Montage von Kleinteilen - Verpackungstätigkeiten - Qualitätskontrolle der produzierten Teile - Einhaltung von Sicherheits- und Gesundheitsvorschriften - Dokumentation der Produktionsprozesse Anforderungen: - Erfahrung in der Metallbearbeitung ist von Vorteil - Technisches Verständnis für Maschinen und deren Bedienung - Teamfähigkeit sowie selbstständige Arbeitsweise - Bereitschaft zur 2-Schichtarbeit - Gute Deutschkenntnisse Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/EFGvpsd",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse Was wir Ihnen bieten:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3584339169",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "Jobsintown.de GmbH",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584339169-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:01",
+   "desc": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d) MARECHAL GmbH Produktionsmitarbeiter Montage / Wareneingang (m/w/d)Standort: Willstätt-Sand Werden Sie Teil unseres Teams! Die MARECHAL GmbH mit Sitz in Willstätt-Sand ist Hersteller von elektrischen Industriesteckvorrichtungen und gehört zur internationalen MARECHAL ELECTRIC GROUP. Seit über 50 Jahren entwickeln und vertreiben wir innovative Lösungen für die industrielle Stromversorgung in Deutschland, Österreich, der Schweiz sowie in Osteuropa. Zur Verstärkung unseres Produktionsteams an unserem Standort in Willstätt-Sand suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Produktionsmitarbeiter Montage / Wareneingang (m/w/d). Ihre Aufgaben Montage von Baugruppen und Komponenten nach Arbeitsanweisung Durchführung von Wareneingangskontrollen Erfassung und Buchung von Wareneingängen im ERP-System Kontrolle der Lieferdokumente und Waren auf Vollständigkeit Unterstützung bei Lager- und Produktions­prozessen Mitarbeit bei der Optimierung interner Abläufe Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich Ihr Profil Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil Technisches Verständnis und handwerkliches Geschick Sorgfältige, zuverlässige und strukturierte Arbeitsweise Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen Teamfähigkeit, Flexibilität und Belastbarkeit Gute Deutschkenntnisse in Wort und Schrift Das erwartet Sie bei uns Unbefristeter Arbeitsplatz in einem international erfolgreichen Unternehmen Attraktive und leistungsgerechte Vergütung 30 Urlaubstage pro Jahr Kostenfreie Getränke und Mittagessen Gründliche Einarbeitung und abwechslungsreiche Tätigkeit Kurze Entscheidungswege und angenehmes Betriebsklima Kollegiales Team mit gegenseitiger Unterstützung Langfristige Entwicklungsmöglichkeiten Hier geht es zu Ihrer Bewerbung! (Den Link einfach in Ihre Suchleiste kopieren) https://anzeigen.jobsintown.de/job/1/1540863.html",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Ihre Aufgaben Montage von Baugruppen und Komponenten nach Arbeitsanweisung Durchführung von Wareneingangskontrollen Erfassung und Buchung von Wareneingängen im ",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Производство",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3584408125",
+   "src": "Kleinanzeigen",
+   "title": "Lagerist / Kommissionierer (m/w/d) 2-Schicht",
+   "firma": "Cooperhire.io - Jobs & Recruiting Software",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerist-kommissionierer-m-w-d-2-schicht/3584408125-247-8670",
+   "posted": "2026-11-28",
+   "posted_time": "10:16",
+   "desc": "✅ Lagerist / Kommissionierer (m/w/d) 2-Schicht ✅ expertum GmbH Unser Kunde ist ein internationales Industrieunternehmen im Elektrobereich mit rund 100.000 Mitarbeiter in mehr als 100 Ländern. Allein an den Standorten in Deutschland sind über 10.000 Mitarbeiter beschäftigt. In Sasbach werden mit energiesparenden und umweltschonenden Technologien Energie-Verteilersysteme entwickelt und produziert. Zur Unterstützung des Teams im Lager suchen wir ab sofort einen engagierten Lagerist / Kommissionierer (m/w/d) 2-Schicht (38,5 Std./Woche). ● Sie kommissionieren empfindliche/elektronische Produkte. ● Zudem führen Sie Wareneingangskontrollen und Buchungen im SAP-System durch. ● Im zentralen Teilelager lagern Sie Shuttle-Ware ein und aus. ● Sie konnten bereits praktische Erfahrung im Lager eines produzierenden oder eines Handelsunternehmens sammeln. ● Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert. ● Der Umgang mit SAP oder einem ERP-System ist Ihnen vertraut. ● Sie sind bereit, im 2-Schichtsystem (06:00 - 14:00 Uhr, 14:15 - 22:30 Uhr) zu arbeiten. ● Unbefristeter Arbeitsvertrag inkl. Urlaubs- und Weihnachtsgeld ● Tarifliche Entlohnung nach dem GVP-Tarifwerk sowie ggf. Branchenzuschläge ● Betriebliche Altersvorsorge ● Hochwertige Profi-Schutz- und -Arbeitskleidung sowie arbeitsmedizinische Vorsorge ● Arbeitsplatzbezogene Weiterbildungen ● Mitarbeiter-Prämien zu besonderen Anlässen ● Vielzahl an Shopping-Rabatten ● Spannende Projekte bei wertschätzenden Kunden JBSR1_DE ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ ⭐ Alle Infos zur Bewerbung finden Sie unter folgendem Link ⭐ https://www.stepstone.de/job/14505725/application/redirection?locale=de_DE&cid=partner_jobsier___6 (kopieren Sie den Link einfach in die URL Zeile Ihres Browsers)",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert.",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3584355885",
+   "src": "Kleinanzeigen",
+   "title": "Lagerist / Kommissionierer (m/w/d) 2-Schicht",
+   "firma": "expertum Gruppe",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerist-kommissionierer-m-w-d-2-schicht/3584355885-247-8670",
+   "posted": "2026-11-28",
+   "posted_time": "09:23",
+   "desc": "HIER WERDEN SIE ARBEITEN: Unser Kunde ist ein internationales Industrieunternehmen im Elektrobereich mit rund 100.000 Mitarbeiter in mehr als 100 Ländern. Allein an den Standorten in Deutschland sind über 10.000 Mitarbeiter beschäftigt. In Sasbach werden mit energiesparenden und umweltschonenden Technologien Energie-Verteilersysteme entwickelt und produziert. Zur Unterstützung des Teams im Lager suchen wir ab sofort einen engagierten Lagerist / Kommissionierer (m/w/d) 2-Schicht (38,5 Std./Woche). DIES SIND IHRE AUFGABEN: ● Sie kommissionieren empfindliche/elektronische Produkte. ● Zudem führen Sie Wareneingangskontrollen und Buchungen im SAP-System durch. ● Im zentralen Teilelager lagern Sie Shuttle-Ware ein und aus. DAS BRINGEN SIE MIT: ● Sie konnten bereits praktische Erfahrung im Lager eines produzierenden oder eines Handelsunternehmens sammeln. ● Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert. ● Der Umgang mit SAP oder einem ERP-System ist Ihnen vertraut. ● Sie sind bereit, im 2-Schichtsystem (06:00 - 14:00 Uhr, 14:15 - 22:30 Uhr) zu arbeiten. WIR GARANTIEREN IHNEN: ● Unbefristeter Arbeitsvertrag inkl. Urlaubs- und Weihnachtsgeld ● Tarifliche Entlohnung nach dem GVP-Tarifwerk sowie ggf. Branchenzuschläge ● Betriebliche Altersvorsorge ● Hochwertige Profi-Schutz- und -Arbeitskleidung sowie arbeitsmedizinische Vorsorge ● Arbeitsplatzbezogene Weiterbildungen ● Mitarbeiter-Prämien zu besonderen Anlässen ● Vielzahl an Shopping-Rabatten ● Spannende Projekte bei wertschätzenden Kunden LEBENSLAUF GENÜGT: Die Online-Bewerbung bei expertum dauert nur wenige Minuten. Laden Sie einfach Ihren Lebenslauf hoch, überprüfen Sie die übernommenen Daten und schicken Sie die Bewerbung ab - fertig. Alternativ können Sie uns Ihre Bewerbung auch per E-Mail zukommen lassen. Wir freuen uns auf Sie! Expert:in vor Ort Mandy Leising Kurfürsten-Anlage 3 69115 Heidelberg +49 6221 651 200 ********************************************** Bitte bewerben Sie sich jetzt direkt per WhatsApp über diesen Link: https://expertum-gruppe.pitchyou.de/ZYAXM (oder klicken Sie einfach auf den Bewerben-Button) **********************************************",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert.",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "marina:ka_3583884279",
+   "src": "Kleinanzeigen",
+   "title": "Lagermitarbeiter (m/w/d)",
+   "firma": "Propartner Zeitarbeit + Handelsagentur GmbH / NL Karlsruhe",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-/3583884279-247-8047",
+   "posted": "2026-11-27",
+   "posted_time": "15:21",
+   "desc": "Propartner Zeitarbeit + Handelsagentur GmbH hat sich als starker Partner auf dem Markt der Personaldienstleistung in den vergangenen 25 Jahren etabliert und gefestigt. Wir suchen für unseren Kunden in Lahr mehrere Lagermitarbeiter (m/w/d) Standort: Lahr Anstellungsart(en): Vollzeit Arbeitszeit: 40 Stunden pro Woche Zweck und Ziel der Stelle Verschiedene Positionen zu besetzen - Inbound - Kommissionierung - Outbound. - Retoure Deine Aufgaben - Sie übernehmen vielseitige Tätigkeiten entlang der gesamten Lagerlogistik: vom Auspacken, Scannen und Einlagern der Artikel über die Kommissionierung und Zusammenstellung von Bestellungen bis hin zur Verpackung, Etikettierung und Versandvorbereitung der Waren. Darüber hinaus prüfen und bearbeiten Sie Rücksendungen, kontrollieren die Artikel, scannen und sortieren diese sowie lagern sie fachgerecht wieder ein. Dein Profil - Gesuchtes Profil - Zuverlässig, gewissenhaft und pünktlich. - Bereitschaft zu stehenden und repetitiven Tätigkeiten (gute körperliche Verfassung). - Arbeitsanweisungen verstehen und befolgen können (Deutsch, Französisch oder Englisch – eine der drei Sprachen genügt). - Führerschein und eigenes Fahrzeug. - Aufenthaltstitel in Ordnung. Was wir bieten - Übertarifliche Bezahlung nach GVP-Tarifvertrag - Urlaubs- und Weihnachtsgeld - TOP Chance auf Übernahme durch den Kunden - Kompetente und wertschätzende Betreuung durch unsere Niederlassung - Abschlags- und Vorschusszahlungen - Kilometergeld oder ÖPNV Ticket Kontaktdaten Fikrie Mehmed Personalberaterin Propartner Ettlinger Str. 5a 76137 Karlsruhe Tel.: +49 (0) 721 921 39 79 - 15 Mail: ka-bewerbungatpropartner.net Homepage: www.propartner.net Abteilung(en): Logistik Art(en) des Personalbedarfs: Arbeitnehmerüberlassung Tarifvertrag: GVP",
+   "zeit": "",
+   "who": "marina",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "Марина"
+  },
+  {
+   "id": "mykyta:ka_3584425909",
+   "src": "Kleinanzeigen",
+   "title": "Fachlagerist / Staplerfahrer Umschlagslager (m/w/d)",
+   "firma": "Stepstone",
+   "ort": "Baden-Baden",
+   "plz": "76534",
+   "street": "",
+   "lat": 48.7177268,
+   "lon": 8.2438453,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/fachlagerist-staplerfahrer-umschlagslager-m-w-d-/3584425909-247-9047",
+   "posted": "2026-11-28",
+   "posted_time": "10:31",
+   "desc": "Fachlagerist / Staplerfahrer Umschlagslager (m/w/d) bei Raben Group HIER BEWERBEN: https://www.stepstone.de/job/13937221/application/redirection?cid=Partner_kleinanzeigendirekt___ST-T --------------------- Vollzeit - Unbefristet - ab sofort Klicke einfach auf \"JETZT BEWERBEN\" und fülle unser kurzes Bewerberformular aus. Ganz unkompliziert ohne Anschreiben oder Lebenslauf. Wir haben den Drive für kontinuierliche Entwicklung! Deshalb haben wir uns als Raben seit über 90 Jahren kontinuierlich weiterentwickelt und können mittlerweile auf über 170 Standorte in 17 Ländern blicken. Wir bilden ein eingespieltes Team, das aus den besten Experten auf vielen Gebieten besteht. Alle Mitarbeiter sind am Erfolg unseres Unternehmens beteiligt - in Büros, Lagerhallen und am Steuer als Fahrer auf nationalen und europäischen Routen. Fachlagerist / Staplerfahrer Umschlagslager (m/w/d) Arbeitsort: Baden-Baden | Ref. Nr. XDOCK/BB/2026 Aufgaben ● Verladung und Entladung von LKWs mit Flurförderfahrzeugen und Staplern ● Überprüfung und Bestätigung der ein- und ausgehenden Transporte im Transport-Management-System ● Verantwortung für Warenannahme und Warenausgabe im Team ● Kontrolle der angelieferten Sendungen auf Vollständigkeit und Schäden ● Durchführung des Lagerchecks mit Scannern inklusive Dokumentation von Differenzen ● Früh (05:00 - 13:30 Uhr) Spät (13:00 - 21.30 Uhr) Nacht (21:30 - 06:00 Uhr) Profil ● Idealerweise Ausbildung zur Fachkraft für Lagerlogistik oder als Fachlagerist (m/w/d) ● Gültiger Staplerschein ● Erfahrung in Verlade- und Entladetätigkeiten und Kenntnisse in der Ladungssicherung ● Zuverlässigkeit, Einsatzbereitschaft und Flexibilität ● Leidenschaft für das Bewegen von Waren und Begeisterung für das Staplerfahren ● Gute Deutschkenntnisse Wir bieten ● Dein Start: Eine umfassende Einarbeitung, um schnell und sicher in der Raben Welt starten zu können - inkl. Teilnahme am Onboarding Date ● Deine Entwicklung: Weiterbildung und bedarfsorientierte Trainingsangebote, regelmäßige Feedbackgespräche und persönlicher Entwicklungsplan ● Finanzielle Zusatzleistungen: Vermögenswirksame Leistungen und betriebliche Altersvorsorge, Urlaubs- und Weihnachtsgeld, Prämie für die Empfehlung neuer Kollegen und Kolleginnen, Vergünstigungen und Angebote für Reisen, Freizeit und Kultur, z. B. über Corporate Benefits ● Gesundheit & Wohlbefinden: Dienstrad, jährliche Sport Challenge, frisches Obst, Kaffee & Wasser, regelmäßige Arbeitssicherheitsunterweisungen ● Work-Life-Balance: keine Wochenendarbeit im gewerblichen Bereich ● Mobilität & Ausstattung: kostenfreie Parkplätze, verkehrsgünstige Lage KLED1_DE",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 23.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse Wir bieten",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Gültiger Staplerschein",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 116,
+      "changes": 3,
+      "min_wait": 6,
+      "walk_end": 10,
+      "end_stop": "Malschbach",
+      "dep": "05:21",
+      "arr": "07:18",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "05:32",
+        "arr": "05:41",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Baden-Baden",
+        "dep": "05:53",
+        "arr": "06:15",
+        "wait": 12,
+        "min": 22
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "213",
+        "from": "Baden-Baden Bahnhof",
+        "to": "BAD Augustapl. / Museum Burda",
+        "dep": "06:35",
+        "arr": "06:48",
+        "wait": 20,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Bus",
+        "line": "204",
+        "from": "BAD Augustapl. / Museum Burda",
+        "to": "Malschbach",
+        "dep": "06:54",
+        "arr": "07:08",
+        "wait": 6,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Malschbach",
+        "to": "работа",
+        "dep": "07:08",
+        "arr": "07:18",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 125
+     },
+     {
+      "kind": "велосипед",
+      "min": 160,
+      "changes": 0,
+      "km": 39.5,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 160
+       }
+      ],
+      "risky": false,
+      "score": 300
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 598,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 572,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "22:21",
+      "arr": "08:20",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "22:21",
+        "arr": "22:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "22:32",
+        "arr": "22:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "22:48",
+        "arr": "08:20",
+        "min": 572
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 598
+     }
+    ],
+    "best": "транспорт",
+    "min": 116,
+    "changes": 3
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584408125",
+   "src": "Kleinanzeigen",
+   "title": "Lagerist / Kommissionierer (m/w/d) 2-Schicht",
+   "firma": "Cooperhire.io - Jobs & Recruiting Software",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerist-kommissionierer-m-w-d-2-schicht/3584408125-247-8670",
+   "posted": "2026-11-28",
+   "posted_time": "10:16",
+   "desc": "✅ Lagerist / Kommissionierer (m/w/d) 2-Schicht ✅ expertum GmbH Unser Kunde ist ein internationales Industrieunternehmen im Elektrobereich mit rund 100.000 Mitarbeiter in mehr als 100 Ländern. Allein an den Standorten in Deutschland sind über 10.000 Mitarbeiter beschäftigt. In Sasbach werden mit energiesparenden und umweltschonenden Technologien Energie-Verteilersysteme entwickelt und produziert. Zur Unterstützung des Teams im Lager suchen wir ab sofort einen engagierten Lagerist / Kommissionierer (m/w/d) 2-Schicht (38,5 Std./Woche). ● Sie kommissionieren empfindliche/elektronische Produkte. ● Zudem führen Sie Wareneingangskontrollen und Buchungen im SAP-System durch. ● Im zentralen Teilelager lagern Sie Shuttle-Ware ein und aus. ● Sie konnten bereits praktische Erfahrung im Lager eines produzierenden oder eines Handelsunternehmens sammeln. ● Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert. ● Der Umgang mit SAP oder einem ERP-System ist Ihnen vertraut. ● Sie sind bereit, im 2-Schichtsystem (06:00 - 14:00 Uhr, 14:15 - 22:30 Uhr) zu arbeiten. ● Unbefristeter Arbeitsvertrag inkl. Urlaubs- und Weihnachtsgeld ● Tarifliche Entlohnung nach dem GVP-Tarifwerk sowie ggf. Branchenzuschläge ● Betriebliche Altersvorsorge ● Hochwertige Profi-Schutz- und -Arbeitskleidung sowie arbeitsmedizinische Vorsorge ● Arbeitsplatzbezogene Weiterbildungen ● Mitarbeiter-Prämien zu besonderen Anlässen ● Vielzahl an Shopping-Rabatten ● Spannende Projekte bei wertschätzenden Kunden JBSR1_DE ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ ⭐ Alle Infos zur Bewerbung finden Sie unter folgendem Link ⭐ https://www.stepstone.de/job/14505725/application/redirection?locale=de_DE&cid=partner_jobsier___6 (kopieren Sie den Link einfach in die URL Zeile Ihres Browsers)",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert.",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584355885",
+   "src": "Kleinanzeigen",
+   "title": "Lagerist / Kommissionierer (m/w/d) 2-Schicht",
+   "firma": "expertum Gruppe",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerist-kommissionierer-m-w-d-2-schicht/3584355885-247-8670",
+   "posted": "2026-11-28",
+   "posted_time": "09:23",
+   "desc": "HIER WERDEN SIE ARBEITEN: Unser Kunde ist ein internationales Industrieunternehmen im Elektrobereich mit rund 100.000 Mitarbeiter in mehr als 100 Ländern. Allein an den Standorten in Deutschland sind über 10.000 Mitarbeiter beschäftigt. In Sasbach werden mit energiesparenden und umweltschonenden Technologien Energie-Verteilersysteme entwickelt und produziert. Zur Unterstützung des Teams im Lager suchen wir ab sofort einen engagierten Lagerist / Kommissionierer (m/w/d) 2-Schicht (38,5 Std./Woche). DIES SIND IHRE AUFGABEN: ● Sie kommissionieren empfindliche/elektronische Produkte. ● Zudem führen Sie Wareneingangskontrollen und Buchungen im SAP-System durch. ● Im zentralen Teilelager lagern Sie Shuttle-Ware ein und aus. DAS BRINGEN SIE MIT: ● Sie konnten bereits praktische Erfahrung im Lager eines produzierenden oder eines Handelsunternehmens sammeln. ● Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert. ● Der Umgang mit SAP oder einem ERP-System ist Ihnen vertraut. ● Sie sind bereit, im 2-Schichtsystem (06:00 - 14:00 Uhr, 14:15 - 22:30 Uhr) zu arbeiten. WIR GARANTIEREN IHNEN: ● Unbefristeter Arbeitsvertrag inkl. Urlaubs- und Weihnachtsgeld ● Tarifliche Entlohnung nach dem GVP-Tarifwerk sowie ggf. Branchenzuschläge ● Betriebliche Altersvorsorge ● Hochwertige Profi-Schutz- und -Arbeitskleidung sowie arbeitsmedizinische Vorsorge ● Arbeitsplatzbezogene Weiterbildungen ● Mitarbeiter-Prämien zu besonderen Anlässen ● Vielzahl an Shopping-Rabatten ● Spannende Projekte bei wertschätzenden Kunden LEBENSLAUF GENÜGT: Die Online-Bewerbung bei expertum dauert nur wenige Minuten. Laden Sie einfach Ihren Lebenslauf hoch, überprüfen Sie die übernommenen Daten und schicken Sie die Bewerbung ab - fertig. Alternativ können Sie uns Ihre Bewerbung auch per E-Mail zukommen lassen. Wir freuen uns auf Sie! Expert:in vor Ort Mandy Leising Kurfürsten-Anlage 3 69115 Heidelberg +49 6221 651 200 ********************************************** Bitte bewerben Sie sich jetzt direkt per WhatsApp über diesen Link: https://expertum-gruppe.pitchyou.de/ZYAXM (oder klicken Sie einfach auf den Bewerben-Button) **********************************************",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert.",
+   "prof": true,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3583884279",
+   "src": "Kleinanzeigen",
+   "title": "Lagermitarbeiter (m/w/d)",
+   "firma": "Propartner Zeitarbeit + Handelsagentur GmbH / NL Karlsruhe",
+   "ort": "Lahr (Schwarzwald)",
+   "plz": "77933",
+   "street": "",
+   "lat": 48.3355086,
+   "lon": 7.8723584,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagermitarbeiter-m-w-d-/3583884279-247-8047",
+   "posted": "2026-11-27",
+   "posted_time": "15:21",
+   "desc": "Propartner Zeitarbeit + Handelsagentur GmbH hat sich als starker Partner auf dem Markt der Personaldienstleistung in den vergangenen 25 Jahren etabliert und gefestigt. Wir suchen für unseren Kunden in Lahr mehrere Lagermitarbeiter (m/w/d) Standort: Lahr Anstellungsart(en): Vollzeit Arbeitszeit: 40 Stunden pro Woche Zweck und Ziel der Stelle Verschiedene Positionen zu besetzen - Inbound - Kommissionierung - Outbound. - Retoure Deine Aufgaben - Sie übernehmen vielseitige Tätigkeiten entlang der gesamten Lagerlogistik: vom Auspacken, Scannen und Einlagern der Artikel über die Kommissionierung und Zusammenstellung von Bestellungen bis hin zur Verpackung, Etikettierung und Versandvorbereitung der Waren. Darüber hinaus prüfen und bearbeiten Sie Rücksendungen, kontrollieren die Artikel, scannen und sortieren diese sowie lagern sie fachgerecht wieder ein. Dein Profil - Gesuchtes Profil - Zuverlässig, gewissenhaft und pünktlich. - Bereitschaft zu stehenden und repetitiven Tätigkeiten (gute körperliche Verfassung). - Arbeitsanweisungen verstehen und befolgen können (Deutsch, Französisch oder Englisch – eine der drei Sprachen genügt). - Führerschein und eigenes Fahrzeug. - Aufenthaltstitel in Ordnung. Was wir bieten - Übertarifliche Bezahlung nach GVP-Tarifvertrag - Urlaubs- und Weihnachtsgeld - TOP Chance auf Übernahme durch den Kunden - Kompetente und wertschätzende Betreuung durch unsere Niederlassung - Abschlags- und Vorschusszahlungen - Kilometergeld oder ÖPNV Ticket Kontaktdaten Fikrie Mehmed Personalberaterin Propartner Ettlinger Str. 5a 76137 Karlsruhe Tel.: +49 (0) 721 921 39 79 - 15 Mail: ka-bewerbungatpropartner.net Homepage: www.propartner.net Abteilung(en): Logistik Art(en) des Personalbedarfs: Arbeitnehmerüberlassung Tarifvertrag: GVP",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 26.6,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 70,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 9,
+      "end_stop": "Lahr Goethestraße",
+      "dep": "06:32",
+      "arr": "07:42",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Stadtbus Lahr",
+        "line": "105",
+        "from": "Lahr (Schwarzw)",
+        "to": "Lahr Goethestraße",
+        "dep": "07:27",
+        "arr": "07:34",
+        "wait": 11,
+        "min": 7
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Lahr Goethestraße",
+        "to": "работа",
+        "dep": "07:34",
+        "arr": "07:42",
+        "min": 9
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 76
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 273,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 247,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "11:06",
+        "min": 247
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 273
+     },
+     {
+      "kind": "велосипед",
+      "min": 152,
+      "changes": 0,
+      "km": 37.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 152
+       }
+      ],
+      "risky": false,
+      "score": 284
+     }
+    ],
+    "best": "транспорт",
+    "min": 70,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584369587",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "Yourfirm GmbH & Co. KG",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584369587-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:38",
+   "desc": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d) MARECHAL GmbH Produktionsmitarbeiter Montage / Wareneingang (m/w/d) Standort: Willstätt-Sand Werden Sie Teil unseres Teams! Die MARECHAL GmbH mit Sitz in Willstätt-Sand ist Hersteller von elektrischen Industriesteckvorrichtungen und gehört zur internationalen MARECHAL ELECTRIC GROUP. Seit über 50 Jahren entwickeln und vertreiben wir innovative Lösungen für die industrielle Stromversorgung in Deutschland, Österreich, der Schweiz sowie in Osteuropa. Zur Verstärkung unseres Produktionsteams an unserem Standort in Willstätt-Sand suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Produktionsmitarbeiter Montage / Wareneingang (m/w/d). Ihre Aufgaben ● Montage von Baugruppen und Komponenten nach Arbeitsanweisung ● Durchführung von Wareneingangskontrollen ● Erfassung und Buchung von Wareneingängen im ERP-System ● Kontrolle der Lieferdokumente und Waren auf Vollständigkeit ● Unterstützung bei Lager- und Produktionsprozessen ● Mitarbeit bei der Optimierung interner Abläufe ● Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich Ihr Profil ● Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil ● Technisches Verständnis und handwerkliches Geschick ● Sorgfältige, zuverlässige und strukturierte Arbeitsweise ● Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen ● Teamfähigkeit, Flexibilität und Belastbarkeit ● Gute Deutschkenntnisse in Wort und Schrift Das erwartet Sie bei uns ● Unbefristeter Arbeitsplatz in einem international erfolgreichen Unternehmen ● Attraktive und leistungsgerechte Vergütung ● 30 Urlaubstage pro Jahr ● Kostenfreie Getränke und Mittagessen ● Gründliche Einarbeitung und abwechslungsreiche Tätigkeit ● Kurze Entscheidungswege und angenehmes Betriebsklima ● Kollegiales Team mit gegenseitiger Unterstützung ● Langfristige Entwicklungsmöglichkeiten Und das Wichtigste: Wir feiern unsere Erfolge gemeinsam und legen Wert auf ein gutes Miteinander! Interessiert? Dann freuen wir uns auf Ihre aussagekräftige Bewerbung unter Angabe Ihres frühestmöglichen Eintrittstermins sowie Ihrer Gehaltsvorstellungen. MARECHAL GmbH Personalabteilung - Corinne Ribo Im Lossenfeld 8 D-77731 Willstätt-Sand Internet: www.marechal.com MARECHAL GmbH Im Lossenfeld 8, D-77731 Willstätt-Sand ... ________________________________________ Klicken Sie einfach oben rechts auf den Bewerben-Button, oder kopieren Sie den folgenden Link in die URL-Zeile Ihres Browers, um auf die vollständige Stellenanzeige weitergeleitet zu werden: https://www.yourfirm.de/job/kleinanzeigen/YF-55088 ________________________________________ Noch mehr passende Jobs finden Sie auf www.yourfirm.de",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Das erwartet Sie bei uns",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584365550",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "JobNinja - Mit einem Click zum neuen Job!",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584365550-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:34",
+   "desc": "Einleitung Produktionsmitarbeiter Montage / Wareneingang (m/w/d) Standort: Willstätt-Sand Werden Sie Teil unseres Teams! Die MARECHAL GmbH mit Sitz in Willstätt-Sand ist Hersteller von elektrischen Industriesteckvorrichtungen und gehört zur internationalen MARECHAL ELECTRIC GROUP. Seit über 50 Jahren entwickeln und vertreiben wir innovative Lösungen für die industrielle Stromversorgung in Deutschland, Österreich, der Schweiz sowie in Osteuropa. Zur Verstärkung unseres Produktionsteams an unserem Standort in Willstätt-Sand suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Produktionsmitarbeiter Montage / Wareneingang (m/w/d). Aufgaben ● Montage von Baugruppen und Komponenten nach Arbeitsanweisung ● Durchführung von Wareneingangskontrollen ● Erfassung und Buchung von Wareneingängen im ERP-System ● Kontrolle der Lieferdokumente und Waren auf Vollständigkeit ● Unterstützung bei Lager- und Produktions­prozessen ● Mitarbeit bei der Optimierung interner Abläufe ● Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich Profil ● Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil ● Technisches Verständnis und handwerkliches Geschick ● Sorgfältige, zuverlässige und strukturierte Arbeitsweise ● Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen ● Teamfähigkeit, Flexibilität und Belastbarkeit ● Gute Deutschkenntnisse in Wort und Schrift Wir bieten ● Unbefristeter Arbeitsplatz in einem international erfolgreichen Unternehmen ● Attraktive und leistungsgerechte Vergütung ● 30 Urlaubstage pro Jahr ● Kostenfreie Getränke und Mittagessen ● Gründliche Einarbeitung und abwechslungsreiche Tätigkeit ● Kurze Entscheidungswege und angenehmes Betriebsklima ● Kollegiales Team mit gegenseitiger Unterstützung ● Langfristige Entwicklungsmöglichkeiten",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift Wir bieten",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584360525",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "Jobware GmbH",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584360525-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:28",
+   "desc": "# Produktionsmitarbeiter Montage / Wareneingang (m/w/d) bei MARECHAL GmbH in Willstätt —————————————————————- **Die vollständige Anzeige finden Sie unter folgendem Link:** https://www.jobware.de/job/produktionsmitarbeiter-montage-wareneingang-m-w-d.2089624705.html?jw_chl_seg=ebayk_ver (Bitte Link in den Browser kopieren) —————————————————————- **Aufgabe:** * Montage von Baugruppen und Komponenten nach Arbeitsanweisung * Durchführung von Wareneingangskontrollen * Erfassung und Buchung von Wareneingängen im ERP-System * Kontrolle der Lieferdokumente und Waren auf Vollständigkeit * Unterstützung bei Lager- und Produktionsprozessen * Mitarbeit bei der Optimierung interner Abläufe * Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich **Qualifikation:** * Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil * Technisches Verständnis und handwerkliches Geschick * Sorgfältige, zuverlässige und strukturierte Arbeitsweise * Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen * Teamfähigkeit, Flexibilität und Belastbarkeit * Gute Deutschkenntnisse in Wort und Schrift —————————————————————- **Weitere Informationen und Link zur Bewerbung:** https://www.jobware.de/job/produktionsmitarbeiter-montage-wareneingang-m-w-d.2089624705.html?jw_chl_seg=ebayk_ver Kennziffer: 065321418",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse in Wort und Schrift —————————————————————",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3556128915",
+   "src": "Kleinanzeigen",
+   "title": "Produktionshelfer (m/w/d) in 2-Schicht (29157876)",
+   "firma": "hokify GmbH",
+   "ort": "Offenburg",
+   "plz": "77656",
+   "street": "",
+   "lat": 48.4594035,
+   "lon": 7.9234795,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionshelfer-m-w-d-in-2-schicht-29157876-/3556128915-111-9039",
+   "posted": "2026-11-28",
+   "posted_time": "09:08",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/EFGvpsd ⬅️ - - - - - - - - ️ Wir suchen einen motivierten Produktionshelfer (m/w/d) für unseren Kunden in Offenburg. In dieser Position tragen Sie aktiv zur Produktion bei und unterstützen die verschiedenen Abläufe in der Fertigung. Wenn Sie Interesse an einem dynamischen Arbeitsumfeld haben und gerne im Team arbeiten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Unterstützung bei der Metallbearbeitung - Montage von Kleinteilen - Verpackungstätigkeiten - Qualitätskontrolle der produzierten Teile - Einhaltung von Sicherheits- und Gesundheitsvorschriften - Dokumentation der Produktionsprozesse Anforderungen: - Erfahrung in der Metallbearbeitung ist von Vorteil - Technisches Verständnis für Maschinen und deren Bedienung - Teamfähigkeit sowie selbstständige Arbeitsweise - Bereitschaft zur 2-Schichtarbeit - Gute Deutschkenntnisse Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/EFGvpsd",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 14.1,
+   "de": "нужен",
+   "de_txt": "Gute Deutschkenntnisse Was wir Ihnen bieten:",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 50,
+      "changes": 1,
+      "min_wait": 9,
+      "walk_end": 4,
+      "end_stop": "Offenburg Eichendorff-Schule",
+      "dep": "06:59",
+      "arr": "07:49",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "R2",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Offenburg Eichendorff-Schule",
+        "dep": "07:35",
+        "arr": "07:46",
+        "wait": 9,
+        "min": 11
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Eichendorff-Schule",
+        "to": "работа",
+        "dep": "07:46",
+        "arr": "07:49",
+        "min": 4
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 53
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 65,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 39,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "07:38",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "07:38",
+        "min": 39
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 65
+     },
+     {
+      "kind": "велосипед",
+      "min": 83,
+      "changes": 0,
+      "km": 20.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 83
+       }
+      ],
+      "risky": false,
+      "score": 146
+     }
+    ],
+    "best": "транспорт",
+    "min": 50,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584339169",
+   "src": "Kleinanzeigen",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "Jobsintown.de GmbH",
+   "ort": "Willstätt",
+   "plz": "77731",
+   "street": "",
+   "lat": 48.5510379,
+   "lon": 7.8956227,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-montage-wareneingang-m-w-d-/3584339169-111-9037",
+   "posted": "2026-11-28",
+   "posted_time": "09:01",
+   "desc": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d) MARECHAL GmbH Produktionsmitarbeiter Montage / Wareneingang (m/w/d)Standort: Willstätt-Sand Werden Sie Teil unseres Teams! Die MARECHAL GmbH mit Sitz in Willstätt-Sand ist Hersteller von elektrischen Industriesteckvorrichtungen und gehört zur internationalen MARECHAL ELECTRIC GROUP. Seit über 50 Jahren entwickeln und vertreiben wir innovative Lösungen für die industrielle Stromversorgung in Deutschland, Österreich, der Schweiz sowie in Osteuropa. Zur Verstärkung unseres Produktionsteams an unserem Standort in Willstätt-Sand suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Produktionsmitarbeiter Montage / Wareneingang (m/w/d). Ihre Aufgaben Montage von Baugruppen und Komponenten nach Arbeitsanweisung Durchführung von Wareneingangskontrollen Erfassung und Buchung von Wareneingängen im ERP-System Kontrolle der Lieferdokumente und Waren auf Vollständigkeit Unterstützung bei Lager- und Produktions­prozessen Mitarbeit bei der Optimierung interner Abläufe Sicherstellung von Ordnung und Sauberkeit im Arbeitsbereich Ihr Profil Berufserfahrung in der Montage, Produktion oder im Wareneingang von Vorteil Technisches Verständnis und handwerkliches Geschick Sorgfältige, zuverlässige und strukturierte Arbeitsweise Erfahrung im Umgang mit ERP-Systemen sowie den MS-Office-Anwendungen Teamfähigkeit, Flexibilität und Belastbarkeit Gute Deutschkenntnisse in Wort und Schrift Das erwartet Sie bei uns Unbefristeter Arbeitsplatz in einem international erfolgreichen Unternehmen Attraktive und leistungsgerechte Vergütung 30 Urlaubstage pro Jahr Kostenfreie Getränke und Mittagessen Gründliche Einarbeitung und abwechslungsreiche Tätigkeit Kurze Entscheidungswege und angenehmes Betriebsklima Kollegiales Team mit gegenseitiger Unterstützung Langfristige Entwicklungsmöglichkeiten Hier geht es zu Ihrer Bewerbung! (Den Link einfach in Ihre Suchleiste kopieren) https://anzeigen.jobsintown.de/job/1/1540863.html",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 13.8,
+   "de": "нужен",
+   "de_txt": "Ihre Aufgaben Montage von Baugruppen und Komponenten nach Arbeitsanweisung Durchführung von Wareneingangskontrollen Erfassung und Buchung von Wareneingängen im ",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 113,
+      "changes": 1,
+      "min_wait": 40,
+      "walk_end": 24,
+      "end_stop": "Odelshofen Rathaus",
+      "dep": "05:21",
+      "arr": "07:14",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7136",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Odelshofen Rathaus",
+        "dep": "06:28",
+        "arr": "06:51",
+        "wait": 40,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Odelshofen Rathaus",
+        "to": "работа",
+        "dep": "06:51",
+        "arr": "07:14",
+        "min": 24
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 116
+     },
+     {
+      "kind": "велосипед",
+      "min": 69,
+      "changes": 0,
+      "km": 16.7,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 69
+       }
+      ],
+      "risky": false,
+      "score": 118
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 172,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 146,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "18:36",
+      "arr": "21:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "18:36",
+        "arr": "18:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "18:47",
+        "arr": "19:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "19:03",
+        "arr": "21:29",
+        "min": 146
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 172
+     }
+    ],
+    "best": "транспорт",
+    "min": 113,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3583591408",
+   "src": "Kleinanzeigen",
+   "title": "SMD - Maschinenbediener (m/w/d) (29146224)",
+   "firma": "hokify GmbH",
+   "ort": "Bühl",
+   "plz": "77815",
+   "street": "",
+   "lat": 48.7016606,
+   "lon": 8.1350401,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/smd-maschinenbediener-m-w-d-29146224-/3583591408-111-8746",
+   "posted": "2026-11-27",
+   "posted_time": "10:17",
+   "desc": "- - - - - - - - Bewerbungen bitte ausschließlich unter folgendem Link. Kopiere den Link in die Adresszeile deines Browsers um die Bewerbung via hokify Job-Plattform zu starten! ➡️ -> https://hy.hokify.de/ALOVTsy ⬅️ - - - - - - - - ️ Wir suchen einen SMD - Maschinenbediener (m/w/d) für unseren Kunden in Bühl. In dieser Position sind Sie verantwortlich für die Bedienung und Überwachung von SMD-Maschinen, um eine effiziente Produktion sicherzustellen. Wenn Sie eine Leidenschaft für Elektrik und Technik haben und in einem dynamischen Umfeld arbeiten möchten, freuen wir uns auf Ihre Bewerbung. Aufgaben: - Bedienen, Rüsten und Überwachen von SMD-Maschinen - Durchführen von Stichproben und Qualitätskontrollen während des Produktionsprozesses - Korrekte Einstellung der Reflow-Öfen und der Lötpastendrucker - Dokumentation der Produktionsdaten und -prozesse - Optimierung an Bestückungsprogrammen - Zusammenarbeit mit dem Team zur Optimierung der Arbeitsabläufe Anforderungen: - Erfahrung in der Bedienung von SMD-Maschinen ist wünschenswert - Gute Kenntnisse im Umgang mit elektrischen Komponenten/Bauteilen - Gutes technisches Verständnis - Teamfähigkeit sowie selbstständige Arbeitsweise - Bereitschaft zur 2-Schichtarbeit Was wir Ihnen bieten: - Einen festen Arbeitsvertrag nach DGB/GVP-Tarifvertrag - Eine übertarifliche Vergütung, zzgl. Urlaubs- und Weihnachtsgeld - Einen interessanten und Ihren Qualifikationen entsprechenden Arbeitsplatz mit Übernahmeperspektive durch das Kundenunternehmen Ihr Weg zu uns: Falls Sie sich direkt bewerben wollen, so können Sie uns gerne Ihren Lebenslauf per E-Mail senden oder uns Ihre Daten über die angebotene online-Bewerbung zukommen lassen. Bei der online-Bewerbung können Sie nach Eingabe Ihrer Kontaktdaten Ihren Lebenslauf \"hochladen\". Wir fördern Vielfalt und heißen jede Bewerbung herzlich willkommen. Die DEKRA Arbeit GmbH gehört als Teil der DEKRA SE zu den Top 10 Personaldienstleistern in Deutschland und zu den am stärksten wachsenden Personaldienstleistern in Europa. An derzeit über 120 bundes- und europaweiten Standorten haben wir es uns zur Aufgabe gemacht, flexible Personallösungen zu etablieren und so den regionalen Arbeitsmarkt positiv mitzugestalten. Helfen Sie mit, dieses Erfolgsmodell weiter auszubauen und bewerben Sie sich noch heute. Bitte hier bewerben ➡️ -> https://hy.hokify.de/ALOVTsy",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 19.3,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Производство / сборка",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 54,
+      "changes": 1,
+      "min_wait": 11,
+      "walk_end": 10,
+      "end_stop": "Bühl (Baden)",
+      "dep": "06:32",
+      "arr": "07:27",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Appenweier",
+        "dep": "06:43",
+        "arr": "06:52",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RE2",
+        "from": "Appenweier",
+        "to": "Bühl (Baden)",
+        "dep": "07:03",
+        "arr": "07:17",
+        "wait": 11,
+        "min": 14
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Bühl (Baden)",
+        "to": "работа",
+        "dep": "07:17",
+        "arr": "07:27",
+        "min": 10
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 57
+     },
+     {
+      "kind": "велосипед",
+      "min": 117,
+      "changes": 0,
+      "km": 28.8,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 117
+       }
+      ],
+      "risky": false,
+      "score": 214
+     }
+    ],
+    "best": "транспорт",
+    "min": 54,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584340353",
+   "src": "Kleinanzeigen",
+   "title": "Lagerist / Kommissionierer (m/w/d) 2-Schicht (Sasbach bei Achern",
+   "firma": "my-perfect-job.de",
+   "ort": "Sasbach",
+   "plz": "77880",
+   "street": "",
+   "lat": 48.6390536,
+   "lon": 8.0996858,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lagerist-kommissionierer-m-w-d-2-schicht-sasbach-bei-achern/3584340353-247-8670",
+   "posted": "2026-11-28",
+   "posted_time": "09:03",
+   "desc": "expertum GmbH sucht: Lagerist / Kommissionierer (m/w/d) 2-Schicht JETZT BEWERBEN unter https://www.stepstone.de/job/14505725/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________ Unser Kunde ist ein internationales Industrieunternehmen im Elektrobereich mit rund 100.000 Mitarbeiter in mehr als 100 Ländern. Allein an den Standorten in Deutschland sind über 10.000 Mitarbeiter beschäftigt. In Sasbach werden mit energiesparenden und umweltschonenden Technologien Energie-Verteilersysteme entwickelt und produziert. Zur Unterstützung des Teams im Lager suchen wir ab sofort einen engagierten Lagerist / Kommissionierer (m/w/d) 2-Schicht (38,5 Std./Woche). -> Sie kommissionieren empfindliche/elektronische Produkte. -> Zudem führen Sie Wareneingangskontrollen und Buchungen im SAP-System durch. -> Im zentralen Teilelager lagern Sie Shuttle-Ware ein und aus. __________________ -> Sie konnten bereits praktische Erfahrung im Lager eines produzierenden oder eines Handelsunternehmens sammeln. -> Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert. -> Der Umgang mit SAP oder einem ERP-System ist Ihnen vertraut. -> Sie sind bereit, im 2-Schichtsystem (06:00 - 14:00 Uhr, 14:15 - 22:30 Uhr) zu arbeiten. __________________ -> Unbefristeter Arbeitsvertrag inkl. Urlaubs- und Weihnachtsgeld -> Tarifliche Entlohnung nach dem GVP-Tarifwerk sowie ggf. Branchenzuschläge -> Betriebliche Altersvorsorge -> Hochwertige Profi-Schutz- und -Arbeitskleidung sowie arbeitsmedizinische Vorsorge -> Arbeitsplatzbezogene Weiterbildungen -> Mitarbeiter-Prämien zu besonderen Anlässen -> Vielzahl an Shopping-Rabatten -> Spannende Projekte bei wertschätzenden Kunden __________________ ___________________________________________ Um sich auf dieses Stellenangebot zu bewerben, kopieren Sie folgenden Link in die Adresszeile Ihres Browsers: https://www.stepstone.de/job/14505725/application/redirection?locale=de_DE&cid=partner_bmebk___ST&adjust_t=1bbth7ql_1bjy99sm&adjust_campaign=partner_bmebk___ST ___________________________________________",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 12.0,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "Sie sind im Besitz des Staplerscheines und im Fahren mit dem Gabelstapler versiert.",
+   "prof": true,
+   "agency": true,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 44,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 14,
+      "end_stop": "Sasbach Heimschule Lender",
+      "dep": "07:42",
+      "arr": "08:26",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Sasbach Heimschule Lender",
+        "to": "работа",
+        "dep": "08:13",
+        "arr": "08:26",
+        "min": 14
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 44
+     },
+     {
+      "kind": "как в приложении",
+      "min": 47,
+      "changes": 1,
+      "min_wait": 10,
+      "walk_end": 5,
+      "end_stop": "Obersasbach Erlenb/Oberdorfstr",
+      "dep": "07:42",
+      "arr": "08:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch Renchener Straße",
+        "dep": "07:42",
+        "arr": "07:50",
+        "min": 6
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7124",
+        "from": "Oberkirch Renchener Straße",
+        "to": "Sasbach Heimschule Lender",
+        "dep": "07:50",
+        "arr": "08:13",
+        "wait": null,
+        "min": 23
+       },
+       {
+        "walk": false,
+        "mode": "Nationalparklinie",
+        "line": "423",
+        "from": "Sasbach Heimschule Lender",
+        "to": "Obersasbach Erlenb/Oberdorfstr",
+        "dep": "08:23",
+        "arr": "08:25",
+        "wait": 10,
+        "min": 2
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Obersasbach Erlenb/Oberdorfstr",
+        "to": "работа",
+        "dep": "08:25",
+        "arr": "08:29",
+        "min": 5
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 50
+     },
+     {
+      "kind": "велосипед",
+      "min": 63,
+      "changes": 0,
+      "km": 15.2,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 63
+       }
+      ],
+      "risky": false,
+      "score": 106
+     }
+    ],
+    "best": "транспорт",
+    "min": 44,
+    "changes": 0
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3555440021",
+   "src": "Kleinanzeigen",
+   "title": "Zusteller! Samstagszustellung in Ottenheim",
+   "firma": "Joblicant GmbH",
+   "ort": "Schwanau",
+   "plz": "77963",
+   "street": "",
+   "lat": 48.3649357,
+   "lon": 7.7639382,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zusteller-samstagszustellung-in-ottenheim/3555440021-107-8038",
+   "posted": "2026-11-28",
+   "posted_time": "11:08",
+   "desc": "⚡️Jetzt in 2 Minuten online und ohne Unterlagen direkt bei STAZ + GULLER Vertriebsgesellschaft mbH bewerben! Verdient euch euer erstes Taschengeld direkt vor der Haustür! Am Samstagmorgen - für maximal zwei Stunden - flexibel einteilbar! ✅ Klick einfach auf den Bewerben-Button auf der rechten Seite oder kopiere den folgenden Link in deine Browser-Adresszeile: https://jobli.me/watq Für die zuverlässige Zustellung unserer Wochenendzeitung DER GULLER suchen wir engagierte Zusteller auf Basis einer gerinfügigen Beschäftigung. Was wir Ihnen bieten: ● Attraktiver Nebenverdienst mit leistungsorientierter Vergütung (Minijob) ● Bezahlten Urlaub ● Eigenständiges Arbeiten an der frischen Luft ● Anlieferung der Zeitungen direkt nach Hause oder an eine zentrale Ablagestelle ● Ein Zustellgebiet in Wohnortnähe – keine (lange) Anfahrt ● Zustellung von der Wochenendzeitung unter Einsatz geeigneter Hilfsmittel wie Handrollwagen, Bollerwagen oder Fahrradtaschen ● Es sind keine Vorkenntnisse erforderlich! ● Wir freuen uns auf ein persönliches Kennenlernen und ein offenes Gespräch – ganz ohne Verpflichtungen ● Eine faire Bezahlung: ca. 80€/Monat Das bringen Sie mit: ● Zuverlässigkeit und Verantwortungsbewusstsein ● Gute Ortskenntnisse von Vorteil ● Die Vergütung erfolgt im Rahmen einer vertraglich geregelten geringfügigen Beschäftigung und richtet sich nach dem tatsächlichen Zustellumfang. Jetzt bewerben und Teil unseres Teams werden! ✅ Bewirb dich direkt online: Auf dem Bewerben-Button oder unter https://jobli.me/watq",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 29.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 102,
+      "changes": 2,
+      "min_wait": 3,
+      "walk_end": 11,
+      "end_stop": "Allmannsweier Oberdorf",
+      "dep": "17:36",
+      "arr": "19:19",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "17:36",
+        "arr": "17:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "17:47",
+        "arr": "18:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "18:06",
+        "arr": "18:16",
+        "wait": 3,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Lahr (Schwarzw)",
+        "to": "Ottenheim Schule",
+        "dep": "18:44",
+        "arr": "18:57",
+        "wait": 28,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "106",
+        "from": "Ottenheim Schule",
+        "to": "Allmannsweier Oberdorf",
+        "dep": "18:59",
+        "arr": "19:08",
+        "wait": null,
+        "min": 9
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Allmannsweier Oberdorf",
+        "to": "работа",
+        "dep": "19:08",
+        "arr": "19:19",
+        "min": 11
+       }
+      ],
+      "full": true,
+      "risky": true,
+      "score": 120
+     },
+     {
+      "kind": "велосипед",
+      "min": 172,
+      "changes": 0,
+      "km": 42.6,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 172
+       }
+      ],
+      "risky": false,
+      "score": 324
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 324,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 298,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "14:36",
+      "arr": "20:01",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "14:36",
+        "arr": "14:47",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "14:47",
+        "arr": "15:03",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "15:03",
+        "arr": "20:01",
+        "min": 298
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 324
+     }
+    ],
+    "best": "транспорт",
+    "min": 102,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3555439252",
+   "src": "Kleinanzeigen",
+   "title": "Zusteller für Wochenendzeitung in Zell am Harmersbach / Unterhar",
+   "firma": "Joblicant GmbH",
+   "ort": "Zell am Harmersbach",
+   "plz": "77736",
+   "street": "",
+   "lat": 48.3435884,
+   "lon": 8.0828409,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zusteller-fuer-wochenendzeitung-in-zell-am-harmersbach-unterhar/3555439252-107-8051",
+   "posted": "2026-11-28",
+   "posted_time": "09:07",
+   "desc": "⚡️Jetzt in 2 Minuten online und ohne Unterlagen direkt bei STAZ + GULLER Vertriebsgesellschaft mbH bewerben! Sie sind gerne früh unterwegs, schätzen eigenverantwortliches Arbeiten und möchten sich unkompliziert etwas dazuverdienen? Dann sind Sie bei uns genau richtig! ✅ Klick einfach auf den Bewerben-Button auf der rechten Seite oder kopiere den folgenden Link in deine Browser-Adresszeile: https://jobli.me/ihxd Für die zuverlässige Zustellung unserer Wochenendzeitung DER GULLER suchen wir engagierte Zusteller auf Basis einer gerinfügigen Beschäftigung. Was wir Ihnen bieten: ● Attraktiver Nebenverdienst mit leistungsorientierter Vergütung (Minijob) ● Bezahlten Urlaub ● Eigenständiges Arbeiten an der frischen Luft ● Anlieferung der Zeitungen direkt nach Hause oder an eine zentrale Ablagestelle ● Ein Zustellgebiet in Wohnortnähe – keine (lange) Anfahrt ● Ein Zustelljob, ideal als Zusatzverdienst für Berüfstätige, Rentner, Studierende und Schüler ab 18 Jahren ● Zustellung der Wochenendzeitung unter Einsatz geeigneter Hilfsmittel wie Handrollwagen, Bollerwagen oder Fahrradtaschen ● Es sind keine Vorkenntnisse erforderlich! ● Wir freuen uns auf ein persönliches Kennenlernen und ein offenes Gespräch – ganz ohne Verpflichtungen ● Eine faire Bezahlung: ca. 80 – 240 € im Monat mit Steuervorteil bei Minijob Das bringen Sie mit: ● Zuverlässigkeit und Verantwortungsbewusstsein ● Gute Ortskenntnisse von Vorteil ● Bereitschaft zur Samstagsarbeit in den frühen Morgenstunden ● Die Vergütung erfolgt im Rahmen einer vertraglich geregelten geringfügigen Beschäftigung und richtet sich nach dem tatsächlichen Zustellumfang. Jetzt bewerben und Teil unseres Teams werden! ✅ Bewirb dich direkt online: Auf dem Bewerben-Button oder unter https://jobli.me/ihxd",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 20.9,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Почта / DHL / доставка",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 73,
+      "changes": 2,
+      "min_wait": 6,
+      "walk_end": 16,
+      "end_stop": "Birach",
+      "dep": "05:21",
+      "arr": "06:35",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS1",
+        "from": "Offenburg Bahnhof",
+        "to": "Biberach",
+        "dep": "05:54",
+        "arr": "06:07",
+        "wait": 6,
+        "min": 13
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS12",
+        "from": "Biberach",
+        "to": "Birach",
+        "dep": "06:13",
+        "arr": "06:19",
+        "wait": 6,
+        "min": 6
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Birach",
+        "to": "работа",
+        "dep": "06:19",
+        "arr": "06:35",
+        "min": 16
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 79
+     },
+     {
+      "kind": "велосипед",
+      "min": 120,
+      "changes": 0,
+      "km": 29.4,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 120
+       }
+      ],
+      "risky": false,
+      "score": 220
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 345,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 319,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "05:21",
+      "arr": "11:06",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "05:21",
+        "arr": "05:32",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "05:32",
+        "arr": "05:48",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "05:48",
+        "arr": "11:06",
+        "min": 319
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 345
+     }
+    ],
+    "best": "транспорт",
+    "min": 73,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:ka_3584352329",
+   "src": "Kleinanzeigen",
+   "title": "Studentische Aushilfe als (m/w/d) für eine Drogerie in Friesenhe",
+   "firma": "minijob-anzeigen.de",
+   "ort": "Friesenheim",
+   "plz": "77948",
+   "street": "",
+   "lat": 48.3785759,
+   "lon": 7.8951348,
+   "url": "https://www.kleinanzeigen.de/s-anzeige/studentische-aushilfe-als-m-w-d-fuer-eine-drogerie-in-friesenhe/3584352329-107-8045",
+   "posted": "2026-11-28",
+   "posted_time": "09:19",
+   "desc": "Studentische Aushilfe als (m/w/d) für eine Drogerie in Friesenheim ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ +++ Mehr Infos zu diesem Job und Bewerbung auf minijob-anzeigen.de +++ https://www.minijob-anzeigen.de/-7ayj8 (Einfach den Link in die Adresszeile Ihres Browsers kopieren) ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ DEIN Job bei STUDYHEADS: Faire Bezahlung und höchste Flexibilität - Das ist unser Versprechen als einer der größten studentischen Arbeitgeber in Deutschland. Wähle aus vielen spannenden und abwechslungsreichen Jobs und plane deine Einsätze deutschlandweit flexibel und jederzeit über unsere App. Worauf also warten - komm in unser Team! Du möchtest Dir während Deines Studiums mit einem flexiblen Nebenjob etwas dazuverdienen? Du packst gern mit an und arbeitest zuverlässig? Dann passt diese Stelle perfekt zu Dir! Dein flexibler Nebenjob im Einzelhandel wartet auf Dich! Du bekommst eine Einweisung und kannst auch ohne Erfahrung direkt bei uns starten. Dein Einsatz ist im Umfang von 10-20 Std. pro Woche geplant. Die genauen Arbeitszeiten richten sich nach den Öffnungszeiten. Deinen Dienstplan kannst Du über unsere App aktiv mitgestalten. *Bewirb Dich einfach über WhatsApp - einfacher & schneller geht's nicht!* DAS BIETEN WIR DIR: * *16,56 €/h* inkl. Urlaubsentgelt - Nacht- & Feiertagszuschläge extra! Direkt ausgezahlt. * Schnell & *digital*: Einfacher Bewerbungsprozess -* z.B. via WHATS-APP: *Komplett digital, null Papierkram, kein Stress * Money Monday - *wöchentliche Bezahlung*: Jeden Montag automatisch auf deinem Konto * Maximale *Flexibilität*: Gestalte deinen Dienstplan so, wie er zu dir passt * Alles in einer App: Einsätze planen, auswählen und Arbeitszeiten tracken * Extra-Plus: Urlaubs- und Weihnachtsgeld nach Tarifvertrag * Top-Deals: Bis zu 70 % sparen bei über 600 Online-Shops DEINE AUFGABEN IM ÜBERBLICK: * *Freundlich begrüßen:* Mit Deinem freundlichen Wesen begrüßt Du Drogeriebesucher:innen an der Kasse. * *Einkäufe scannen:* Du scannst Shampoo, Badekugeln, Babynahrung und Co. über eine moderne Digitalkasse. * *Zahlung abwickeln:* Du schließt den Einkauf über Bar- oder Kartenzahlung ab. WAS WIR UNS VON DIR WÜNSCHEN: * Du bist Schüler (m/w/d) oder Student (m/w/d) oder hast es bald vor! * Für den kommunikativen Austausch sind gute Deutschkenntnisse von Vorteil. * Du bist volljährig und suchst eine neue Herausforderung. * Dein Fokus liegt bei der Arbeit stets auf den Bedürfnissen der Kunden (m/w/d). ÜBER UNS: DEIN Job bei STUDYHEADS: Faire Bezahlung und höchste Flexibilität - Das ist unser Versprechen als einer der größten studentischen Arbeitgeber in Deutschland. Wähle aus vielen spannenden und abwechslungsreichen Jobs und plane deine Einsätze deutschlandweit flexibel und jederzeit über unsere App. Worauf also warten - komm in unser Team! ANSPRECHPARTNER *Nele Kemper* Recruiting T: 0541-3303-1267 GVO Young Professionals GmbH Möserstr. 2-3 49074 Osnabrück ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒ Das Original dieser Anzeige finden Sie auf minijob-anzeigen.de unter der URL: https://www.minijob-anzeigen.de/-7ayj8 ‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 21.8,
+   "de": "немного",
+   "de_txt": "Für den kommunikativen Austausch sind gute Deutschkenntnisse von Vorteil.",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": true,
+   "kind": "Другое",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 99,
+      "changes": 2,
+      "min_wait": 7,
+      "walk_end": 6,
+      "end_stop": "Oberweier Litzengrund",
+      "dep": "06:32",
+      "arr": "08:12",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RB26",
+        "from": "Offenburg Bahnhof",
+        "to": "Lahr (Schwarzw)",
+        "dep": "07:06",
+        "arr": "07:16",
+        "wait": 7,
+        "min": 10
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "104",
+        "from": "Lahr (Schwarzw)",
+        "to": "Oberweier Litzengrund",
+        "dep": "07:38",
+        "arr": "08:06",
+        "wait": 22,
+        "min": 28
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Oberweier Litzengrund",
+        "to": "работа",
+        "dep": "08:06",
+        "arr": "08:12",
+        "min": 6
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 105
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 214,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 188,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:32",
+      "arr": "10:07",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:32",
+        "arr": "06:43",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "06:43",
+        "arr": "06:59",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "06:59",
+        "arr": "10:07",
+        "min": 188
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 214
+     },
+     {
+      "kind": "велосипед",
+      "min": 130,
+      "changes": 0,
+      "km": 32.0,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 130
+       }
+      ],
+      "risky": false,
+      "score": 240
+     }
+    ],
+    "best": "транспорт",
+    "min": 99,
+    "changes": 2
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
+  {
+   "id": "mykyta:jw_065321418",
+   "src": "Jobware",
+   "title": "Produktionsmitarbeiter Montage / Wareneingang (m/w/d)",
+   "firma": "MARECHAL GmbH",
+   "street": "",
+   "lat": 48.5415314,
+   "lon": 7.8934991,
+   "ort": "Willstätt",
+   "url": "https://www.jobware.de/job/produktionsmitarbeiter-montage-wareneingang-m-w-d-065321418",
+   "posted": "2026-11-27",
+   "desc": "",
+   "zeit": "",
+   "who": "mykyta",
+   "approx": true,
+   "km": 13.8,
+   "de": "?",
+   "de_txt": "",
+   "help": "",
+   "ru": "",
+   "prof_txt": "",
+   "prof": false,
+   "agency": false,
+   "kind": "Склад / логистика",
+   "first_seen": "2026-11-27T19:28",
+   "route": {
+    "opts": [
+     {
+      "kind": "транспорт",
+      "min": 57,
+      "changes": 1,
+      "min_wait": 8,
+      "walk_end": 1,
+      "end_stop": "Willstätt Kinzigbrücke",
+      "dep": "06:59",
+      "arr": "07:56",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": false,
+        "mode": "Regionalbus",
+        "line": "7146",
+        "from": "Offenburg Bahnhof / ZOB",
+        "to": "Willstätt Kinzigbrücke",
+        "dep": "07:34",
+        "arr": "07:56",
+        "wait": 8,
+        "min": 22
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Willstätt Kinzigbrücke",
+        "to": "работа",
+        "dep": "07:56",
+        "arr": "07:56",
+        "min": 1
+       }
+      ],
+      "full": true,
+      "risky": false,
+      "score": 60
+     },
+     {
+      "kind": "велосипед",
+      "min": 67,
+      "changes": 0,
+      "km": 16.3,
+      "legs": [
+       {
+        "walk": false,
+        "bike": true,
+        "mode": "велосипед",
+        "line": "🚲",
+        "from": "дом",
+        "to": "работа",
+        "dep": "",
+        "arr": "",
+        "min": 67
+       }
+      ],
+      "risky": false,
+      "score": 114
+     },
+     {
+      "kind": "до вокзала + пешком",
+      "min": 150,
+      "changes": 0,
+      "min_wait": null,
+      "walk_end": 124,
+      "end_stop": "Offenburg Bahnhof",
+      "dep": "06:59",
+      "arr": "09:29",
+      "legs": [
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "дом",
+        "to": "Oberkirch",
+        "dep": "06:59",
+        "arr": "07:10",
+        "min": 9
+       },
+       {
+        "walk": false,
+        "mode": "R-Bahn",
+        "line": "RS2",
+        "from": "Oberkirch",
+        "to": "Offenburg Bahnhof",
+        "dep": "07:10",
+        "arr": "07:26",
+        "wait": null,
+        "min": 16
+       },
+       {
+        "walk": true,
+        "mode": "пешком",
+        "line": "",
+        "from": "Offenburg Bahnhof",
+        "to": "работа",
+        "dep": "07:26",
+        "arr": "09:29",
+        "min": 124
+       }
+      ],
+      "full": false,
+      "risky": false,
+      "score": 150
+     }
+    ],
+    "best": "транспорт",
+    "min": 57,
+    "changes": 1
+   },
+   "status": "open",
+   "also_urls": [],
+   "person": "mykyta"
+  },
   {
    "id": "marina:ka_3497586761",
    "src": "Kleinanzeigen",
@@ -3122,7 +6888,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-in-3-4-schicht-29003965-/3583591370-111-8670"
+   ],
    "person": "Марина"
   },
   {
@@ -3448,7 +7216,9 @@
     "changes": 0
    },
    "status": "open",
-   "also_urls": [],
+   "also_urls": [
+    "https://www.kleinanzeigen.de/s-anzeige/produktionsmitarbeiter-m-w-d-in-3-4-schicht-29003965-/3583591370-111-8670"
+   ],
    "person": "mykyta"
   },
   {
@@ -121599,189 +125369,6 @@
     ],
     "best": "транспорт",
     "min": 138,
-    "changes": 3
-   },
-   "status": "open",
-   "also_urls": [],
-   "person": "Марина"
-  },
-  {
-   "id": "marina:ba_10001-1004009842-S",
-   "src": "Jobbörse",
-   "title": "Spüler / Küchenhilfe (m/w/d)",
-   "firma": "Möhrle, Jörg /Schwarzwaldhotel Tanne",
-   "ort": "Baiersbronn",
-   "street": "Tonbachstr. 243",
-   "lat": 48.5376447,
-   "lon": 8.3574757,
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004009842-S",
-   "posted": "2026-11-13",
-   "desc": "**Wir suchen Dich – als KÜCHENHILFE/SPÜLER (w/m/d) - ab sofort oder nach Vereinbarung - in Vollzeit!** **Wir suchen einen neuen „Glückbringer“, der unser Küchen-Team unterstützt und damit auch unseren Gästen glückliche Tage beschert.** ## Wir wünschen uns von Dir: - Freude an Deinen Aufgaben! Dazu gehört das Reinigen von Geschirr, Besteck und Töpfen, Entsorgung der anfallenden Speisenreste und des Mülls, Sauberhaltung der Küche und einfachere Tätigkeiten beim Zubereiten von Speisen. - Freude am selbstständigen und eigenverantwortlichen Arbeiten in einem Team. - Motivation und Begeisterungsfähigkeit - Wir freuen uns auf fröhliche und freundliche Mitarbeiter, für die Loyalität gegenüber Ihren Kollegen und Vorgesetzten selbstverständlich ist. - Flexibilität, Zuverlässigkeit und Belastbarkeit sind keine Fremdwörter für Dich - Wir nennen unsere Mitarbeiter „Glücksbringer“, weil sie mit dem, was sie täglich tun, andere Menschen glücklich machen. Jeder Mitarbeiter der Tanne ist ein Glücksbringer für unsere Gäste aber auch für alle seine Kollegen. ## Wir bieten: - Arbeit in einer familiären Atmosphäre - Interne und externe Schulungen - Anerkennung und Mitspracherecht in einem mehrfach ausgezeichneten Team - Angemessene Entlohnung - Ein offenes Ohr auch für private Angelegenheiten - Geregelte Arbeitszeiten, faire Dienstplan- und Urlaubsgestaltung ## Deine Benefits: - Tägliche Nutzung des Hotel-Schwimmbads & Fitnessraum ab 21 Uhr - Vergünstigungen (z.B. 50% auf Zimmerpreis unter der Woche für nahe Verwandte) - 50 % Ermäßigungen in unseren Partnerhotels - Ausflüge und Förderung zum Teambuilding - eine gute Infrastruktur in Baiersbronn (ca. 3 km entfernt) mit Ärztezentren, Einkaufsmärkten, alle Schularten, Kindergärten - Das Hotel ist über Weihnachten geschlossen, damit unsere Mitarbeiter mit ihren Familien feiern können ## Kontakt Haben wir Dich überzeugt? Dann werde Teil unseres Teams und bewerbe Dich noch heute. Wir freuen uns auf Deine Bewerbung unter **personal@hotel-tanne.de.** **Wellness-Hotel Tanne** Tonbachstraße 243 72270 Baiersbronn personal@hotel-tanne.de [www.hotel-tanne.de](http://www.hotel-tanne.de/)",
-   "zeit": "Vollzeit",
-   "schicht": false,
-   "quer": false,
-   "who": "marina",
-   "km": 20.2,
-   "de": "?",
-   "de_txt": "",
-   "help": "",
-   "ru": "",
-   "prof_txt": "",
-   "prof": false,
-   "agency": false,
-   "kind": "Кухня",
-   "first_seen": "2026-11-13T11:36",
-   "route": {
-    "opts": [
-     {
-      "kind": "транспорт",
-      "min": 154,
-      "changes": 3,
-      "min_wait": 6,
-      "walk_end": 1,
-      "end_stop": "Tonbach Traube/Tanne",
-      "dep": "05:21",
-      "arr": "07:55",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS1",
-        "from": "Offenburg Bahnhof",
-        "to": "Freudenstadt Hauptbahnhof",
-        "dep": "05:54",
-        "arr": "07:09",
-        "wait": 6,
-        "min": 75
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RE40",
-        "from": "Freudenstadt Hauptbahnhof",
-        "to": "Baiersbronn Bahnhof",
-        "dep": "07:20",
-        "arr": "07:37",
-        "wait": 11,
-        "min": 17
-       },
-       {
-        "walk": false,
-        "mode": "Regionalbus",
-        "line": "22",
-        "from": "Baiersbronn Bahnhof",
-        "to": "Tonbach Traube/Tanne",
-        "dep": "07:45",
-        "arr": "07:55",
-        "wait": 8,
-        "min": 10
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Tonbach Traube/Tanne",
-        "to": "работа",
-        "dep": "07:55",
-        "arr": "07:55",
-        "min": 1
-       }
-      ],
-      "full": true,
-      "risky": false,
-      "score": 163
-     },
-     {
-      "kind": "велосипед",
-      "min": 135,
-      "changes": 0,
-      "km": 33.3,
-      "legs": [
-       {
-        "walk": false,
-        "bike": true,
-        "mode": "велосипед",
-        "line": "🚲",
-        "from": "дом",
-        "to": "работа",
-        "dep": "",
-        "arr": "",
-        "min": 135
-       }
-      ],
-      "risky": false,
-      "score": 250
-     },
-     {
-      "kind": "до вокзала + пешком",
-      "min": 622,
-      "changes": 0,
-      "min_wait": null,
-      "walk_end": 596,
-      "end_stop": "Offenburg Bahnhof",
-      "dep": "05:21",
-      "arr": "15:44",
-      "legs": [
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "дом",
-        "to": "Oberkirch",
-        "dep": "05:21",
-        "arr": "05:32",
-        "min": 9
-       },
-       {
-        "walk": false,
-        "mode": "R-Bahn",
-        "line": "RS2",
-        "from": "Oberkirch",
-        "to": "Offenburg Bahnhof",
-        "dep": "05:32",
-        "arr": "05:48",
-        "wait": null,
-        "min": 16
-       },
-       {
-        "walk": true,
-        "mode": "пешком",
-        "line": "",
-        "from": "Offenburg Bahnhof",
-        "to": "работа",
-        "dep": "05:48",
-        "arr": "15:44",
-        "min": 596
-       }
-      ],
-      "full": false,
-      "risky": false,
-      "score": 622
-     }
-    ],
-    "best": "транспорт",
-    "min": 154,
     "changes": 3
    },
    "status": "open",
